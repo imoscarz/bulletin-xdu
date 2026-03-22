@@ -1,0 +1,611 @@
+{
+  "meta": {
+    "source_id": "sme",
+    "name": "集成电路学部",
+    "url": "https://sme.xidian.edu.cn/plus/list.php?tid=6",
+    "last_scraped": "2026-03-22T12:36:15.569744Z",
+    "total_notices": 75
+  },
+  "notices": [
+    {
+      "id": "sme:3441",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/0320/3441.html",
+      "date": "2026-03-20",
+      "is_new": false
+    },
+    {
+      "id": "sme:3440",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/0320/3440.html",
+      "date": "2026-03-20",
+      "is_new": false
+    },
+    {
+      "id": "sme:3439",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/0320/3439.html",
+      "date": "2026-03-18",
+      "is_new": false
+    },
+    {
+      "id": "sme:3437",
+      "source_id": "sme",
+      "title": "集成电路学部2025年度教职工考核结果公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/2026/0318/3437.html",
+      "date": "2026-03-18",
+      "is_new": false
+    },
+    {
+      "id": "sme:3435",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/0316/3435.html",
+      "date": "2026-03-13",
+      "is_new": false
+    },
+    {
+      "id": "sme:3432",
+      "source_id": "sme",
+      "title": "集成电路学部第十届研究生“中电科-西电协同创新奖学金”推荐候选人的公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/jx/2026/0311/3432.html",
+      "date": "2026-03-11",
+      "is_new": false
+    },
+    {
+      "id": "sme:3429",
+      "source_id": "sme",
+      "title": "集成电路学部第十届中电集团-西电科大奖教金、创新团队奖申报材料公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/2026/0309/3429.html",
+      "date": "2026-03-09",
+      "is_new": false
+    },
+    {
+      "id": "sme:3428",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/0305/3428.html",
+      "date": "2026-03-05",
+      "is_new": false
+    },
+    {
+      "id": "sme:3427",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/0305/3427.html",
+      "date": "2026-03-05",
+      "is_new": false
+    },
+    {
+      "id": "sme:3426",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/0305/3426.html",
+      "date": "2026-03-05",
+      "is_new": false
+    },
+    {
+      "id": "sme:3425",
+      "source_id": "sme",
+      "title": "集成电路学部关于开展第十届研究生“中电科”协同创新奖学金评定推荐的通知",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/jx/2026/0303/3425.html",
+      "date": "2026-03-03",
+      "is_new": false
+    },
+    {
+      "id": "sme:3424",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/0131/3424.html",
+      "date": "2026-01-28",
+      "is_new": false
+    },
+    {
+      "id": "sme:3422",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/0126/3422.html",
+      "date": "2026-01-22",
+      "is_new": false
+    },
+    {
+      "id": "sme:3421",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/0119/3421.html",
+      "date": "2026-01-19",
+      "is_new": false
+    },
+    {
+      "id": "sme:3419",
+      "source_id": "sme",
+      "title": "集成电路学部关于2026年寒假放假安排的通知",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/2026/0116/3419.html",
+      "date": "2026-01-16",
+      "is_new": false
+    },
+    {
+      "id": "sme:3418",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/0115/3418.html",
+      "date": "2026-01-14",
+      "is_new": false
+    },
+    {
+      "id": "sme:3417",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/0115/3417.html",
+      "date": "2026-01-14",
+      "is_new": false
+    },
+    {
+      "id": "sme:3416",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/0115/3416.html",
+      "date": "2026-01-14",
+      "is_new": false
+    },
+    {
+      "id": "sme:3420",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/2026/0116/3420.html",
+      "date": "2026-01-13",
+      "is_new": false
+    },
+    {
+      "id": "sme:3414",
+      "source_id": "sme",
+      "title": "集成电路学部关于2026年硕士研究生学位申请工作的通知",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/js/2026/0113/3414.html",
+      "date": "2026-01-13",
+      "is_new": false
+    },
+    {
+      "id": "sme:3413",
+      "source_id": "sme",
+      "title": "集成电路学部关于2026年博士研究生学位申请工作的通知",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/js/2026/0113/3413.html",
+      "date": "2026-01-13",
+      "is_new": false
+    },
+    {
+      "id": "sme:3411",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/jx/2026/0113/3411.html",
+      "date": "2026-01-13",
+      "is_new": false
+    },
+    {
+      "id": "sme:3410",
+      "source_id": "sme",
+      "title": "集成电路学部关于2025年北方华创奖学金（第二批）评审结果的公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/jx/2026/0113/3410.html",
+      "date": "2026-01-13",
+      "is_new": false
+    },
+    {
+      "id": "sme:3409",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/0112/3409.html",
+      "date": "2026-01-12",
+      "is_new": false
+    },
+    {
+      "id": "sme:3407",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/0109/3407.html",
+      "date": "2026-01-09",
+      "is_new": false
+    },
+    {
+      "id": "sme:3406",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/0109/3406.html",
+      "date": "2026-01-09",
+      "is_new": false
+    },
+    {
+      "id": "sme:3405",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/0109/3405.html",
+      "date": "2026-01-08",
+      "is_new": false
+    },
+    {
+      "id": "sme:3391",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/0108/3391.html",
+      "date": "2026-01-08",
+      "is_new": false
+    },
+    {
+      "id": "sme:3390",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/0108/3390.html",
+      "date": "2026-01-08",
+      "is_new": false
+    },
+    {
+      "id": "sme:3389",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/0106/3389.html",
+      "date": "2026-01-06",
+      "is_new": false
+    },
+    {
+      "id": "sme:3388",
+      "source_id": "sme",
+      "title": "集成电路学部关于开展2025年北方华创研究生奖学金（第二批）申报评选工作的通知",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/jx/2026/0105/3388.html",
+      "date": "2026-01-05",
+      "is_new": false
+    },
+    {
+      "id": "sme:3383",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/0104/3383.html",
+      "date": "2026-01-05",
+      "is_new": false
+    },
+    {
+      "id": "sme:3386",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/0104/3386.html",
+      "date": "2026-01-04",
+      "is_new": false
+    },
+    {
+      "id": "sme:3385",
+      "source_id": "sme",
+      "title": "集成电路学部关于2025年度本科优质教学奖拟推荐结果的公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/js/2026/0104/3385.html",
+      "date": "2026-01-04",
+      "is_new": false
+    },
+    {
+      "id": "sme:3382",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2025/1231/3382.html",
+      "date": "2025-12-31",
+      "is_new": false
+    },
+    {
+      "id": "sme:3363",
+      "source_id": "sme",
+      "title": "集成电路学部2026年元旦假期值班安排",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/2025/1230/3363.html",
+      "date": "2025-12-30",
+      "is_new": false
+    },
+    {
+      "id": "sme:3358",
+      "source_id": "sme",
+      "title": "集成电路学部2026年春季入学博士研究生招生拟录取名单公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/jl/2025/1225/3358.html",
+      "date": "2025-12-25",
+      "is_new": false
+    },
+    {
+      "id": "sme:3357",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2025/1224/3357.html",
+      "date": "2025-12-24",
+      "is_new": false
+    },
+    {
+      "id": "sme:3355",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2025/1223/3355.html",
+      "date": "2025-12-22",
+      "is_new": false
+    },
+    {
+      "id": "sme:3354",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2025/1223/3354.html",
+      "date": "2025-12-22",
+      "is_new": false
+    },
+    {
+      "id": "sme:3353",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2025/1223/3353.html",
+      "date": "2025-12-22",
+      "is_new": false
+    },
+    {
+      "id": "sme:3352",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2025/1223/3352.html",
+      "date": "2025-12-22",
+      "is_new": false
+    },
+    {
+      "id": "sme:3349",
+      "source_id": "sme",
+      "title": "关于公布集成电路学部2026年春季博士研究生招生复试成绩的通知",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/js/2025/1218/3349.html",
+      "date": "2025-12-18",
+      "is_new": false
+    },
+    {
+      "id": "sme:3348",
+      "source_id": "sme",
+      "title": "集成电路学部关于2025-2026学年第二学期本科课程初任教师选聘结果的公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/js/2025/1218/3348.html",
+      "date": "2025-12-18",
+      "is_new": false
+    },
+    {
+      "id": "sme:3351",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2025/1221/3351.html",
+      "date": "2025-12-16",
+      "is_new": false
+    },
+    {
+      "id": "sme:3350",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2025/1221/3350.html",
+      "date": "2025-12-16",
+      "is_new": false
+    },
+    {
+      "id": "sme:3341",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2025/1215/3341.html",
+      "date": "2025-12-15",
+      "is_new": false
+    },
+    {
+      "id": "sme:3344",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2025/1216/3344.html",
+      "date": "2025-12-12",
+      "is_new": false
+    },
+    {
+      "id": "sme:3343",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2025/1216/3343.html",
+      "date": "2025-12-12",
+      "is_new": false
+    },
+    {
+      "id": "sme:3340",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2025/1215/3340.html",
+      "date": "2025-12-11",
+      "is_new": false
+    },
+    {
+      "id": "sme:3339",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2025/1215/3339.html",
+      "date": "2025-12-11",
+      "is_new": false
+    },
+    {
+      "id": "sme:3338",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2025/1215/3338.html",
+      "date": "2025-12-11",
+      "is_new": false
+    },
+    {
+      "id": "sme:3335",
+      "source_id": "sme",
+      "title": "集成电路学部2025-2026学年研究生新生学业奖学金公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/jx/2025/1211/3335.html",
+      "date": "2025-12-11",
+      "is_new": false
+    },
+    {
+      "id": "sme:3329",
+      "source_id": "sme",
+      "title": "集成电路学部2025-2026学年研究生学业奖学金公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/jx/2025/1209/3329.html",
+      "date": "2025-12-09",
+      "is_new": false
+    },
+    {
+      "id": "sme:3328",
+      "source_id": "sme",
+      "title": "集成电路学部关于开展2025-2026学年第二学期部分本科课程初任教师选聘工作的通知",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/2025/1209/3328.html",
+      "date": "2025-12-09",
+      "is_new": false
+    },
+    {
+      "id": "sme:3327",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2025/1209/3327.html",
+      "date": "2025-12-09",
+      "is_new": false
+    },
+    {
+      "id": "sme:3326",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2025/1209/3326.html",
+      "date": "2025-12-09",
+      "is_new": false
+    },
+    {
+      "id": "sme:3325",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2025/1209/3325.html",
+      "date": "2025-12-09",
+      "is_new": false
+    },
+    {
+      "id": "sme:3324",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2025/1204/3324.html",
+      "date": "2025-12-04",
+      "is_new": false
+    },
+    {
+      "id": "sme:3323",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2025/1204/3323.html",
+      "date": "2025-12-04",
+      "is_new": false
+    },
+    {
+      "id": "sme:3317",
+      "source_id": "sme",
+      "title": "集成电路学部2024～2025学年研究生评优结果的公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/jx/2025/1202/3317.html",
+      "date": "2025-12-02",
+      "is_new": false
+    },
+    {
+      "id": "sme:3316",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2025/1202/3316.html",
+      "date": "2025-12-02",
+      "is_new": false
+    },
+    {
+      "id": "sme:3359",
+      "source_id": "sme",
+      "title": "关于开展集成电路学部第三届 “筑芯计划”学生骨干领导力训练营暨“青马工程”大学生骨干培训班的通知",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/zs/2025/1226/3359.html",
+      "date": "2025-12-01",
+      "is_new": false
+    },
+    {
+      "id": "sme:3314",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2025/1202/3314.html",
+      "date": "2025-12-01",
+      "is_new": false
+    },
+    {
+      "id": "sme:3306",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2025/1125/3306.html",
+      "date": "2025-11-25",
+      "is_new": false
+    },
+    {
+      "id": "sme:3308",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2025/1126/3308.html",
+      "date": "2025-11-24",
+      "is_new": false
+    },
+    {
+      "id": "sme:3309",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2025/1127/3309.html",
+      "date": "2025-11-21",
+      "is_new": false
+    },
+    {
+      "id": "sme:3304",
+      "source_id": "sme",
+      "title": "集成电路学部关于2025年研究生“校长奖”推荐名额评审结果的公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/jx/2025/1121/3304.html",
+      "date": "2025-11-21",
+      "is_new": false
+    },
+    {
+      "id": "sme:3302",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2025/1121/3302.html",
+      "date": "2025-11-21",
+      "is_new": false
+    },
+    {
+      "id": "sme:3301",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2025/1120/3301.html",
+      "date": "2025-11-19",
+      "is_new": false
+    },
+    {
+      "id": "sme:3300",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2025/1120/3300.html",
+      "date": "2025-11-19",
+      "is_new": false
+    },
+    {
+      "id": "sme:3299",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2025/1120/3299.html",
+      "date": "2025-11-19",
+      "is_new": false
+    },
+    {
+      "id": "sme:3297",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2025/1119/3297.html",
+      "date": "2025-11-19",
+      "is_new": false
+    },
+    {
+      "id": "sme:3296",
+      "source_id": "sme",
+      "title": "集成电路学部关于2025年研究生社会奖（助）学金（第一批）评审结果的补充公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/jx/2025/1119/3296.html",
+      "date": "2025-11-19",
+      "is_new": false
+    },
+    {
+      "id": "sme:3294",
+      "source_id": "sme",
+      "title": "科研协作信息公式",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2025/1117/3294.html",
+      "date": "2025-11-17",
+      "is_new": false
+    }
+  ]
+}

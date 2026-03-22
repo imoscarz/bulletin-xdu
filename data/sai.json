@@ -1,0 +1,811 @@
+{
+  "meta": {
+    "source_id": "sai",
+    "name": "人工智能学院",
+    "url": "https://sai.xidian.edu.cn/tzgg.htm",
+    "last_scraped": "2026-03-22T12:34:52.738574Z",
+    "total_notices": 100
+  },
+  "notices": [
+    {
+      "id": "sai:13972",
+      "source_id": "sai",
+      "title": "关于组织开展2026年研究生创新基金项目立项工作的通知",
+      "url": "https://sai.xidian.edu.cn/info/1106/13972.htm",
+      "date": "2026-03-05",
+      "is_new": false
+    },
+    {
+      "id": "sai:13932",
+      "source_id": "sai",
+      "title": "关于开展春季博士研究生2026年学业奖学金评定工作的通知",
+      "url": "https://sai.xidian.edu.cn/info/1106/13932.htm",
+      "date": "2026-03-03",
+      "is_new": false
+    },
+    {
+      "id": "sai:13882",
+      "source_id": "sai",
+      "title": "关于开展2026年研究生创新基金项目立项工作的预通知",
+      "url": "https://sai.xidian.edu.cn/info/1106/13882.htm",
+      "date": "2026-01-19",
+      "is_new": false
+    },
+    {
+      "id": "sai:13812",
+      "source_id": "sai",
+      "title": "人工智能学院关于2026年6月申请硕士研究生学位相关事项的通知",
+      "url": "https://sai.xidian.edu.cn/info/1106/13812.htm",
+      "date": "2026-01-12",
+      "is_new": false
+    },
+    {
+      "id": "sai:13802",
+      "source_id": "sai",
+      "title": "人工智能学院关于2026年各批次申请博士研究生学位相关事项的通知",
+      "url": "https://sai.xidian.edu.cn/info/1106/13802.htm",
+      "date": "2026-01-12",
+      "is_new": false
+    },
+    {
+      "id": "sai:13782",
+      "source_id": "sai",
+      "title": "人工智能学院2026年春季博士拟录取名单公示",
+      "url": "https://sai.xidian.edu.cn/info/1106/13782.htm",
+      "date": "2025-12-29",
+      "is_new": false
+    },
+    {
+      "id": "sai:13772",
+      "source_id": "sai",
+      "title": "人工智能学院2026年春季博士研究生复试成绩公布",
+      "url": "https://sai.xidian.edu.cn/info/1106/13772.htm",
+      "date": "2025-12-26",
+      "is_new": false
+    },
+    {
+      "id": "sai:13712",
+      "source_id": "sai",
+      "title": "人工智能学院2026年春季博士研究生招生资格认定通过名单公布",
+      "url": "https://sai.xidian.edu.cn/info/1106/13712.htm",
+      "date": "2025-12-15",
+      "is_new": false
+    },
+    {
+      "id": "sai:13702",
+      "source_id": "sai",
+      "title": "2025年学校党委第二轮巡察第四巡察组结束现场巡察工作公告",
+      "url": "https://sai.xidian.edu.cn/info/1106/13702.htm",
+      "date": "2025-12-12",
+      "is_new": false
+    },
+    {
+      "id": "sai:13672",
+      "source_id": "sai",
+      "title": "2025~2026学年（秋季）研究生新生学业奖学金结果公示",
+      "url": "https://sai.xidian.edu.cn/info/1106/13672.htm",
+      "date": "2025-12-04",
+      "is_new": false
+    },
+    {
+      "id": "sai:13582",
+      "source_id": "sai",
+      "title": "人工智能学院2027届优秀本科毕业生推荐免试攻读硕士学位研究生工作实施方案",
+      "url": "https://sai.xidian.edu.cn/info/1106/13582.htm",
+      "date": "2025-11-24",
+      "is_new": false
+    },
+    {
+      "id": "sai:13552",
+      "source_id": "sai",
+      "title": "人工智能学院关于2025年研究生“校长奖学金”拟推荐名单公示",
+      "url": "https://sai.xidian.edu.cn/info/1106/13552.htm",
+      "date": "2025-11-20",
+      "is_new": false
+    },
+    {
+      "id": "sai:13532",
+      "source_id": "sai",
+      "title": "2025～2026 学年（秋季） 研究生学业奖学金结果公示",
+      "url": "https://sai.xidian.edu.cn/info/1106/13532.htm",
+      "date": "2025-11-20",
+      "is_new": false
+    },
+    {
+      "id": "sai:13522",
+      "source_id": "sai",
+      "title": "人工智能学院2024～2025学年研究生评优结果公示",
+      "url": "https://sai.xidian.edu.cn/info/1106/13522.htm",
+      "date": "2025-11-18",
+      "is_new": false
+    },
+    {
+      "id": "sai:13352",
+      "source_id": "sai",
+      "title": "人工智能学院关于2025年研究生“社会奖助学金”推荐名单公示",
+      "url": "https://sai.xidian.edu.cn/info/1106/13352.htm",
+      "date": "2025-11-14",
+      "is_new": false
+    },
+    {
+      "id": "sai:13342",
+      "source_id": "sai",
+      "title": "人工智能学院2026届本科毕业设计工作安排",
+      "url": "https://sai.xidian.edu.cn/info/1106/13342.htm",
+      "date": "2025-11-13",
+      "is_new": false
+    },
+    {
+      "id": "sai:13332",
+      "source_id": "sai",
+      "title": "关于开展2025年研究生“校长奖”评选工作的通知",
+      "url": "https://sai.xidian.edu.cn/info/1106/13332.htm",
+      "date": "2025-11-12",
+      "is_new": false
+    },
+    {
+      "id": "sai:13322",
+      "source_id": "sai",
+      "title": "人工智能学院2025年本科生社会奖助学金拟推荐人选公示",
+      "url": "https://sai.xidian.edu.cn/info/1106/13322.htm",
+      "date": "2025-11-12",
+      "is_new": false
+    },
+    {
+      "id": "sai:13282",
+      "source_id": "sai",
+      "title": "关于开展2025年研究生社会奖（助）学金申报评选工作的通知",
+      "url": "https://sai.xidian.edu.cn/info/1106/13282.htm",
+      "date": "2025-11-07",
+      "is_new": false
+    },
+    {
+      "id": "sai:13242",
+      "source_id": "sai",
+      "title": "人工智能学院关于2024～2025学年研究生评优工作的通知",
+      "url": "https://sai.xidian.edu.cn/info/1106/13242.htm",
+      "date": "2025-11-03",
+      "is_new": false
+    },
+    {
+      "id": "sai:13202",
+      "source_id": "sai",
+      "title": "关于开展2025～2026学年（秋季）研究生学业奖学金评定工作的通知",
+      "url": "https://sai.xidian.edu.cn/info/1106/13202.htm",
+      "date": "2025-10-22",
+      "is_new": false
+    },
+    {
+      "id": "sai:13142",
+      "source_id": "sai",
+      "title": "人工智能学院2025年本科生国家奖学金评审结果公示",
+      "url": "https://sai.xidian.edu.cn/info/1106/13142.htm",
+      "date": "2025-10-10",
+      "is_new": false
+    },
+    {
+      "id": "sai:13132",
+      "source_id": "sai",
+      "title": "人工智能学院博士研究生招生申请考核制实施方案",
+      "url": "https://sai.xidian.edu.cn/info/1106/13132.htm",
+      "date": "2025-10-10",
+      "is_new": false
+    },
+    {
+      "id": "sai:13122",
+      "source_id": "sai",
+      "title": "人工智能学院2025年研究生国家奖学金评审结果公示",
+      "url": "https://sai.xidian.edu.cn/info/1106/13122.htm",
+      "date": "2025-10-09",
+      "is_new": false
+    },
+    {
+      "id": "sai:13112",
+      "source_id": "sai",
+      "title": "人工智能学院关于评选2025年本科生国家奖学金的通知",
+      "url": "https://sai.xidian.edu.cn/info/1106/13112.htm",
+      "date": "2025-09-26",
+      "is_new": false
+    },
+    {
+      "id": "sai:13102",
+      "source_id": "sai",
+      "title": "人工智能学院2026年推荐免试研究生接收方案及工作安排",
+      "url": "https://sai.xidian.edu.cn/info/1106/13102.htm",
+      "date": "2025-09-17",
+      "is_new": false
+    },
+    {
+      "id": "sai:13092",
+      "source_id": "sai",
+      "title": "人工智能学院关于开展2025年研究生国家奖学金申报的通知",
+      "url": "https://sai.xidian.edu.cn/info/1106/13092.htm",
+      "date": "2025-09-17",
+      "is_new": false
+    },
+    {
+      "id": "sai:13062",
+      "source_id": "sai",
+      "title": "人工智能学院预推免选拔考核安排",
+      "url": "https://sai.xidian.edu.cn/info/1106/13062.htm",
+      "date": "2025-09-10",
+      "is_new": false
+    },
+    {
+      "id": "sai:13032",
+      "source_id": "sai",
+      "title": "关于调整我院2026年硕士研究生招生考试复试专业课科目的通知",
+      "url": "https://sai.xidian.edu.cn/info/1106/13032.htm",
+      "date": "2025-09-04",
+      "is_new": false
+    },
+    {
+      "id": "sai:13022",
+      "source_id": "sai",
+      "title": "人工智能学院关于开展2025级实验班选拔/分流面试的通知",
+      "url": "https://sai.xidian.edu.cn/info/1106/13022.htm",
+      "date": "2025-09-01",
+      "is_new": false
+    },
+    {
+      "id": "sai:13002",
+      "source_id": "sai",
+      "title": "人工智能学院2026年推荐免试研究生预报名时间变更通知",
+      "url": "https://sai.xidian.edu.cn/info/1106/13002.htm",
+      "date": "2025-08-29",
+      "is_new": false
+    },
+    {
+      "id": "sai:12942",
+      "source_id": "sai",
+      "title": "人工智能学院2026年推荐免试研究生招生预报名通知",
+      "url": "https://sai.xidian.edu.cn/info/1106/12942.htm",
+      "date": "2025-07-16",
+      "is_new": false
+    },
+    {
+      "id": "sai:12862",
+      "source_id": "sai",
+      "title": "关于开展2025年陈怀琛奖（助）学金评选工作的通知",
+      "url": "https://sai.xidian.edu.cn/info/1106/12862.htm",
+      "date": "2025-07-04",
+      "is_new": false
+    },
+    {
+      "id": "sai:12852",
+      "source_id": "sai",
+      "title": "人工智能学院2023级本科生转专业工作安排",
+      "url": "https://sai.xidian.edu.cn/info/1106/12852.htm",
+      "date": "2025-06-30",
+      "is_new": false
+    },
+    {
+      "id": "sai:11722",
+      "source_id": "sai",
+      "title": "人工智能学院2025年秋季博士研究生（补录）复试成绩公布",
+      "url": "https://sai.xidian.edu.cn/info/1106/11722.htm",
+      "date": "2025-06-15",
+      "is_new": false
+    },
+    {
+      "id": "sai:11512",
+      "source_id": "sai",
+      "title": "人工智能学院关于选聘应届毕业生担任校内科研助理工作的通知",
+      "url": "https://sai.xidian.edu.cn/info/1106/11512.htm",
+      "date": "2025-06-04",
+      "is_new": false
+    },
+    {
+      "id": "sai:11392",
+      "source_id": "sai",
+      "title": "关于公布人工智能学院2025年秋季博士研究生追加指标及拟录取名单的通知",
+      "url": "https://sai.xidian.edu.cn/info/1106/11392.htm",
+      "date": "2025-05-27",
+      "is_new": false
+    },
+    {
+      "id": "sai:11382",
+      "source_id": "sai",
+      "title": "西安电子科技大学2024-2025年第二学期微专业招生通知",
+      "url": "https://sai.xidian.edu.cn/info/1106/11382.htm",
+      "date": "2025-05-27",
+      "is_new": false
+    },
+    {
+      "id": "sai:11362",
+      "source_id": "sai",
+      "title": "人工智能学院2025年第二学士学位复试通知",
+      "url": "https://sai.xidian.edu.cn/info/1106/11362.htm",
+      "date": "2025-05-26",
+      "is_new": false
+    },
+    {
+      "id": "sai:11352",
+      "source_id": "sai",
+      "title": "人工智能学院2025年秋季博士研究生复试成绩公布",
+      "url": "https://sai.xidian.edu.cn/info/1106/11352.htm",
+      "date": "2025-05-26",
+      "is_new": false
+    },
+    {
+      "id": "sai:11322",
+      "source_id": "sai",
+      "title": "人工智能学院2025年第二学士学位招生工作安排",
+      "url": "https://sai.xidian.edu.cn/info/1106/11322.htm",
+      "date": "2025-05-19",
+      "is_new": false
+    },
+    {
+      "id": "sai:11312",
+      "source_id": "sai",
+      "title": "人工智能学院2026届优秀本科毕业生推荐免试攻读硕士学位研究生工作实施方案",
+      "url": "https://sai.xidian.edu.cn/info/1106/11312.htm",
+      "date": "2025-05-19",
+      "is_new": false
+    },
+    {
+      "id": "sai:11302",
+      "source_id": "sai",
+      "title": "人工智能学院2025届本科毕业生奖学金评选结果公示",
+      "url": "https://sai.xidian.edu.cn/info/1106/11302.htm",
+      "date": "2025-05-15",
+      "is_new": false
+    },
+    {
+      "id": "sai:11292",
+      "source_id": "sai",
+      "title": "人工智能学院2025年秋季攻读博士学位研究生复试录取工作安排",
+      "url": "https://sai.xidian.edu.cn/info/1106/11292.htm",
+      "date": "2025-05-15",
+      "is_new": false
+    },
+    {
+      "id": "sai:11282",
+      "source_id": "sai",
+      "title": "人工智能学院2025年秋季博士研究生招生资格认定通过名单公布",
+      "url": "https://sai.xidian.edu.cn/info/1106/11282.htm",
+      "date": "2025-05-15",
+      "is_new": false
+    },
+    {
+      "id": "sai:11262",
+      "source_id": "sai",
+      "title": "人工智能学院关于调整2026年硕士研究生招生考试初试专业课科目的通知",
+      "url": "https://sai.xidian.edu.cn/info/1106/11262.htm",
+      "date": "2025-05-14",
+      "is_new": false
+    },
+    {
+      "id": "sai:11242",
+      "source_id": "sai",
+      "title": "人工智能学院关于开展2025年研究生指导教师资格认定与聘任工作的通知",
+      "url": "https://sai.xidian.edu.cn/info/1106/11242.htm",
+      "date": "2025-05-09",
+      "is_new": false
+    },
+    {
+      "id": "sai:11082",
+      "source_id": "sai",
+      "title": "人工智能学院2025届毕业研究生评优结果公示",
+      "url": "https://sai.xidian.edu.cn/info/1106/11082.htm",
+      "date": "2025-04-25",
+      "is_new": false
+    },
+    {
+      "id": "sai:11052",
+      "source_id": "sai",
+      "title": "人工智能学院春季博士生2025年学业奖学金评定结果公示",
+      "url": "https://sai.xidian.edu.cn/info/1106/11052.htm",
+      "date": "2025-04-22",
+      "is_new": false
+    },
+    {
+      "id": "sai:11042",
+      "source_id": "sai",
+      "title": "人工智能学院关于2025级研究生党团关系转接的相关说明",
+      "url": "https://sai.xidian.edu.cn/info/1106/11042.htm",
+      "date": "2025-04-16",
+      "is_new": false
+    },
+    {
+      "id": "sai:10982",
+      "source_id": "sai",
+      "title": "人工智能学院2025年非全日制硕士研究生调剂公告",
+      "url": "https://sai.xidian.edu.cn/info/1106/10982.htm",
+      "date": "2025-04-12",
+      "is_new": false
+    },
+    {
+      "id": "sai:10972",
+      "source_id": "sai",
+      "title": "人工智能学院2025年硕士研究生指标调整公告",
+      "url": "https://sai.xidian.edu.cn/info/1106/10972.htm",
+      "date": "2025-04-12",
+      "is_new": false
+    },
+    {
+      "id": "sai:10872",
+      "source_id": "sai",
+      "title": "关于开展“牛津剑桥前沿项目智能工程解决方案”暑期访学项目报名选拔工作的通知",
+      "url": "https://sai.xidian.edu.cn/info/1106/10872.htm",
+      "date": "2025-04-11",
+      "is_new": false
+    },
+    {
+      "id": "sai:10842",
+      "source_id": "sai",
+      "title": "人工智能学院2025年硕士研究生调剂拟录取名单公示",
+      "url": "https://sai.xidian.edu.cn/info/1106/10842.htm",
+      "date": "2025-04-09",
+      "is_new": false
+    },
+    {
+      "id": "sai:10832",
+      "source_id": "sai",
+      "title": "人工智能学院关于开展2025届毕业研究生评优工作的通知",
+      "url": "https://sai.xidian.edu.cn/info/1106/10832.htm",
+      "date": "2025-04-08",
+      "is_new": false
+    },
+    {
+      "id": "sai:10732",
+      "source_id": "sai",
+      "title": "人工智能学院2025年硕士研究生调剂公告",
+      "url": "https://sai.xidian.edu.cn/info/1106/10732.htm",
+      "date": "2025-04-05",
+      "is_new": false
+    },
+    {
+      "id": "sai:10722",
+      "source_id": "sai",
+      "title": "人工智能学院2025年硕士研究生招生一志愿统考拟录取名单公示",
+      "url": "https://sai.xidian.edu.cn/info/1106/10722.htm",
+      "date": "2025-04-03",
+      "is_new": false
+    },
+    {
+      "id": "sai:10712",
+      "source_id": "sai",
+      "title": "关于公布人工智能学院2025年硕士研究生复试成绩的通知",
+      "url": "https://sai.xidian.edu.cn/info/1106/10712.htm",
+      "date": "2025-04-02",
+      "is_new": false
+    },
+    {
+      "id": "sai:10702",
+      "source_id": "sai",
+      "title": "人工智能学院2025年硕士研究生招生复试录取工作方案",
+      "url": "https://sai.xidian.edu.cn/info/1106/10702.htm",
+      "date": "2025-03-21",
+      "is_new": false
+    },
+    {
+      "id": "sai:10662",
+      "source_id": "sai",
+      "title": "人工智能学院2025年春季困难补助评审结果公示",
+      "url": "https://sai.xidian.edu.cn/info/1106/10662.htm",
+      "date": "2025-03-14",
+      "is_new": false
+    },
+    {
+      "id": "sai:10532",
+      "source_id": "sai",
+      "title": "人工智能学院关于开展2025年研究生创新基金项目申报通知",
+      "url": "https://sai.xidian.edu.cn/info/1106/10532.htm",
+      "date": "2025-02-19",
+      "is_new": false
+    },
+    {
+      "id": "sai:10522",
+      "source_id": "sai",
+      "title": "关于开展2025学年春季博士生学业奖学金评定工作安排的通知",
+      "url": "https://sai.xidian.edu.cn/info/1106/10522.htm",
+      "date": "2025-02-19",
+      "is_new": false
+    },
+    {
+      "id": "sai:10512",
+      "source_id": "sai",
+      "title": "人工智能学院关于2025年各批次申请博士研究生学位相关事项的通知",
+      "url": "https://sai.xidian.edu.cn/info/1106/10512.htm",
+      "date": "2025-01-19",
+      "is_new": false
+    },
+    {
+      "id": "sai:10502",
+      "source_id": "sai",
+      "title": "人工智能学院关于2025年6月申请统招硕士研究生学位相关事项的通知",
+      "url": "https://sai.xidian.edu.cn/info/1106/10502.htm",
+      "date": "2025-01-19",
+      "is_new": false
+    },
+    {
+      "id": "sai:10452",
+      "source_id": "sai",
+      "title": "人工智能学院关于2024年研究生社会奖学金和社会助学金（第二批）拟推荐名单公示",
+      "url": "https://sai.xidian.edu.cn/info/1106/10452.htm",
+      "date": "2025-01-07",
+      "is_new": false
+    },
+    {
+      "id": "sai:10442",
+      "source_id": "sai",
+      "title": "人工智能学院2024年创维栋梁计划助学金拟推荐获奖人员结果公示（补充）",
+      "url": "https://sai.xidian.edu.cn/info/1106/10442.htm",
+      "date": "2025-01-03",
+      "is_new": false
+    },
+    {
+      "id": "sai:10382",
+      "source_id": "sai",
+      "title": "关于开展2024年研究生社会奖助学金（第二批）申报评选工作的通知",
+      "url": "https://sai.xidian.edu.cn/info/1106/10382.htm",
+      "date": "2024-12-25",
+      "is_new": false
+    },
+    {
+      "id": "sai:10372",
+      "source_id": "sai",
+      "title": "人工智能学院2024年宋庆龄未来助学金拟推荐获奖人员结果公示（补充）",
+      "url": "https://sai.xidian.edu.cn/info/1106/10372.htm",
+      "date": "2024-12-25",
+      "is_new": false
+    },
+    {
+      "id": "sai:10352",
+      "source_id": "sai",
+      "title": "人工智能学院2024年宋庆龄未来助学金拟推荐获奖人员结果公示",
+      "url": "https://sai.xidian.edu.cn/info/1106/10352.htm",
+      "date": "2024-12-17",
+      "is_new": false
+    },
+    {
+      "id": "sai:10312",
+      "source_id": "sai",
+      "title": "人工智能学院2025年春季博士研究生综合面试通知",
+      "url": "https://sai.xidian.edu.cn/info/1106/10312.htm",
+      "date": "2024-12-09",
+      "is_new": false
+    },
+    {
+      "id": "sai:10302",
+      "source_id": "sai",
+      "title": "人工智能学院2023-2024学年研究生评优结果的公示",
+      "url": "https://sai.xidian.edu.cn/info/1106/10302.htm",
+      "date": "2024-12-03",
+      "is_new": false
+    },
+    {
+      "id": "sai:10242",
+      "source_id": "sai",
+      "title": "人工智能学院2023-2024学年（秋季）研究生学业奖学金评审结果的公示",
+      "url": "https://sai.xidian.edu.cn/info/1106/10242.htm",
+      "date": "2024-12-02",
+      "is_new": false
+    },
+    {
+      "id": "sai:10222",
+      "source_id": "sai",
+      "title": "人工智能学院2025届本科毕业设计工作安排",
+      "url": "https://sai.xidian.edu.cn/info/1106/10222.htm",
+      "date": "2024-11-26",
+      "is_new": false
+    },
+    {
+      "id": "sai:10202",
+      "source_id": "sai",
+      "title": "2025年春季博士研究生申请材料提交须知",
+      "url": "https://sai.xidian.edu.cn/info/1106/10202.htm",
+      "date": "2024-11-26",
+      "is_new": false
+    },
+    {
+      "id": "sai:10192",
+      "source_id": "sai",
+      "title": "人工智能学院关于2023～2024学年研究生评优工作的通知",
+      "url": "https://sai.xidian.edu.cn/info/1106/10192.htm",
+      "date": "2024-11-25",
+      "is_new": false
+    },
+    {
+      "id": "sai:10122",
+      "source_id": "sai",
+      "title": "西安电子科技大学人工智能学院博士研究生招生“申请-考核”制实施方案",
+      "url": "https://sai.xidian.edu.cn/info/1106/10122.htm",
+      "date": "2024-11-18",
+      "is_new": false
+    },
+    {
+      "id": "sai:10102",
+      "source_id": "sai",
+      "title": "人工智能学院2024年冬寒补助评审结果公示",
+      "url": "https://sai.xidian.edu.cn/info/1106/10102.htm",
+      "date": "2024-11-14",
+      "is_new": false
+    },
+    {
+      "id": "sai:10092",
+      "source_id": "sai",
+      "title": "关于2024年研究生“校长奖”推荐名额评审结果的公示",
+      "url": "https://sai.xidian.edu.cn/info/1106/10092.htm",
+      "date": "2024-11-14",
+      "is_new": false
+    },
+    {
+      "id": "sai:10082",
+      "source_id": "sai",
+      "title": "关于开展2024~2025学年秋季研究生学业奖学金评定工作安排的通知",
+      "url": "https://sai.xidian.edu.cn/info/1106/10082.htm",
+      "date": "2024-11-12",
+      "is_new": false
+    },
+    {
+      "id": "sai:10062",
+      "source_id": "sai",
+      "title": "人工智能学院2024年本科生社会奖助学金拟推荐获奖人员结果公示",
+      "url": "https://sai.xidian.edu.cn/info/1106/10062.htm",
+      "date": "2024-11-07",
+      "is_new": false
+    },
+    {
+      "id": "sai:10052",
+      "source_id": "sai",
+      "title": "人工智能学院2023-2024年学年总评结果（补充）公示",
+      "url": "https://sai.xidian.edu.cn/info/1106/10052.htm",
+      "date": "2024-11-06",
+      "is_new": false
+    },
+    {
+      "id": "sai:10002",
+      "source_id": "sai",
+      "title": "人工智能学院关于开展2024年研究生国家奖学金（补充）申报的通知",
+      "url": "https://sai.xidian.edu.cn/info/1106/10002.htm",
+      "date": "2024-11-01",
+      "is_new": false
+    },
+    {
+      "id": "sai:9982",
+      "source_id": "sai",
+      "title": "人工智能学院关于评选2024年本科生国家奖学金（第二批）的通知",
+      "url": "https://sai.xidian.edu.cn/info/1106/9982.htm",
+      "date": "2024-10-31",
+      "is_new": false
+    },
+    {
+      "id": "sai:9972",
+      "source_id": "sai",
+      "title": "人工智能学院2024年本科生国家助学金评定结果公示",
+      "url": "https://sai.xidian.edu.cn/info/1106/9972.htm",
+      "date": "2024-10-30",
+      "is_new": false
+    },
+    {
+      "id": "sai:9942",
+      "source_id": "sai",
+      "title": "关于2023级图灵人工智能科学实验班补录面试的通知",
+      "url": "https://sai.xidian.edu.cn/info/1106/9942.htm",
+      "date": "2024-10-25",
+      "is_new": false
+    },
+    {
+      "id": "sai:9882",
+      "source_id": "sai",
+      "title": "2023级图灵人工智能科学实验班学生补录工作通知",
+      "url": "https://sai.xidian.edu.cn/info/1106/9882.htm",
+      "date": "2024-10-22",
+      "is_new": false
+    },
+    {
+      "id": "sai:9792",
+      "source_id": "sai",
+      "title": "人工智能学院关于2025年硕、博士研究生招生信息变更公告",
+      "url": "https://sai.xidian.edu.cn/info/1106/9792.htm",
+      "date": "2024-10-08",
+      "is_new": false
+    },
+    {
+      "id": "sai:9752",
+      "source_id": "sai",
+      "title": "人工智能学院关于开展2024年研究生国家奖学金申报的通知",
+      "url": "https://sai.xidian.edu.cn/info/1106/9752.htm",
+      "date": "2024-09-30",
+      "is_new": false
+    },
+    {
+      "id": "sai:9732",
+      "source_id": "sai",
+      "title": "人工智能学院本科2023-2024学年总评结果公示",
+      "url": "https://sai.xidian.edu.cn/info/1106/9732.htm",
+      "date": "2024-09-29",
+      "is_new": false
+    },
+    {
+      "id": "sai:9722",
+      "source_id": "sai",
+      "title": "关于人工智能学院研究生综合测评与学业奖学金评定实施细则的公示",
+      "url": "https://sai.xidian.edu.cn/info/1106/9722.htm",
+      "date": "2024-09-27",
+      "is_new": false
+    },
+    {
+      "id": "sai:9682",
+      "source_id": "sai",
+      "title": "人工智能学院2025年推荐免试研究生接收方案及工作安排",
+      "url": "https://sai.xidian.edu.cn/info/1106/9682.htm",
+      "date": "2024-09-25",
+      "is_new": false
+    },
+    {
+      "id": "sai:9622",
+      "source_id": "sai",
+      "title": "人工智能学院关于评选2024年本科生国家奖学金的通知",
+      "url": "https://sai.xidian.edu.cn/info/1106/9622.htm",
+      "date": "2024-09-18",
+      "is_new": false
+    },
+    {
+      "id": "sai:9592",
+      "source_id": "sai",
+      "title": "人工智能学院2024年推免预选拔考核安排的补充通知",
+      "url": "https://sai.xidian.edu.cn/info/1106/9592.htm",
+      "date": "2024-09-14",
+      "is_new": false
+    },
+    {
+      "id": "sai:9572",
+      "source_id": "sai",
+      "title": "人工智能学院2024年推免预选拔考核安排的通知",
+      "url": "https://sai.xidian.edu.cn/info/1106/9572.htm",
+      "date": "2024-09-12",
+      "is_new": false
+    },
+    {
+      "id": "sai:9552",
+      "source_id": "sai",
+      "title": "人工智能学院关于开展2024级实验班选拔/分流面试的通知",
+      "url": "https://sai.xidian.edu.cn/info/1106/9552.htm",
+      "date": "2024-09-05",
+      "is_new": false
+    },
+    {
+      "id": "sai:9492",
+      "source_id": "sai",
+      "title": "人工智能学院2025届优秀本科毕业生推荐免试攻读硕士学位研究生工作实施方案",
+      "url": "https://sai.xidian.edu.cn/info/1106/9492.htm",
+      "date": "2024-08-30",
+      "is_new": false
+    },
+    {
+      "id": "sai:9371",
+      "source_id": "sai",
+      "title": "人工智能学院2025年推荐免试研究生招生预报名的通知",
+      "url": "https://sai.xidian.edu.cn/info/1106/9371.htm",
+      "date": "2024-07-11",
+      "is_new": false
+    },
+    {
+      "id": "sai:9354",
+      "source_id": "sai",
+      "title": "人工智能学院2022级本科生转专业工作安排",
+      "url": "https://sai.xidian.edu.cn/info/1106/9354.htm",
+      "date": "2024-07-03",
+      "is_new": false
+    },
+    {
+      "id": "sai:9348",
+      "source_id": "sai",
+      "title": "人工智能学院2024年面向香港、澳门、台湾地区招收硕士研究生复试结果公布",
+      "url": "https://sai.xidian.edu.cn/info/1106/9348.htm",
+      "date": "2024-06-27",
+      "is_new": false
+    },
+    {
+      "id": "sai:5911",
+      "source_id": "sai",
+      "title": "西安电子科技大学人工智能学院教师岗位招聘公告",
+      "url": "https://sai.xidian.edu.cn/info/1106/5911.htm",
+      "date": "2021-04-25",
+      "is_new": false
+    }
+  ]
+}

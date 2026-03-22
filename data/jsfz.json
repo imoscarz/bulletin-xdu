@@ -1,0 +1,411 @@
+{
+  "meta": {
+    "source_id": "jsfz",
+    "name": "教师发展中心",
+    "url": "https://jsfz.xidian.edu.cn/tzgg.htm",
+    "last_scraped": "2026-03-22T12:35:51.048030Z",
+    "total_notices": 50
+  },
+  "notices": [
+    {
+      "id": "jsfz:11552",
+      "source_id": "jsfz",
+      "title": "【教学培训】2026年第24期 决策咨询类信息撰写能力提升讲座",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/11552.htm",
+      "date": "2026-03-20",
+      "is_new": false
+    },
+    {
+      "id": "jsfz:11542",
+      "source_id": "jsfz",
+      "title": "【教学培训】2026年第23期 探寻信息传输的极限-香农公式的前世、今生和未来",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/11542.htm",
+      "date": "2026-03-20",
+      "is_new": false
+    },
+    {
+      "id": "jsfz:11512",
+      "source_id": "jsfz",
+      "title": "【人工智能赋能】2026年第22期 大学物理智慧课程建设教学研讨会",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/11512.htm",
+      "date": "2026-03-20",
+      "is_new": false
+    },
+    {
+      "id": "jsfz:11492",
+      "source_id": "jsfz",
+      "title": "【人工智能赋能】2026年第20期 AI赋能中国近现代史纲要课程培训研讨会",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/11492.htm",
+      "date": "2026-03-18",
+      "is_new": false
+    },
+    {
+      "id": "jsfz:nry.jsp?urltype=news.NewsContentUrl&wbtreeid=1022&wbnewsid=11452",
+      "source_id": "jsfz",
+      "title": "关于对2025～2026学年第一学期青年教师助教工作审核通过名单公示的通知",
+      "url": "https://jsfz.xidian.edu.cn/nry.jsp?urltype=news.NewsContentUrl&wbtreeid=1022&wbnewsid=11452",
+      "date": "2026-01-19",
+      "is_new": false
+    },
+    {
+      "id": "jsfz:11442",
+      "source_id": "jsfz",
+      "title": "关于对2025～2026学年第二学期西安电子科技大学优质示范课观摩班暨教育部教师司中西部高校青年教师融合式教学进修项目遴选结果进行公示的通知",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/11442.htm",
+      "date": "2026-01-13",
+      "is_new": false
+    },
+    {
+      "id": "jsfz:11432",
+      "source_id": "jsfz",
+      "title": "【教学示范】2026年第4期  “人工智能导论”教学示范",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/11432.htm",
+      "date": "2026-01-07",
+      "is_new": false
+    },
+    {
+      "id": "jsfz:11422",
+      "source_id": "jsfz",
+      "title": "【教学示范】2026年第1期 “信息论基础”教学示范",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/11422.htm",
+      "date": "2025-12-31",
+      "is_new": false
+    },
+    {
+      "id": "jsfz:11412",
+      "source_id": "jsfz",
+      "title": "【教学培训】2025年第360期 传感器实验建设交流研讨",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/11412.htm",
+      "date": "2025-12-25",
+      "is_new": false
+    },
+    {
+      "id": "jsfz:11402",
+      "source_id": "jsfz",
+      "title": "【公开课】2025年第359期 数字电路与逻辑设计",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/11402.htm",
+      "date": "2025-12-24",
+      "is_new": false
+    },
+    {
+      "id": "jsfz:11392",
+      "source_id": "jsfz",
+      "title": "【公开课】2025年第357期 电路分析基础公开课",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/11392.htm",
+      "date": "2025-12-24",
+      "is_new": false
+    },
+    {
+      "id": "jsfz:11382",
+      "source_id": "jsfz",
+      "title": "【公开课】2025年第355期 场论与复变函数",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/11382.htm",
+      "date": "2025-12-18",
+      "is_new": false
+    },
+    {
+      "id": "jsfz:11372",
+      "source_id": "jsfz",
+      "title": "【公开课】2025年第354期 电子技术基础",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/11372.htm",
+      "date": "2025-12-18",
+      "is_new": false
+    },
+    {
+      "id": "jsfz:11332",
+      "source_id": "jsfz",
+      "title": "【人工智能赋能】2025年第350期 AI赋能大学数学课程建设与实践",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/11332.htm",
+      "date": "2025-12-16",
+      "is_new": false
+    },
+    {
+      "id": "jsfz:11322",
+      "source_id": "jsfz",
+      "title": "【人工智能赋能】2025年第349期 信息管理类智慧课程设计及建设研讨",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/11322.htm",
+      "date": "2025-12-15",
+      "is_new": false
+    },
+    {
+      "id": "jsfz:11302",
+      "source_id": "jsfz",
+      "title": "【教学示范】2025年第346期 现代物理基础",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/11302.htm",
+      "date": "2025-12-09",
+      "is_new": false
+    },
+    {
+      "id": "jsfz:11282",
+      "source_id": "jsfz",
+      "title": "【公开课】2025年第343期 软件技术基础",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/11282.htm",
+      "date": "2025-12-08",
+      "is_new": false
+    },
+    {
+      "id": "jsfz:11272",
+      "source_id": "jsfz",
+      "title": "【教学培训】2025年第345期  校企联合人才培训模式探索交流会",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/11272.htm",
+      "date": "2025-12-08",
+      "is_new": false
+    },
+    {
+      "id": "jsfz:11262",
+      "source_id": "jsfz",
+      "title": "【教学示范】2025年第344期  物理实验",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/11262.htm",
+      "date": "2025-12-08",
+      "is_new": false
+    },
+    {
+      "id": "jsfz:11252",
+      "source_id": "jsfz",
+      "title": "【公开课】2025年第338期 混合式教学课堂设计创新----羽毛球生命课堂",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/11252.htm",
+      "date": "2025-12-05",
+      "is_new": false
+    },
+    {
+      "id": "jsfz:11242",
+      "source_id": "jsfz",
+      "title": "【公开课】2025年第337期 微生物学",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/11242.htm",
+      "date": "2025-12-05",
+      "is_new": false
+    },
+    {
+      "id": "jsfz:11222",
+      "source_id": "jsfz",
+      "title": "【人工智能赋能】2025年第336期  核心课程知识图谱建设交流研讨",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/11222.htm",
+      "date": "2025-12-04",
+      "is_new": false
+    },
+    {
+      "id": "jsfz:11192",
+      "source_id": "jsfz",
+      "title": "【教学示范】2025年第333期 “下一代网络技术（校企课程）”",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/11192.htm",
+      "date": "2025-12-03",
+      "is_new": false
+    },
+    {
+      "id": "jsfz:11162",
+      "source_id": "jsfz",
+      "title": "【教学示范】2025年第331期 “半导体物理”示范教学观摩课",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/11162.htm",
+      "date": "2025-11-28",
+      "is_new": false
+    },
+    {
+      "id": "jsfz:11152",
+      "source_id": "jsfz",
+      "title": "【教学培训】2025年第330期 “集成电路制造技术”课程思政案例分享与集体备课",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/11152.htm",
+      "date": "2025-11-28",
+      "is_new": false
+    },
+    {
+      "id": "jsfz:11142",
+      "source_id": "jsfz",
+      "title": "【公开课】2025年第329期 “大学体育（篮球）”四角传接球练习公开课",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/11142.htm",
+      "date": "2025-11-28",
+      "is_new": false
+    },
+    {
+      "id": "jsfz:11132",
+      "source_id": "jsfz",
+      "title": "【教学培训】2025年第328期 “数据科学导论”课程建设研讨",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/11132.htm",
+      "date": "2025-11-26",
+      "is_new": false
+    },
+    {
+      "id": "jsfz:11122",
+      "source_id": "jsfz",
+      "title": "【教学活动】2025年第325期 经管院2025秋核心示范课暨国家一流课程“预测与决策”教学研讨交流会",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/11122.htm",
+      "date": "2025-11-26",
+      "is_new": false
+    },
+    {
+      "id": "jsfz:11112",
+      "source_id": "jsfz",
+      "title": "【教学培训】2025年第324期 “应用统计学”中“通俗”引例设计心得与课程建设研讨",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/11112.htm",
+      "date": "2025-11-26",
+      "is_new": false
+    },
+    {
+      "id": "jsfz:11102",
+      "source_id": "jsfz",
+      "title": "【教学培训】2025年第323期  本科实验教学的探索与思考",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/11102.htm",
+      "date": "2025-11-26",
+      "is_new": false
+    },
+    {
+      "id": "jsfz:11092",
+      "source_id": "jsfz",
+      "title": "【教学培训】2025年第327期 基于OBE理念的本科专业培养方案与教学大纲设计思考",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/11092.htm",
+      "date": "2025-11-26",
+      "is_new": false
+    },
+    {
+      "id": "jsfz:11082",
+      "source_id": "jsfz",
+      "title": "【教学培训】2025年第326期  生命科学技术学院本科人才培养探索沙龙",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/11082.htm",
+      "date": "2025-11-26",
+      "is_new": false
+    },
+    {
+      "id": "jsfz:11042",
+      "source_id": "jsfz",
+      "title": "【教学示范】2025年第314期 “网络通信基础与实践”教学示范",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/11042.htm",
+      "date": "2025-11-21",
+      "is_new": false
+    },
+    {
+      "id": "jsfz:11032",
+      "source_id": "jsfz",
+      "title": "【公开课】2025年第313期 大学英语中级（I）公开课",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/11032.htm",
+      "date": "2025-11-19",
+      "is_new": false
+    },
+    {
+      "id": "jsfz:11022",
+      "source_id": "jsfz",
+      "title": "【公开课】2025年第312期 “电子材料化学Ⅱ”公开课",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/11022.htm",
+      "date": "2025-11-19",
+      "is_new": false
+    },
+    {
+      "id": "jsfz:11012",
+      "source_id": "jsfz",
+      "title": "【人工智能赋能】2025年第311期 数智时代课程思政转变探讨",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/11012.htm",
+      "date": "2025-11-19",
+      "is_new": false
+    },
+    {
+      "id": "jsfz:11002",
+      "source_id": "jsfz",
+      "title": "【公开课】2025年第310期“大学物理II”公开课",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/11002.htm",
+      "date": "2025-11-19",
+      "is_new": false
+    },
+    {
+      "id": "jsfz:10992",
+      "source_id": "jsfz",
+      "title": "【教学培训】2025年第309期 “大学物理”课程量子物理专题研讨",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/10992.htm",
+      "date": "2025-11-19",
+      "is_new": false
+    },
+    {
+      "id": "jsfz:10982",
+      "source_id": "jsfz",
+      "title": "【教学培训】2025年第305期 程序设计基础课程教学研讨会",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/10982.htm",
+      "date": "2025-11-18",
+      "is_new": false
+    },
+    {
+      "id": "jsfz:10972",
+      "source_id": "jsfz",
+      "title": "【教学培训】2025年第306期 本科生课程试卷检查与质量评价培训会",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/10972.htm",
+      "date": "2025-11-18",
+      "is_new": false
+    },
+    {
+      "id": "jsfz:10942",
+      "source_id": "jsfz",
+      "title": "【教学培训】2025年第301期 全国高校混合式教学设计创新大赛的备赛要点与经验分享",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/10942.htm",
+      "date": "2025-11-17",
+      "is_new": false
+    },
+    {
+      "id": "jsfz:10932",
+      "source_id": "jsfz",
+      "title": "【公开课】2025年第296期 “电子材料理论物理”公开课",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/10932.htm",
+      "date": "2025-11-13",
+      "is_new": false
+    },
+    {
+      "id": "jsfz:10912",
+      "source_id": "jsfz",
+      "title": "【人工智能赋能】关于召开“人工智能赋能高校教师教学能力研讨会暨中西部高校青年教师融合式教学进修项目线下学术交流会”的通知",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/10912.htm",
+      "date": "2025-11-13",
+      "is_new": false
+    },
+    {
+      "id": "jsfz:10902",
+      "source_id": "jsfz",
+      "title": "【人工智能赋能】2025年第299期 电波传播与天线专业核心课程知识图谱的构建方法",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/10902.htm",
+      "date": "2025-11-12",
+      "is_new": false
+    },
+    {
+      "id": "jsfz:10892",
+      "source_id": "jsfz",
+      "title": "【教学培训】2025年第295期  网络与信息安全学院智慧课程建设教学研讨会",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/10892.htm",
+      "date": "2025-11-10",
+      "is_new": false
+    },
+    {
+      "id": "jsfz:10882",
+      "source_id": "jsfz",
+      "title": "【人工智能赋能】2025年第294期  核心课程知识图谱建设研讨培训",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/10882.htm",
+      "date": "2025-11-10",
+      "is_new": false
+    },
+    {
+      "id": "jsfz:10862",
+      "source_id": "jsfz",
+      "title": "【教学培训】2025年第289期 从培训赋能到课程重构：“应用统计学”教学培训心得与课程建设研讨",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/10862.htm",
+      "date": "2025-11-07",
+      "is_new": false
+    },
+    {
+      "id": "jsfz:10852",
+      "source_id": "jsfz",
+      "title": "【教学培训】2025年第288期 机械专业课程思政案例分享与研讨会",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/10852.htm",
+      "date": "2025-11-07",
+      "is_new": false
+    },
+    {
+      "id": "jsfz:10842",
+      "source_id": "jsfz",
+      "title": "【公开课】2025年第290期 “概率论与数理统计”公开课",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/10842.htm",
+      "date": "2025-11-07",
+      "is_new": false
+    },
+    {
+      "id": "jsfz:10832",
+      "source_id": "jsfz",
+      "title": "【人工智能赋能】2025年第287期  生成式AI冲击下课程考核的人机协同评价体系构建探索",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/10832.htm",
+      "date": "2025-11-07",
+      "is_new": false
+    }
+  ]
+}

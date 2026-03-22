@@ -1,0 +1,349 @@
+data_dir: data
+
+sources:
+  - id: jwc
+    name: "教务处"
+    adapter: xidian_cms
+    base_url: "https://jwc.xidian.edu.cn"
+    list_path: "tzgg.htm"
+    selectors:
+      list_container: "div.list ul"
+      date_format: "text"
+    pagination:
+      max_pages: 5
+
+  - id: cs
+    name: "计算机科学与技术学院"
+    adapter: xidian_cms
+    base_url: "https://cs.xidian.edu.cn"
+    list_path: "tzgg.htm"
+    selectors:
+      list_container: "section.n_wenzhang ul"
+      date_format: "text"
+    pagination:
+      max_pages: 5
+
+  - id: math
+    name: "数学与统计学院"
+    adapter: xidian_cms
+    base_url: "https://math.xidian.edu.cn"
+    list_path: "xwgg/tzgg.htm"
+    selectors:
+      list_container: "div.main ul"
+      date: "div.date1 p"
+      date_format: "split"
+    pagination:
+      max_pages: 5
+
+  - id: see
+    name: "电子工程学院"
+    adapter: xidian_cms
+    base_url: "https://see.xidian.edu.cn"
+    list_path: "tzgg.htm"
+    selectors:
+      list_container: "div.list"
+      item: "a.item"
+      date: "div.datetime"
+      date_format: "text"
+    pagination:
+      max_pages: 5
+
+  - id: phy
+    name: "物理与光电工程学院"
+    adapter: xidian_cms
+    base_url: "https://phy.xidian.edu.cn"
+    list_path: "tzgg.htm"
+    selectors:
+      list_container: "section.n_news_detail ul"
+      date: "div.box_table_cell h3, div.box_table_cell h6"
+      date_format: "split"
+    pagination:
+      max_pages: 5
+
+  - id: soe
+    name: "光电工程学院"
+    adapter: xidian_cms
+    base_url: "https://soe.xidian.edu.cn"
+    list_path: "xwtz/tzgg.htm"
+    selectors:
+      list_container: "section.n_news ul"
+      date: "div.box_table_cell h3, div.box_table_cell h6"
+      date_format: "split"
+    pagination:
+      max_pages: 5
+
+  - id: sem
+    name: "经济与管理学院"
+    adapter: xidian_cms
+    base_url: "https://sem.xidian.edu.cn"
+    list_path: "tzgg.htm"
+    selectors:
+      list_container: "section.n_news ul"
+      date_format: "text"
+    pagination:
+      max_pages: 5
+
+  - id: sfl
+    name: "语言智能学部"
+    adapter: xidian_cms
+    base_url: "https://sfl.xidian.edu.cn"
+    list_path: "tzgg.htm"
+    selectors:
+      list_container: "div.n_list ul"
+      date: "p.sj"
+      date_format: "text"
+    pagination:
+      max_pages: 5
+
+  - id: life
+    name: "生命科学技术学院"
+    adapter: xidian_cms
+    base_url: "https://life.xidian.edu.cn"
+    list_path: "tzgg.htm"
+    selectors:
+      list_container: "div.text-list ul"
+      date_format: "text"
+    pagination:
+      max_pages: 5
+
+  - id: amn
+    name: "先进材料与纳米科技学院"
+    adapter: xidian_cms
+    base_url: "https://amn.xidian.edu.cn"
+    list_path: "tzgg.htm"
+    selectors:
+      list_container: "div.text-list ul"
+      date: "div.date"
+      date_format: "text"
+    pagination:
+      max_pages: 5
+
+  - id: sai
+    name: "人工智能学院"
+    adapter: xidian_cms
+    base_url: "https://sai.xidian.edu.cn"
+    list_path: "tzgg.htm"
+    selectors:
+      list_container: "div.vsb-space.n_right ul"
+      date_format: "text"
+    pagination:
+      max_pages: 5
+
+  - id: xgc
+    name: "学生工作处"
+    adapter: xidian_cms
+    base_url: "https://xgc.xidian.edu.cn"
+    list_path: "tzgg1.htm"
+    selectors:
+      list_container: "div.right-con ul"
+      date_format: "text"
+    pagination:
+      max_pages: 5
+
+  - id: bksy
+    name: "本科生院"
+    adapter: xidian_cms
+    base_url: "https://bksy.xidian.edu.cn"
+    list_path: "tzgg.htm"
+    selectors:
+      list_container: "div.list ul"
+      date_format: "text"
+    pagination:
+      max_pages: 5
+
+  - id: gr
+    name: "研究生院"
+    adapter: xidian_cms
+    base_url: "https://gr.xidian.edu.cn"
+    list_path: "tzgg1.htm"
+    selectors:
+      list_container: "div.main-right-list ul"
+      date_format: "text"
+    pagination:
+      max_pages: 5
+
+  - id: jgrsrc
+    name: "人才招聘"
+    adapter: xidian_cms
+    base_url: "https://jgrsrc.xidian.edu.cn"
+    list_path: "index/tzgg.htm"
+    selectors:
+      list_container: "div.main_list ul"
+      date_format: "text"
+    pagination:
+      max_pages: 5
+
+  - id: eme
+    name: "机电工程学院"
+    adapter: xidian_cms
+    base_url: "https://eme.xidian.edu.cn"
+    list_path: "tz.htm"
+    selectors:
+      list_container: "div.nr-right-text ul"
+      date_format: "text"
+    pagination:
+      max_pages: 5
+
+  - id: sast
+    name: "空间科学与技术学院"
+    adapter: xidian_cms
+    base_url: "https://sast.xidian.edu.cn"
+    list_path: "index/tzgg.htm"
+    selectors:
+      list_container: "div.erji_main div.right ul"
+      date_format: "text"
+    pagination:
+      max_pages: 5
+
+  - id: rwxy
+    name: "人文学院"
+    adapter: xidian_cms
+    base_url: "https://rwxy.xidian.edu.cn"
+    list_path: "index/tzgg.htm"
+    selectors:
+      list_container: "section.TextList ul"
+      date: "i"
+      date_format: "text"
+    pagination:
+      max_pages: 5
+
+  - id: jcdlyjy
+    name: "集成电路研究院"
+    adapter: xidian_cms
+    base_url: "https://jcdlyjy.xidian.edu.cn"
+    list_path: "tzgg1/tzgg.htm"
+    selectors:
+      list_container: "ul.list_box_news"
+      date: "div.box_table_cell h3, div.box_table_cell h6"
+      date_format: "split"
+    pagination:
+      max_pages: 5
+
+  - id: imse
+    name: "信息力学与感知工程学院"
+    adapter: xidian_cms
+    base_url: "https://imse.xidian.edu.cn"
+    list_path: "tzgg.htm"
+    selectors:
+      list_container: "div.text-list ul"
+      date_format: "text"
+    pagination:
+      max_pages: 5
+
+  - id: xdwy
+    name: "网络与继续教育学院"
+    adapter: xidian_cms
+    base_url: "https://xdwy.xidian.edu.cn"
+    list_path: "tzgg.htm"
+    selectors:
+      list_container: "div.list04 ul.clear"
+      date: "i"
+      date_format: "text"
+    pagination:
+      max_pages: 5
+
+  - id: ce
+    name: "网络与信息安全学院"
+    adapter: xidian_cms
+    base_url: "https://ce.xidian.edu.cn"
+    list_path: "sy/tzgg.htm"
+    selectors:
+      list_container: "div.list2 ul"
+      date: "i"
+      date_format: "text"
+    pagination:
+      max_pages: 5
+
+  - id: ygb
+    name: "党委研究生工作部"
+    adapter: xidian_cms
+    base_url: "https://ygb.xidian.edu.cn"
+    list_path: "tzgg.htm"
+    selectors:
+      list_container: "ul.ss"
+      date_format: "text"
+    pagination:
+      max_pages: 5
+
+  - id: dzb
+    name: "党政办公室"
+    adapter: xidian_cms
+    base_url: "https://dzb.xidian.edu.cn"
+    list_path: "gzdt/tzgg.htm"
+    selectors:
+      list_container: "section.TextList ul"
+      date: "i"
+      date_format: "text"
+    pagination:
+      max_pages: 5
+
+  - id: jsfz
+    name: "教师发展中心"
+    adapter: xidian_cms
+    base_url: "https://jsfz.xidian.edu.cn"
+    list_path: "tzgg.htm"
+    selectors:
+      list_container: "section.n_wenzhang ul"
+      date: "span.rq"
+      date_format: "text"
+    pagination:
+      max_pages: 5
+
+  - id: ste
+    name: "通信工程学院"
+    adapter: xidian_cms
+    base_url: "https://ste.xidian.edu.cn"
+    list_path: "tzgg.htm"
+    selectors:
+      list_container: "div#new div.row"
+      item: "div.col-md-6"
+      date_format: "text"
+    pagination:
+      max_pages: 5
+
+  - id: hqbzb
+    name: "后勤保障部"
+    adapter: xidian_cms
+    base_url: "https://hqbzb.xidian.edu.cn"
+    list_path: "tzgg.htm"
+    selectors:
+      list_container: "section.n_list01 ul"
+      date: "em"
+      date_format: "text"
+    pagination:
+      max_pages: 5
+
+  - id: sys
+    name: "实验室与设备处"
+    adapter: xidian_cms
+    base_url: "https://sys.xidian.edu.cn"
+    list_path: "tzgg.htm"
+    selectors:
+      list_container: "div.Bot ul"
+      date: "p.blue"
+      date_format: "text"
+    pagination:
+      max_pages: 5
+
+  - id: sie
+    name: "国际教育学院"
+    adapter: xidian_cms
+    base_url: "https://sie.xidian.edu.cn"
+    list_path: "sy/tzgg.htm"
+    selectors:
+      list_container: "div.list ul"
+      date: "div.sj p"
+      date_format: "split"
+    pagination:
+      max_pages: 5
+
+  - id: sme
+    name: "集成电路学部"
+    adapter: dedecms
+    base_url: "https://sme.xidian.edu.cn"
+    list_path: "plus/list.php?tid=6"
+    selectors:
+      list_container: "div.childinfo ul"
+      date_format: "text"
+    pagination:
+      max_pages: 5

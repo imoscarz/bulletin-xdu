@@ -1,0 +1,171 @@
+{
+  "meta": {
+    "source_id": "soe",
+    "name": "光电工程学院",
+    "url": "https://soe.xidian.edu.cn/xwtz/tzgg.htm",
+    "last_scraped": "2026-03-22T12:34:46.413612Z",
+    "total_notices": 20
+  },
+  "notices": [
+    {
+      "id": "soe:16225",
+      "source_id": "soe",
+      "title": "科研协作项目公示-20260319-1",
+      "url": "https://soe.xidian.edu.cn/info/1095/16225.htm",
+      "date": "2026-03-19",
+      "is_new": false
+    },
+    {
+      "id": "soe:16215",
+      "source_id": "soe",
+      "title": "科研协作项目公示-20260316-1",
+      "url": "https://soe.xidian.edu.cn/info/1095/16215.htm",
+      "date": "2026-03-16",
+      "is_new": false
+    },
+    {
+      "id": "soe:16195",
+      "source_id": "soe",
+      "title": "光电工程学院2024-2025学年“诺瓦星云”奖（助）学金评审结果公示",
+      "url": "https://soe.xidian.edu.cn/info/1095/16195.htm",
+      "date": "2026-03-13",
+      "is_new": false
+    },
+    {
+      "id": "soe:16185",
+      "source_id": "soe",
+      "title": "光电工程学院2026年研究生创新基金项目立项公示",
+      "url": "https://soe.xidian.edu.cn/info/1095/16185.htm",
+      "date": "2026-03-11",
+      "is_new": false
+    },
+    {
+      "id": "soe:16175",
+      "source_id": "soe",
+      "title": "科研协作项目公示-20260311-2",
+      "url": "https://soe.xidian.edu.cn/info/1095/16175.htm",
+      "date": "2026-03-11",
+      "is_new": false
+    },
+    {
+      "id": "soe:16165",
+      "source_id": "soe",
+      "title": "科研协作项目公示-20260311-1",
+      "url": "https://soe.xidian.edu.cn/info/1095/16165.htm",
+      "date": "2026-03-11",
+      "is_new": false
+    },
+    {
+      "id": "soe:15905",
+      "source_id": "soe",
+      "title": "科研协作项目公示-20260129-1",
+      "url": "https://soe.xidian.edu.cn/info/1095/15905.htm",
+      "date": "2026-01-29",
+      "is_new": false
+    },
+    {
+      "id": "soe:15955",
+      "source_id": "soe",
+      "title": "光电工程学院2026年寒假轮休值班安排表",
+      "url": "https://soe.xidian.edu.cn/info/1095/15955.htm",
+      "date": "2026-01-19",
+      "is_new": false
+    },
+    {
+      "id": "soe:15945",
+      "source_id": "soe",
+      "title": "光电工程学院关于受理2026年6月博士学位申请工作的通知",
+      "url": "https://soe.xidian.edu.cn/info/1095/15945.htm",
+      "date": "2026-01-16",
+      "is_new": false
+    },
+    {
+      "id": "soe:15935",
+      "source_id": "soe",
+      "title": "光电工程学院关于受理2026年6月硕士学位申请工作的通知",
+      "url": "https://soe.xidian.edu.cn/info/1095/15935.htm",
+      "date": "2026-01-16",
+      "is_new": false
+    },
+    {
+      "id": "soe:15915",
+      "source_id": "soe",
+      "title": "光电工程学院2025年教职工考核结果公示",
+      "url": "https://soe.xidian.edu.cn/info/1095/15915.htm",
+      "date": "2026-01-16",
+      "is_new": false
+    },
+    {
+      "id": "soe:15865",
+      "source_id": "soe",
+      "title": "科研协作项目公示-20260112-1",
+      "url": "https://soe.xidian.edu.cn/info/1095/15865.htm",
+      "date": "2026-01-12",
+      "is_new": false
+    },
+    {
+      "id": "soe:15845",
+      "source_id": "soe",
+      "title": "科研协作项目公示-20260106-1",
+      "url": "https://soe.xidian.edu.cn/info/1095/15845.htm",
+      "date": "2026-01-06",
+      "is_new": false
+    },
+    {
+      "id": "soe:15835",
+      "source_id": "soe",
+      "title": "光电工程学院2026年元旦假期值班安排",
+      "url": "https://soe.xidian.edu.cn/info/1095/15835.htm",
+      "date": "2025-12-31",
+      "is_new": false
+    },
+    {
+      "id": "soe:15785",
+      "source_id": "soe",
+      "title": "光电工程学院关于2025年度陕西高校优秀青年人才支持计划推荐人员的公示",
+      "url": "https://soe.xidian.edu.cn/info/1095/15785.htm",
+      "date": "2025-12-24",
+      "is_new": false
+    },
+    {
+      "id": "soe:15765",
+      "source_id": "soe",
+      "title": "科研协作项目公示-20251224-1",
+      "url": "https://soe.xidian.edu.cn/info/1095/15765.htm",
+      "date": "2025-12-24",
+      "is_new": false
+    },
+    {
+      "id": "soe:15755",
+      "source_id": "soe",
+      "title": "光电工程学院关于2025年“吃空饷”问题自查自纠情况公示的通知",
+      "url": "https://soe.xidian.edu.cn/info/1095/15755.htm",
+      "date": "2025-12-24",
+      "is_new": false
+    },
+    {
+      "id": "soe:15725",
+      "source_id": "soe",
+      "title": "光电工程学院2025年度本科优质教学奖初评结果公示",
+      "url": "https://soe.xidian.edu.cn/info/1095/15725.htm",
+      "date": "2025-12-23",
+      "is_new": false
+    },
+    {
+      "id": "soe:15645",
+      "source_id": "soe",
+      "title": "光电工程学院2026年春季博士研究生招生拟录取名单公示",
+      "url": "https://soe.xidian.edu.cn/info/1095/15645.htm",
+      "date": "2025-12-15",
+      "is_new": false
+    },
+    {
+      "id": "soe:9385",
+      "source_id": "soe",
+      "title": "【2025】光电工程学院人才招聘公告",
+      "url": "https://soe.xidian.edu.cn/info/1095/9385.htm",
+      "date": "2022-03-29",
+      "is_new": false
+    }
+  ]
+}

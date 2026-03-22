@@ -1,0 +1,811 @@
+{
+  "meta": {
+    "source_id": "gr",
+    "name": "研究生院",
+    "url": "https://gr.xidian.edu.cn/tzgg1.htm",
+    "last_scraped": "2026-03-22T12:35:03.650898Z",
+    "total_notices": 100
+  },
+  "notices": [
+    {
+      "id": "gr:18624",
+      "source_id": "gr",
+      "title": "关于2026年春季学期“学术规范与论文写作”、“科学道德与学风”等网上在线课程的...",
+      "url": "https://gr.xidian.edu.cn/info/1073/18624.htm",
+      "date": "2026-03-20",
+      "is_new": false
+    },
+    {
+      "id": "gr:18374",
+      "source_id": "gr",
+      "title": "产教融通课《秦创原“四链融合”示范课：关键技术的市场路径》开课通知",
+      "url": "https://gr.xidian.edu.cn/info/1073/18374.htm",
+      "date": "2026-03-04",
+      "is_new": false
+    },
+    {
+      "id": "gr:18344",
+      "source_id": "gr",
+      "title": "2026年春季学期培养计划制定及选课指南",
+      "url": "https://gr.xidian.edu.cn/info/1073/18344.htm",
+      "date": "2026-02-27",
+      "is_new": false
+    },
+    {
+      "id": "gr:18314",
+      "source_id": "gr",
+      "title": "关于公布2026年全国硕士研究生招生考试初试成绩的通知",
+      "url": "https://gr.xidian.edu.cn/info/1073/18314.htm",
+      "date": "2026-02-26",
+      "is_new": false
+    },
+    {
+      "id": "gr:18274",
+      "source_id": "gr",
+      "title": "关于开展2026年陕西省学位与研究生教育研究项目校内遴选工作的通知",
+      "url": "https://gr.xidian.edu.cn/info/1073/18274.htm",
+      "date": "2026-01-23",
+      "is_new": false
+    },
+    {
+      "id": "gr:18264",
+      "source_id": "gr",
+      "title": "关于申报2026年研究生教育教学改革研究项目的通知",
+      "url": "https://gr.xidian.edu.cn/info/1073/18264.htm",
+      "date": "2026-01-19",
+      "is_new": false
+    },
+    {
+      "id": "gr:18244",
+      "source_id": "gr",
+      "title": "关于开展2025年度人工智能赋能研究生教育“揭榜挂帅”项目中期验收工作的通知",
+      "url": "https://gr.xidian.edu.cn/info/1073/18244.htm",
+      "date": "2026-01-19",
+      "is_new": false
+    },
+    {
+      "id": "gr:18224",
+      "source_id": "gr",
+      "title": "关于开展2025年度研究生教育教学改革项目的结题验收工作的通知",
+      "url": "https://gr.xidian.edu.cn/info/1073/18224.htm",
+      "date": "2026-01-19",
+      "is_new": false
+    },
+    {
+      "id": "gr:18144",
+      "source_id": "gr",
+      "title": "研究生院研工部2026年寒假值班安排",
+      "url": "https://gr.xidian.edu.cn/info/1073/18144.htm",
+      "date": "2026-01-19",
+      "is_new": false
+    },
+    {
+      "id": "gr:18074",
+      "source_id": "gr",
+      "title": "西安电子科技大学研究生院/国家卓越工程师学院2026年外聘人员一般岗位招聘公告",
+      "url": "https://gr.xidian.edu.cn/info/1073/18074.htm",
+      "date": "2026-01-12",
+      "is_new": false
+    },
+    {
+      "id": "gr:18064",
+      "source_id": "gr",
+      "title": "2025年度西安电子科技大学优秀研究生导师及研究生教育与学科建设管理工作先进集体...",
+      "url": "https://gr.xidian.edu.cn/info/1073/18064.htm",
+      "date": "2026-01-12",
+      "is_new": false
+    },
+    {
+      "id": "gr:18044",
+      "source_id": "gr",
+      "title": "研究生院/国家卓越工程师学院关于2025年度教职工考核结果的公示",
+      "url": "https://gr.xidian.edu.cn/info/1073/18044.htm",
+      "date": "2026-01-12",
+      "is_new": false
+    },
+    {
+      "id": "gr:17954",
+      "source_id": "gr",
+      "title": "2026年国家建设高水平大学公派研究生项目选派通知",
+      "url": "https://gr.xidian.edu.cn/info/1073/17954.htm",
+      "date": "2026-01-04",
+      "is_new": false
+    },
+    {
+      "id": "gr:17874",
+      "source_id": "gr",
+      "title": "研究生院/卓越工程师学院/研工部2026年（元旦）值班安排表",
+      "url": "https://gr.xidian.edu.cn/info/1073/17874.htm",
+      "date": "2025-12-31",
+      "is_new": false
+    },
+    {
+      "id": "gr:17914",
+      "source_id": "gr",
+      "title": "关于公布2025年秋季学期研究生部分课程期末考试安排的通知",
+      "url": "https://gr.xidian.edu.cn/info/1073/17914.htm",
+      "date": "2025-12-29",
+      "is_new": false
+    },
+    {
+      "id": "gr:17854",
+      "source_id": "gr",
+      "title": "关于2025年秋季学期“学术规范与论文写作”、“科学道德与学风”等网上在线课程的...",
+      "url": "https://gr.xidian.edu.cn/info/1073/17854.htm",
+      "date": "2025-12-25",
+      "is_new": false
+    },
+    {
+      "id": "gr:17624",
+      "source_id": "gr",
+      "title": "西安电子科技大学关于受理2026年1月研究生结业申请的通知",
+      "url": "https://gr.xidian.edu.cn/info/1073/17624.htm",
+      "date": "2025-11-18",
+      "is_new": false
+    },
+    {
+      "id": "gr:17564",
+      "source_id": "gr",
+      "title": "关于开展2025年度主题案例征集工作的通知",
+      "url": "https://gr.xidian.edu.cn/info/1073/17564.htm",
+      "date": "2025-11-12",
+      "is_new": false
+    },
+    {
+      "id": "gr:concent.jsp?urltype=news.NewsContentUrl&wbtreeid=1073&wbnewsid=17524",
+      "source_id": "gr",
+      "title": "关于开展首批研究生核心课程项目结题验收和2025年度研究生核心课程项目中期进展检...",
+      "url": "https://gr.xidian.edu.cn/concent.jsp?urltype=news.NewsContentUrl&wbtreeid=1073&wbnewsid=17524",
+      "date": "2025-11-11",
+      "is_new": false
+    },
+    {
+      "id": "gr:17514",
+      "source_id": "gr",
+      "title": "关于组织推荐2025年中国科协青年科技人才培育工程博士生专项计划候选人的通知",
+      "url": "https://gr.xidian.edu.cn/info/1073/17514.htm",
+      "date": "2025-11-11",
+      "is_new": false
+    },
+    {
+      "id": "gr:17474",
+      "source_id": "gr",
+      "title": "关于完善各一级学科研究生核心课程目录及知识点清单的通知",
+      "url": "https://gr.xidian.edu.cn/info/1073/17474.htm",
+      "date": "2025-10-22",
+      "is_new": false
+    },
+    {
+      "id": "gr:17364",
+      "source_id": "gr",
+      "title": "关于开展2025年陕西省研究生课程思政精品课程推荐工作的通知",
+      "url": "https://gr.xidian.edu.cn/info/1073/17364.htm",
+      "date": "2025-10-14",
+      "is_new": false
+    },
+    {
+      "id": "gr:17334",
+      "source_id": "gr",
+      "title": "研究生院研工部2025年国庆（中秋）值班安排",
+      "url": "https://gr.xidian.edu.cn/info/1073/17334.htm",
+      "date": "2025-09-30",
+      "is_new": false
+    },
+    {
+      "id": "gr:17304",
+      "source_id": "gr",
+      "title": "2026年硕士研究生招生简章",
+      "url": "https://gr.xidian.edu.cn/info/1073/17304.htm",
+      "date": "2025-09-30",
+      "is_new": false
+    },
+    {
+      "id": "gr:17274",
+      "source_id": "gr",
+      "title": "关于征集并选送2025年陕西省专业学位研究生教学案例的通知",
+      "url": "https://gr.xidian.edu.cn/info/1073/17274.htm",
+      "date": "2025-09-30",
+      "is_new": false
+    },
+    {
+      "id": "gr:17234",
+      "source_id": "gr",
+      "title": "关于开展2023年度、2024年度各类研究生各类课程与教材建设项目的结题及中期验收工...",
+      "url": "https://gr.xidian.edu.cn/info/1073/17234.htm",
+      "date": "2025-09-23",
+      "is_new": false
+    },
+    {
+      "id": "gr:17204",
+      "source_id": "gr",
+      "title": "学校获2025年全国教育科学规划课题立项资助",
+      "url": "https://gr.xidian.edu.cn/info/1073/17204.htm",
+      "date": "2025-09-18",
+      "is_new": false
+    },
+    {
+      "id": "gr:17194",
+      "source_id": "gr",
+      "title": "2025年陕西省研究生教育综合改革研究与实践项目拟推荐名单公示",
+      "url": "https://gr.xidian.edu.cn/info/1073/17194.htm",
+      "date": "2025-09-17",
+      "is_new": false
+    },
+    {
+      "id": "gr:17174",
+      "source_id": "gr",
+      "title": "2025年校级研究生教学成果奖评审结果公示",
+      "url": "https://gr.xidian.edu.cn/info/1073/17174.htm",
+      "date": "2025-09-16",
+      "is_new": false
+    },
+    {
+      "id": "gr:17064",
+      "source_id": "gr",
+      "title": "【转发】关于邀请参加2025博士生国际招生面试交流会的通知",
+      "url": "https://gr.xidian.edu.cn/info/1073/17064.htm",
+      "date": "2025-09-04",
+      "is_new": false
+    },
+    {
+      "id": "gr:16954",
+      "source_id": "gr",
+      "title": "关于2025年春季学期研究生课程成绩复查事宜的通知",
+      "url": "https://gr.xidian.edu.cn/info/1073/16954.htm",
+      "date": "2025-09-01",
+      "is_new": false
+    },
+    {
+      "id": "gr:16934",
+      "source_id": "gr",
+      "title": "研究生成绩转存与学分认定通知",
+      "url": "https://gr.xidian.edu.cn/info/1073/16934.htm",
+      "date": "2025-09-01",
+      "is_new": false
+    },
+    {
+      "id": "gr:16924",
+      "source_id": "gr",
+      "title": "2025年秋季学期培养计划制定及选课指南",
+      "url": "https://gr.xidian.edu.cn/info/1073/16924.htm",
+      "date": "2025-08-29",
+      "is_new": false
+    },
+    {
+      "id": "gr:16824",
+      "source_id": "gr",
+      "title": "暑假期间致全体研究生导师的倡议书",
+      "url": "https://gr.xidian.edu.cn/info/1073/16824.htm",
+      "date": "2025-07-16",
+      "is_new": false
+    },
+    {
+      "id": "gr:concent.jsp?urltype=news.NewsContentUrl&wbtreeid=1073&wbnewsid=16774",
+      "source_id": "gr",
+      "title": "关于推荐上报2025年度研究生各类课程与教材建设项目的通知",
+      "url": "https://gr.xidian.edu.cn/concent.jsp?urltype=news.NewsContentUrl&wbtreeid=1073&wbnewsid=16774",
+      "date": "2025-07-14",
+      "is_new": false
+    },
+    {
+      "id": "gr:16764",
+      "source_id": "gr",
+      "title": "研究生院/研工部2025年暑假值班安排",
+      "url": "https://gr.xidian.edu.cn/info/1073/16764.htm",
+      "date": "2025-07-14",
+      "is_new": false
+    },
+    {
+      "id": "gr:16724",
+      "source_id": "gr",
+      "title": "2026年推荐免试研究生招生预报名通知",
+      "url": "https://gr.xidian.edu.cn/info/1073/16724.htm",
+      "date": "2025-07-08",
+      "is_new": false
+    },
+    {
+      "id": "gr:16654",
+      "source_id": "gr",
+      "title": "2025年师生“双一流”海外研修项目报名通知",
+      "url": "https://gr.xidian.edu.cn/info/1073/16654.htm",
+      "date": "2025-07-02",
+      "is_new": false
+    },
+    {
+      "id": "gr:16434",
+      "source_id": "gr",
+      "title": "关于公布2025年春季学期研究生部分课程期末考试安排的通知",
+      "url": "https://gr.xidian.edu.cn/info/1073/16434.htm",
+      "date": "2025-06-16",
+      "is_new": false
+    },
+    {
+      "id": "gr:16414",
+      "source_id": "gr",
+      "title": "关于2025年春季学期“学术规范与论文写作”、“科学道德与学风”等网上在线课程的...",
+      "url": "https://gr.xidian.edu.cn/info/1073/16414.htm",
+      "date": "2025-06-16",
+      "is_new": false
+    },
+    {
+      "id": "gr:16334",
+      "source_id": "gr",
+      "title": "关于启动经济与管理学院2025年专业学位研究生教学案例建设立项的通知",
+      "url": "https://gr.xidian.edu.cn/info/1073/16334.htm",
+      "date": "2025-06-10",
+      "is_new": false
+    },
+    {
+      "id": "gr:16304",
+      "source_id": "gr",
+      "title": "研究生院/卓越工程师学院/研工部2025年（端午节）值班安排表",
+      "url": "https://gr.xidian.edu.cn/info/1073/16304.htm",
+      "date": "2025-05-30",
+      "is_new": false
+    },
+    {
+      "id": "gr:16234",
+      "source_id": "gr",
+      "title": "2025年度人工智能赋能研究生教育“揭榜挂帅”项目立项答辩安排",
+      "url": "https://gr.xidian.edu.cn/info/1073/16234.htm",
+      "date": "2025-05-26",
+      "is_new": false
+    },
+    {
+      "id": "gr:16214",
+      "source_id": "gr",
+      "title": "西安电子科技大学关于受理2025年6月研究生结业申请的通知",
+      "url": "https://gr.xidian.edu.cn/info/1073/16214.htm",
+      "date": "2025-05-19",
+      "is_new": false
+    },
+    {
+      "id": "gr:16124",
+      "source_id": "gr",
+      "title": "关于开展2025年度人工智能赋能研究生教育建设任务“揭榜挂帅”工作的通知",
+      "url": "https://gr.xidian.edu.cn/info/1073/16124.htm",
+      "date": "2025-05-13",
+      "is_new": false
+    },
+    {
+      "id": "gr:16104",
+      "source_id": "gr",
+      "title": "2025年拟录取硕士研究生转调个人档案及确认录取通知书邮寄信息的通知",
+      "url": "https://gr.xidian.edu.cn/info/1073/16104.htm",
+      "date": "2025-05-12",
+      "is_new": false
+    },
+    {
+      "id": "gr:15774",
+      "source_id": "gr",
+      "title": "研究生院/卓越工程师学院/研工部2025年（五一劳动节）值班安排表",
+      "url": "https://gr.xidian.edu.cn/info/1073/15774.htm",
+      "date": "2025-04-30",
+      "is_new": false
+    },
+    {
+      "id": "gr:15644",
+      "source_id": "gr",
+      "title": "关于2025年拟录取硕士研究生办理相关事宜的通知",
+      "url": "https://gr.xidian.edu.cn/info/1073/15644.htm",
+      "date": "2025-04-15",
+      "is_new": false
+    },
+    {
+      "id": "gr:15574",
+      "source_id": "gr",
+      "title": "研究生院/研工部2025年（清明节）值班安排表",
+      "url": "https://gr.xidian.edu.cn/info/1073/15574.htm",
+      "date": "2025-04-03",
+      "is_new": false
+    },
+    {
+      "id": "gr:15524",
+      "source_id": "gr",
+      "title": "第三期“西安电子科技大学·中兴通讯领军班”重磅启航！",
+      "url": "https://gr.xidian.edu.cn/info/1073/15524.htm",
+      "date": "2025-04-01",
+      "is_new": false
+    },
+    {
+      "id": "gr:concent.jsp?urltype=news.NewsContentUrl&wbtreeid=1073&wbnewsid=15424",
+      "source_id": "gr",
+      "title": "西安电子科技大学关于修（制）订2025版研究生培养方案的通知",
+      "url": "https://gr.xidian.edu.cn/concent.jsp?urltype=news.NewsContentUrl&wbtreeid=1073&wbnewsid=15424",
+      "date": "2025-03-21",
+      "is_new": false
+    },
+    {
+      "id": "gr:15404",
+      "source_id": "gr",
+      "title": "西安电子科技大学2025年硕士研究生招生复试录取工作方案",
+      "url": "https://gr.xidian.edu.cn/info/1073/15404.htm",
+      "date": "2025-03-19",
+      "is_new": false
+    },
+    {
+      "id": "gr:15334",
+      "source_id": "gr",
+      "title": "关于2025年春季学期“学术规范与论文写作”、“科学道德与学风”等网上在线课程的...",
+      "url": "https://gr.xidian.edu.cn/info/1073/15334.htm",
+      "date": "2025-03-06",
+      "is_new": false
+    },
+    {
+      "id": "gr:15114",
+      "source_id": "gr",
+      "title": "关于公布2025年全国硕士研究生招生考试初试成绩的通知",
+      "url": "https://gr.xidian.edu.cn/info/1073/15114.htm",
+      "date": "2025-02-21",
+      "is_new": false
+    },
+    {
+      "id": "gr:15044",
+      "source_id": "gr",
+      "title": "2025年春季学期研究生培养计划制定及选课指南",
+      "url": "https://gr.xidian.edu.cn/info/1073/15044.htm",
+      "date": "2025-02-14",
+      "is_new": false
+    },
+    {
+      "id": "gr:14954",
+      "source_id": "gr",
+      "title": "关于开展2024年度研究生教育教学改革项目的结题验收工作的通知",
+      "url": "https://gr.xidian.edu.cn/info/1073/14954.htm",
+      "date": "2025-01-13",
+      "is_new": false
+    },
+    {
+      "id": "gr:14944",
+      "source_id": "gr",
+      "title": "关于申报2025年研究生教育教学改革研究项目的通知",
+      "url": "https://gr.xidian.edu.cn/info/1073/14944.htm",
+      "date": "2025-01-13",
+      "is_new": false
+    },
+    {
+      "id": "gr:14874",
+      "source_id": "gr",
+      "title": "西安电子科技大学研究生院/卓越工程师学院/研工部2025年寒假值班安排",
+      "url": "https://gr.xidian.edu.cn/info/1073/14874.htm",
+      "date": "2025-01-13",
+      "is_new": false
+    },
+    {
+      "id": "gr:14894",
+      "source_id": "gr",
+      "title": "2025年国家建设高水平大学公派研究生项目选派通知",
+      "url": "https://gr.xidian.edu.cn/info/1073/14894.htm",
+      "date": "2025-01-10",
+      "is_new": false
+    },
+    {
+      "id": "gr:14884",
+      "source_id": "gr",
+      "title": "2024年度西安电子科技大学优秀研究生导师及研究生教育与学科建设管理工作先进集体...",
+      "url": "https://gr.xidian.edu.cn/info/1073/14884.htm",
+      "date": "2025-01-09",
+      "is_new": false
+    },
+    {
+      "id": "gr:14824",
+      "source_id": "gr",
+      "title": "关于推荐申报教育部学位中心2024年度主题案例的公示",
+      "url": "https://gr.xidian.edu.cn/info/1073/14824.htm",
+      "date": "2024-12-30",
+      "is_new": false
+    },
+    {
+      "id": "gr:14804",
+      "source_id": "gr",
+      "title": "研究生院/卓越工程师学院节假日值班安排（元旦）",
+      "url": "https://gr.xidian.edu.cn/info/1073/14804.htm",
+      "date": "2024-12-30",
+      "is_new": false
+    },
+    {
+      "id": "gr:14714",
+      "source_id": "gr",
+      "title": "关于公布2024年秋季学期研究生部分课程期末考试安排的通知",
+      "url": "https://gr.xidian.edu.cn/info/1073/14714.htm",
+      "date": "2024-12-23",
+      "is_new": false
+    },
+    {
+      "id": "gr:14694",
+      "source_id": "gr",
+      "title": "关于2024年秋季学期“学术规范与论文写作”、“科学道德与学风”等网上在线课程的...",
+      "url": "https://gr.xidian.edu.cn/info/1073/14694.htm",
+      "date": "2024-12-23",
+      "is_new": false
+    },
+    {
+      "id": "gr:14664",
+      "source_id": "gr",
+      "title": "2025年研招考试西安电子科技大学考点（6113）温馨提示",
+      "url": "https://gr.xidian.edu.cn/info/1073/14664.htm",
+      "date": "2024-12-18",
+      "is_new": false
+    },
+    {
+      "id": "gr:14414",
+      "source_id": "gr",
+      "title": "西安电子科技大学关于受理2025年1月研究生结业申请的通知",
+      "url": "https://gr.xidian.edu.cn/info/1073/14414.htm",
+      "date": "2024-11-14",
+      "is_new": false
+    },
+    {
+      "id": "gr:14364",
+      "source_id": "gr",
+      "title": "关于启动线上“博士综合考试评定”的通知",
+      "url": "https://gr.xidian.edu.cn/info/1073/14364.htm",
+      "date": "2024-11-06",
+      "is_new": false
+    },
+    {
+      "id": "gr:14284",
+      "source_id": "gr",
+      "title": "2025年西安电子科技大学考点（6113）网上确认公告",
+      "url": "https://gr.xidian.edu.cn/info/1073/14284.htm",
+      "date": "2024-10-29",
+      "is_new": false
+    },
+    {
+      "id": "gr:14254",
+      "source_id": "gr",
+      "title": "2025年推荐免试研究生拟录取名单公示",
+      "url": "https://gr.xidian.edu.cn/info/1073/14254.htm",
+      "date": "2024-10-22",
+      "is_new": false
+    },
+    {
+      "id": "gr:14134",
+      "source_id": "gr",
+      "title": "关于对2025年研考报名学籍学历校验未通过考生的提醒",
+      "url": "https://gr.xidian.edu.cn/info/1073/14134.htm",
+      "date": "2024-10-18",
+      "is_new": false
+    },
+    {
+      "id": "gr:14114",
+      "source_id": "gr",
+      "title": "西安电子科技大学关于报考少数民族高层次骨干人才计划有关事项的说明",
+      "url": "https://gr.xidian.edu.cn/info/1073/14114.htm",
+      "date": "2024-10-16",
+      "is_new": false
+    },
+    {
+      "id": "gr:14044",
+      "source_id": "gr",
+      "title": "2025年硕士研究生招生考试网上报名公告",
+      "url": "https://gr.xidian.edu.cn/info/1073/14044.htm",
+      "date": "2024-10-06",
+      "is_new": false
+    },
+    {
+      "id": "gr:14024",
+      "source_id": "gr",
+      "title": "2025年硕士研究生招生考试自命题科目考试大纲",
+      "url": "https://gr.xidian.edu.cn/info/1073/14024.htm",
+      "date": "2024-09-30",
+      "is_new": false
+    },
+    {
+      "id": "gr:13994",
+      "source_id": "gr",
+      "title": "2025年硕士研究生招生简章",
+      "url": "https://gr.xidian.edu.cn/info/1073/13994.htm",
+      "date": "2024-09-30",
+      "is_new": false
+    },
+    {
+      "id": "gr:13974",
+      "source_id": "gr",
+      "title": "研究生院研工部2024年国庆节值班安排",
+      "url": "https://gr.xidian.edu.cn/info/1073/13974.htm",
+      "date": "2024-09-30",
+      "is_new": false
+    },
+    {
+      "id": "gr:13944",
+      "source_id": "gr",
+      "title": "关于组织推荐中国科协青年人才托举工程  博士生专项计划候选人的通知",
+      "url": "https://gr.xidian.edu.cn/info/1073/13944.htm",
+      "date": "2024-09-29",
+      "is_new": false
+    },
+    {
+      "id": "gr:13894",
+      "source_id": "gr",
+      "title": "关于开展陕西省第三批课程思政示范项目推荐工作的通知",
+      "url": "https://gr.xidian.edu.cn/info/1073/13894.htm",
+      "date": "2024-09-23",
+      "is_new": false
+    },
+    {
+      "id": "gr:13834",
+      "source_id": "gr",
+      "title": "2025年推荐免试研究生接收工作实施方案",
+      "url": "https://gr.xidian.edu.cn/info/1073/13834.htm",
+      "date": "2024-09-14",
+      "is_new": false
+    },
+    {
+      "id": "gr:13794",
+      "source_id": "gr",
+      "title": "关于征集并选送2024年陕西省专业学位研究生教学案例的通知",
+      "url": "https://gr.xidian.edu.cn/info/1073/13794.htm",
+      "date": "2024-09-14",
+      "is_new": false
+    },
+    {
+      "id": "gr:13744",
+      "source_id": "gr",
+      "title": "关于推荐上报2024年度研究生各类课程与教材建设项目的通知",
+      "url": "https://gr.xidian.edu.cn/info/1073/13744.htm",
+      "date": "2024-09-05",
+      "is_new": false
+    },
+    {
+      "id": "gr:13734",
+      "source_id": "gr",
+      "title": "关于开展2022年度、2023年度各类研究生各类课程与教材建设项目的结题及中期验收工...",
+      "url": "https://gr.xidian.edu.cn/info/1073/13734.htm",
+      "date": "2024-09-05",
+      "is_new": false
+    },
+    {
+      "id": "gr:13724",
+      "source_id": "gr",
+      "title": "2024年秋季学期研究生培养计划制定及选课指南",
+      "url": "https://gr.xidian.edu.cn/info/1073/13724.htm",
+      "date": "2024-08-30",
+      "is_new": false
+    },
+    {
+      "id": "gr:13543",
+      "source_id": "gr",
+      "title": "西安电子科技大学研究生院2024年外聘人员一般岗位招聘公告",
+      "url": "https://gr.xidian.edu.cn/info/1073/13543.htm",
+      "date": "2024-07-16",
+      "is_new": false
+    },
+    {
+      "id": "gr:13534",
+      "source_id": "gr",
+      "title": "研究生院研工部2024年暑假值班安排",
+      "url": "https://gr.xidian.edu.cn/info/1073/13534.htm",
+      "date": "2024-07-15",
+      "is_new": false
+    },
+    {
+      "id": "gr:13554",
+      "source_id": "gr",
+      "title": "2025年推荐免试研究生招生预报名通知",
+      "url": "https://gr.xidian.edu.cn/info/1073/13554.htm",
+      "date": "2024-07-11",
+      "is_new": false
+    },
+    {
+      "id": "gr:13514",
+      "source_id": "gr",
+      "title": "2024年第二批师生“双一流”海外研修项目报名通知",
+      "url": "https://gr.xidian.edu.cn/info/1073/13514.htm",
+      "date": "2024-07-11",
+      "is_new": false
+    },
+    {
+      "id": "gr:13494",
+      "source_id": "gr",
+      "title": "西电顺利通过中国研究生院院长联席会重大课题结题验收",
+      "url": "https://gr.xidian.edu.cn/info/1073/13494.htm",
+      "date": "2024-06-28",
+      "is_new": false
+    },
+    {
+      "id": "gr:13478",
+      "source_id": "gr",
+      "title": "2024年博士研究生招生体检工作安排",
+      "url": "https://gr.xidian.edu.cn/info/1073/13478.htm",
+      "date": "2024-06-25",
+      "is_new": false
+    },
+    {
+      "id": "gr:13471",
+      "source_id": "gr",
+      "title": "关于2024年春季学期“学术规范与论文写作”、“科学道德与学风”等网上在线课程的...",
+      "url": "https://gr.xidian.edu.cn/info/1073/13471.htm",
+      "date": "2024-06-25",
+      "is_new": false
+    },
+    {
+      "id": "gr:13469",
+      "source_id": "gr",
+      "title": "西安电子科技大学2024年中国研究生数学建模竞赛报名通知",
+      "url": "https://gr.xidian.edu.cn/info/1073/13469.htm",
+      "date": "2024-06-25",
+      "is_new": false
+    },
+    {
+      "id": "gr:13466",
+      "source_id": "gr",
+      "title": "关于公布2024年春季学期研究生部分课程期末考试安排的通知",
+      "url": "https://gr.xidian.edu.cn/info/1073/13466.htm",
+      "date": "2024-06-25",
+      "is_new": false
+    },
+    {
+      "id": "gr:13467",
+      "source_id": "gr",
+      "title": "关于2024年研究生指导教师资格认定通过人员名单的公示",
+      "url": "https://gr.xidian.edu.cn/info/1073/13467.htm",
+      "date": "2024-06-24",
+      "is_new": false
+    },
+    {
+      "id": "gr:13446",
+      "source_id": "gr",
+      "title": "关于2024年春季学期研究生英语公共课免修不免考班考试安排的通知",
+      "url": "https://gr.xidian.edu.cn/info/1073/13446.htm",
+      "date": "2024-06-20",
+      "is_new": false
+    },
+    {
+      "id": "gr:13417",
+      "source_id": "gr",
+      "title": "西安电子科技大学·中兴通讯领军班开启报名",
+      "url": "https://gr.xidian.edu.cn/info/1073/13417.htm",
+      "date": "2024-06-09",
+      "is_new": false
+    },
+    {
+      "id": "gr:13414",
+      "source_id": "gr",
+      "title": "研究生院/卓越工程师学院值班安排（端午节）",
+      "url": "https://gr.xidian.edu.cn/info/1073/13414.htm",
+      "date": "2024-06-07",
+      "is_new": false
+    },
+    {
+      "id": "gr:13412",
+      "source_id": "gr",
+      "title": "关于公布2024年预选工程博士名单的通知",
+      "url": "https://gr.xidian.edu.cn/info/1073/13412.htm",
+      "date": "2024-06-04",
+      "is_new": false
+    },
+    {
+      "id": "gr:13406",
+      "source_id": "gr",
+      "title": "关于招收2024年预选工程博士的通知",
+      "url": "https://gr.xidian.edu.cn/info/1073/13406.htm",
+      "date": "2024-05-29",
+      "is_new": false
+    },
+    {
+      "id": "gr:13404",
+      "source_id": "gr",
+      "title": "2024年工程博士招生拟录取名单公示",
+      "url": "https://gr.xidian.edu.cn/info/1073/13404.htm",
+      "date": "2024-05-29",
+      "is_new": false
+    },
+    {
+      "id": "gr:13397",
+      "source_id": "gr",
+      "title": "关于公布2024年工程博士研究生招生复试成绩的通知",
+      "url": "https://gr.xidian.edu.cn/info/1073/13397.htm",
+      "date": "2024-05-24",
+      "is_new": false
+    },
+    {
+      "id": "gr:13393",
+      "source_id": "gr",
+      "title": "西安电子科技大学2023级工程博士预选生考核结果公示",
+      "url": "https://gr.xidian.edu.cn/info/1073/13393.htm",
+      "date": "2024-05-22",
+      "is_new": false
+    }
+  ]
+}
