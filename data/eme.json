@@ -3,10 +3,18 @@
     "source_id": "eme",
     "name": "机电工程学院",
     "url": "https://eme.xidian.edu.cn/tz.htm",
-    "last_scraped": "2026-03-23T07:21:34.143765Z",
-    "total_notices": 100
+    "last_scraped": "2026-03-23T13:21:09.468923Z",
+    "total_notices": 101
   },
   "notices": [
+    {
+      "id": "eme:14596",
+      "source_id": "eme",
+      "title": "机电工程学院2026年硕士研究生招生复试录取工作方案",
+      "url": "https://eme.xidian.edu.cn/info/1012/14596.htm",
+      "date": "2026-03-23",
+      "is_new": false
+    },
     {
       "id": "eme:14556",
       "source_id": "eme",

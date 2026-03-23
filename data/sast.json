@@ -3,10 +3,26 @@
     "source_id": "sast",
     "name": "空间科学与技术学院",
     "url": "https://sast.xidian.edu.cn/index/tzgg.htm",
-    "last_scraped": "2026-03-23T07:21:37.137865Z",
-    "total_notices": 75
+    "last_scraped": "2026-03-23T13:21:12.942665Z",
+    "total_notices": 77
   },
   "notices": [
+    {
+      "id": "sast:17707",
+      "source_id": "sast",
+      "title": "关于开展3月23日-27日院领导接待日工作的通知",
+      "url": "https://sast.xidian.edu.cn/info/1014/17707.htm",
+      "date": "2026-03-23",
+      "is_new": false
+    },
+    {
+      "id": "sast:17697",
+      "source_id": "sast",
+      "title": "空间科学与技术学院2026年硕士研究生招生复试录取工作方案",
+      "url": "https://sast.xidian.edu.cn/info/1014/17697.htm",
+      "date": "2026-03-23",
+      "is_new": false
+    },
     {
       "id": "sast:17577",
       "source_id": "sast",

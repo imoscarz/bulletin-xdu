@@ -3,10 +3,18 @@
     "source_id": "math",
     "name": "数学与统计学院",
     "url": "https://math.xidian.edu.cn/xwgg/tzgg.htm",
-    "last_scraped": "2026-03-23T07:19:38.616176Z",
-    "total_notices": 10
+    "last_scraped": "2026-03-23T13:20:35.340082Z",
+    "total_notices": 11
   },
   "notices": [
+    {
+      "id": "math:22322",
+      "source_id": "math",
+      "title": "数学与统计学院2026年硕士研究生招生复试录取工作方案",
+      "url": "https://math.xidian.edu.cn/info/1020/22322.htm",
+      "date": "2026-03-23",
+      "is_new": false
+    },
     {
       "id": "math:22152",
       "source_id": "math",

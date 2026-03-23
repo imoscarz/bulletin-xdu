@@ -3,10 +3,18 @@
     "source_id": "life",
     "name": "生命科学技术学院",
     "url": "https://life.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-03-23T07:20:29.070984Z",
-    "total_notices": 15
+    "last_scraped": "2026-03-23T13:20:50.732013Z",
+    "total_notices": 16
   },
   "notices": [
+    {
+      "id": "life:16761",
+      "source_id": "life",
+      "title": "生命科学技术学院2026年硕士研究生招生复试录取工作方案",
+      "url": "https://life.xidian.edu.cn/info/1048/16761.htm",
+      "date": "2026-03-23",
+      "is_new": false
+    },
     {
       "id": "life:16731",
       "source_id": "life",

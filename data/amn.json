@@ -3,10 +3,18 @@
     "source_id": "amn",
     "name": "先进材料与纳米科技学院",
     "url": "https://amn.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-03-23T07:20:42.493845Z",
-    "total_notices": 15
+    "last_scraped": "2026-03-23T13:20:54.525992Z",
+    "total_notices": 16
   },
   "notices": [
+    {
+      "id": "amn:17342",
+      "source_id": "amn",
+      "title": "先进材料与纳米科技学院2026年硕士研究生招生复试录取工作方案",
+      "url": "https://amn.xidian.edu.cn/info/1013/17342.htm",
+      "date": "2026-03-23",
+      "is_new": false
+    },
     {
       "id": "amn:16932",
       "source_id": "amn",

@@ -3,10 +3,26 @@
     "source_id": "cs",
     "name": "计算机科学与技术学院",
     "url": "https://cs.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-03-23T07:19:26.510130Z",
-    "total_notices": 75
+    "last_scraped": "2026-03-23T13:20:33.088641Z",
+    "total_notices": 77
   },
   "notices": [
+    {
+      "id": "cs:23744",
+      "source_id": "cs",
+      "title": "计科院关于2026年硕士研究生招生复试资格审查工作的通知",
+      "url": "https://cs.xidian.edu.cn/info/1003/23744.htm",
+      "date": "2026-03-23",
+      "is_new": false
+    },
+    {
+      "id": "cs:23734",
+      "source_id": "cs",
+      "title": "计算机科学与技术学院2026年硕士研究生招生复试录取工作方案",
+      "url": "https://cs.xidian.edu.cn/info/1003/23734.htm",
+      "date": "2026-03-23",
+      "is_new": false
+    },
     {
       "id": "cs:23444",
       "source_id": "cs",

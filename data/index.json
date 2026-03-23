@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-23T07:23:27.960286+00:00",
+  "generated_at": "2026-03-23T13:21:55.018445+00:00",
   "sources": [
     {
       "source_id": "jwc",
@@ -94,8 +94,24 @@
       "source_id": "cs",
       "name": "计算机科学与技术学院",
       "url": "https://cs.xidian.edu.cn/tzgg.htm",
-      "total_notices": 75,
+      "total_notices": 77,
       "latest": [
+        {
+          "id": "cs:23744",
+          "source_id": "cs",
+          "title": "计科院关于2026年硕士研究生招生复试资格审查工作的通知",
+          "url": "https://cs.xidian.edu.cn/info/1003/23744.htm",
+          "date": "2026-03-23",
+          "is_new": false
+        },
+        {
+          "id": "cs:23734",
+          "source_id": "cs",
+          "title": "计算机科学与技术学院2026年硕士研究生招生复试录取工作方案",
+          "url": "https://cs.xidian.edu.cn/info/1003/23734.htm",
+          "date": "2026-03-23",
+          "is_new": false
+        },
         {
           "id": "cs:23444",
           "source_id": "cs",
@@ -159,22 +175,6 @@
           "url": "https://cs.xidian.edu.cn/info/1003/23254.htm",
           "date": "2026-01-12",
           "is_new": false
-        },
-        {
-          "id": "cs:23104",
-          "source_id": "cs",
-          "title": "计算机科学与技术学院2025年联想、掌趣研究生社会奖（助）学金评审结果公示",
-          "url": "https://cs.xidian.edu.cn/info/1003/23104.htm",
-          "date": "2026-01-09",
-          "is_new": false
-        },
-        {
-          "id": "cs:23094",
-          "source_id": "cs",
-          "title": "计算机科学与技术学院关于2026年6月硕士学位申请工作的通知",
-          "url": "https://cs.xidian.edu.cn/info/1003/23094.htm",
-          "date": "2026-01-08",
-          "is_new": false
         }
       ],
       "data_url": "cs.json"
@@ -183,8 +183,16 @@
       "source_id": "math",
       "name": "数学与统计学院",
       "url": "https://math.xidian.edu.cn/xwgg/tzgg.htm",
-      "total_notices": 10,
+      "total_notices": 11,
       "latest": [
+        {
+          "id": "math:22322",
+          "source_id": "math",
+          "title": "数学与统计学院2026年硕士研究生招生复试录取工作方案",
+          "url": "https://math.xidian.edu.cn/info/1020/22322.htm",
+          "date": "2026-03-23",
+          "is_new": false
+        },
         {
           "id": "math:22152",
           "source_id": "math",
@@ -255,14 +263,6 @@
           "title": "数学与统计学院研究生学业奖学金实施细则",
           "url": "https://math.xidian.edu.cn/info/1020/20012.htm",
           "date": "2025-09-23",
-          "is_new": false
-        },
-        {
-          "id": "math:19952",
-          "source_id": "math",
-          "title": "数学与统计学院2026年推荐免试硕士研究生接收方案及工作安排",
-          "url": "https://math.xidian.edu.cn/info/1020/19952.htm",
-          "date": "2025-09-11",
           "is_new": false
         }
       ],
@@ -361,8 +361,24 @@
       "source_id": "phy",
       "name": "物理与光电工程学院",
       "url": "https://phy.xidian.edu.cn/tzgg.htm",
-      "total_notices": 10,
+      "total_notices": 12,
       "latest": [
+        {
+          "id": "phy:10323",
+          "source_id": "phy",
+          "title": "物理学院2026年硕士研究生招生复试录取工作方案",
+          "url": "https://phy.xidian.edu.cn/info/1012/10323.htm",
+          "date": "2026-03-23",
+          "is_new": false
+        },
+        {
+          "id": "phy:10313",
+          "source_id": "phy",
+          "title": "物理学院2026年校内无息助学贷款评定结果公示",
+          "url": "https://phy.xidian.edu.cn/info/1012/10313.htm",
+          "date": "2026-03-23",
+          "is_new": false
+        },
         {
           "id": "phy:10293",
           "source_id": "phy",
@@ -425,22 +441,6 @@
           "title": "科研协作项目公示信息20260306-1",
           "url": "https://phy.xidian.edu.cn/info/1012/10103.htm",
           "date": "2026-03-06",
-          "is_new": false
-        },
-        {
-          "id": "phy:10083",
-          "source_id": "phy",
-          "title": "关于举办2026年全国大学生物理实验竞赛（创新）校内选拔赛的通知",
-          "url": "https://phy.xidian.edu.cn/info/1012/10083.htm",
-          "date": "2026-03-04",
-          "is_new": false
-        },
-        {
-          "id": "phy:3852",
-          "source_id": "phy",
-          "title": "物理学院诚聘海内外英才",
-          "url": "https://phy.xidian.edu.cn/info/1012/3852.htm",
-          "date": "2022-04-27",
           "is_new": false
         }
       ],
@@ -717,8 +717,16 @@
       "source_id": "life",
       "name": "生命科学技术学院",
       "url": "https://life.xidian.edu.cn/tzgg.htm",
-      "total_notices": 15,
+      "total_notices": 16,
       "latest": [
+        {
+          "id": "life:16761",
+          "source_id": "life",
+          "title": "生命科学技术学院2026年硕士研究生招生复试录取工作方案",
+          "url": "https://life.xidian.edu.cn/info/1048/16761.htm",
+          "date": "2026-03-23",
+          "is_new": false
+        },
         {
           "id": "life:16731",
           "source_id": "life",
@@ -790,14 +798,6 @@
           "url": "https://life.xidian.edu.cn/info/1048/16241.htm",
           "date": "2025-09-15",
           "is_new": false
-        },
-        {
-          "id": "life:16221",
-          "source_id": "life",
-          "title": "关于调整生命科学技术学院2026年推荐免试研究生招生预报名时间的通知",
-          "url": "https://life.xidian.edu.cn/info/1048/16221.htm",
-          "date": "2025-09-05",
-          "is_new": false
         }
       ],
       "data_url": "life.json"
@@ -806,8 +806,16 @@
       "source_id": "amn",
       "name": "先进材料与纳米科技学院",
       "url": "https://amn.xidian.edu.cn/tzgg.htm",
-      "total_notices": 15,
+      "total_notices": 16,
       "latest": [
+        {
+          "id": "amn:17342",
+          "source_id": "amn",
+          "title": "先进材料与纳米科技学院2026年硕士研究生招生复试录取工作方案",
+          "url": "https://amn.xidian.edu.cn/info/1013/17342.htm",
+          "date": "2026-03-23",
+          "is_new": false
+        },
         {
           "id": "amn:16932",
           "source_id": "amn",
@@ -878,14 +886,6 @@
           "title": "先进材料与纳米科技学院2025年师昌绪电子材料菁英班选拔面试的通知",
           "url": "https://amn.xidian.edu.cn/info/1013/15092.htm",
           "date": "2025-09-01",
-          "is_new": false
-        },
-        {
-          "id": "amn:14972",
-          "source_id": "amn",
-          "title": "先进材料与纳米科技学院2026年推荐免试研究生招生预报名的通知",
-          "url": "https://amn.xidian.edu.cn/info/1013/14972.htm",
-          "date": "2025-07-24",
           "is_new": false
         }
       ],
@@ -1251,8 +1251,16 @@
       "source_id": "jgrsrc",
       "name": "人才招聘",
       "url": "https://jgrsrc.xidian.edu.cn/index/tzgg.htm",
-      "total_notices": 75,
+      "total_notices": 76,
       "latest": [
+        {
+          "id": "jgrsrc:17168",
+          "source_id": "jgrsrc",
+          "title": "西安电子科技大学期刊中心编辑招聘公告",
+          "url": "https://jgrsrc.xidian.edu.cn/info/1067/17168.htm",
+          "date": "2026-03-23",
+          "is_new": false
+        },
         {
           "id": "jgrsrc:16988",
           "source_id": "jgrsrc",
@@ -1324,14 +1332,6 @@
           "url": "https://jgrsrc.xidian.edu.cn/info/1067/16718.htm",
           "date": "2025-12-29",
           "is_new": false
-        },
-        {
-          "id": "jgrsrc:16658",
-          "source_id": "jgrsrc",
-          "title": "西安电子科技大学关于开展2025年度考核的通知",
-          "url": "https://jgrsrc.xidian.edu.cn/info/1067/16658.htm",
-          "date": "2025-12-25",
-          "is_new": false
         }
       ],
       "data_url": "jgrsrc.json"
@@ -1340,8 +1340,16 @@
       "source_id": "eme",
       "name": "机电工程学院",
       "url": "https://eme.xidian.edu.cn/tz.htm",
-      "total_notices": 100,
+      "total_notices": 101,
       "latest": [
+        {
+          "id": "eme:14596",
+          "source_id": "eme",
+          "title": "机电工程学院2026年硕士研究生招生复试录取工作方案",
+          "url": "https://eme.xidian.edu.cn/info/1012/14596.htm",
+          "date": "2026-03-23",
+          "is_new": false
+        },
         {
           "id": "eme:14556",
           "source_id": "eme",
@@ -1413,14 +1421,6 @@
           "url": "https://eme.xidian.edu.cn/info/1012/14336.htm",
           "date": "2026-01-20",
           "is_new": false
-        },
-        {
-          "id": "eme:14326",
-          "source_id": "eme",
-          "title": "机电工程学院2026年寒假值班安排",
-          "url": "https://eme.xidian.edu.cn/info/1012/14326.htm",
-          "date": "2026-01-19",
-          "is_new": false
         }
       ],
       "data_url": "eme.json"
@@ -1429,8 +1429,24 @@
       "source_id": "sast",
       "name": "空间科学与技术学院",
       "url": "https://sast.xidian.edu.cn/index/tzgg.htm",
-      "total_notices": 75,
+      "total_notices": 77,
       "latest": [
+        {
+          "id": "sast:17707",
+          "source_id": "sast",
+          "title": "关于开展3月23日-27日院领导接待日工作的通知",
+          "url": "https://sast.xidian.edu.cn/info/1014/17707.htm",
+          "date": "2026-03-23",
+          "is_new": false
+        },
+        {
+          "id": "sast:17697",
+          "source_id": "sast",
+          "title": "空间科学与技术学院2026年硕士研究生招生复试录取工作方案",
+          "url": "https://sast.xidian.edu.cn/info/1014/17697.htm",
+          "date": "2026-03-23",
+          "is_new": false
+        },
         {
           "id": "sast:17577",
           "source_id": "sast",
@@ -1494,22 +1510,6 @@
           "url": "https://sast.xidian.edu.cn/info/1014/17207.htm",
           "date": "2026-01-16",
           "is_new": false
-        },
-        {
-          "id": "sast:17147",
-          "source_id": "sast",
-          "title": "空间科学与技术学院关于受理2026届研究生学位申请的通知",
-          "url": "https://sast.xidian.edu.cn/info/1014/17147.htm",
-          "date": "2026-01-12",
-          "is_new": false
-        },
-        {
-          "id": "sast:17017",
-          "source_id": "sast",
-          "title": "地月空间集导航、通讯、态势感知于一体的空间星座轨道设计",
-          "url": "https://sast.xidian.edu.cn/info/1014/17017.htm",
-          "date": "2026-01-05",
-          "is_new": false
         }
       ],
       "data_url": "sast.json"
@@ -1518,8 +1518,16 @@
       "source_id": "rwxy",
       "name": "人文学院",
       "url": "https://rwxy.xidian.edu.cn/index/tzgg.htm",
-      "total_notices": 50,
+      "total_notices": 51,
       "latest": [
+        {
+          "id": "rwxy:16424",
+          "source_id": "rwxy",
+          "title": "关于哲学系主任的任职公示",
+          "url": "https://rwxy.xidian.edu.cn/info/1023/16424.htm",
+          "date": "2026-03-23",
+          "is_new": false
+        },
         {
           "id": "rwxy:16304",
           "source_id": "rwxy",
@@ -1590,14 +1598,6 @@
           "title": "人文学院2025～2026学年硕士研究生学业奖学金评定结果公示",
           "url": "https://rwxy.xidian.edu.cn/info/1023/15694.htm",
           "date": "2025-11-28",
-          "is_new": false
-        },
-        {
-          "id": "rwxy:15204",
-          "source_id": "rwxy",
-          "title": "人文学院工作简讯（2025年第5期）",
-          "url": "https://rwxy.xidian.edu.cn/info/1023/15204.htm",
-          "date": "2025-10-14",
           "is_new": false
         }
       ],

@@ -3,10 +3,18 @@
     "source_id": "jgrsrc",
     "name": "人才招聘",
     "url": "https://jgrsrc.xidian.edu.cn/index/tzgg.htm",
-    "last_scraped": "2026-03-23T07:21:23.034101Z",
-    "total_notices": 75
+    "last_scraped": "2026-03-23T13:21:07.785842Z",
+    "total_notices": 76
   },
   "notices": [
+    {
+      "id": "jgrsrc:17168",
+      "source_id": "jgrsrc",
+      "title": "西安电子科技大学期刊中心编辑招聘公告",
+      "url": "https://jgrsrc.xidian.edu.cn/info/1067/17168.htm",
+      "date": "2026-03-23",
+      "is_new": false
+    },
     {
       "id": "jgrsrc:16988",
       "source_id": "jgrsrc",
