@@ -1,0 +1,361 @@
+{
+  "meta": {
+    "source_id": "math",
+    "name": "数学与统计学院",
+    "url": "https://math.xidian.edu.cn/xwgg/tzgg.htm",
+    "last_scraped": "2026-03-23T14:49:40.972590Z",
+    "total_notices": 50
+  },
+  "notices": [
+    {
+      "id": "math:22322",
+      "source_id": "math",
+      "title": "数学与统计学院2026年硕士研究生招生复试录取工作方案",
+      "url": "https://math.xidian.edu.cn/info/1020/22322.htm",
+      "date": "2026-03-23"
+    },
+    {
+      "id": "math:22152",
+      "source_id": "math",
+      "title": "数学与统计学院2026年寒假值班安排表",
+      "url": "https://math.xidian.edu.cn/info/1020/22152.htm",
+      "date": "2026-01-19"
+    },
+    {
+      "id": "math:22022",
+      "source_id": "math",
+      "title": "数学与统计学院2026年元旦假期值班安排表",
+      "url": "https://math.xidian.edu.cn/info/1020/22022.htm",
+      "date": "2025-12-31"
+    },
+    {
+      "id": "math:21842",
+      "source_id": "math",
+      "title": "关于公示数学与统计学院2026年春季博士研究生招生拟录取名单的通知",
+      "url": "https://math.xidian.edu.cn/info/1020/21842.htm",
+      "date": "2025-12-16"
+    },
+    {
+      "id": "math:20802",
+      "source_id": "math",
+      "title": "数学与统计学院2026年攻读春季博士学位研究生申请考核工作安排的通知",
+      "url": "https://math.xidian.edu.cn/info/1020/20802.htm",
+      "date": "2025-11-20"
+    },
+    {
+      "id": "math:20572",
+      "source_id": "math",
+      "title": "西安电子科技大学数学与统计学院攻读博士学位研究生申请考核制实施方案(2025版)",
+      "url": "https://math.xidian.edu.cn/info/1020/20572.htm",
+      "date": "2025-11-04"
+    },
+    {
+      "id": "math:20192",
+      "source_id": "math",
+      "title": "科研协作项目公示信息（13）",
+      "url": "https://math.xidian.edu.cn/info/1020/20192.htm",
+      "date": "2025-10-13"
+    },
+    {
+      "id": "math:20172",
+      "source_id": "math",
+      "title": "科研协作项目公示信息（12）",
+      "url": "https://math.xidian.edu.cn/info/1020/20172.htm",
+      "date": "2025-10-13"
+    },
+    {
+      "id": "math:20052",
+      "source_id": "math",
+      "title": "数学与统计学院2025年国庆节、中秋节假期值班安排表",
+      "url": "https://math.xidian.edu.cn/info/1020/20052.htm",
+      "date": "2025-09-30"
+    },
+    {
+      "id": "math:20012",
+      "source_id": "math",
+      "title": "数学与统计学院研究生学业奖学金实施细则",
+      "url": "https://math.xidian.edu.cn/info/1020/20012.htm",
+      "date": "2025-09-23"
+    },
+    {
+      "id": "math:19952",
+      "source_id": "math",
+      "title": "数学与统计学院2026年推荐免试硕士研究生接收方案及工作安排",
+      "url": "https://math.xidian.edu.cn/info/1020/19952.htm",
+      "date": "2025-09-11"
+    },
+    {
+      "id": "math:19872",
+      "source_id": "math",
+      "title": "科研协作项目公示信息（11）",
+      "url": "https://math.xidian.edu.cn/info/1020/19872.htm",
+      "date": "2025-09-08"
+    },
+    {
+      "id": "math:19622",
+      "source_id": "math",
+      "title": "关于2025级信息数学拔尖班选拔面试的通知",
+      "url": "https://math.xidian.edu.cn/info/1020/19622.htm",
+      "date": "2025-09-01"
+    },
+    {
+      "id": "math:19592",
+      "source_id": "math",
+      "title": "数学与统计学院关于调整2026年推免生预报名时间的公告",
+      "url": "https://math.xidian.edu.cn/info/1020/19592.htm",
+      "date": "2025-09-01"
+    },
+    {
+      "id": "math:18722",
+      "source_id": "math",
+      "title": "数学与统计学院 2025 年暑假值班安排表",
+      "url": "https://math.xidian.edu.cn/info/1020/18722.htm",
+      "date": "2025-07-14"
+    },
+    {
+      "id": "math:18512",
+      "source_id": "math",
+      "title": "数学与统计学院2026年推免生预报名工作安排",
+      "url": "https://math.xidian.edu.cn/info/1020/18512.htm",
+      "date": "2025-07-11"
+    },
+    {
+      "id": "math:12082",
+      "source_id": "math",
+      "title": "关于2022级信息数学拔尖班学生分流工作的通知",
+      "url": "https://math.xidian.edu.cn/info/1020/12082.htm",
+      "date": "2025-06-20"
+    },
+    {
+      "id": "math:12052",
+      "source_id": "math",
+      "title": "科研协作项目公示信息(10)",
+      "url": "https://math.xidian.edu.cn/info/1020/12052.htm",
+      "date": "2025-06-16"
+    },
+    {
+      "id": "math:12042",
+      "source_id": "math",
+      "title": "数学与统计学院关于信息数学拔尖班动态进出工作的通知",
+      "url": "https://math.xidian.edu.cn/info/1020/12042.htm",
+      "date": "2025-06-13"
+    },
+    {
+      "id": "math:12032",
+      "source_id": "math",
+      "title": "数学与统计学院关于本科生大类分流工作安排的通知",
+      "url": "https://math.xidian.edu.cn/info/1020/12032.htm",
+      "date": "2025-06-13"
+    },
+    {
+      "id": "math:12002",
+      "source_id": "math",
+      "title": "数学与统计学院2025年研究生指导教师资格认定评审通过名单公示",
+      "url": "https://math.xidian.edu.cn/info/1020/12002.htm",
+      "date": "2025-06-10"
+    },
+    {
+      "id": "math:11942",
+      "source_id": "math",
+      "title": "关于开展选聘2025届毕业生担任数学与统计学院科研助理工作的安排",
+      "url": "https://math.xidian.edu.cn/info/1020/11942.htm",
+      "date": "2025-06-04"
+    },
+    {
+      "id": "math:11912",
+      "source_id": "math",
+      "title": "数学与统计学院2025年端午节假期值班安排表",
+      "url": "https://math.xidian.edu.cn/info/1020/11912.htm",
+      "date": "2025-05-30"
+    },
+    {
+      "id": "math:11842",
+      "source_id": "math",
+      "title": "西安电子科技大学数学与统计学院2025年秋季博士研究生补录公示",
+      "url": "https://math.xidian.edu.cn/info/1020/11842.htm",
+      "date": "2025-05-27"
+    },
+    {
+      "id": "math:11762",
+      "source_id": "math",
+      "title": "关于数学与统计学院2025年秋季博士研究生招生拟录取名单的公示",
+      "url": "https://math.xidian.edu.cn/info/1020/11762.htm",
+      "date": "2025-05-20"
+    },
+    {
+      "id": "math:11702",
+      "source_id": "math",
+      "title": "关于公布数学与统计学院2025年博士研究生综合面试考核成绩的通知",
+      "url": "https://math.xidian.edu.cn/info/1020/11702.htm",
+      "date": "2025-05-15"
+    },
+    {
+      "id": "math:11692",
+      "source_id": "math",
+      "title": "数学与统计学院2025年秋季学术学位博士研究生复试名单",
+      "url": "https://math.xidian.edu.cn/info/1020/11692.htm",
+      "date": "2025-05-13"
+    },
+    {
+      "id": "math:11672",
+      "source_id": "math",
+      "title": "数学与统计学院2025年（秋季）学术学位博士研究生招生复试录取工作安排",
+      "url": "https://math.xidian.edu.cn/info/1020/11672.htm",
+      "date": "2025-05-10"
+    },
+    {
+      "id": "math:11642",
+      "source_id": "math",
+      "title": "数学与统计学院2025年劳动节假期值班安排表",
+      "url": "https://math.xidian.edu.cn/info/1020/11642.htm",
+      "date": "2025-04-30"
+    },
+    {
+      "id": "math:11162",
+      "source_id": "math",
+      "title": "数学与统计学院2025年硕士研究生招生统计学调剂拟录取名单公示",
+      "url": "https://math.xidian.edu.cn/info/1020/11162.htm",
+      "date": "2025-04-09"
+    },
+    {
+      "id": "math:11082",
+      "source_id": "math",
+      "title": "科研协作项目公示信息（九）",
+      "url": "https://math.xidian.edu.cn/info/1020/11082.htm",
+      "date": "2025-04-08"
+    },
+    {
+      "id": "math:11042",
+      "source_id": "math",
+      "title": "数学与统计学院2025年清明节假期值班安排表",
+      "url": "https://math.xidian.edu.cn/info/1020/11042.htm",
+      "date": "2025-04-03"
+    },
+    {
+      "id": "math:11022",
+      "source_id": "math",
+      "title": "数学与统计学院2025年硕士研究生招生调剂公告",
+      "url": "https://math.xidian.edu.cn/info/1020/11022.htm",
+      "date": "2025-04-03"
+    },
+    {
+      "id": "math:11002",
+      "source_id": "math",
+      "title": "数学与统计学院2025年硕士研究生招生一志愿统考拟录取名单公示",
+      "url": "https://math.xidian.edu.cn/info/1020/11002.htm",
+      "date": "2025-03-28"
+    },
+    {
+      "id": "math:10992",
+      "source_id": "math",
+      "title": "关于公布数学与统计学院2025年硕士研究生复试成绩的通知",
+      "url": "https://math.xidian.edu.cn/info/1020/10992.htm",
+      "date": "2025-03-27"
+    },
+    {
+      "id": "math:10952",
+      "source_id": "math",
+      "title": "数学与统计学院2025年硕士研究生招生复试录取工作方案",
+      "url": "https://math.xidian.edu.cn/info/1020/10952.htm",
+      "date": "2025-03-21"
+    },
+    {
+      "id": "math:10862",
+      "source_id": "math",
+      "title": "数学与统计学2025年基本科研业务自由探索拟资助项目公示",
+      "url": "https://math.xidian.edu.cn/info/1020/10862.htm",
+      "date": "2025-02-27"
+    },
+    {
+      "id": "math:10802",
+      "source_id": "math",
+      "title": "数学与统计学院2025年寒假值班安排表",
+      "url": "https://math.xidian.edu.cn/info/1020/10802.htm",
+      "date": "2025-01-13"
+    },
+    {
+      "id": "math:14864",
+      "source_id": "math",
+      "title": "关于做好2025年研究生学位申请工作的通知",
+      "url": "https://gr.xidian.edu.cn/info/1044/14864.htm",
+      "date": "2025-01-10"
+    },
+    {
+      "id": "math:10752",
+      "source_id": "math",
+      "title": "数学与统计学院2025年元旦假期值班安排表",
+      "url": "https://math.xidian.edu.cn/info/1020/10752.htm",
+      "date": "2024-12-31"
+    },
+    {
+      "id": "math:10462",
+      "source_id": "math",
+      "title": "科研协作项目公示信息（八）",
+      "url": "https://math.xidian.edu.cn/info/1020/10462.htm",
+      "date": "2024-12-13"
+    },
+    {
+      "id": "math:10642",
+      "source_id": "math",
+      "title": "数学与统计学院开展国外留学深造经验分享交流活动",
+      "url": "https://math.xidian.edu.cn/info/1020/10642.htm",
+      "date": "2024-12-12"
+    },
+    {
+      "id": "math:10632",
+      "source_id": "math",
+      "title": "关于公布《高等数学》集中答疑安排的通知",
+      "url": "https://math.xidian.edu.cn/info/1020/10632.htm",
+      "date": "2024-12-12"
+    },
+    {
+      "id": "math:10602",
+      "source_id": "math",
+      "title": "关于公示数学与统计学院2025年春季博士研究生招生拟录取名单的通知",
+      "url": "https://math.xidian.edu.cn/info/1020/10602.htm",
+      "date": "2024-12-10"
+    },
+    {
+      "id": "math:10392",
+      "source_id": "math",
+      "title": "数学与统计学院2025年攻读春季博士学位研究生申请考核工作安排的通知",
+      "url": "https://math.xidian.edu.cn/info/1020/10392.htm",
+      "date": "2024-11-18"
+    },
+    {
+      "id": "math:10352",
+      "source_id": "math",
+      "title": "科研协作项目公示信息（六）",
+      "url": "https://math.xidian.edu.cn/info/1020/10352.htm",
+      "date": "2024-11-13"
+    },
+    {
+      "id": "math:10252",
+      "source_id": "math",
+      "title": "数学与统计学院2025年优研计划入选名单公示",
+      "url": "https://math.xidian.edu.cn/info/1020/10252.htm",
+      "date": "2024-10-31"
+    },
+    {
+      "id": "math:10132",
+      "source_id": "math",
+      "title": "科研协作项目公示信息（五）",
+      "url": "https://math.xidian.edu.cn/info/1020/10132.htm",
+      "date": "2024-10-18"
+    },
+    {
+      "id": "math:10022",
+      "source_id": "math",
+      "title": "数学与统计学院2024年国庆节假期值班安排表",
+      "url": "https://math.xidian.edu.cn/info/1020/10022.htm",
+      "date": "2024-09-30"
+    },
+    {
+      "id": "math:9782",
+      "source_id": "math",
+      "title": "科研协作项目公示信息(三)",
+      "url": "https://math.xidian.edu.cn/info/1020/9782.htm",
+      "date": "2024-09-24"
+    }
+  ]
+}

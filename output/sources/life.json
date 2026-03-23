@@ -1,0 +1,536 @@
+{
+  "meta": {
+    "source_id": "life",
+    "name": "生命科学技术学院",
+    "url": "https://life.xidian.edu.cn/tzgg.htm",
+    "last_scraped": "2026-03-23T14:49:46.036035Z",
+    "total_notices": 75
+  },
+  "notices": [
+    {
+      "id": "life:16761",
+      "source_id": "life",
+      "title": "生命科学技术学院2026年硕士研究生招生复试录取工作方案",
+      "url": "https://life.xidian.edu.cn/info/1048/16761.htm",
+      "date": "2026-03-23"
+    },
+    {
+      "id": "life:16731",
+      "source_id": "life",
+      "title": "生命科学技术学院2026年研究生创新基金项目立项公示",
+      "url": "https://life.xidian.edu.cn/info/1048/16731.htm",
+      "date": "2026-03-11"
+    },
+    {
+      "id": "life:16721",
+      "source_id": "life",
+      "title": "生命科学技术学院2026年度实验室安全巡检员勤工助学岗位招聘通知",
+      "url": "https://life.xidian.edu.cn/info/1048/16721.htm",
+      "date": "2026-03-10"
+    },
+    {
+      "id": "life:16691",
+      "source_id": "life",
+      "title": "生命科学技术学院2026年寒假值班表",
+      "url": "https://life.xidian.edu.cn/info/1048/16691.htm",
+      "date": "2026-01-19"
+    },
+    {
+      "id": "life:16651",
+      "source_id": "life",
+      "title": "生命科学技术学院2026年元旦节假期值班安排",
+      "url": "https://life.xidian.edu.cn/info/1048/16651.htm",
+      "date": "2025-12-31"
+    },
+    {
+      "id": "life:16641",
+      "source_id": "life",
+      "title": "生命科学技术学院2025年度本科优质教学奖推荐名单公示",
+      "url": "https://life.xidian.edu.cn/info/1048/16641.htm",
+      "date": "2025-12-29"
+    },
+    {
+      "id": "life:16611",
+      "source_id": "life",
+      "title": "生命科学技术学院2026年春季博士招生复试拟录取名单公示",
+      "url": "https://life.xidian.edu.cn/info/1048/16611.htm",
+      "date": "2025-12-18"
+    },
+    {
+      "id": "life:16601",
+      "source_id": "life",
+      "title": "生命科学技术学院2026年（春季）博士研究生招生复试工作安排",
+      "url": "https://life.xidian.edu.cn/info/1048/16601.htm",
+      "date": "2025-12-11"
+    },
+    {
+      "id": "life:16521",
+      "source_id": "life",
+      "title": "生命科学技术学院博士研究生招生申请考核制实施方案（2026版）",
+      "url": "https://life.xidian.edu.cn/info/1048/16521.htm",
+      "date": "2025-11-04"
+    },
+    {
+      "id": "life:16241",
+      "source_id": "life",
+      "title": "生命科学技术学院2026年推荐免试研究生接收工作实施方案",
+      "url": "https://life.xidian.edu.cn/info/1048/16241.htm",
+      "date": "2025-09-15"
+    },
+    {
+      "id": "life:16221",
+      "source_id": "life",
+      "title": "关于调整生命科学技术学院2026年推荐免试研究生招生预报名时间的通知",
+      "url": "https://life.xidian.edu.cn/info/1048/16221.htm",
+      "date": "2025-09-05"
+    },
+    {
+      "id": "life:16201",
+      "source_id": "life",
+      "title": "生命科学技术学院关于开展2025级实验班选拔面试的通知",
+      "url": "https://life.xidian.edu.cn/info/1048/16201.htm",
+      "date": "2025-09-01"
+    },
+    {
+      "id": "life:16171",
+      "source_id": "life",
+      "title": "关于2025级生命智能英才班学生选拔的通知",
+      "url": "https://life.xidian.edu.cn/info/1048/16171.htm",
+      "date": "2025-08-23"
+    },
+    {
+      "id": "life:16091",
+      "source_id": "life",
+      "title": "生命科学技术学院2026年推荐免试研究生招生预报名通知",
+      "url": "https://life.xidian.edu.cn/info/1048/16091.htm",
+      "date": "2025-07-21"
+    },
+    {
+      "id": "life:16071",
+      "source_id": "life",
+      "title": "生命科学技术学院2026届优秀本科毕业生推荐免试攻读硕士学位研究生实施办法",
+      "url": "https://life.xidian.edu.cn/info/1048/16071.htm",
+      "date": "2025-07-17"
+    },
+    {
+      "id": "life:16031",
+      "source_id": "life",
+      "title": "西安电子科技大学生命科学技术学院2025年“生命智核”暑期研习入选人员名单公布",
+      "url": "https://life.xidian.edu.cn/info/1048/16031.htm",
+      "date": "2025-07-09"
+    },
+    {
+      "id": "life:16011",
+      "source_id": "life",
+      "title": "生命科学技术学院2023级本科生转专业面试安排",
+      "url": "https://life.xidian.edu.cn/info/1048/16011.htm",
+      "date": "2025-07-04"
+    },
+    {
+      "id": "life:15991",
+      "source_id": "life",
+      "title": "西安电子科技大学生命科学技术学院2025年“生命智核”暑期研习通知",
+      "url": "https://life.xidian.edu.cn/info/1048/15991.htm",
+      "date": "2025-06-30"
+    },
+    {
+      "id": "life:15981",
+      "source_id": "life",
+      "title": "生命科学技术学院2023级本科生转专业工作实施细则",
+      "url": "https://life.xidian.edu.cn/info/1048/15981.htm",
+      "date": "2025-06-30"
+    },
+    {
+      "id": "life:15351",
+      "source_id": "life",
+      "title": "生命科学技术学院做好选聘2025届毕业生担任校内科研助理工作的通知",
+      "url": "https://life.xidian.edu.cn/info/1048/15351.htm",
+      "date": "2025-06-05"
+    },
+    {
+      "id": "life:15291",
+      "source_id": "life",
+      "title": "安徽省2025年度招录选调生考察公告",
+      "url": "https://life.xidian.edu.cn/info/1048/15291.htm",
+      "date": "2025-05-28"
+    },
+    {
+      "id": "life:14961",
+      "source_id": "life",
+      "title": "生命科学技术学院2025年秋季博士研究生递补拟录取名单公示",
+      "url": "https://life.xidian.edu.cn/info/1048/14961.htm",
+      "date": "2025-05-21"
+    },
+    {
+      "id": "life:14861",
+      "source_id": "life",
+      "title": "生命科学技术学院2025年秋季博士研究生拟录取名单公示",
+      "url": "https://life.xidian.edu.cn/info/1048/14861.htm",
+      "date": "2025-05-20"
+    },
+    {
+      "id": "life:14851",
+      "source_id": "life",
+      "title": "关于公布生命科学技术学院2025年秋季博士研究生招生复试成绩的通知",
+      "url": "https://life.xidian.edu.cn/info/1048/14851.htm",
+      "date": "2025-05-19"
+    },
+    {
+      "id": "life:14841",
+      "source_id": "life",
+      "title": "生命科学技术学院2025年秋季博士研究生招生复试名单",
+      "url": "https://life.xidian.edu.cn/info/1048/14841.htm",
+      "date": "2025-05-13"
+    },
+    {
+      "id": "life:14831",
+      "source_id": "life",
+      "title": "生命科学技术学院2025年（秋季）博士研究生招生复试与录取工作安排",
+      "url": "https://life.xidian.edu.cn/info/1048/14831.htm",
+      "date": "2025-05-13"
+    },
+    {
+      "id": "life:7731",
+      "source_id": "life",
+      "title": "生命科学技术学院2025年硕士研究生招生调剂拟录取名单公示",
+      "url": "https://life.xidian.edu.cn/info/1048/7731.htm",
+      "date": "2025-04-12"
+    },
+    {
+      "id": "life:7691",
+      "source_id": "life",
+      "title": "生命科学技术学院2025年硕士研究生招生调剂复试考生名单公布",
+      "url": "https://life.xidian.edu.cn/info/1048/7691.htm",
+      "date": "2025-04-09"
+    },
+    {
+      "id": "life:7711",
+      "source_id": "life",
+      "title": "生命科学技术学院关于2024—2025年度共青团先进集体和先进个人评选结果的公示",
+      "url": "https://life.xidian.edu.cn/info/1048/7711.htm",
+      "date": "2025-04-08"
+    },
+    {
+      "id": "life:7661",
+      "source_id": "life",
+      "title": "生命科学技术学院2025年硕士研究生招生调剂公告",
+      "url": "https://life.xidian.edu.cn/info/1048/7661.htm",
+      "date": "2025-04-03"
+    },
+    {
+      "id": "life:7651",
+      "source_id": "life",
+      "title": "生命科学技术学院2025年硕士研究生招生一志愿统考拟录取名单公示",
+      "url": "https://life.xidian.edu.cn/info/1048/7651.htm",
+      "date": "2025-04-02"
+    },
+    {
+      "id": "life:7641",
+      "source_id": "life",
+      "title": "关于公布生命科学技术学院2025年硕士研究生复试成绩的通知",
+      "url": "https://life.xidian.edu.cn/info/1048/7641.htm",
+      "date": "2025-03-31"
+    },
+    {
+      "id": "life:7601",
+      "source_id": "life",
+      "title": "关于2024级生命智能英才班学生选拔的通知",
+      "url": "https://life.xidian.edu.cn/info/1048/7601.htm",
+      "date": "2025-03-28"
+    },
+    {
+      "id": "life:7591",
+      "source_id": "life",
+      "title": "生命科学技术学院2025年硕士研究生招生复试时间地点安排",
+      "url": "https://life.xidian.edu.cn/info/1048/7591.htm",
+      "date": "2025-03-27"
+    },
+    {
+      "id": "life:7561",
+      "source_id": "life",
+      "title": "生命科学技术学院2025年硕士研究生招生复试录取工作方案",
+      "url": "https://life.xidian.edu.cn/info/1048/7561.htm",
+      "date": "2025-03-21"
+    },
+    {
+      "id": "life:7521",
+      "source_id": "life",
+      "title": "2025年生命科学技术学院研究生创新基金项目立项公示",
+      "url": "https://life.xidian.edu.cn/info/1048/7521.htm",
+      "date": "2025-02-28"
+    },
+    {
+      "id": "life:7501",
+      "source_id": "life",
+      "title": "生命科学技术学院2025年度实验室安全巡检员勤工助学岗位招聘通知",
+      "url": "https://life.xidian.edu.cn/info/1048/7501.htm",
+      "date": "2025-02-14"
+    },
+    {
+      "id": "life:7441",
+      "source_id": "life",
+      "title": "生命科学技术学院2024年度本科优质教学奖推荐名单公示",
+      "url": "https://life.xidian.edu.cn/info/1048/7441.htm",
+      "date": "2025-01-06"
+    },
+    {
+      "id": "life:7371",
+      "source_id": "life",
+      "title": "生命科学技术学院2025年春季博士招生复试拟录取名单",
+      "url": "https://life.xidian.edu.cn/info/1048/7371.htm",
+      "date": "2024-12-16"
+    },
+    {
+      "id": "life:7331",
+      "source_id": "life",
+      "title": "生命科学技术学院2025年（春季）博士研究生招生复试工作安排",
+      "url": "https://life.xidian.edu.cn/info/1048/7331.htm",
+      "date": "2024-12-11"
+    },
+    {
+      "id": "life:7321",
+      "source_id": "life",
+      "title": "生命科学技术学院博士研究生招生考试申请考核实施方案（2025版）",
+      "url": "https://life.xidian.edu.cn/info/1048/7321.htm",
+      "date": "2024-12-09"
+    },
+    {
+      "id": "life:7011",
+      "source_id": "life",
+      "title": "生命科学技术学院2025年推荐免试硕士研究生接收工作实施方案",
+      "url": "https://life.xidian.edu.cn/info/1048/7011.htm",
+      "date": "2024-09-18"
+    },
+    {
+      "id": "life:6991",
+      "source_id": "life",
+      "title": "关于调整生命科学技术学院2025年推荐免试硕士研究生招生预报名时间的通知",
+      "url": "https://life.xidian.edu.cn/info/1048/6991.htm",
+      "date": "2024-09-14"
+    },
+    {
+      "id": "life:6911",
+      "source_id": "life",
+      "title": "生命科学技术学院2025年推荐免试硕士研究生招生预报名通知",
+      "url": "https://life.xidian.edu.cn/info/1048/6911.htm",
+      "date": "2024-08-02"
+    },
+    {
+      "id": "life:6891",
+      "source_id": "life",
+      "title": "生命科学技术学院2025年“优秀科研人才选拔计划”综合面试成绩公示",
+      "url": "https://life.xidian.edu.cn/info/1048/6891.htm",
+      "date": "2024-07-29"
+    },
+    {
+      "id": "life:6861",
+      "source_id": "life",
+      "title": "生命科学技术学院关于2024-2025学年秋季学期本科课程教材选用情况的公示",
+      "url": "https://life.xidian.edu.cn/info/1048/6861.htm",
+      "date": "2024-07-16"
+    },
+    {
+      "id": "life:6860",
+      "source_id": "life",
+      "title": "生命科学技术学院2025届优秀本科毕业生推荐免试攻读硕士学位研究生实施办法",
+      "url": "https://life.xidian.edu.cn/info/1048/6860.htm",
+      "date": "2024-07-16"
+    },
+    {
+      "id": "life:6881",
+      "source_id": "life",
+      "title": "生命科学技术学院2022级本科生转专业面试安排",
+      "url": "https://life.xidian.edu.cn/info/1048/6881.htm",
+      "date": "2024-07-08"
+    },
+    {
+      "id": "life:6841",
+      "source_id": "life",
+      "title": "生命科学技术学院2024年非教师准聘人员中期考核结果公示",
+      "url": "https://life.xidian.edu.cn/info/1048/6841.htm",
+      "date": "2024-07-04"
+    },
+    {
+      "id": "life:6831",
+      "source_id": "life",
+      "title": "生命科学技术学院2022级本科生转专业工作实施细则",
+      "url": "https://life.xidian.edu.cn/info/1048/6831.htm",
+      "date": "2024-07-02"
+    },
+    {
+      "id": "life:6829",
+      "source_id": "life",
+      "title": "西安电子科技大学生命科学技术学院2025年“优秀科研人才选拔计划”实施方案",
+      "url": "https://life.xidian.edu.cn/info/1048/6829.htm",
+      "date": "2024-06-26"
+    },
+    {
+      "id": "life:6822",
+      "source_id": "life",
+      "title": "生命科学技术学院做好选聘2024届毕业生担任校内科研助理工作的通知",
+      "url": "https://life.xidian.edu.cn/info/1048/6822.htm",
+      "date": "2024-05-31"
+    },
+    {
+      "id": "life:6820",
+      "source_id": "life",
+      "title": "生命科学技术学院2024年秋季博士研究生拟录取名单公示",
+      "url": "https://life.xidian.edu.cn/info/1048/6820.htm",
+      "date": "2024-05-28"
+    },
+    {
+      "id": "life:6816",
+      "source_id": "life",
+      "title": "关于公布生命科学技术学院2024年秋季博士研究生招生复试成绩的通知",
+      "url": "https://life.xidian.edu.cn/info/1048/6816.htm",
+      "date": "2024-05-24"
+    },
+    {
+      "id": "life:6813",
+      "source_id": "life",
+      "title": "生命科学技术学院2024年秋季博士研究生招生复试名单",
+      "url": "https://life.xidian.edu.cn/info/1048/6813.htm",
+      "date": "2024-05-20"
+    },
+    {
+      "id": "life:6812",
+      "source_id": "life",
+      "title": "生命科学技术学院2024年（秋季）博士研究生招生复试与录取工作安排",
+      "url": "https://life.xidian.edu.cn/info/1048/6812.htm",
+      "date": "2024-05-20"
+    },
+    {
+      "id": "life:6811",
+      "source_id": "life",
+      "title": "西安电子科技大学生命科学技术学院2024年外聘人员岗位招聘公告",
+      "url": "https://life.xidian.edu.cn/info/1048/6811.htm",
+      "date": "2024-05-15"
+    },
+    {
+      "id": "life:6792",
+      "source_id": "life",
+      "title": "生命科学技术学院2024届毕业研究生评优结果公示",
+      "url": "https://life.xidian.edu.cn/info/1048/6792.htm",
+      "date": "2024-04-26"
+    },
+    {
+      "id": "life:6787",
+      "source_id": "life",
+      "title": "生命科学技术学院2024年硕士研究生招生调剂拟录取名单公示",
+      "url": "https://life.xidian.edu.cn/info/1048/6787.htm",
+      "date": "2024-04-18"
+    },
+    {
+      "id": "life:6785",
+      "source_id": "life",
+      "title": "生命科学技术学院关于对2024年(春季)博士研究生学业奖学金评定结果的公示",
+      "url": "https://life.xidian.edu.cn/info/1048/6785.htm",
+      "date": "2024-04-16"
+    },
+    {
+      "id": "life:6783",
+      "source_id": "life",
+      "title": "关于公布生命科学技术学院2024年硕士研究生生物与医药专业调剂复试成绩的通知",
+      "url": "https://life.xidian.edu.cn/info/1048/6783.htm",
+      "date": "2024-04-12"
+    },
+    {
+      "id": "life:6782",
+      "source_id": "life",
+      "title": "生命科学技术学院硕士研究生招生调剂系统开放时间说明",
+      "url": "https://life.xidian.edu.cn/info/1048/6782.htm",
+      "date": "2024-04-08"
+    },
+    {
+      "id": "life:6781",
+      "source_id": "life",
+      "title": "生命科学技术学院2024年硕士研究生招生调剂公告",
+      "url": "https://life.xidian.edu.cn/info/1048/6781.htm",
+      "date": "2024-04-07"
+    },
+    {
+      "id": "life:6770",
+      "source_id": "life",
+      "title": "生命科学技术学院2024年硕士研究生招生一志愿拟录取名单公示",
+      "url": "https://life.xidian.edu.cn/info/1048/6770.htm",
+      "date": "2024-04-02"
+    },
+    {
+      "id": "life:6769",
+      "source_id": "life",
+      "title": "关于公布生命科学技术学院2024年硕士研究生复试成绩的通知",
+      "url": "https://life.xidian.edu.cn/info/1048/6769.htm",
+      "date": "2024-04-01"
+    },
+    {
+      "id": "life:6766",
+      "source_id": "life",
+      "title": "生命科学技术学院2024年硕士研究生招生复试时间地点安排",
+      "url": "https://life.xidian.edu.cn/info/1048/6766.htm",
+      "date": "2024-03-29"
+    },
+    {
+      "id": "life:6764",
+      "source_id": "life",
+      "title": "西安电子科技大学生命科学技术学院2024年硕士研究生招生复试录取工作安排",
+      "url": "https://life.xidian.edu.cn/info/1048/6764.htm",
+      "date": "2024-03-26"
+    },
+    {
+      "id": "life:6751",
+      "source_id": "life",
+      "title": "2024年生命科学技术学院研究生创新基金项目立项公示",
+      "url": "https://life.xidian.edu.cn/info/1048/6751.htm",
+      "date": "2024-03-08"
+    },
+    {
+      "id": "life:6740",
+      "source_id": "life",
+      "title": "生命科学技术学院实验室安全巡检员勤工助学岗位招聘通知",
+      "url": "https://life.xidian.edu.cn/info/1048/6740.htm",
+      "date": "2024-02-28"
+    },
+    {
+      "id": "life:6705",
+      "source_id": "life",
+      "title": "生命科学技术学院2023年度本科优质教学奖推荐名单公示",
+      "url": "https://life.xidian.edu.cn/info/1048/6705.htm",
+      "date": "2023-12-29"
+    },
+    {
+      "id": "life:6680",
+      "source_id": "life",
+      "title": "生命科学技术学院2024年春季博士招生复试拟录取名单",
+      "url": "https://life.xidian.edu.cn/info/1048/6680.htm",
+      "date": "2023-12-11"
+    },
+    {
+      "id": "life:6667",
+      "source_id": "life",
+      "title": "生命科学技术学院2023年非教师准聘人员中期考核结果公示",
+      "url": "https://life.xidian.edu.cn/info/1048/6667.htm",
+      "date": "2023-10-30"
+    },
+    {
+      "id": "life:6621",
+      "source_id": "life",
+      "title": "生命科学技术学院2024年推荐免试硕士研究生接收工作实施方案",
+      "url": "https://life.xidian.edu.cn/info/1048/6621.htm",
+      "date": "2023-09-22"
+    },
+    {
+      "id": "life:6582",
+      "source_id": "life",
+      "title": "生命科学技术学院2024届优秀本科毕业生推荐免试攻读硕士学位研究生实施办法",
+      "url": "https://life.xidian.edu.cn/info/1048/6582.htm",
+      "date": "2023-09-05"
+    },
+    {
+      "id": "life:6555",
+      "source_id": "life",
+      "title": "生命科学技术学院2024年“优秀科研人才选拔计划”实施方案",
+      "url": "https://life.xidian.edu.cn/info/1048/6555.htm",
+      "date": "2023-07-20"
+    }
+  ]
+}

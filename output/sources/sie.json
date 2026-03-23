@@ -1,0 +1,431 @@
+{
+  "meta": {
+    "source_id": "sie",
+    "name": "国际教育学院",
+    "url": "https://sie.xidian.edu.cn/sy/tzgg.htm",
+    "last_scraped": "2026-03-23T14:50:08.626629Z",
+    "total_notices": 60
+  },
+  "notices": [
+    {
+      "id": "sie:7265",
+      "source_id": "sie",
+      "title": "关于招募2026年西安电子科技大学海外孔子学院公派教师的通知",
+      "url": "https://sie.xidian.edu.cn/info/1130/7265.htm",
+      "date": "2026-03-20"
+    },
+    {
+      "id": "sie:7255",
+      "source_id": "sie",
+      "title": "关于申报2026年中国政府奖学金国际暑期学校项目的通知",
+      "url": "https://sie.xidian.edu.cn/info/1130/7255.htm",
+      "date": "2026-03-16"
+    },
+    {
+      "id": "sie:7125",
+      "source_id": "sie",
+      "title": "西安电子科技大学国际教育学院外聘人员一般岗位招聘公告",
+      "url": "https://sie.xidian.edu.cn/info/1130/7125.htm",
+      "date": "2026-03-02"
+    },
+    {
+      "id": "sie:7085",
+      "source_id": "sie",
+      "title": "2026年西安电子科技大学学校公派留学项目报名通知",
+      "url": "https://sie.xidian.edu.cn/info/1130/7085.htm",
+      "date": "2026-01-23"
+    },
+    {
+      "id": "sie:7065",
+      "source_id": "sie",
+      "title": "西安电子科技大学关于海外孔子学院人员2025年度考核结果的公示",
+      "url": "https://sie.xidian.edu.cn/info/1130/7065.htm",
+      "date": "2026-01-20"
+    },
+    {
+      "id": "sie:7055",
+      "source_id": "sie",
+      "title": "关于申报2026年中国政府奖学金短期科研交流项目的通知",
+      "url": "https://sie.xidian.edu.cn/info/1130/7055.htm",
+      "date": "2026-01-19"
+    },
+    {
+      "id": "sie:6845",
+      "source_id": "sie",
+      "title": "关于2025~2026学年西安电子科技大学华山优秀国际学生奖学金候选人名单公示",
+      "url": "https://sie.xidian.edu.cn/info/1130/6845.htm",
+      "date": "2025-12-04"
+    },
+    {
+      "id": "sie:6345",
+      "source_id": "sie",
+      "title": "关于开展西安电子科技大学孔子学院国际中文教师志愿者笔试工作的通知",
+      "url": "https://sie.xidian.edu.cn/info/1130/6345.htm",
+      "date": "2025-11-06"
+    },
+    {
+      "id": "sie:6115",
+      "source_id": "sie",
+      "title": "西安电子科技大学关于开展2026年孔子学院国际中文教师志愿者选拔工作的通知",
+      "url": "https://sie.xidian.edu.cn/info/1130/6115.htm",
+      "date": "2025-10-27"
+    },
+    {
+      "id": "sie:5615",
+      "source_id": "sie",
+      "title": "关于遴选德国帕德博恩孔子学院中方院长的通知",
+      "url": "https://sie.xidian.edu.cn/info/1130/5615.htm",
+      "date": "2025-09-30"
+    },
+    {
+      "id": "sie:5585",
+      "source_id": "sie",
+      "title": "西安电子科技大学关于中外合作办学项目评估信息的公示",
+      "url": "https://sie.xidian.edu.cn/info/1130/5585.htm",
+      "date": "2025-09-22"
+    },
+    {
+      "id": "sie:5475",
+      "source_id": "sie",
+      "title": "西安电子科技大学2025年度优秀毕业生海外深造奖学金拟资助学生名单公示",
+      "url": "https://sie.xidian.edu.cn/info/1130/5475.htm",
+      "date": "2025-07-08"
+    },
+    {
+      "id": "sie:5455",
+      "source_id": "sie",
+      "title": "关于西安电子科技大学2025-2026学年学生国际交流资助的公示",
+      "url": "https://sie.xidian.edu.cn/info/1130/5455.htm",
+      "date": "2025-07-07"
+    },
+    {
+      "id": "sie:5425",
+      "source_id": "sie",
+      "title": "2025年日本联合国菁英人才能力建设项目名单公示",
+      "url": "https://sie.xidian.edu.cn/info/1130/5425.htm",
+      "date": "2025-06-09"
+    },
+    {
+      "id": "sie:5345",
+      "source_id": "sie",
+      "title": "关于开展2024-2025学年学生国际交流资助评选工作的通知",
+      "url": "https://sie.xidian.edu.cn/info/1130/5345.htm",
+      "date": "2025-05-19"
+    },
+    {
+      "id": "sie:5315",
+      "source_id": "sie",
+      "title": "2025年秋季赴德国帕德博恩大学交换生名单公示",
+      "url": "https://sie.xidian.edu.cn/info/1130/5315.htm",
+      "date": "2025-05-09"
+    },
+    {
+      "id": "sie:5285",
+      "source_id": "sie",
+      "title": "2025年中国政府奖学金年度评审结果公示",
+      "url": "https://sie.xidian.edu.cn/info/1130/5285.htm",
+      "date": "2025-04-28"
+    },
+    {
+      "id": "sie:5065",
+      "source_id": "sie",
+      "title": "关于申请2025年度优秀毕业生海外深造奖学金有关事项的通知",
+      "url": "https://sie.xidian.edu.cn/info/1130/5065.htm",
+      "date": "2025-04-23"
+    },
+    {
+      "id": "sie:5025",
+      "source_id": "sie",
+      "title": "关于遴选马来西亚深斋孔子学院中方院长的通知",
+      "url": "https://sie.xidian.edu.cn/info/1130/5025.htm",
+      "date": "2025-04-18"
+    },
+    {
+      "id": "sie:4995",
+      "source_id": "sie",
+      "title": "关于2025年西安电子科技大学学院学生国际交流提升专项评审结果的公示",
+      "url": "https://sie.xidian.edu.cn/info/1130/4995.htm",
+      "date": "2025-03-25"
+    },
+    {
+      "id": "sie:4955",
+      "source_id": "sie",
+      "title": "2025年西安电子科技大学国际组织实习名单公示",
+      "url": "https://sie.xidian.edu.cn/info/1130/4955.htm",
+      "date": "2025-03-17"
+    },
+    {
+      "id": "sie:4925",
+      "source_id": "sie",
+      "title": "西安电子科技大学关于选拔2025年孔子学院后备人才的通知",
+      "url": "https://sie.xidian.edu.cn/info/1130/4925.htm",
+      "date": "2025-03-10"
+    },
+    {
+      "id": "sie:4915",
+      "source_id": "sie",
+      "title": "西安电子科技大学关于开展2025年孔子学院国际中文教师志愿者选拔工作的通知",
+      "url": "https://sie.xidian.edu.cn/info/1130/4915.htm",
+      "date": "2025-03-10"
+    },
+    {
+      "id": "sie:4635",
+      "source_id": "sie",
+      "title": "关于遴选2025-2026年赴法汉语语言助教的通知",
+      "url": "https://sie.xidian.edu.cn/info/1130/4635.htm",
+      "date": "2025-03-05"
+    },
+    {
+      "id": "sie:4615",
+      "source_id": "sie",
+      "title": "关于开展2025年中国政府奖学金短期科研交流项目报名通知",
+      "url": "https://sie.xidian.edu.cn/info/1130/4615.htm",
+      "date": "2025-03-03"
+    },
+    {
+      "id": "sie:4575",
+      "source_id": "sie",
+      "title": "西安电子科技大学国际交流社会资源库入库机构名单公示",
+      "url": "https://sie.xidian.edu.cn/info/1130/4575.htm",
+      "date": "2025-01-17"
+    },
+    {
+      "id": "sie:4465",
+      "source_id": "sie",
+      "title": "关于申报2025年“学院学生国际交流提升专项”的通知",
+      "url": "https://sie.xidian.edu.cn/info/1130/4465.htm",
+      "date": "2025-01-08"
+    },
+    {
+      "id": "sie:4455",
+      "source_id": "sie",
+      "title": "关于建立西安电子科技大学学生国际交流社会资源库的通知",
+      "url": "https://sie.xidian.edu.cn/info/1130/4455.htm",
+      "date": "2025-01-02"
+    },
+    {
+      "id": "sie:4445",
+      "source_id": "sie",
+      "title": "关于2025年加拿大Mitacs本科生实习合作奖学金项目推荐名单的公示",
+      "url": "https://sie.xidian.edu.cn/info/1130/4445.htm",
+      "date": "2024-12-27"
+    },
+    {
+      "id": "sie:4265",
+      "source_id": "sie",
+      "title": "西安电子科技大学2025年国际学生招生简章",
+      "url": "https://sie.xidian.edu.cn/info/1130/4265.htm",
+      "date": "2024-12-12"
+    },
+    {
+      "id": "sie:3505",
+      "source_id": "sie",
+      "title": "2025年春季赴德国帕德博恩大学交换生名单公示",
+      "url": "https://sie.xidian.edu.cn/info/1130/3505.htm",
+      "date": "2024-11-11"
+    },
+    {
+      "id": "sie:3405",
+      "source_id": "sie",
+      "title": "2025学年春季学期韩国汉阳大学交换项目学生名单公示",
+      "url": "https://sie.xidian.edu.cn/info/1130/3405.htm",
+      "date": "2024-10-11"
+    },
+    {
+      "id": "sie:3385",
+      "source_id": "sie",
+      "title": "西安电子科技大学关于中外合作办学项目评估信息的公示",
+      "url": "https://sie.xidian.edu.cn/info/1130/3385.htm",
+      "date": "2024-09-30"
+    },
+    {
+      "id": "sie:3275",
+      "source_id": "sie",
+      "title": "西安电子科技大学2024年基本科研业务费 西电-拉曼中马科技创新专项拟立项项目公示",
+      "url": "https://sie.xidian.edu.cn/info/1130/3275.htm",
+      "date": "2024-09-05"
+    },
+    {
+      "id": "sie:3205",
+      "source_id": "sie",
+      "title": "西安电子科技大学2024年度优秀毕业生海外深造奖学金拟资助学生名单公示",
+      "url": "https://sie.xidian.edu.cn/info/1130/3205.htm",
+      "date": "2024-06-27"
+    },
+    {
+      "id": "sie:3194",
+      "source_id": "sie",
+      "title": "关于开展2023-2024学年学生国际交流资助评选工作的通知",
+      "url": "https://sie.xidian.edu.cn/info/1130/3194.htm",
+      "date": "2024-06-05"
+    },
+    {
+      "id": "sie:3193",
+      "source_id": "sie",
+      "title": "关于申请2024年度优秀毕业生海外深造奖学金有关事项的通知",
+      "url": "https://sie.xidian.edu.cn/info/1130/3193.htm",
+      "date": "2024-06-05"
+    },
+    {
+      "id": "sie:3183",
+      "source_id": "sie",
+      "title": "2024-2025学年德国帕德博恩大学秋季学期交换项目学生名单公示",
+      "url": "https://sie.xidian.edu.cn/info/1130/3183.htm",
+      "date": "2024-05-11"
+    },
+    {
+      "id": "sie:3176",
+      "source_id": "sie",
+      "title": "2024年中国政府奖学金年度评审结果公示",
+      "url": "https://sie.xidian.edu.cn/info/1130/3176.htm",
+      "date": "2024-05-07"
+    },
+    {
+      "id": "sie:3174",
+      "source_id": "sie",
+      "title": "西安电子科技大学关于推荐2024年国家公派出国教师人选的公示",
+      "url": "https://sie.xidian.edu.cn/info/1130/3174.htm",
+      "date": "2024-05-06"
+    },
+    {
+      "id": "sie:3165",
+      "source_id": "sie",
+      "title": "关于招募2024年西安电子科技大学海外孔子学院公派教师的通知",
+      "url": "https://sie.xidian.edu.cn/info/1130/3165.htm",
+      "date": "2024-04-17"
+    },
+    {
+      "id": "sie:3164",
+      "source_id": "sie",
+      "title": "关于开展西安电子科技大学孔子学院国际中文教师志愿者笔试工作的通知",
+      "url": "https://sie.xidian.edu.cn/info/1130/3164.htm",
+      "date": "2024-04-15"
+    },
+    {
+      "id": "sie:3163",
+      "source_id": "sie",
+      "title": "关于2024年“学院学生国际交流提升专项”申报的通知",
+      "url": "https://sie.xidian.edu.cn/info/1130/3163.htm",
+      "date": "2024-04-11"
+    },
+    {
+      "id": "sie:3160",
+      "source_id": "sie",
+      "title": "西安电子科技大学关于中外合作办学项目年度报告的公示",
+      "url": "https://sie.xidian.edu.cn/info/1130/3160.htm",
+      "date": "2024-04-02"
+    },
+    {
+      "id": "sie:3133",
+      "source_id": "sie",
+      "title": "西安电子科技大学关于开展2024年孔子学院国际中文教师志愿者选拔工作的通知",
+      "url": "https://sie.xidian.edu.cn/info/1130/3133.htm",
+      "date": "2024-03-14"
+    },
+    {
+      "id": "sie:3113",
+      "source_id": "sie",
+      "title": "关于海外孔子学院外派人员2023年度考核结果的公示",
+      "url": "https://sie.xidian.edu.cn/info/1130/3113.htm",
+      "date": "2024-01-17"
+    },
+    {
+      "id": "sie:3093",
+      "source_id": "sie",
+      "title": "2023~2024学年西安电子科技大学华山优秀国际学生奖学金候选人名单公示",
+      "url": "https://sie.xidian.edu.cn/info/1130/3093.htm",
+      "date": "2023-12-04"
+    },
+    {
+      "id": "sie:3092",
+      "source_id": "sie",
+      "title": "关于选拔西安电子科技大学2023年孔子学院后备人才的通知",
+      "url": "https://sie.xidian.edu.cn/info/1130/3092.htm",
+      "date": "2023-11-27"
+    },
+    {
+      "id": "sie:2955",
+      "source_id": "sie",
+      "title": "关于西安电子科技大学2022-2023学年学生国际交流资助的补充公示",
+      "url": "https://sie.xidian.edu.cn/info/1130/2955.htm",
+      "date": "2023-07-14"
+    },
+    {
+      "id": "sie:2953",
+      "source_id": "sie",
+      "title": "关于西安电子科技大学2022-2023学年学生国际交流资助的公示",
+      "url": "https://sie.xidian.edu.cn/info/1130/2953.htm",
+      "date": "2023-07-10"
+    },
+    {
+      "id": "sie:2933",
+      "source_id": "sie",
+      "title": "西安电子科技大学关于推荐海外孔子学院（课堂）公派出国教师人选的公示",
+      "url": "https://sie.xidian.edu.cn/info/1130/2933.htm",
+      "date": "2023-06-12"
+    },
+    {
+      "id": "sie:2926",
+      "source_id": "sie",
+      "title": "关于举办中国国际“互联网+”大学生创新创业大赛国际项目宣讲会的通知",
+      "url": "https://sie.xidian.edu.cn/info/1130/2926.htm",
+      "date": "2023-06-07"
+    },
+    {
+      "id": "sie:2920",
+      "source_id": "sie",
+      "title": "关于招募2023年西安电子科技大学海外孔子学院（课堂）公派教师的通知",
+      "url": "https://sie.xidian.edu.cn/info/1130/2920.htm",
+      "date": "2023-06-05"
+    },
+    {
+      "id": "sie:2918",
+      "source_id": "sie",
+      "title": "西安市“中亚五国”留学生奖学金项目西安电子科技大学招生简章",
+      "url": "https://sie.xidian.edu.cn/info/1130/2918.htm",
+      "date": "2023-06-05"
+    },
+    {
+      "id": "sie:2899",
+      "source_id": "sie",
+      "title": "2023年西电—法兰克福高等研究院（FIAS）国际联合研究中心交叉学科研究生暑期学校拟录取学生名单公示",
+      "url": "https://sie.xidian.edu.cn/info/1130/2899.htm",
+      "date": "2023-05-11"
+    },
+    {
+      "id": "sie:2896",
+      "source_id": "sie",
+      "title": "关于申请2023年度优秀毕业生海外深造奖学金有关事项的通知",
+      "url": "https://sie.xidian.edu.cn/info/1130/2896.htm",
+      "date": "2023-05-09"
+    },
+    {
+      "id": "sie:2893",
+      "source_id": "sie",
+      "title": "2023年西电—法兰克福高等研究院（FIAS)国际联合研究中心交叉学科研究生暑期学校选拔通知",
+      "url": "https://sie.xidian.edu.cn/info/1130/2893.htm",
+      "date": "2023-04-27"
+    },
+    {
+      "id": "sie:2416",
+      "source_id": "sie",
+      "title": "西安电子科技大学2023年国际学生汉语进修项目招生简章",
+      "url": "https://sie.xidian.edu.cn/info/1130/2416.htm",
+      "date": "2023-03-15"
+    },
+    {
+      "id": "sie:2415",
+      "source_id": "sie",
+      "title": "西安电子科技大学2023年国际学生研究生项目招生简章",
+      "url": "https://sie.xidian.edu.cn/info/1130/2415.htm",
+      "date": "2023-03-15"
+    },
+    {
+      "id": "sie:2414",
+      "source_id": "sie",
+      "title": "西安电子科技大学2023年国际学生本科生项目招生简章",
+      "url": "https://sie.xidian.edu.cn/info/1130/2414.htm",
+      "date": "2023-03-15"
+    }
+  ]
+}

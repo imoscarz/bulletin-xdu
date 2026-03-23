@@ -48,7 +48,6 @@ class TestJwcParsing:
         assert notices[0].source_id == "jwc"
         assert "四六级" in notices[0].title
         assert notices[0].date == date(2026, 3, 13)
-        assert notices[0].is_new is True
         assert notices[0].url == "https://jwc.xidian.edu.cn/info/1012/21703.htm"
 
     def test_second_item(self, jwc_html: str):
@@ -58,7 +57,6 @@ class TestJwcParsing:
         notices = adapter._parse_list_page(jwc_html)
         assert notices[1].id == "jwc:21680"
         assert notices[1].date == date(2026, 3, 10)
-        assert notices[1].is_new is False
 
     def test_extract_total_pages(self, jwc_html: str):
         from bs4 import BeautifulSoup
@@ -126,6 +124,13 @@ class TestUrlBuilding:
     def test_extract_article_id(self):
         assert XidianCMSAdapter._extract_article_id("info/1012/21703.htm") == "21703"
         assert XidianCMSAdapter._extract_article_id("../info/1020/22152.htm") == "22152"
+
+    def test_extract_article_id_from_query(self):
+        href = (
+            "2016content.jsp?urltype=news.NewsContentUrl&"
+            "wbtreeid=1227&wbnewsid=24808"
+        )
+        assert XidianCMSAdapter._extract_article_id(href) == "24808"
 
 
 class TestPagination:

@@ -1,0 +1,1761 @@
+{
+  "meta": {
+    "source_id": "see",
+    "name": "电子工程学院",
+    "url": "https://see.xidian.edu.cn/tzgg.htm",
+    "last_scraped": "2026-03-23T14:49:41.293318Z",
+    "total_notices": 250
+  },
+  "notices": [
+    {
+      "id": "see:103141",
+      "source_id": "see",
+      "title": "电子工程学院关于开展2025～2026学年第二学期研究生承担本科助教工作的通知",
+      "url": "https://see.xidian.edu.cn/info/1052/103141.htm",
+      "date": "2026-03-20"
+    },
+    {
+      "id": "see:103051",
+      "source_id": "see",
+      "title": "电子工程学院第十届“中国电子科技集团公司-西安电子科技大学协同创新奖教金”评审结果公示",
+      "url": "https://see.xidian.edu.cn/info/1052/103051.htm",
+      "date": "2026-03-06"
+    },
+    {
+      "id": "see:103021",
+      "source_id": "see",
+      "title": "关于做好2026年春季本科教学档案归档工作的通知",
+      "url": "https://see.xidian.edu.cn/info/1052/103021.htm",
+      "date": "2026-02-27"
+    },
+    {
+      "id": "see:102921",
+      "source_id": "see",
+      "title": "第十届“中国电子科技集团公司-西安电子科技大学协同创新奖教金”申报通知",
+      "url": "https://see.xidian.edu.cn/info/1052/102921.htm",
+      "date": "2026-01-26"
+    },
+    {
+      "id": "see:102911",
+      "source_id": "see",
+      "title": "关于2026年校级本科教育教学改革项目申报的通知",
+      "url": "https://see.xidian.edu.cn/info/1052/102911.htm",
+      "date": "2026-01-23"
+    },
+    {
+      "id": "see:102881",
+      "source_id": "see",
+      "title": "电子工程学院 2026 年寒假轮休值班表",
+      "url": "https://see.xidian.edu.cn/info/1052/102881.htm",
+      "date": "2026-01-19"
+    },
+    {
+      "id": "see:102831",
+      "source_id": "see",
+      "title": "电子工程学院关于核对2025年个人业绩的通知",
+      "url": "https://see.xidian.edu.cn/info/1052/102831.htm",
+      "date": "2026-01-13"
+    },
+    {
+      "id": "see:102781",
+      "source_id": "see",
+      "title": "2025年度本科优质教学奖拟推荐结果公示",
+      "url": "https://see.xidian.edu.cn/info/1052/102781.htm",
+      "date": "2026-01-06"
+    },
+    {
+      "id": "see:102771",
+      "source_id": "see",
+      "title": "2026年国家建设高水平大学公派研究生项目选派通知",
+      "url": "https://see.xidian.edu.cn/info/1052/102771.htm",
+      "date": "2026-01-05"
+    },
+    {
+      "id": "see:102291",
+      "source_id": "see",
+      "title": "电子工程学院2026年元旦假期值班安排",
+      "url": "https://see.xidian.edu.cn/info/1052/102291.htm",
+      "date": "2025-12-31"
+    },
+    {
+      "id": "see:1100",
+      "source_id": "see",
+      "title": "关于推荐2025年中国科协青年科技人才培育工程博士生专项计划候选人的通知",
+      "url": "https://see.xidian.edu.cn/info/1052/1100.htm",
+      "date": "2025-11-12"
+    },
+    {
+      "id": "see:102281",
+      "source_id": "see",
+      "title": "关于2025年度产学研基金拟立项候选项目公示的通知",
+      "url": "https://see.xidian.edu.cn/info/1052/102281.htm",
+      "date": "2025-11-12"
+    },
+    {
+      "id": "see:1099",
+      "source_id": "see",
+      "title": "关于2026届（2022级）本科毕业设计整体安排的通知",
+      "url": "https://see.xidian.edu.cn/info/1052/1099.htm",
+      "date": "2025-11-07"
+    },
+    {
+      "id": "see:1098",
+      "source_id": "see",
+      "title": "关于2025年度校级教材建设资助项目立项工作的通知",
+      "url": "https://see.xidian.edu.cn/info/1052/1098.htm",
+      "date": "2025-11-05"
+    },
+    {
+      "id": "see:1095",
+      "source_id": "see",
+      "title": "电子工程学院2025年昊致奖学金名单公示",
+      "url": "https://see.xidian.edu.cn/info/1052/1095.htm",
+      "date": "2025-10-24"
+    },
+    {
+      "id": "see:1097",
+      "source_id": "see",
+      "title": "关于开展2026年度教师教学鉴定工作的通知",
+      "url": "https://see.xidian.edu.cn/info/1052/1097.htm",
+      "date": "2025-10-21"
+    },
+    {
+      "id": "see:1096",
+      "source_id": "see",
+      "title": "关于2025年下学期本科教学准入证办理工作的通知",
+      "url": "https://see.xidian.edu.cn/info/1052/1096.htm",
+      "date": "2025-10-21"
+    },
+    {
+      "id": "see:1094",
+      "source_id": "see",
+      "title": "关于2022级本科毕设出题工作的通知",
+      "url": "https://see.xidian.edu.cn/info/1052/1094.htm",
+      "date": "2025-10-11"
+    },
+    {
+      "id": "see:1093",
+      "source_id": "see",
+      "title": "2025年度西安电子科技大学昆山创新研究院产学研基金项目申请通知",
+      "url": "https://see.xidian.edu.cn/info/1052/1093.htm",
+      "date": "2025-10-09"
+    },
+    {
+      "id": "see:1092",
+      "source_id": "see",
+      "title": "电子工程学院2025年国庆节、中秋节假期值班安排",
+      "url": "https://see.xidian.edu.cn/info/1052/1092.htm",
+      "date": "2025-09-29"
+    },
+    {
+      "id": "see:1082",
+      "source_id": "see",
+      "title": "关于评选2025年度本科优质教学奖的通知",
+      "url": "https://see.xidian.edu.cn/info/1052/1082.htm",
+      "date": "2025-09-16"
+    },
+    {
+      "id": "see:1090",
+      "source_id": "see",
+      "title": "电子工程学院 2025年暑假轮休值班安排",
+      "url": "https://see.xidian.edu.cn/info/1052/1090.htm",
+      "date": "2025-09-05"
+    },
+    {
+      "id": "see:1091",
+      "source_id": "see",
+      "title": "关于2025年度国家自然科学基金青年学生基础项目（博士研究生）推荐工作的通知",
+      "url": "https://see.xidian.edu.cn/info/1052/1091.htm",
+      "date": "2025-08-14"
+    },
+    {
+      "id": "see:1088",
+      "source_id": "see",
+      "title": "关于申报2025年校级本科教学成果奖的通知",
+      "url": "https://see.xidian.edu.cn/info/1052/1088.htm",
+      "date": "2025-08-02"
+    },
+    {
+      "id": "see:1089",
+      "source_id": "see",
+      "title": "关于申报2025年校级研究生教学成果奖的通知",
+      "url": "https://see.xidian.edu.cn/info/1052/1089.htm",
+      "date": "2025-07-10"
+    },
+    {
+      "id": "see:1087",
+      "source_id": "see",
+      "title": "电院“全球视野人才培养计划·新加坡南洋理工大学人工智能与ChatGPT”项目拟资助名单公示",
+      "url": "https://see.xidian.edu.cn/info/1052/1087.htm",
+      "date": "2025-07-04"
+    },
+    {
+      "id": "see:1086",
+      "source_id": "see",
+      "title": "电院“全球视野人才培养计划·慕尼黑工业大学电子信息与人工智能前沿”项目拟资助名单公示",
+      "url": "https://see.xidian.edu.cn/info/1052/1086.htm",
+      "date": "2025-07-04"
+    },
+    {
+      "id": "see:1085",
+      "source_id": "see",
+      "title": "电子工程学院2024-2025年度先进集体和先进个人推荐名单公示",
+      "url": "https://see.xidian.edu.cn/info/1052/1085.htm",
+      "date": "2025-07-04"
+    },
+    {
+      "id": "see:1083",
+      "source_id": "see",
+      "title": "电子工程学院“全球视野人才培养计划·欧洲实地国际组织实习计划”项目拟资助名单公示",
+      "url": "https://see.xidian.edu.cn/info/1052/1083.htm",
+      "date": "2025-06-24"
+    },
+    {
+      "id": "see:1084",
+      "source_id": "see",
+      "title": "关于做好2025年春季本科教学档案归档工作的通知",
+      "url": "https://see.xidian.edu.cn/info/1052/1084.htm",
+      "date": "2025-06-20"
+    },
+    {
+      "id": "see:1081",
+      "source_id": "see",
+      "title": "电子工程学院2025年研究生指导教师资格认定评审通过名单公示",
+      "url": "https://see.xidian.edu.cn/info/1052/1081.htm",
+      "date": "2025-06-13"
+    },
+    {
+      "id": "see:1080",
+      "source_id": "see",
+      "title": "电子工程学院2024-2025学年学生国际交流资助拟推荐名单公示",
+      "url": "https://see.xidian.edu.cn/info/1052/1080.htm",
+      "date": "2025-06-13"
+    },
+    {
+      "id": "see:1079",
+      "source_id": "see",
+      "title": "电子工程学院2025年非教师准聘人员聘期考核结果公示",
+      "url": "https://see.xidian.edu.cn/info/1052/1079.htm",
+      "date": "2025-06-10"
+    },
+    {
+      "id": "see:1076",
+      "source_id": "see",
+      "title": "电子工程学院2025学年优秀毕业生海外深造奖学金拟推荐名单公示",
+      "url": "https://see.xidian.edu.cn/info/1052/1076.htm",
+      "date": "2025-06-10"
+    },
+    {
+      "id": "see:1075",
+      "source_id": "see",
+      "title": "电子工程学院2025年端午节假期值班安排",
+      "url": "https://see.xidian.edu.cn/info/1052/1075.htm",
+      "date": "2025-06-10"
+    },
+    {
+      "id": "see:1073",
+      "source_id": "see",
+      "title": "电子工程学院2025年非教师准聘人员中期考核结果公示",
+      "url": "https://see.xidian.edu.cn/info/1052/1073.htm",
+      "date": "2025-06-10"
+    },
+    {
+      "id": "see:1078",
+      "source_id": "see",
+      "title": "关于开展“西安电子科技大学举办国际学术会议资助”申报工作的通知",
+      "url": "https://see.xidian.edu.cn/info/1052/1078.htm",
+      "date": "2025-06-03"
+    },
+    {
+      "id": "see:1077",
+      "source_id": "see",
+      "title": "关于开展“顶尖科学家校园行 2025”项目申报工作的通知",
+      "url": "https://see.xidian.edu.cn/info/1052/1077.htm",
+      "date": "2025-06-03"
+    },
+    {
+      "id": "see:1074",
+      "source_id": "see",
+      "title": "关于评选第二十届校级优秀教材的通知",
+      "url": "https://see.xidian.edu.cn/info/1052/1074.htm",
+      "date": "2025-05-28"
+    },
+    {
+      "id": "see:1069",
+      "source_id": "see",
+      "title": "第十三届校级教学名师奖推荐名单公示",
+      "url": "https://see.xidian.edu.cn/info/1052/1069.htm",
+      "date": "2025-05-22"
+    },
+    {
+      "id": "see:1072",
+      "source_id": "see",
+      "title": "电子工程学院关于2025年研究生指导教师认定的通知",
+      "url": "https://see.xidian.edu.cn/info/1052/1072.htm",
+      "date": "2025-05-19"
+    },
+    {
+      "id": "see:1071",
+      "source_id": "see",
+      "title": "关于申报2025年研究生各类课程与教材建设项目的通知",
+      "url": "https://see.xidian.edu.cn/info/1052/1071.htm",
+      "date": "2025-05-06"
+    },
+    {
+      "id": "see:1070",
+      "source_id": "see",
+      "title": "电子工程学院2025年劳动节假期值班安排",
+      "url": "https://see.xidian.edu.cn/info/1052/1070.htm",
+      "date": "2025-05-06"
+    },
+    {
+      "id": "see:1352",
+      "source_id": "see",
+      "title": "电子工程学院2019年基本科研业务费自由探索类项目拟资助清单",
+      "url": "https://see.xidian.edu.cn/info/1052/1352.htm",
+      "date": "2025-04-22"
+    },
+    {
+      "id": "see:1065",
+      "source_id": "see",
+      "title": "倒计时3天，第一届电子信息本科人才培养大会即将开启，行业未来在此刻聚焦！",
+      "url": "https://see.xidian.edu.cn/info/1052/1065.htm",
+      "date": "2025-04-18"
+    },
+    {
+      "id": "see:1068",
+      "source_id": "see",
+      "title": "电子工程学院2025年清明节假期值班安排",
+      "url": "https://see.xidian.edu.cn/info/1052/1068.htm",
+      "date": "2025-04-08"
+    },
+    {
+      "id": "see:1067",
+      "source_id": "see",
+      "title": "关于2025年上学期本科教学准入证办理工作的通知",
+      "url": "https://see.xidian.edu.cn/info/1052/1067.htm",
+      "date": "2025-03-24"
+    },
+    {
+      "id": "see:1066",
+      "source_id": "see",
+      "title": "关于第二十届青年教师教学竞赛院级选拔赛安排的通知",
+      "url": "https://see.xidian.edu.cn/info/1052/1066.htm",
+      "date": "2025-03-18"
+    },
+    {
+      "id": "see:1064",
+      "source_id": "see",
+      "title": "聚智育才 强教兴国｜共启电子信息本科人才培养新篇章",
+      "url": "https://see.xidian.edu.cn/info/1052/1064.htm",
+      "date": "2025-03-08"
+    },
+    {
+      "id": "see:1060",
+      "source_id": "see",
+      "title": "聚智育才 强教兴国｜首届电子信息本科人才培养大会启幕长安",
+      "url": "https://see.xidian.edu.cn/info/1052/1060.htm",
+      "date": "2025-03-08"
+    },
+    {
+      "id": "see:1063",
+      "source_id": "see",
+      "title": "关于举办第二十届青年教师教学竞赛院级选拔赛的通知",
+      "url": "https://see.xidian.edu.cn/info/1052/1063.htm",
+      "date": "2025-03-07"
+    },
+    {
+      "id": "see:1246",
+      "source_id": "see",
+      "title": "电子工程学院关于报销“出国类外语水平考试奖励”的流程",
+      "url": "https://see.xidian.edu.cn/info/1052/1246.htm",
+      "date": "2025-03-05"
+    },
+    {
+      "id": "see:1062",
+      "source_id": "see",
+      "title": "电子工程学院2025年基本科研业务费自由探索项目拟资助名单公示",
+      "url": "https://see.xidian.edu.cn/info/1052/1062.htm",
+      "date": "2025-03-03"
+    },
+    {
+      "id": "see:1061",
+      "source_id": "see",
+      "title": "关于征集2025年“德显”科创实训计划课题的通知",
+      "url": "https://see.xidian.edu.cn/info/1052/1061.htm",
+      "date": "2025-02-25"
+    },
+    {
+      "id": "see:1055",
+      "source_id": "see",
+      "title": "电子工程学院 2025 年寒假轮休值班表",
+      "url": "https://see.xidian.edu.cn/info/1052/1055.htm",
+      "date": "2025-02-24"
+    },
+    {
+      "id": "see:1054",
+      "source_id": "see",
+      "title": "2025年国家建设高水平大学公派研究生项目选派通知",
+      "url": "https://see.xidian.edu.cn/info/1052/1054.htm",
+      "date": "2025-02-24"
+    },
+    {
+      "id": "see:1056",
+      "source_id": "see",
+      "title": "活动预告 | 15位院士鼎力支持！第1届电子信息人才培养大会火热报名中",
+      "url": "https://see.xidian.edu.cn/info/1052/1056.htm",
+      "date": "2025-02-21"
+    },
+    {
+      "id": "see:1059",
+      "source_id": "see",
+      "title": "电子工程学院2025年基本科研业务费自由探索类立项通知",
+      "url": "https://see.xidian.edu.cn/info/1052/1059.htm",
+      "date": "2025-02-18"
+    },
+    {
+      "id": "see:1058",
+      "source_id": "see",
+      "title": "关于做好2024年秋季本科教学档案归档工作的通知",
+      "url": "https://see.xidian.edu.cn/info/1052/1058.htm",
+      "date": "2025-02-14"
+    },
+    {
+      "id": "see:1057",
+      "source_id": "see",
+      "title": "2024年度西安电子科技大学昆山创新研究院产学研基金拟立项候选项目公示",
+      "url": "https://see.xidian.edu.cn/info/1052/1057.htm",
+      "date": "2025-01-24"
+    },
+    {
+      "id": "see:1053",
+      "source_id": "see",
+      "title": "关于组织参加“第三届电磁大数据非凡挑战赛”的通知",
+      "url": "https://see.xidian.edu.cn/info/1052/1053.htm",
+      "date": "2025-01-09"
+    },
+    {
+      "id": "see:1052",
+      "source_id": "see",
+      "title": "电子工程学院关于核对2024年个人业绩的通知",
+      "url": "https://see.xidian.edu.cn/info/1052/1052.htm",
+      "date": "2025-01-07"
+    },
+    {
+      "id": "see:1051",
+      "source_id": "see",
+      "title": "电子工程学院2025年元旦假期值班安排",
+      "url": "https://see.xidian.edu.cn/info/1052/1051.htm",
+      "date": "2025-01-03"
+    },
+    {
+      "id": "see:102731",
+      "source_id": "see",
+      "title": "2024年度本科优质教学奖拟推荐结果公示",
+      "url": "https://see.xidian.edu.cn/info/1052/102731.htm",
+      "date": "2024-12-31"
+    },
+    {
+      "id": "see:1150",
+      "source_id": "see",
+      "title": "西安电子科技大学电子工程学院下属研究院行政工作人员招聘公告",
+      "url": "https://see.xidian.edu.cn/info/1052/1150.htm",
+      "date": "2024-12-27"
+    },
+    {
+      "id": "see:1149",
+      "source_id": "see",
+      "title": "电子工程学院关于“吃空饷”问题自查自纠的情况公示",
+      "url": "https://see.xidian.edu.cn/info/1052/1149.htm",
+      "date": "2024-12-26"
+    },
+    {
+      "id": "see:1148",
+      "source_id": "see",
+      "title": "第十三届党委第二轮巡察第五巡察组结束现场巡察工作公告",
+      "url": "https://see.xidian.edu.cn/info/1052/1148.htm",
+      "date": "2024-12-26"
+    },
+    {
+      "id": "see:1147",
+      "source_id": "see",
+      "title": "电子工程学院关于开展“2024年度新闻评选”活动的通知",
+      "url": "https://see.xidian.edu.cn/info/1052/1147.htm",
+      "date": "2024-12-19"
+    },
+    {
+      "id": "see:1146",
+      "source_id": "see",
+      "title": "关于2024年度校级教材建设资助项目立项工作的通知",
+      "url": "https://see.xidian.edu.cn/info/1052/1146.htm",
+      "date": "2024-11-27"
+    },
+    {
+      "id": "see:1145",
+      "source_id": "see",
+      "title": "关于申报“Cadence电磁场和高速电路学术论文奖”的通知",
+      "url": "https://see.xidian.edu.cn/info/1052/1145.htm",
+      "date": "2024-11-05"
+    },
+    {
+      "id": "see:1144",
+      "source_id": "see",
+      "title": "关于学校第十三届党委第二轮第五巡察组巡察电子工程学院党委的公告",
+      "url": "https://see.xidian.edu.cn/info/1052/1144.htm",
+      "date": "2024-11-05"
+    },
+    {
+      "id": "see:1140",
+      "source_id": "see",
+      "title": "电子工程学院2024年专业技术职务评审工作 专家评审结果公示",
+      "url": "https://see.xidian.edu.cn/info/1052/1140.htm",
+      "date": "2024-11-05"
+    },
+    {
+      "id": "see:1143",
+      "source_id": "see",
+      "title": "关于2024年度示范性课程认定及课程改革项目申报的通知",
+      "url": "https://see.xidian.edu.cn/info/1052/1143.htm",
+      "date": "2024-11-04"
+    },
+    {
+      "id": "see:1137",
+      "source_id": "see",
+      "title": "电子工程学院2024年国庆节假期值班安排",
+      "url": "https://see.xidian.edu.cn/info/1052/1137.htm",
+      "date": "2024-11-04"
+    },
+    {
+      "id": "see:1142",
+      "source_id": "see",
+      "title": "2024年度西安电子科技大学昆山创新研究院产学研基金项目申请通知",
+      "url": "https://see.xidian.edu.cn/info/1052/1142.htm",
+      "date": "2024-10-26"
+    },
+    {
+      "id": "see:1141",
+      "source_id": "see",
+      "title": "关于举办第十九届青年教师教学竞赛的通知",
+      "url": "https://see.xidian.edu.cn/info/1052/1141.htm",
+      "date": "2024-10-23"
+    },
+    {
+      "id": "see:1139",
+      "source_id": "see",
+      "title": "电子工程学院第九届“中国电子科技集团公司-西安电子科技大学协同创新奖教金”评审结果公示",
+      "url": "https://see.xidian.edu.cn/info/1052/1139.htm",
+      "date": "2024-10-12"
+    },
+    {
+      "id": "see:1138",
+      "source_id": "see",
+      "title": "关于2021级本科毕设出题工作的通知",
+      "url": "https://see.xidian.edu.cn/info/1052/1138.htm",
+      "date": "2024-10-09"
+    },
+    {
+      "id": "see:1136",
+      "source_id": "see",
+      "title": "关于开展2024年下学期本科教学准入证办理工作的通知",
+      "url": "https://see.xidian.edu.cn/info/1052/1136.htm",
+      "date": "2024-09-27"
+    },
+    {
+      "id": "see:1237",
+      "source_id": "see",
+      "title": "关于进一步规范教师校外兼职及社会服务和创新创业活动审批报备的通知",
+      "url": "https://see.xidian.edu.cn/info/1052/1237.htm",
+      "date": "2024-09-26"
+    },
+    {
+      "id": "see:1135",
+      "source_id": "see",
+      "title": "关于开展2025年度教师教学鉴定工作的通知",
+      "url": "https://see.xidian.edu.cn/info/1052/1135.htm",
+      "date": "2024-09-26"
+    },
+    {
+      "id": "see:1197",
+      "source_id": "see",
+      "title": "电子工程学院2024年寒假轮休值班表",
+      "url": "https://see.xidian.edu.cn/info/1052/1197.htm",
+      "date": "2024-09-19"
+    },
+    {
+      "id": "see:1132",
+      "source_id": "see",
+      "title": "电子工程学院2024年中秋节假期值班安排",
+      "url": "https://see.xidian.edu.cn/info/1052/1132.htm",
+      "date": "2024-09-19"
+    },
+    {
+      "id": "see:1130",
+      "source_id": "see",
+      "title": "电子工程学院 2024 年暑假轮休值班表",
+      "url": "https://see.xidian.edu.cn/info/1052/1130.htm",
+      "date": "2024-09-19"
+    },
+    {
+      "id": "see:1134",
+      "source_id": "see",
+      "title": "电子工程学院关于开展2024～2025学年第一学期研究生承担本科助教工作的通知",
+      "url": "https://see.xidian.edu.cn/info/1052/1134.htm",
+      "date": "2024-09-18"
+    },
+    {
+      "id": "see:1133",
+      "source_id": "see",
+      "title": "第九届“中国电子科技集团公司-西安电子科技大学 协同创新奖教金”申报通知",
+      "url": "https://see.xidian.edu.cn/info/1052/1133.htm",
+      "date": "2024-09-14"
+    },
+    {
+      "id": "see:1131",
+      "source_id": "see",
+      "title": "西电-Cadence EDA联合实验室暑期技术培训报名",
+      "url": "https://see.xidian.edu.cn/info/1052/1131.htm",
+      "date": "2024-08-01"
+    },
+    {
+      "id": "see:1128",
+      "source_id": "see",
+      "title": "2023年度第二批西安电子科技大学昆山创新研究院产学研基金拟立项候选项目公示",
+      "url": "https://see.xidian.edu.cn/info/1052/1128.htm",
+      "date": "2024-07-11"
+    },
+    {
+      "id": "see:1106",
+      "source_id": "see",
+      "title": "2023年度第一批西安电子科技大学昆山创新研究院产学研基金拟立项候选项目公示",
+      "url": "https://see.xidian.edu.cn/info/1052/1106.htm",
+      "date": "2024-07-11"
+    },
+    {
+      "id": "see:1129",
+      "source_id": "see",
+      "title": "华山学者讲座教授李世东‖稀疏框架报告会",
+      "url": "https://see.xidian.edu.cn/info/1052/1129.htm",
+      "date": "2024-07-10"
+    },
+    {
+      "id": "see:1127",
+      "source_id": "see",
+      "title": "关于毛浩超同志的考察预告",
+      "url": "https://see.xidian.edu.cn/info/1052/1127.htm",
+      "date": "2024-07-08"
+    },
+    {
+      "id": "see:1126",
+      "source_id": "see",
+      "title": "关于遴选2023级本科卓越班科研导师的通知",
+      "url": "https://see.xidian.edu.cn/info/1052/1126.htm",
+      "date": "2024-07-01"
+    },
+    {
+      "id": "see:1125",
+      "source_id": "see",
+      "title": "关于开展2024年度本科优质教学奖评选工作的通知",
+      "url": "https://see.xidian.edu.cn/info/1052/1125.htm",
+      "date": "2024-06-19"
+    },
+    {
+      "id": "see:1124",
+      "source_id": "see",
+      "title": "电子工程学院2024年度优秀毕业生海外深造奖学金拟推荐名单公示",
+      "url": "https://see.xidian.edu.cn/info/1052/1124.htm",
+      "date": "2024-06-14"
+    },
+    {
+      "id": "see:1121",
+      "source_id": "see",
+      "title": "电子工程学院2024年端午节假期值班安排",
+      "url": "https://see.xidian.edu.cn/info/1052/1121.htm",
+      "date": "2024-06-14"
+    },
+    {
+      "id": "see:1119",
+      "source_id": "see",
+      "title": "学院新一届“教授委员会”主任委员和副主任委员公示",
+      "url": "https://see.xidian.edu.cn/info/1052/1119.htm",
+      "date": "2024-06-14"
+    },
+    {
+      "id": "see:1107",
+      "source_id": "see",
+      "title": "电子工程学院2024年劳动节假期值班安排",
+      "url": "https://see.xidian.edu.cn/info/1052/1107.htm",
+      "date": "2024-06-14"
+    },
+    {
+      "id": "see:1122",
+      "source_id": "see",
+      "title": "2023-2024年度校级各类先进集体和个人推荐名单公示",
+      "url": "https://see.xidian.edu.cn/info/1052/1122.htm",
+      "date": "2024-06-13"
+    },
+    {
+      "id": "see:1118",
+      "source_id": "see",
+      "title": "电子工程学院非教师准聘人员中期考核结果公示",
+      "url": "https://see.xidian.edu.cn/info/1052/1118.htm",
+      "date": "2024-06-13"
+    },
+    {
+      "id": "see:1123",
+      "source_id": "see",
+      "title": "电子工程学院2024年“教书育人典范”申报人员材料公示",
+      "url": "https://see.xidian.edu.cn/info/1052/1123.htm",
+      "date": "2024-06-12"
+    },
+    {
+      "id": "see:1120",
+      "source_id": "see",
+      "title": "电子工程学院2024年研究生指导教师资格认定 评审通过名单公示",
+      "url": "https://see.xidian.edu.cn/info/1052/1120.htm",
+      "date": "2024-06-10"
+    },
+    {
+      "id": "see:1117",
+      "source_id": "see",
+      "title": "关于评选第十九届校级优秀教材的通知",
+      "url": "https://see.xidian.edu.cn/info/1052/1117.htm",
+      "date": "2024-05-31"
+    },
+    {
+      "id": "see:1116",
+      "source_id": "see",
+      "title": "西安电子科技大学遥感科学与技术专业2024年第二学士学位拟录取名单公示",
+      "url": "https://see.xidian.edu.cn/info/1052/1116.htm",
+      "date": "2024-05-30"
+    },
+    {
+      "id": "see:1114",
+      "source_id": "see",
+      "title": "电子工程学院“全球视野人才培养计划·国际组织暑期实习支持计划”递补入选学生名单公示",
+      "url": "https://see.xidian.edu.cn/info/1052/1114.htm",
+      "date": "2024-05-30"
+    },
+    {
+      "id": "see:1113",
+      "source_id": "see",
+      "title": "电子工程学院“全球视野人才培养计划·麻省理工学院人工智能时代的电子信息设计与信号科技暑期访学项目”入选学生名单公示",
+      "url": "https://see.xidian.edu.cn/info/1052/1113.htm",
+      "date": "2024-05-30"
+    },
+    {
+      "id": "see:1112",
+      "source_id": "see",
+      "title": "西安电子科技大学电子工程学院2024年第二学士学位初审合格考生名单公示",
+      "url": "https://see.xidian.edu.cn/info/1052/1112.htm",
+      "date": "2024-05-30"
+    },
+    {
+      "id": "see:1198",
+      "source_id": "see",
+      "title": "电子工程学院2023年师德师风考核和年度考核结果公示",
+      "url": "https://see.xidian.edu.cn/info/1052/1198.htm",
+      "date": "2024-05-24"
+    },
+    {
+      "id": "see:1115",
+      "source_id": "see",
+      "title": "关于开展2020~2023级毕德显班“远望谷奖学金” 评选工作的通知",
+      "url": "https://see.xidian.edu.cn/info/1052/1115.htm",
+      "date": "2024-05-22"
+    },
+    {
+      "id": "see:1111",
+      "source_id": "see",
+      "title": "电子工程学院“全球视野人才培养计划·国际组织暑期实习支持计划”入选学生名单公示",
+      "url": "https://see.xidian.edu.cn/info/1052/1111.htm",
+      "date": "2024-05-11"
+    },
+    {
+      "id": "see:1110",
+      "source_id": "see",
+      "title": "会议通知 | 2024第四届雷达未来大会（雷达与智能技术分论坛、雷达与智能制造分论坛）",
+      "url": "https://see.xidian.edu.cn/info/1052/1110.htm",
+      "date": "2024-05-11"
+    },
+    {
+      "id": "see:1109",
+      "source_id": "see",
+      "title": "西安电子科技大学遥感科学与技术专业第二学士学位招生录取细则",
+      "url": "https://see.xidian.edu.cn/info/1052/1109.htm",
+      "date": "2024-05-11"
+    },
+    {
+      "id": "see:1108",
+      "source_id": "see",
+      "title": "电子工程学院关于2024年研究生指导教师认定的通知",
+      "url": "https://see.xidian.edu.cn/info/1052/1108.htm",
+      "date": "2024-05-08"
+    },
+    {
+      "id": "see:1101",
+      "source_id": "see",
+      "title": "关于设立“Cadence电磁场和高速电路学术论文奖”的通知",
+      "url": "https://see.xidian.edu.cn/info/1052/1101.htm",
+      "date": "2024-04-29"
+    },
+    {
+      "id": "see:1105",
+      "source_id": "see",
+      "title": "2023-2024年度校级工会先进集体和先进个人推荐名单公示",
+      "url": "https://see.xidian.edu.cn/info/1052/1105.htm",
+      "date": "2024-04-17"
+    },
+    {
+      "id": "see:1103",
+      "source_id": "see",
+      "title": "电子工程学院2024年清明节假期值班安排",
+      "url": "https://see.xidian.edu.cn/info/1052/1103.htm",
+      "date": "2024-04-17"
+    },
+    {
+      "id": "see:1104",
+      "source_id": "see",
+      "title": "关于办理2024年上学期本科教学准入证的通知",
+      "url": "https://see.xidian.edu.cn/info/1052/1104.htm",
+      "date": "2024-04-09"
+    },
+    {
+      "id": "see:1102",
+      "source_id": "see",
+      "title": "2024西电-是德科技SI/PI初级工程认证考试报名通知",
+      "url": "https://see.xidian.edu.cn/info/1052/1102.htm",
+      "date": "2024-03-21"
+    },
+    {
+      "id": "see:1200",
+      "source_id": "see",
+      "title": "关于遴选电子工程学院2022级卓越班科研导师的通知",
+      "url": "https://see.xidian.edu.cn/info/1052/1200.htm",
+      "date": "2024-03-08"
+    },
+    {
+      "id": "see:1199",
+      "source_id": "see",
+      "title": "关于国家留基委CSC选拔并资助研三学生赴法国综合理工集团攻读博士学位的通知",
+      "url": "https://see.xidian.edu.cn/info/1052/1199.htm",
+      "date": "2024-02-16"
+    },
+    {
+      "id": "see:1196",
+      "source_id": "see",
+      "title": "2024年寒假后勤保障服务工作安排",
+      "url": "https://see.xidian.edu.cn/info/1052/1196.htm",
+      "date": "2024-01-22"
+    },
+    {
+      "id": "see:1195",
+      "source_id": "see",
+      "title": "关于核对2023年个人业绩的通知",
+      "url": "https://see.xidian.edu.cn/info/1052/1195.htm",
+      "date": "2024-01-20"
+    },
+    {
+      "id": "see:1194",
+      "source_id": "see",
+      "title": "关于赵彤璐等同志的考察预告",
+      "url": "https://see.xidian.edu.cn/info/1052/1194.htm",
+      "date": "2024-01-16"
+    },
+    {
+      "id": "see:1193",
+      "source_id": "see",
+      "title": "关于韩旭同志的考察预告",
+      "url": "https://see.xidian.edu.cn/info/1052/1193.htm",
+      "date": "2024-01-13"
+    },
+    {
+      "id": "see:1192",
+      "source_id": "see",
+      "title": "电子工程学院2023年度本科优质教学奖推荐结果公示",
+      "url": "https://see.xidian.edu.cn/info/1052/1192.htm",
+      "date": "2024-01-04"
+    },
+    {
+      "id": "see:1191",
+      "source_id": "see",
+      "title": "关于开展2023年度校级规划教材立项工作的通知",
+      "url": "https://see.xidian.edu.cn/info/1052/1191.htm",
+      "date": "2023-12-19"
+    },
+    {
+      "id": "see:1190",
+      "source_id": "see",
+      "title": "电子工程学院关于“吃空饷”问题自查自纠的情况公示",
+      "url": "https://see.xidian.edu.cn/info/1052/1190.htm",
+      "date": "2023-12-18"
+    },
+    {
+      "id": "see:1188",
+      "source_id": "see",
+      "title": "电子工程学院“全球视野·学生MIT前沿学科学习交流支持计划” 入选学生名单公示",
+      "url": "https://see.xidian.edu.cn/info/1052/1188.htm",
+      "date": "2023-12-08"
+    },
+    {
+      "id": "see:1189",
+      "source_id": "see",
+      "title": "西昆院2023年度产学研基金申请通知",
+      "url": "https://see.xidian.edu.cn/info/1052/1189.htm",
+      "date": "2023-12-06"
+    },
+    {
+      "id": "see:1187",
+      "source_id": "see",
+      "title": "关于申报2023年校级教改项目的通知",
+      "url": "https://see.xidian.edu.cn/info/1052/1187.htm",
+      "date": "2023-11-21"
+    },
+    {
+      "id": "see:1186",
+      "source_id": "see",
+      "title": "关于征集2024年“德显”科创实训计划课题的通知",
+      "url": "https://see.xidian.edu.cn/info/1052/1186.htm",
+      "date": "2023-11-01"
+    },
+    {
+      "id": "see:1185",
+      "source_id": "see",
+      "title": "关于开展年度论文认领工作的通知",
+      "url": "https://see.xidian.edu.cn/info/1052/1185.htm",
+      "date": "2023-10-25"
+    },
+    {
+      "id": "see:1183",
+      "source_id": "see",
+      "title": "关于2020级本科毕设出题工作的通知",
+      "url": "https://see.xidian.edu.cn/info/1052/1183.htm",
+      "date": "2023-10-24"
+    },
+    {
+      "id": "see:1184",
+      "source_id": "see",
+      "title": "关于办理2023年下学期本科教学准入证的通知",
+      "url": "https://see.xidian.edu.cn/info/1052/1184.htm",
+      "date": "2023-10-18"
+    },
+    {
+      "id": "see:1182",
+      "source_id": "see",
+      "title": "关于开展2024年度教师教学鉴定工作的通知",
+      "url": "https://see.xidian.edu.cn/info/1052/1182.htm",
+      "date": "2023-10-13"
+    },
+    {
+      "id": "see:1181",
+      "source_id": "see",
+      "title": "电子工程学院2023年国庆节中秋节假期值班安排",
+      "url": "https://see.xidian.edu.cn/info/1052/1181.htm",
+      "date": "2023-10-08"
+    },
+    {
+      "id": "see:1176",
+      "source_id": "see",
+      "title": "电子工程学院2023年暑假值班表",
+      "url": "https://see.xidian.edu.cn/info/1052/1176.htm",
+      "date": "2023-10-08"
+    },
+    {
+      "id": "see:1180",
+      "source_id": "see",
+      "title": "关于推荐上报2023年度研究生各类课程与教材建设项目的通知",
+      "url": "https://see.xidian.edu.cn/info/1052/1180.htm",
+      "date": "2023-09-26"
+    },
+    {
+      "id": "see:1179",
+      "source_id": "see",
+      "title": "电子工程学院关于开展2023～2024学年第一学期研究生承担本科助教工作的通知",
+      "url": "https://see.xidian.edu.cn/info/1052/1179.htm",
+      "date": "2023-09-13"
+    },
+    {
+      "id": "see:1178",
+      "source_id": "see",
+      "title": "2020年度“中国电子科技集团公司-西安电子科技大学协同创新奖教金”申报通知",
+      "url": "https://see.xidian.edu.cn/info/1052/1178.htm",
+      "date": "2023-09-10"
+    },
+    {
+      "id": "see:1177",
+      "source_id": "see",
+      "title": "关于开展2023年秋季学期青年教师助教工作的通知",
+      "url": "https://see.xidian.edu.cn/info/1052/1177.htm",
+      "date": "2023-08-28"
+    },
+    {
+      "id": "see:1175",
+      "source_id": "see",
+      "title": "电子工程学院第三届本科教学创新奖评审结果公示",
+      "url": "https://see.xidian.edu.cn/info/1052/1175.htm",
+      "date": "2023-07-13"
+    },
+    {
+      "id": "see:1174",
+      "source_id": "see",
+      "title": "关于申报2023年校级教学成果奖（本科）的通知",
+      "url": "https://see.xidian.edu.cn/info/1052/1174.htm",
+      "date": "2023-07-07"
+    },
+    {
+      "id": "see:1173",
+      "source_id": "see",
+      "title": "关于申报第三届本科教学创新奖的通知",
+      "url": "https://see.xidian.edu.cn/info/1052/1173.htm",
+      "date": "2023-07-05"
+    },
+    {
+      "id": "see:1172",
+      "source_id": "see",
+      "title": "关于申报第二批科学出版社“十四五”普通高等教育规划教材的通知",
+      "url": "https://see.xidian.edu.cn/info/1052/1172.htm",
+      "date": "2023-07-03"
+    },
+    {
+      "id": "see:1348",
+      "source_id": "see",
+      "title": "电子工程学院2021年暑期值班安排",
+      "url": "https://see.xidian.edu.cn/info/1052/1348.htm",
+      "date": "2023-06-26"
+    },
+    {
+      "id": "see:1335",
+      "source_id": "see",
+      "title": "电子工程学院2021年端午节值班安排",
+      "url": "https://see.xidian.edu.cn/info/1052/1335.htm",
+      "date": "2023-06-26"
+    },
+    {
+      "id": "see:1323",
+      "source_id": "see",
+      "title": "电子工程学院2021年劳动节值班安排",
+      "url": "https://see.xidian.edu.cn/info/1052/1323.htm",
+      "date": "2023-06-26"
+    },
+    {
+      "id": "see:1316",
+      "source_id": "see",
+      "title": "电子工程学院2021年清明节值班安排",
+      "url": "https://see.xidian.edu.cn/info/1052/1316.htm",
+      "date": "2023-06-26"
+    },
+    {
+      "id": "see:1310",
+      "source_id": "see",
+      "title": "电子工程学院2021年寒假值班安排表",
+      "url": "https://see.xidian.edu.cn/info/1052/1310.htm",
+      "date": "2023-06-26"
+    },
+    {
+      "id": "see:1307",
+      "source_id": "see",
+      "title": "电子工程学院2021年元旦值班安排表",
+      "url": "https://see.xidian.edu.cn/info/1052/1307.htm",
+      "date": "2023-06-26"
+    },
+    {
+      "id": "see:1289",
+      "source_id": "see",
+      "title": "电子工程学院2022年劳动节值班安排",
+      "url": "https://see.xidian.edu.cn/info/1052/1289.htm",
+      "date": "2023-06-26"
+    },
+    {
+      "id": "see:1282",
+      "source_id": "see",
+      "title": "电子工程学院2022年清明节值班安排",
+      "url": "https://see.xidian.edu.cn/info/1052/1282.htm",
+      "date": "2023-06-26"
+    },
+    {
+      "id": "see:1258",
+      "source_id": "see",
+      "title": "电子工程学院2021年国庆节值班安排",
+      "url": "https://see.xidian.edu.cn/info/1052/1258.htm",
+      "date": "2023-06-26"
+    },
+    {
+      "id": "see:1254",
+      "source_id": "see",
+      "title": "电子工程学院2021年中秋节值班安排",
+      "url": "https://see.xidian.edu.cn/info/1052/1254.htm",
+      "date": "2023-06-26"
+    },
+    {
+      "id": "see:1249",
+      "source_id": "see",
+      "title": "电子工程学院2023年清明节值班安排",
+      "url": "https://see.xidian.edu.cn/info/1052/1249.htm",
+      "date": "2023-06-26"
+    },
+    {
+      "id": "see:1233",
+      "source_id": "see",
+      "title": "电子工程学院2023年元旦假期值班安排",
+      "url": "https://see.xidian.edu.cn/info/1052/1233.htm",
+      "date": "2023-06-26"
+    },
+    {
+      "id": "see:1217",
+      "source_id": "see",
+      "title": "电子工程学院2022年国庆假期安全提示及值班安排",
+      "url": "https://see.xidian.edu.cn/info/1052/1217.htm",
+      "date": "2023-06-26"
+    },
+    {
+      "id": "see:1213",
+      "source_id": "see",
+      "title": "电子工程学院2022年中秋节值班安排",
+      "url": "https://see.xidian.edu.cn/info/1052/1213.htm",
+      "date": "2023-06-26"
+    },
+    {
+      "id": "see:1171",
+      "source_id": "see",
+      "title": "关于申报2023年校级课程思政示范课程的通知",
+      "url": "https://see.xidian.edu.cn/info/1052/1171.htm",
+      "date": "2023-06-26"
+    },
+    {
+      "id": "see:1170",
+      "source_id": "see",
+      "title": "关于做好2023年春季本科教学档案归档工作的通知",
+      "url": "https://see.xidian.edu.cn/info/1052/1170.htm",
+      "date": "2023-06-26"
+    },
+    {
+      "id": "see:1169",
+      "source_id": "see",
+      "title": "电子工程学院2023年端午节假期值班表",
+      "url": "https://see.xidian.edu.cn/info/1052/1169.htm",
+      "date": "2023-06-26"
+    },
+    {
+      "id": "see:1154",
+      "source_id": "see",
+      "title": "电子工程学院2023年五一劳动节假期值班安排",
+      "url": "https://see.xidian.edu.cn/info/1052/1154.htm",
+      "date": "2023-06-26"
+    },
+    {
+      "id": "see:1167",
+      "source_id": "see",
+      "title": "电子工程学院2023年研究生指导教师资格认定评审通过名单公示",
+      "url": "https://see.xidian.edu.cn/info/1052/1167.htm",
+      "date": "2023-06-16"
+    },
+    {
+      "id": "see:1168",
+      "source_id": "see",
+      "title": "关于西电- Cadence EDA联合实验室暑期技术培训报名的通知",
+      "url": "https://see.xidian.edu.cn/info/1052/1168.htm",
+      "date": "2023-06-15"
+    },
+    {
+      "id": "see:1166",
+      "source_id": "see",
+      "title": "关于举办第九届“互联网+”大赛校内选拔赛的通知",
+      "url": "https://see.xidian.edu.cn/info/1052/1166.htm",
+      "date": "2023-06-15"
+    },
+    {
+      "id": "see:1165",
+      "source_id": "see",
+      "title": "关于2023年（2019级）本科毕业设计材料归档的通知",
+      "url": "https://see.xidian.edu.cn/info/1052/1165.htm",
+      "date": "2023-05-30"
+    },
+    {
+      "id": "see:1164",
+      "source_id": "see",
+      "title": "电子工程学院2023年度优秀毕业生海外深造奖学金拟推荐名单公示",
+      "url": "https://see.xidian.edu.cn/info/1052/1164.htm",
+      "date": "2023-05-29"
+    },
+    {
+      "id": "see:1163",
+      "source_id": "see",
+      "title": "关于2019级（2023届）本科毕业设计（论文）答辩安排的通知",
+      "url": "https://see.xidian.edu.cn/info/1052/1163.htm",
+      "date": "2023-05-18"
+    },
+    {
+      "id": "see:1162",
+      "source_id": "see",
+      "title": "2022-2023年度先进集体和先进个人推荐名单公示",
+      "url": "https://see.xidian.edu.cn/info/1052/1162.htm",
+      "date": "2023-05-17"
+    },
+    {
+      "id": "see:1161",
+      "source_id": "see",
+      "title": "关于评选第十八届校级优秀教材的通知",
+      "url": "https://see.xidian.edu.cn/info/1052/1161.htm",
+      "date": "2023-05-17"
+    },
+    {
+      "id": "see:1160",
+      "source_id": "see",
+      "title": "电子工程学院关于2023年研究生指导教师认定的通知",
+      "url": "https://see.xidian.edu.cn/info/1052/1160.htm",
+      "date": "2023-05-12"
+    },
+    {
+      "id": "see:1159",
+      "source_id": "see",
+      "title": "关于本科教学在线文件管理系统的通知",
+      "url": "https://see.xidian.edu.cn/info/1052/1159.htm",
+      "date": "2023-05-11"
+    },
+    {
+      "id": "see:1156",
+      "source_id": "see",
+      "title": "电子工程学院关于2023-2025年度专业技术职务分级副高及以下各级评审结果公示",
+      "url": "https://see.xidian.edu.cn/info/1052/1156.htm",
+      "date": "2023-05-10"
+    },
+    {
+      "id": "see:1158",
+      "source_id": "see",
+      "title": "第十八届中国研究生电子设计竞赛“中兴捧月杯”校内选拔赛公告",
+      "url": "https://see.xidian.edu.cn/info/1052/1158.htm",
+      "date": "2023-05-09"
+    },
+    {
+      "id": "see:1157",
+      "source_id": "see",
+      "title": "西安电子科技大学遥感科学与技术专业第二学士学位招生录取细则",
+      "url": "https://see.xidian.edu.cn/info/1052/1157.htm",
+      "date": "2023-05-08"
+    },
+    {
+      "id": "see:1155",
+      "source_id": "see",
+      "title": "关于2023年度本科优质教学奖预报名的通知",
+      "url": "https://see.xidian.edu.cn/info/1052/1155.htm",
+      "date": "2023-04-28"
+    },
+    {
+      "id": "see:1152",
+      "source_id": "see",
+      "title": "2022-2023年度工会先进集体和先进个人推荐名单公示",
+      "url": "https://see.xidian.edu.cn/info/1052/1152.htm",
+      "date": "2023-04-20"
+    },
+    {
+      "id": "see:1153",
+      "source_id": "see",
+      "title": "电子工程学院院领导接待日工作安排（2022~2023学年第二学期第10周）",
+      "url": "https://see.xidian.edu.cn/info/1052/1153.htm",
+      "date": "2023-04-18"
+    },
+    {
+      "id": "see:1151",
+      "source_id": "see",
+      "title": "关于2023年度教学鉴定集中公开课与课程教案评价的通知",
+      "url": "https://see.xidian.edu.cn/info/1052/1151.htm",
+      "date": "2023-04-13"
+    },
+    {
+      "id": "see:1250",
+      "source_id": "see",
+      "title": "电子工程学院院领导接待日工作安排（2022~2023学年第二学期第9周）",
+      "url": "https://see.xidian.edu.cn/info/1052/1250.htm",
+      "date": "2023-04-07"
+    },
+    {
+      "id": "see:1248",
+      "source_id": "see",
+      "title": "电子工程学院院领导接待日工作安排（2022~2023学年第二学期第8周）",
+      "url": "https://see.xidian.edu.cn/info/1052/1248.htm",
+      "date": "2023-04-03"
+    },
+    {
+      "id": "see:1247",
+      "source_id": "see",
+      "title": "关于办理2023年上学期本科教学准入证的通知",
+      "url": "https://see.xidian.edu.cn/info/1052/1247.htm",
+      "date": "2023-04-03"
+    },
+    {
+      "id": "see:1245",
+      "source_id": "see",
+      "title": "关于《西安电子科技大学学生出国交流资助办法（修订）》的通知",
+      "url": "https://see.xidian.edu.cn/info/1052/1245.htm",
+      "date": "2023-03-27"
+    },
+    {
+      "id": "see:1244",
+      "source_id": "see",
+      "title": "关于《西安电子科技大学本科生赴国（境）外交流学习管理办法》的通知",
+      "url": "https://see.xidian.edu.cn/info/1052/1244.htm",
+      "date": "2023-03-27"
+    },
+    {
+      "id": "see:1243",
+      "source_id": "see",
+      "title": "关于做好本科教学档案归档工作的通知",
+      "url": "https://see.xidian.edu.cn/info/1052/1243.htm",
+      "date": "2023-03-27"
+    },
+    {
+      "id": "see:1242",
+      "source_id": "see",
+      "title": "电子工程学院院领导接待日工作安排（2022~2023学年第二学期第7周）",
+      "url": "https://see.xidian.edu.cn/info/1052/1242.htm",
+      "date": "2023-03-25"
+    },
+    {
+      "id": "see:1241",
+      "source_id": "see",
+      "title": "电子工程学院院领导接待日工作安排（2022~2023学年第二学期）",
+      "url": "https://see.xidian.edu.cn/info/1052/1241.htm",
+      "date": "2023-03-19"
+    },
+    {
+      "id": "see:1345",
+      "source_id": "see",
+      "title": "电子工程学院关于推荐第二届本科教学创新奖人选的公示",
+      "url": "https://see.xidian.edu.cn/info/1052/1345.htm",
+      "date": "2023-03-13"
+    },
+    {
+      "id": "see:1332",
+      "source_id": "see",
+      "title": "2020-2021年度校级先进集体和先进个人推荐名单公示",
+      "url": "https://see.xidian.edu.cn/info/1052/1332.htm",
+      "date": "2023-03-13"
+    },
+    {
+      "id": "see:1327",
+      "source_id": "see",
+      "title": "2021年电子工程学院党内评优推荐名单公示",
+      "url": "https://see.xidian.edu.cn/info/1052/1327.htm",
+      "date": "2023-03-13"
+    },
+    {
+      "id": "see:1320",
+      "source_id": "see",
+      "title": "2020-2021年度工会先进集体和先进个人推荐名单公示",
+      "url": "https://see.xidian.edu.cn/info/1052/1320.htm",
+      "date": "2023-03-13"
+    },
+    {
+      "id": "see:1300",
+      "source_id": "see",
+      "title": "电子工程学院2022年研究生指导教师资格认定专家评审通过名单公示",
+      "url": "https://see.xidian.edu.cn/info/1052/1300.htm",
+      "date": "2023-03-13"
+    },
+    {
+      "id": "see:1295",
+      "source_id": "see",
+      "title": "2021-2022年度先进集体和先进个人推荐名单公示",
+      "url": "https://see.xidian.edu.cn/info/1052/1295.htm",
+      "date": "2023-03-13"
+    },
+    {
+      "id": "see:1285",
+      "source_id": "see",
+      "title": "2021-2022年度校级工会先进集体和先进个人推荐名单公示",
+      "url": "https://see.xidian.edu.cn/info/1052/1285.htm",
+      "date": "2023-03-13"
+    },
+    {
+      "id": "see:1270",
+      "source_id": "see",
+      "title": "电子工程学院2021年度本科优质教学奖推荐名单公示",
+      "url": "https://see.xidian.edu.cn/info/1052/1270.htm",
+      "date": "2023-03-13"
+    },
+    {
+      "id": "see:1262",
+      "source_id": "see",
+      "title": "电子工程学院2021年度职称评审结果公示",
+      "url": "https://see.xidian.edu.cn/info/1052/1262.htm",
+      "date": "2023-03-13"
+    },
+    {
+      "id": "see:1251",
+      "source_id": "see",
+      "title": "电子工程学院示范“党员先锋岗”推荐名单公示",
+      "url": "https://see.xidian.edu.cn/info/1052/1251.htm",
+      "date": "2023-03-13"
+    },
+    {
+      "id": "see:1232",
+      "source_id": "see",
+      "title": "2022年度本科优质教学奖推荐名单公示",
+      "url": "https://see.xidian.edu.cn/info/1052/1232.htm",
+      "date": "2023-03-13"
+    },
+    {
+      "id": "see:1225",
+      "source_id": "see",
+      "title": "2021~2022学年辅导员考核结果公示",
+      "url": "https://see.xidian.edu.cn/info/1052/1225.htm",
+      "date": "2023-03-13"
+    },
+    {
+      "id": "see:1205",
+      "source_id": "see",
+      "title": "电子工程学院2022年职称评审结果公示",
+      "url": "https://see.xidian.edu.cn/info/1052/1205.htm",
+      "date": "2023-03-13"
+    },
+    {
+      "id": "see:1204",
+      "source_id": "see",
+      "title": "电子工程学院2022年国家一流专业专项指标申报名额推荐结果公示",
+      "url": "https://see.xidian.edu.cn/info/1052/1204.htm",
+      "date": "2023-03-13"
+    },
+    {
+      "id": "see:1304",
+      "source_id": "see",
+      "title": "电子工程学院关于2021年基本科研业务费评审结果公示",
+      "url": "https://see.xidian.edu.cn/info/1052/1304.htm",
+      "date": "2023-03-12"
+    },
+    {
+      "id": "see:1239",
+      "source_id": "see",
+      "title": "电子工程学院2022年师德师风考核和年度考核结果公示",
+      "url": "https://see.xidian.edu.cn/info/1052/1239.htm",
+      "date": "2023-03-12"
+    },
+    {
+      "id": "see:1344",
+      "source_id": "see",
+      "title": "电子工程学院2021年度院级教育教学改革研究项目拟立项公示",
+      "url": "https://see.xidian.edu.cn/info/1052/1344.htm",
+      "date": "2023-03-07"
+    },
+    {
+      "id": "see:1298",
+      "source_id": "see",
+      "title": "电子工程学院2022年度本科教学质量计划拟立项公示",
+      "url": "https://see.xidian.edu.cn/info/1052/1298.htm",
+      "date": "2023-03-07"
+    },
+    {
+      "id": "see:1240",
+      "source_id": "see",
+      "title": "电子工程学院2023年基本科研业务费自由探索项目拟资助名单公示",
+      "url": "https://see.xidian.edu.cn/info/1052/1240.htm",
+      "date": "2023-03-07"
+    },
+    {
+      "id": "see:1238",
+      "source_id": "see",
+      "title": "关于开展2023年春季学期青年教师助教工作的通知",
+      "url": "https://see.xidian.edu.cn/info/1052/1238.htm",
+      "date": "2023-02-22"
+    },
+    {
+      "id": "see:1236",
+      "source_id": "see",
+      "title": "关于公布2022年度本科优质教学奖获奖人员的通知",
+      "url": "https://see.xidian.edu.cn/info/1052/1236.htm",
+      "date": "2023-02-13"
+    },
+    {
+      "id": "see:1235",
+      "source_id": "see",
+      "title": "电子工程学院2023年基本科研业务费自由探索类立项通知",
+      "url": "https://see.xidian.edu.cn/info/1052/1235.htm",
+      "date": "2023-02-10"
+    },
+    {
+      "id": "see:1234",
+      "source_id": "see",
+      "title": "2023年国家建设高水平大学公派研究生项目选派通知",
+      "url": "https://see.xidian.edu.cn/info/1052/1234.htm",
+      "date": "2023-01-13"
+    },
+    {
+      "id": "see:1231",
+      "source_id": "see",
+      "title": "关于统计2022年度出版教材和发表教改论文情况的通知",
+      "url": "https://see.xidian.edu.cn/info/1052/1231.htm",
+      "date": "2022-12-23"
+    },
+    {
+      "id": "see:1230",
+      "source_id": "see",
+      "title": "关于批准2023年“德显”科创实训计划项目立项的通知",
+      "url": "https://see.xidian.edu.cn/info/1052/1230.htm",
+      "date": "2022-12-22"
+    },
+    {
+      "id": "see:1229",
+      "source_id": "see",
+      "title": "本科教学节 I 后疫情时代实验室建设与实验室课程模式改革",
+      "url": "https://see.xidian.edu.cn/info/1052/1229.htm",
+      "date": "2022-12-19"
+    },
+    {
+      "id": "see:1228",
+      "source_id": "see",
+      "title": "西安电子科技大学关于评选2022年度本科优质教学奖的通知",
+      "url": "https://see.xidian.edu.cn/info/1052/1228.htm",
+      "date": "2022-12-17"
+    },
+    {
+      "id": "see:1227",
+      "source_id": "see",
+      "title": "本科教学节 I 一流课程建设与课程创新设计大赛分享",
+      "url": "https://see.xidian.edu.cn/info/1052/1227.htm",
+      "date": "2022-12-14"
+    },
+    {
+      "id": "see:1226",
+      "source_id": "see",
+      "title": "关于第十八届青年教师讲课竞赛院级选拔赛安排的通知",
+      "url": "https://see.xidian.edu.cn/info/1052/1226.htm",
+      "date": "2022-12-08"
+    },
+    {
+      "id": "see:1224",
+      "source_id": "see",
+      "title": "关于举办第十八届青年教师讲课竞赛院级选拔赛的通知",
+      "url": "https://see.xidian.edu.cn/info/1052/1224.htm",
+      "date": "2022-11-28"
+    },
+    {
+      "id": "see:1223",
+      "source_id": "see",
+      "title": "关于举办第四届课堂教学创新大赛院级选拔赛的通知",
+      "url": "https://see.xidian.edu.cn/info/1052/1223.htm",
+      "date": "2022-11-25"
+    },
+    {
+      "id": "see:1222",
+      "source_id": "see",
+      "title": "关于刘昕雨同志的考察预告",
+      "url": "https://see.xidian.edu.cn/info/1052/1222.htm",
+      "date": "2022-11-21"
+    },
+    {
+      "id": "see:1221",
+      "source_id": "see",
+      "title": "电子工程学院2022年下学期教学培训活动（持续更新中）",
+      "url": "https://see.xidian.edu.cn/info/1052/1221.htm",
+      "date": "2022-11-21"
+    },
+    {
+      "id": "see:1220",
+      "source_id": "see",
+      "title": "关于开展2023年“德显”科创实训计划的通知",
+      "url": "https://see.xidian.edu.cn/info/1052/1220.htm",
+      "date": "2022-11-16"
+    },
+    {
+      "id": "see:1219",
+      "source_id": "see",
+      "title": "关于办理2022年下学期本科教学准入证的通知",
+      "url": "https://see.xidian.edu.cn/info/1052/1219.htm",
+      "date": "2022-11-04"
+    },
+    {
+      "id": "see:1218",
+      "source_id": "see",
+      "title": "关于2019级本科毕业设计（论文）出题工作的通知",
+      "url": "https://see.xidian.edu.cn/info/1052/1218.htm",
+      "date": "2022-11-02"
+    },
+    {
+      "id": "see:1216",
+      "source_id": "see",
+      "title": "关于超高速电路设计与电磁兼容教育部重点实验室第五届学术年会论文征集的通知",
+      "url": "https://see.xidian.edu.cn/info/1052/1216.htm",
+      "date": "2022-09-28"
+    },
+    {
+      "id": "see:1283",
+      "source_id": "see",
+      "title": "电子工程学院2022年上学期教学培训活动",
+      "url": "https://see.xidian.edu.cn/info/1052/1283.htm",
+      "date": "2022-09-19"
+    },
+    {
+      "id": "see:1215",
+      "source_id": "see",
+      "title": "关于第十二届校级教学名师奖推荐名单的公示",
+      "url": "https://see.xidian.edu.cn/info/1052/1215.htm",
+      "date": "2022-09-14"
+    },
+    {
+      "id": "see:1214",
+      "source_id": "see",
+      "title": "关于开展第十二届校级教学名师奖评选暨推荐申报第十三届陕西普通本科高等学校教学名师奖工作的通知",
+      "url": "https://see.xidian.edu.cn/info/1052/1214.htm",
+      "date": "2022-09-09"
+    },
+    {
+      "id": "see:1212",
+      "source_id": "see",
+      "title": "关于开展2021-2022学年学生国际交流资助评选工作的通知",
+      "url": "https://see.xidian.edu.cn/info/1052/1212.htm",
+      "date": "2022-09-05"
+    },
+    {
+      "id": "see:1211",
+      "source_id": "see",
+      "title": "关于开展2023年度教师教学鉴定工作的通知",
+      "url": "https://see.xidian.edu.cn/info/1052/1211.htm",
+      "date": "2022-09-05"
+    },
+    {
+      "id": "see:1210",
+      "source_id": "see",
+      "title": "关于举办 2022 年中法合作办学项目“收藏时光、最美中法”摄影比赛 的通知",
+      "url": "https://see.xidian.edu.cn/info/1052/1210.htm",
+      "date": "2022-09-05"
+    },
+    {
+      "id": "see:1209",
+      "source_id": "see",
+      "title": "电子工程学院关于2022年秋季学期申报研究生助教工作的通知",
+      "url": "https://see.xidian.edu.cn/info/1052/1209.htm",
+      "date": "2022-09-01"
+    },
+    {
+      "id": "see:1208",
+      "source_id": "see",
+      "title": "关于开展2022年度校级教材建设资助项目立项工作的通知",
+      "url": "https://see.xidian.edu.cn/info/1052/1208.htm",
+      "date": "2022-07-11"
+    },
+    {
+      "id": "see:1207",
+      "source_id": "see",
+      "title": "关于公布2022年新实验开发与新实验设备研制立项项目名单的通知",
+      "url": "https://see.xidian.edu.cn/info/1052/1207.htm",
+      "date": "2022-07-11"
+    },
+    {
+      "id": "see:1206",
+      "source_id": "see",
+      "title": "电子工程学院2022-2024年专业技术岗位聘任结果公示",
+      "url": "https://see.xidian.edu.cn/info/1052/1206.htm",
+      "date": "2022-07-06"
+    },
+    {
+      "id": "see:1203",
+      "source_id": "see",
+      "title": "电子工程学院2022届毕业典礼暨授位仪式邀请函",
+      "url": "https://see.xidian.edu.cn/info/1052/1203.htm",
+      "date": "2022-06-18"
+    },
+    {
+      "id": "see:1202",
+      "source_id": "see",
+      "title": "关于2022年新实验开发与新实验设备研制项目立项申报的通知",
+      "url": "https://see.xidian.edu.cn/info/1052/1202.htm",
+      "date": "2022-06-16"
+    },
+    {
+      "id": "see:1201",
+      "source_id": "see",
+      "title": "关于遴选优秀教师参加第四届全国高校混合式教学设计创新大赛的通知",
+      "url": "https://see.xidian.edu.cn/info/1052/1201.htm",
+      "date": "2022-06-15"
+    },
+    {
+      "id": "see:1299",
+      "source_id": "see",
+      "title": "电子工程学院关于申请新开研究生课程的通知",
+      "url": "https://see.xidian.edu.cn/info/1052/1299.htm",
+      "date": "2022-06-09"
+    },
+    {
+      "id": "see:1297",
+      "source_id": "see",
+      "title": "关于2022年度本科优质教学奖预报名的通知",
+      "url": "https://see.xidian.edu.cn/info/1052/1297.htm",
+      "date": "2022-05-24"
+    },
+    {
+      "id": "see:1296",
+      "source_id": "see",
+      "title": "电子工程学院2022年专业技术职务评审工作安排",
+      "url": "https://see.xidian.edu.cn/info/1052/1296.htm",
+      "date": "2022-05-24"
+    },
+    {
+      "id": "see:1292",
+      "source_id": "see",
+      "title": "第十七届中国研究生电子设计竞赛“中兴捧月杯”校内选拔赛公告",
+      "url": "https://see.xidian.edu.cn/info/1052/1292.htm",
+      "date": "2022-05-18"
+    },
+    {
+      "id": "see:1294",
+      "source_id": "see",
+      "title": "电子工程学院本科教育教学质量提升计划",
+      "url": "https://see.xidian.edu.cn/info/1052/1294.htm",
+      "date": "2022-05-17"
+    },
+    {
+      "id": "see:1293",
+      "source_id": "see",
+      "title": "关于2022年国际双创实践周本科生学分课程聘请海外专家及企业专家授课项目申报工作的通知",
+      "url": "https://see.xidian.edu.cn/info/1052/1293.htm",
+      "date": "2022-05-13"
+    },
+    {
+      "id": "see:1291",
+      "source_id": "see",
+      "title": "关于申报2022年研究生教育教学改革研究项目的通知",
+      "url": "https://see.xidian.edu.cn/info/1052/1291.htm",
+      "date": "2022-05-09"
+    },
+    {
+      "id": "see:1290",
+      "source_id": "see",
+      "title": "关于开展电子工程学院2022年“德显”科创实训计划的通知",
+      "url": "https://see.xidian.edu.cn/info/1052/1290.htm",
+      "date": "2022-04-29"
+    },
+    {
+      "id": "see:1288",
+      "source_id": "see",
+      "title": "关于公布第十七届青年教师讲课竞赛院级选拔赛题目的通知",
+      "url": "https://see.xidian.edu.cn/info/1052/1288.htm",
+      "date": "2022-04-26"
+    },
+    {
+      "id": "see:1287",
+      "source_id": "see",
+      "title": "关于2022年度教学鉴定集中公开课与课程教案评价的通知",
+      "url": "https://see.xidian.edu.cn/info/1052/1287.htm",
+      "date": "2022-04-22"
+    },
+    {
+      "id": "see:1286",
+      "source_id": "see",
+      "title": "关于举办第十七届青年教师讲课竞赛院级选拔赛的通知",
+      "url": "https://see.xidian.edu.cn/info/1052/1286.htm",
+      "date": "2022-04-20"
+    },
+    {
+      "id": "see:1284",
+      "source_id": "see",
+      "title": "关于办理2022年上学期本科教学准入证的通知",
+      "url": "https://see.xidian.edu.cn/info/1052/1284.htm",
+      "date": "2022-04-13"
+    },
+    {
+      "id": "see:1281",
+      "source_id": "see",
+      "title": "关于申报2022年研究生教育教学改革研究项目的通知",
+      "url": "https://see.xidian.edu.cn/info/1052/1281.htm",
+      "date": "2022-03-15"
+    }
+  ]
+}

@@ -24,6 +24,45 @@ sources:
     assert config.sources[0].id == "test"
     assert config.sources[0].adapter == "xidian_cms"
     assert config.data_dir == Path("output")
+    assert config.content_limit == 5000
+
+
+def test_load_config_with_content_limit(tmp_path: Path):
+    config_file = tmp_path / "sources.yaml"
+    config_file.write_text(
+        """
+data_dir: output
+content_limit: 123
+sources:
+  - id: test
+    name: "Test Source"
+    base_url: "https://example.com"
+    list_path: "news.htm"
+""",
+        encoding="utf-8",
+    )
+
+    config = load_config(config_file)
+    assert config.content_limit == 123
+
+
+def test_load_config_with_legacy_feed_limit_alias(tmp_path: Path):
+    config_file = tmp_path / "sources.yaml"
+    config_file.write_text(
+        """
+data_dir: output
+feed_limit: 456
+sources:
+  - id: test
+    name: "Test Source"
+    base_url: "https://example.com"
+    list_path: "news.htm"
+""",
+        encoding="utf-8",
+    )
+
+    config = load_config(config_file)
+    assert config.content_limit == 456
 
 
 def test_selector_defaults():

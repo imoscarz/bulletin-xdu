@@ -11,7 +11,6 @@ class Notice(BaseModel):
     title: str  # Notice title text
     url: str  # Absolute URL to the notice detail page
     date: date  # Publication date
-    is_new: bool = False  # Whether the source marked it as "NEW"
 
 
 class SourceMeta(BaseModel):

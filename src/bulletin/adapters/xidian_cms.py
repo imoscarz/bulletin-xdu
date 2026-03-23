@@ -127,15 +127,12 @@ class XidianCMSAdapter(BaseAdapter):
             logger.warning("Could not extract date from item: %s", title[:50])
             return None
 
-        is_new = item.select_one(sel.new_badge) is not None
-
         return Notice(
             id=notice_id,
             source_id=self.config.id,
             title=title,
             url=absolute_url,
             date=pub_date,
-            is_new=is_new,
         )
 
     def _extract_title(self, item: Tag, link_tag: Tag) -> str:

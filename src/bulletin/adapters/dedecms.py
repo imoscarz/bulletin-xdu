@@ -100,7 +100,6 @@ class DedeCMSAdapter(BaseAdapter):
             title=title,
             url=absolute_url,
             date=pub_date,
-            is_new=False,
         )
 
     @staticmethod

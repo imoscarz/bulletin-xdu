@@ -1,0 +1,361 @@
+{
+  "meta": {
+    "source_id": "phy",
+    "name": "物理与光电工程学院",
+    "url": "https://phy.xidian.edu.cn/tzgg.htm",
+    "last_scraped": "2026-03-23T14:49:42.445864Z",
+    "total_notices": 50
+  },
+  "notices": [
+    {
+      "id": "phy:10323",
+      "source_id": "phy",
+      "title": "物理学院2026年硕士研究生招生复试录取工作方案",
+      "url": "https://phy.xidian.edu.cn/info/1012/10323.htm",
+      "date": "2026-03-23"
+    },
+    {
+      "id": "phy:10313",
+      "source_id": "phy",
+      "title": "物理学院2026年校内无息助学贷款评定结果公示",
+      "url": "https://phy.xidian.edu.cn/info/1012/10313.htm",
+      "date": "2026-03-23"
+    },
+    {
+      "id": "phy:10293",
+      "source_id": "phy",
+      "title": "科研协作项目公示信息20260320-1",
+      "url": "https://phy.xidian.edu.cn/info/1012/10293.htm",
+      "date": "2026-03-20"
+    },
+    {
+      "id": "phy:10253",
+      "source_id": "phy",
+      "title": "科研协作项目公示信息20260317-1",
+      "url": "https://phy.xidian.edu.cn/info/1012/10253.htm",
+      "date": "2026-03-17"
+    },
+    {
+      "id": "phy:10243",
+      "source_id": "phy",
+      "title": "点亮青春 以学润心 | 第三十七届“星火杯”暨2026年“挑战杯”物理学院院赛报名开启",
+      "url": "https://phy.xidian.edu.cn/info/1012/10243.htm",
+      "date": "2026-03-17"
+    },
+    {
+      "id": "phy:10233",
+      "source_id": "phy",
+      "title": "物理学院2026年春季困难补助评定结果公示",
+      "url": "https://phy.xidian.edu.cn/info/1012/10233.htm",
+      "date": "2026-03-16"
+    },
+    {
+      "id": "phy:10193",
+      "source_id": "phy",
+      "title": "科研协作项目公示信息20260312-1",
+      "url": "https://phy.xidian.edu.cn/info/1012/10193.htm",
+      "date": "2026-03-12"
+    },
+    {
+      "id": "phy:10163",
+      "source_id": "phy",
+      "title": "物理学院2026年研究生创新基金项目立项公示",
+      "url": "https://phy.xidian.edu.cn/info/1012/10163.htm",
+      "date": "2026-03-10"
+    },
+    {
+      "id": "phy:10143",
+      "source_id": "phy",
+      "title": "科研协作项目公示信息20250309-1",
+      "url": "https://phy.xidian.edu.cn/info/1012/10143.htm",
+      "date": "2026-03-09"
+    },
+    {
+      "id": "phy:10103",
+      "source_id": "phy",
+      "title": "科研协作项目公示信息20260306-1",
+      "url": "https://phy.xidian.edu.cn/info/1012/10103.htm",
+      "date": "2026-03-06"
+    },
+    {
+      "id": "phy:10083",
+      "source_id": "phy",
+      "title": "关于举办2026年全国大学生物理实验竞赛（创新）校内选拔赛的通知",
+      "url": "https://phy.xidian.edu.cn/info/1012/10083.htm",
+      "date": "2026-03-04"
+    },
+    {
+      "id": "phy:10073",
+      "source_id": "phy",
+      "title": "科研协作项目公示信息20260302-1",
+      "url": "https://phy.xidian.edu.cn/info/1012/10073.htm",
+      "date": "2026-03-02"
+    },
+    {
+      "id": "phy:10053",
+      "source_id": "phy",
+      "title": "科研协作项目公示信息20250205-1",
+      "url": "https://phy.xidian.edu.cn/info/1012/10053.htm",
+      "date": "2026-02-05"
+    },
+    {
+      "id": "phy:10003",
+      "source_id": "phy",
+      "title": "科研协作项目公示信息20260128-1",
+      "url": "https://phy.xidian.edu.cn/info/1012/10003.htm",
+      "date": "2026-01-28"
+    },
+    {
+      "id": "phy:9993",
+      "source_id": "phy",
+      "title": "科研协作项目公示信息20260127-1",
+      "url": "https://phy.xidian.edu.cn/info/1012/9993.htm",
+      "date": "2026-01-27"
+    },
+    {
+      "id": "phy:9913",
+      "source_id": "phy",
+      "title": "物理学院2026年寒假值班安排表",
+      "url": "https://phy.xidian.edu.cn/info/1012/9913.htm",
+      "date": "2026-01-19"
+    },
+    {
+      "id": "phy:9853",
+      "source_id": "phy",
+      "title": "物理学院关于2025年度教职工考核结果公示的通知",
+      "url": "https://phy.xidian.edu.cn/info/1012/9853.htm",
+      "date": "2026-01-12"
+    },
+    {
+      "id": "phy:9803",
+      "source_id": "phy",
+      "title": "物理学院关于受理2026年6月博士学位申请工作的通知",
+      "url": "https://phy.xidian.edu.cn/info/1012/9803.htm",
+      "date": "2026-01-05"
+    },
+    {
+      "id": "phy:9793",
+      "source_id": "phy",
+      "title": "物理学院关于受理2026年6月全日制硕士学位申请工作的通知",
+      "url": "https://phy.xidian.edu.cn/info/1012/9793.htm",
+      "date": "2026-01-05"
+    },
+    {
+      "id": "phy:9753",
+      "source_id": "phy",
+      "title": "物理学院2026年元旦假期值班安排表",
+      "url": "https://phy.xidian.edu.cn/info/1012/9753.htm",
+      "date": "2025-12-31"
+    },
+    {
+      "id": "phy:9733",
+      "source_id": "phy",
+      "title": "科研协作项目公示信息20251229-1",
+      "url": "https://phy.xidian.edu.cn/info/1012/9733.htm",
+      "date": "2025-12-29"
+    },
+    {
+      "id": "phy:9713",
+      "source_id": "phy",
+      "title": "物理学院2026年春季学术学位博士研究生招生拟录取名单公示",
+      "url": "https://phy.xidian.edu.cn/info/1012/9713.htm",
+      "date": "2025-12-29"
+    },
+    {
+      "id": "phy:9683",
+      "source_id": "phy",
+      "title": "关于公布物理学院2026年春季博士研究生招生综合面试考核成绩的通知",
+      "url": "https://phy.xidian.edu.cn/info/1012/9683.htm",
+      "date": "2025-12-26"
+    },
+    {
+      "id": "phy:9653",
+      "source_id": "phy",
+      "title": "物理学院关于2025年度本科优质教学奖评选结果的公示",
+      "url": "https://phy.xidian.edu.cn/info/1012/9653.htm",
+      "date": "2025-12-24"
+    },
+    {
+      "id": "phy:9643",
+      "source_id": "phy",
+      "title": "科研协作项目公示信息20251224-2",
+      "url": "https://phy.xidian.edu.cn/info/1012/9643.htm",
+      "date": "2025-12-24"
+    },
+    {
+      "id": "phy:9633",
+      "source_id": "phy",
+      "title": "科研协作项目公示信息20251224-1",
+      "url": "https://phy.xidian.edu.cn/info/1012/9633.htm",
+      "date": "2025-12-24"
+    },
+    {
+      "id": "phy:9603",
+      "source_id": "phy",
+      "title": "科研协作项目公示信息20251223-1",
+      "url": "https://phy.xidian.edu.cn/info/1012/9603.htm",
+      "date": "2025-12-23"
+    },
+    {
+      "id": "phy:9593",
+      "source_id": "phy",
+      "title": "物理学院关于2025年“吃空饷”问题自查自纠情况公示的通知",
+      "url": "https://phy.xidian.edu.cn/info/1012/9593.htm",
+      "date": "2025-12-23"
+    },
+    {
+      "id": "phy:9623",
+      "source_id": "phy",
+      "title": "科研协作项目公示信息20251222-1",
+      "url": "https://phy.xidian.edu.cn/info/1012/9623.htm",
+      "date": "2025-12-22"
+    },
+    {
+      "id": "phy:9583",
+      "source_id": "phy",
+      "title": "物理学院关于2025年先导计划推荐人选公示的通知",
+      "url": "https://phy.xidian.edu.cn/info/1012/9583.htm",
+      "date": "2025-12-18"
+    },
+    {
+      "id": "phy:9573",
+      "source_id": "phy",
+      "title": "物理学院关于公布2026年春季学术学位博士研究生复试名单的通知",
+      "url": "https://phy.xidian.edu.cn/info/1012/9573.htm",
+      "date": "2025-12-17"
+    },
+    {
+      "id": "phy:9533",
+      "source_id": "phy",
+      "title": "科研协作项目公示信息20251215-1",
+      "url": "https://phy.xidian.edu.cn/info/1012/9533.htm",
+      "date": "2025-12-15"
+    },
+    {
+      "id": "phy:9503",
+      "source_id": "phy",
+      "title": "科研协作项目公示信息20251212-1",
+      "url": "https://phy.xidian.edu.cn/info/1012/9503.htm",
+      "date": "2025-12-12"
+    },
+    {
+      "id": "phy:9443",
+      "source_id": "phy",
+      "title": "科研协作项目公示信息20251203-1",
+      "url": "https://phy.xidian.edu.cn/info/1012/9443.htm",
+      "date": "2025-12-03"
+    },
+    {
+      "id": "phy:9413",
+      "source_id": "phy",
+      "title": "科研协作项目公示信息20251203-1",
+      "url": "https://phy.xidian.edu.cn/info/1012/9413.htm",
+      "date": "2025-12-02"
+    },
+    {
+      "id": "phy:9383",
+      "source_id": "phy",
+      "title": "科研协作项目公示信息20251128-1",
+      "url": "https://phy.xidian.edu.cn/info/1012/9383.htm",
+      "date": "2025-11-28"
+    },
+    {
+      "id": "phy:9323",
+      "source_id": "phy",
+      "title": "物理学院关于2025年校长奖推荐人选公示的通知",
+      "url": "https://phy.xidian.edu.cn/info/1012/9323.htm",
+      "date": "2025-11-21"
+    },
+    {
+      "id": "phy:9303",
+      "source_id": "phy",
+      "title": "物理学院关于“华山学者”岗位有关专家考核情况公示的通知",
+      "url": "https://phy.xidian.edu.cn/info/1012/9303.htm",
+      "date": "2025-11-20"
+    },
+    {
+      "id": "phy:9263",
+      "source_id": "phy",
+      "title": "科研协作项目信息公示20251114-2",
+      "url": "https://phy.xidian.edu.cn/info/1012/9263.htm",
+      "date": "2025-11-14"
+    },
+    {
+      "id": "phy:9243",
+      "source_id": "phy",
+      "title": "物理学院关于2025年研究生社会奖学金评审结果公示的通知",
+      "url": "https://phy.xidian.edu.cn/info/1012/9243.htm",
+      "date": "2025-11-13"
+    },
+    {
+      "id": "phy:9223",
+      "source_id": "phy",
+      "title": "科研协作项目公示信息20251113-2",
+      "url": "https://phy.xidian.edu.cn/info/1012/9223.htm",
+      "date": "2025-11-13"
+    },
+    {
+      "id": "phy:9213",
+      "source_id": "phy",
+      "title": "科研协作项目公示信息20251113-1",
+      "url": "https://phy.xidian.edu.cn/info/1012/9213.htm",
+      "date": "2025-11-13"
+    },
+    {
+      "id": "phy:9203",
+      "source_id": "phy",
+      "title": "科研协作项目公示信息20251112-1",
+      "url": "https://phy.xidian.edu.cn/info/1012/9203.htm",
+      "date": "2025-11-12"
+    },
+    {
+      "id": "phy:9173",
+      "source_id": "phy",
+      "title": "科研协作项目公示信息20251107-1",
+      "url": "https://phy.xidian.edu.cn/info/1012/9173.htm",
+      "date": "2025-11-07"
+    },
+    {
+      "id": "phy:9103",
+      "source_id": "phy",
+      "title": "科研协作项目公示信息20251104-1",
+      "url": "https://phy.xidian.edu.cn/info/1012/9103.htm",
+      "date": "2025-11-04"
+    },
+    {
+      "id": "phy:9073",
+      "source_id": "phy",
+      "title": "西安电子科技大学物理学院博士研究生招生申请考核实施方案",
+      "url": "https://phy.xidian.edu.cn/info/1012/9073.htm",
+      "date": "2025-11-03"
+    },
+    {
+      "id": "phy:9033",
+      "source_id": "phy",
+      "title": "科研协作项目公示信息20251029-1",
+      "url": "https://phy.xidian.edu.cn/info/1012/9033.htm",
+      "date": "2025-10-29"
+    },
+    {
+      "id": "phy:9083",
+      "source_id": "phy",
+      "title": "科研协作项目公示信息20251024-1",
+      "url": "https://phy.xidian.edu.cn/info/1012/9083.htm",
+      "date": "2025-10-24"
+    },
+    {
+      "id": "phy:8963",
+      "source_id": "phy",
+      "title": "科研协作项目公示信息20251023-1",
+      "url": "https://phy.xidian.edu.cn/info/1012/8963.htm",
+      "date": "2025-10-23"
+    },
+    {
+      "id": "phy:3852",
+      "source_id": "phy",
+      "title": "物理学院诚聘海内外英才",
+      "url": "https://phy.xidian.edu.cn/info/1012/3852.htm",
+      "date": "2022-04-27"
+    }
+  ]
+}

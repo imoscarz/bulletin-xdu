@@ -61,15 +61,16 @@ uv sync
 uv run bulletin -v
 
 # 查看输出
-ls data/
+ls output/
 ```
 
 ## API 端点
 
 部署到 GitHub Pages 后：
 
-- `index.json` — 所有数据源索引 + 每源最新 10 条
-- `{source_id}.json` — 单个数据源全部通知
+- `feed.json` — 全部通知（按发布时间倒序，受 `content_limit` 限制）
+- `sources/{source_id}.json` — 单个数据源全部通知
+- `index.md` — API 目录与使用指引
 
 ## 添加新数据源
 

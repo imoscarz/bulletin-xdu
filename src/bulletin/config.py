@@ -1,7 +1,7 @@
 from pathlib import Path
 
 import yaml
-from pydantic import BaseModel
+from pydantic import AliasChoices, BaseModel, Field
 
 
 class SelectorConfig(BaseModel):
@@ -12,13 +12,11 @@ class SelectorConfig(BaseModel):
     link: str = "a"
     date: str = "span"
     date_format: str = "text"  # "text" = YYYY-MM-DD span; "split" = day+year-month spans
-    new_badge: str = "img[src*='new']"
 
 
 class PaginationConfig(BaseModel):
     """Pagination URL pattern config."""
 
-    pattern: str = "{base}/{page}.htm"
     max_pages: int = 5  # Maximum pages to scrape per run
 
 
@@ -37,7 +35,12 @@ class SourceConfig(BaseModel):
 class AppConfig(BaseModel):
     """Top-level application configuration."""
 
-    data_dir: Path = Path("data")
+    data_dir: Path = Path("output")
+    # Prefer `content_limit`; keep `feed_limit` as backward-compatible alias.
+    content_limit: int = Field(
+        default=5000,
+        validation_alias=AliasChoices("content_limit", "feed_limit"),
+    )
     sources: list[SourceConfig]
 
 

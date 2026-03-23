@@ -1,5 +1,5 @@
 from abc import ABC, abstractmethod
-from urllib.parse import urljoin
+from urllib.parse import parse_qs, urljoin, urlparse
 
 import httpx
 
@@ -38,6 +38,21 @@ class BaseAdapter(ABC):
 
     @staticmethod
     def _extract_article_id(href: str) -> str:
-        """Extract the numeric article ID from an href like 'info/1012/21703.htm'."""
-        filename = href.rstrip("/").rsplit("/", 1)[-1]
-        return filename.removesuffix(".htm")
+        """Extract a stable article ID from path-style and query-style URLs."""
+        parsed = urlparse(href)
+        query = parse_qs(parsed.query)
+
+        # Query-style CMS links, e.g. ...content.jsp?...&wbnewsid=24808
+        for key in ("wbnewsid", "newsid", "id", "articleid"):
+            values = query.get(key)
+            if values and values[0]:
+                return values[0]
+
+        filename = parsed.path.rstrip("/").rsplit("/", 1)[-1]
+        for suffix in (".htm", ".html", ".shtml", ".jsp", ".php"):
+            filename = filename.removesuffix(suffix)
+        if filename:
+            return filename
+
+        # Last-resort fallback to avoid empty IDs.
+        return href

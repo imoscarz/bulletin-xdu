@@ -1,0 +1,536 @@
+{
+  "meta": {
+    "source_id": "cs",
+    "name": "计算机科学与技术学院",
+    "url": "https://cs.xidian.edu.cn/tzgg.htm",
+    "last_scraped": "2026-03-23T14:49:39.718433Z",
+    "total_notices": 75
+  },
+  "notices": [
+    {
+      "id": "cs:23744",
+      "source_id": "cs",
+      "title": "计科院关于2026年硕士研究生招生复试资格审查工作的通知",
+      "url": "https://cs.xidian.edu.cn/info/1003/23744.htm",
+      "date": "2026-03-23"
+    },
+    {
+      "id": "cs:23734",
+      "source_id": "cs",
+      "title": "计算机科学与技术学院2026年硕士研究生招生复试录取工作方案",
+      "url": "https://cs.xidian.edu.cn/info/1003/23734.htm",
+      "date": "2026-03-23"
+    },
+    {
+      "id": "cs:23444",
+      "source_id": "cs",
+      "title": "计算机科学与技术学院2026年研究生创新基金项目立项公示",
+      "url": "https://cs.xidian.edu.cn/info/1003/23444.htm",
+      "date": "2026-03-16"
+    },
+    {
+      "id": "cs:23424",
+      "source_id": "cs",
+      "title": "计算机科学与技术学院2026年研究生创新基金​推荐参评学校重点培育计划项目公示",
+      "url": "https://cs.xidian.edu.cn/info/1003/23424.htm",
+      "date": "2026-03-11"
+    },
+    {
+      "id": "cs:23414",
+      "source_id": "cs",
+      "title": "计算机科学与技术学院关于第十届“中国电子科技集团公司-西安电子科技大学协同创新奖学金、奖教金”推荐人选的公示",
+      "url": "https://cs.xidian.edu.cn/info/1003/23414.htm",
+      "date": "2026-03-11"
+    },
+    {
+      "id": "cs:23384",
+      "source_id": "cs",
+      "title": "关于2026年研究生创新基金项目申报答辩安排的通知",
+      "url": "https://cs.xidian.edu.cn/info/1003/23384.htm",
+      "date": "2026-03-09"
+    },
+    {
+      "id": "cs:23354",
+      "source_id": "cs",
+      "title": "计算机科学与技术学院关于开展2026年研究生创新基金项目申报通知",
+      "url": "https://cs.xidian.edu.cn/info/1003/23354.htm",
+      "date": "2026-03-05"
+    },
+    {
+      "id": "cs:23284",
+      "source_id": "cs",
+      "title": "2026年计算机科学与技术学院寒假值班安排",
+      "url": "https://cs.xidian.edu.cn/info/1003/23284.htm",
+      "date": "2026-01-19"
+    },
+    {
+      "id": "cs:23274",
+      "source_id": "cs",
+      "title": "【重点赛事】第十九届全国大学生软件创新大赛参赛通知",
+      "url": "https://cs.xidian.edu.cn/info/1003/23274.htm",
+      "date": "2026-01-13"
+    },
+    {
+      "id": "cs:23254",
+      "source_id": "cs",
+      "title": "计算机科学与技术学院2025年联想、掌趣本科生社会奖(助)学金评审结果公示",
+      "url": "https://cs.xidian.edu.cn/info/1003/23254.htm",
+      "date": "2026-01-12"
+    },
+    {
+      "id": "cs:23104",
+      "source_id": "cs",
+      "title": "计算机科学与技术学院2025年联想、掌趣研究生社会奖（助）学金评审结果公示",
+      "url": "https://cs.xidian.edu.cn/info/1003/23104.htm",
+      "date": "2026-01-09"
+    },
+    {
+      "id": "cs:23094",
+      "source_id": "cs",
+      "title": "计算机科学与技术学院关于2026年6月硕士学位申请工作的通知",
+      "url": "https://cs.xidian.edu.cn/info/1003/23094.htm",
+      "date": "2026-01-08"
+    },
+    {
+      "id": "cs:23084",
+      "source_id": "cs",
+      "title": "计算机科学与技术学院关于2026年6月博士学位申请工作的通知",
+      "url": "https://cs.xidian.edu.cn/info/1003/23084.htm",
+      "date": "2026-01-08"
+    },
+    {
+      "id": "cs:23004",
+      "source_id": "cs",
+      "title": "计算机科学与技术学院元旦假期值班安排",
+      "url": "https://cs.xidian.edu.cn/info/1003/23004.htm",
+      "date": "2025-12-31"
+    },
+    {
+      "id": "cs:22984",
+      "source_id": "cs",
+      "title": "计算机科学与技术学院关于2025年度本科优质教学奖推荐结果的公示",
+      "url": "https://cs.xidian.edu.cn/info/1003/22984.htm",
+      "date": "2025-12-29"
+    },
+    {
+      "id": "cs:22954",
+      "source_id": "cs",
+      "title": "计科院2026年春季博士研究生招生拟录取名单（公示）",
+      "url": "https://cs.xidian.edu.cn/info/1003/22954.htm",
+      "date": "2025-12-23"
+    },
+    {
+      "id": "cs:22814",
+      "source_id": "cs",
+      "title": "计科院2026年春季博士研究生招生复试成绩公布",
+      "url": "https://cs.xidian.edu.cn/info/1003/22814.htm",
+      "date": "2025-12-15"
+    },
+    {
+      "id": "cs:22784",
+      "source_id": "cs",
+      "title": "计算机科学与技术学院2026年（春季）博士研究生招生综合面试通知",
+      "url": "https://cs.xidian.edu.cn/info/1003/22784.htm",
+      "date": "2025-12-09"
+    },
+    {
+      "id": "cs:22764",
+      "source_id": "cs",
+      "title": "关于计算机科学与技术学院2026届（2022级）本科毕业设计整体安排的通知",
+      "url": "https://cs.xidian.edu.cn/info/1003/22764.htm",
+      "date": "2025-12-04"
+    },
+    {
+      "id": "cs:22684",
+      "source_id": "cs",
+      "title": "计算机科学与技术学院2025年研究生“校长奖”评审结果公示",
+      "url": "https://cs.xidian.edu.cn/info/1003/22684.htm",
+      "date": "2025-11-20"
+    },
+    {
+      "id": "cs:22674",
+      "source_id": "cs",
+      "title": "计算机科学与技术学院关于受理2026年1月研究生结业申请的通知",
+      "url": "https://cs.xidian.edu.cn/info/1003/22674.htm",
+      "date": "2025-11-18"
+    },
+    {
+      "id": "cs:22664",
+      "source_id": "cs",
+      "title": "计算机科学与技术学院2025年研究生社会奖（助）学金评审结果公示",
+      "url": "https://cs.xidian.edu.cn/info/1003/22664.htm",
+      "date": "2025-11-14"
+    },
+    {
+      "id": "cs:22654",
+      "source_id": "cs",
+      "title": "计算机科学与技术学院2024-2025学年本科生辅导员工作考核结果公示",
+      "url": "https://cs.xidian.edu.cn/info/1003/22654.htm",
+      "date": "2025-11-14"
+    },
+    {
+      "id": "cs:22614",
+      "source_id": "cs",
+      "title": "计算机科学与技术学院博士研究生招生申请考核制实施方案（2025版）",
+      "url": "https://cs.xidian.edu.cn/info/1003/22614.htm",
+      "date": "2025-11-03"
+    },
+    {
+      "id": "cs:22274",
+      "source_id": "cs",
+      "title": "计算机科学与技术学院2025年研究生国家奖学金评审结果公示",
+      "url": "https://cs.xidian.edu.cn/info/1003/22274.htm",
+      "date": "2025-10-10"
+    },
+    {
+      "id": "cs:22044",
+      "source_id": "cs",
+      "title": "计算机科学与技术学院2024级和2023级计算机拔尖班学生补录工作方案",
+      "url": "https://cs.xidian.edu.cn/info/1003/22044.htm",
+      "date": "2025-09-18"
+    },
+    {
+      "id": "cs:22024",
+      "source_id": "cs",
+      "title": "计算机科学与技术学院2026年推荐免试研究生接收工作实施方案",
+      "url": "https://cs.xidian.edu.cn/info/1003/22024.htm",
+      "date": "2025-09-14"
+    },
+    {
+      "id": "cs:21954",
+      "source_id": "cs",
+      "title": "计算机科学与技术学院关于对2025年9月申请授位硕士研究生的学位论文进行抽查评估的通知",
+      "url": "https://cs.xidian.edu.cn/info/1003/21954.htm",
+      "date": "2025-09-02"
+    },
+    {
+      "id": "cs:21944",
+      "source_id": "cs",
+      "title": "关于调整我院2026年硕士研究生招生考试复试专业课科目的通知",
+      "url": "https://cs.xidian.edu.cn/info/1003/21944.htm",
+      "date": "2025-09-01"
+    },
+    {
+      "id": "cs:21924",
+      "source_id": "cs",
+      "title": "计算机科学与技术学院关于开展2025级实验班选拔面试的通知",
+      "url": "https://cs.xidian.edu.cn/info/1003/21924.htm",
+      "date": "2025-09-01"
+    },
+    {
+      "id": "cs:21894",
+      "source_id": "cs",
+      "title": "计算机科学与技术学院关于2025年度国家自然科学基金青年学生基础研究项目（博士研究生）拟推荐名单的公示",
+      "url": "https://cs.xidian.edu.cn/info/1003/21894.htm",
+      "date": "2025-08-29"
+    },
+    {
+      "id": "cs:21874",
+      "source_id": "cs",
+      "title": "计算机科学与技术学院关于推荐2022级优秀应届本科毕业生免试攻读硕士学位研究生工作实施办法",
+      "url": "https://cs.xidian.edu.cn/info/1003/21874.htm",
+      "date": "2025-08-28"
+    },
+    {
+      "id": "cs:21644",
+      "source_id": "cs",
+      "title": "2023级专业方向分流实施方案",
+      "url": "https://cs.xidian.edu.cn/info/1003/21644.htm",
+      "date": "2025-07-22"
+    },
+    {
+      "id": "cs:21624",
+      "source_id": "cs",
+      "title": "计算机科学与技术学院卓越班分流结果公示",
+      "url": "https://cs.xidian.edu.cn/info/1003/21624.htm",
+      "date": "2025-07-15"
+    },
+    {
+      "id": "cs:21604",
+      "source_id": "cs",
+      "title": "计算机科学与技术学院拔尖班分流结果公示",
+      "url": "https://cs.xidian.edu.cn/info/1003/21604.htm",
+      "date": "2025-07-15"
+    },
+    {
+      "id": "cs:21574",
+      "source_id": "cs",
+      "title": "计算机科学与技术学院关于2025年12月博士学位申请工作的通知",
+      "url": "https://cs.xidian.edu.cn/info/1003/21574.htm",
+      "date": "2025-07-14"
+    },
+    {
+      "id": "cs:21564",
+      "source_id": "cs",
+      "title": "计算机科学与技术学院关于2025年12月硕士学位申请工作的通知",
+      "url": "https://cs.xidian.edu.cn/info/1003/21564.htm",
+      "date": "2025-07-14"
+    },
+    {
+      "id": "cs:21524",
+      "source_id": "cs",
+      "title": "公示",
+      "url": "https://cs.xidian.edu.cn/info/1003/21524.htm",
+      "date": "2025-07-11"
+    },
+    {
+      "id": "cs:21394",
+      "source_id": "cs",
+      "title": "计算机科学与技术学院2025年专业技术职务专任教师系列推荐评审结果公示",
+      "url": "https://cs.xidian.edu.cn/info/1003/21394.htm",
+      "date": "2025-06-30"
+    },
+    {
+      "id": "cs:21384",
+      "source_id": "cs",
+      "title": "计算机科学与技术学院本科生2023级转专业实施细则",
+      "url": "https://cs.xidian.edu.cn/info/1003/21384.htm",
+      "date": "2025-06-28"
+    },
+    {
+      "id": "cs:21324",
+      "source_id": "cs",
+      "title": "计算机科学与技术学院关于发放2025级硕士研究生录取通知书的通知",
+      "url": "https://cs.xidian.edu.cn/info/1003/21324.htm",
+      "date": "2025-06-18"
+    },
+    {
+      "id": "cs:21284",
+      "source_id": "cs",
+      "title": "西安电子科技大学计算机科学与技术学院中外合作办学办公室一般管理岗位招聘公告",
+      "url": "https://cs.xidian.edu.cn/info/1003/21284.htm",
+      "date": "2025-06-13"
+    },
+    {
+      "id": "cs:21264",
+      "source_id": "cs",
+      "title": "计算机科学与技术学院2025年卓越班学生分流工作实施方案",
+      "url": "https://cs.xidian.edu.cn/info/1003/21264.htm",
+      "date": "2025-06-13"
+    },
+    {
+      "id": "cs:21244",
+      "source_id": "cs",
+      "title": "关于2025年计算机拔尖班学生分流工作的通知",
+      "url": "https://cs.xidian.edu.cn/info/1003/21244.htm",
+      "date": "2025-06-13"
+    },
+    {
+      "id": "cs:21224",
+      "source_id": "cs",
+      "title": "关于开展选聘计算机科学与技术学院2025届毕业生担任院内科研助理工作的安排",
+      "url": "https://cs.xidian.edu.cn/info/1003/21224.htm",
+      "date": "2025-06-11"
+    },
+    {
+      "id": "cs:21194",
+      "source_id": "cs",
+      "title": "计算机科学与技术学院关于2025年研究生指导教师资格认定和转学科指导教师通过名单的公示",
+      "url": "https://cs.xidian.edu.cn/info/1003/21194.htm",
+      "date": "2025-06-10"
+    },
+    {
+      "id": "cs:21144",
+      "source_id": "cs",
+      "title": "公示",
+      "url": "https://cs.xidian.edu.cn/info/1003/21144.htm",
+      "date": "2025-06-09"
+    },
+    {
+      "id": "cs:21114",
+      "source_id": "cs",
+      "title": "计科院2025年博士研究生招生补录通知",
+      "url": "https://cs.xidian.edu.cn/info/1003/21114.htm",
+      "date": "2025-06-09"
+    },
+    {
+      "id": "cs:21104",
+      "source_id": "cs",
+      "title": "“中国数谷·华为杯”第二届中国研究生操作系统开源创新大赛校内赛通知",
+      "url": "https://cs.xidian.edu.cn/info/1003/21104.htm",
+      "date": "2025-06-09"
+    },
+    {
+      "id": "cs:20864",
+      "source_id": "cs",
+      "title": "西安电子科技大学软件工程专业2025年 第二学士学位招生拟录取名单公示",
+      "url": "https://cs.xidian.edu.cn/info/1003/20864.htm",
+      "date": "2025-05-29"
+    },
+    {
+      "id": "cs:20844",
+      "source_id": "cs",
+      "title": "计科院2025年秋季博士研究生招生拟录取名单（公示）",
+      "url": "https://cs.xidian.edu.cn/info/1003/20844.htm",
+      "date": "2025-05-29"
+    },
+    {
+      "id": "cs:20824",
+      "source_id": "cs",
+      "title": "2025年学校党委第一轮巡察第一巡察组结束现场巡察工作公告",
+      "url": "https://cs.xidian.edu.cn/info/1003/20824.htm",
+      "date": "2025-05-28"
+    },
+    {
+      "id": "cs:20794",
+      "source_id": "cs",
+      "title": "计算机科学与技术学院关于对2025年6月申请授位硕士研究生的学位论文进行抽查评估的通知",
+      "url": "https://cs.xidian.edu.cn/info/1003/20794.htm",
+      "date": "2025-05-26"
+    },
+    {
+      "id": "cs:20784",
+      "source_id": "cs",
+      "title": "计算机科学与技术学院2025年优秀毕业生海外深造奖学金拟推荐名单公示",
+      "url": "https://cs.xidian.edu.cn/info/1003/20784.htm",
+      "date": "2025-05-26"
+    },
+    {
+      "id": "cs:20764",
+      "source_id": "cs",
+      "title": "计科院2025年秋季博士研究生招生复试成绩公布",
+      "url": "https://cs.xidian.edu.cn/info/1003/20764.htm",
+      "date": "2025-05-24"
+    },
+    {
+      "id": "cs:20734",
+      "source_id": "cs",
+      "title": "西安电子科技大学计算机科学与技术学院2025年第二学士学位综合面试通知",
+      "url": "https://cs.xidian.edu.cn/info/1003/20734.htm",
+      "date": "2025-05-23"
+    },
+    {
+      "id": "cs:20714",
+      "source_id": "cs",
+      "title": "​西安电子科技大学计算机科学与技术学院2025年第二学士学位初审通过考生名单公示",
+      "url": "https://cs.xidian.edu.cn/info/1003/20714.htm",
+      "date": "2025-05-23"
+    },
+    {
+      "id": "cs:20674",
+      "source_id": "cs",
+      "title": "计科院2025年秋季博士研究生招生复试综合面试通知",
+      "url": "https://cs.xidian.edu.cn/info/1003/20674.htm",
+      "date": "2025-05-22"
+    },
+    {
+      "id": "cs:20634",
+      "source_id": "cs",
+      "title": "计算机科学与技术学院关于受理2025年6月研究生结业申请的通知",
+      "url": "https://cs.xidian.edu.cn/info/1003/20634.htm",
+      "date": "2025-05-19"
+    },
+    {
+      "id": "cs:20554",
+      "source_id": "cs",
+      "title": "计算机科学与技术学院2025年第二学士学位招收录取实施细则",
+      "url": "https://cs.xidian.edu.cn/info/1003/20554.htm",
+      "date": "2025-05-15"
+    },
+    {
+      "id": "cs:20534",
+      "source_id": "cs",
+      "title": "计算机科学与技术学院2025年（秋季）博士研究生招生复试录取工作安排",
+      "url": "https://cs.xidian.edu.cn/info/1003/20534.htm",
+      "date": "2025-05-15"
+    },
+    {
+      "id": "cs:20494",
+      "source_id": "cs",
+      "title": "计算机科学与技术学院关于2025年9月硕士学位申请工作的通知",
+      "url": "https://cs.xidian.edu.cn/info/1003/20494.htm",
+      "date": "2025-05-13"
+    },
+    {
+      "id": "cs:20474",
+      "source_id": "cs",
+      "title": "计算机科学与技术学院关于2025年9月博士学位申请工作的通知",
+      "url": "https://cs.xidian.edu.cn/info/1003/20474.htm",
+      "date": "2025-05-13"
+    },
+    {
+      "id": "cs:20404",
+      "source_id": "cs",
+      "title": "计科院2025年研究生指导教师资格认定与聘任工作通知",
+      "url": "https://cs.xidian.edu.cn/info/1003/20404.htm",
+      "date": "2025-05-08"
+    },
+    {
+      "id": "cs:20394",
+      "source_id": "cs",
+      "title": "计算机科学与技术学院2025年面向香港、澳门、台湾地区招收硕士研究生复试录取工作安排",
+      "url": "https://cs.xidian.edu.cn/info/1003/20394.htm",
+      "date": "2025-05-08"
+    },
+    {
+      "id": "cs:20374",
+      "source_id": "cs",
+      "title": "计算机科学与技术学院第十三届校级教学名师奖推荐名单公示",
+      "url": "https://cs.xidian.edu.cn/info/1003/20374.htm",
+      "date": "2025-05-07"
+    },
+    {
+      "id": "cs:20314",
+      "source_id": "cs",
+      "title": "关于调整我院2026年硕士研究生招生考试初试专业课科目的通知",
+      "url": "https://cs.xidian.edu.cn/info/1003/20314.htm",
+      "date": "2025-04-30"
+    },
+    {
+      "id": "cs:20184",
+      "source_id": "cs",
+      "title": "计算机科学与技术学院关于开展研究生学位论文抽查预答辩的通知（2025年6月批次）",
+      "url": "https://cs.xidian.edu.cn/info/1003/20184.htm",
+      "date": "2025-04-16"
+    },
+    {
+      "id": "cs:20144",
+      "source_id": "cs",
+      "title": "计算机科学与技术学院2025年硕士研究生拟录取考生党组织关系转接等补充通知",
+      "url": "https://cs.xidian.edu.cn/info/1003/20144.htm",
+      "date": "2025-04-15"
+    },
+    {
+      "id": "cs:19944",
+      "source_id": "cs",
+      "title": "计科院2025年硕士研究生招生非全日制调剂复试拟录取结果公示",
+      "url": "https://cs.xidian.edu.cn/info/1003/19944.htm",
+      "date": "2025-04-11"
+    },
+    {
+      "id": "cs:19904",
+      "source_id": "cs",
+      "title": "计算机科学与技术学院关于2024-2025年度共青团先进集体和先进个人评选结果的公示",
+      "url": "https://cs.xidian.edu.cn/info/1003/19904.htm",
+      "date": "2025-04-09"
+    },
+    {
+      "id": "cs:19874",
+      "source_id": "cs",
+      "title": "计科院2025年非全日制硕士研究生调剂复试安排的通知",
+      "url": "https://cs.xidian.edu.cn/info/1003/19874.htm",
+      "date": "2025-04-09"
+    },
+    {
+      "id": "cs:19784",
+      "source_id": "cs",
+      "title": "计科院关于开放2025年非全日制硕士研究生调剂系统的通知",
+      "url": "https://cs.xidian.edu.cn/info/1003/19784.htm",
+      "date": "2025-04-04"
+    },
+    {
+      "id": "cs:19744",
+      "source_id": "cs",
+      "title": "计科院关于2025年全日制一志愿拟录取硕士研究生选取意向导师的通知",
+      "url": "https://cs.xidian.edu.cn/info/1003/19744.htm",
+      "date": "2025-04-03"
+    },
+    {
+      "id": "cs:16548",
+      "source_id": "cs",
+      "title": "计算未来，启智人生｜计算机科学与技术学院（国家示范性软件学院）期待各位优秀学子加入~",
+      "url": "https://cs.xidian.edu.cn/info/1003/16548.htm",
+      "date": "2024-06-27"
+    }
+  ]
+}

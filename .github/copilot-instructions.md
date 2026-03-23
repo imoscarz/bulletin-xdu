@@ -7,7 +7,7 @@ This repository is a Python 3.12 project for scraping XDU bulletin websites and 
 - Package layout uses `src/` (`src/bulletin/`).
 - Main entry point is CLI script `bulletin` mapped to `bulletin.main:cli`.
 - Source definitions live in `config/sources.yaml`.
-- Scraped outputs are JSON files under `data/`.
+- Scraped outputs are JSON files under `output/` (`output/sources/` for per-source files).
 - Tests are in `tests/` and use pytest.
 
 ## Tooling And Commands
@@ -45,7 +45,7 @@ When adding a new source adapter:
 
 ## Data And Test Expectations
 
-- Do not break schema expectations of generated JSON consumed by `data/index.json` and per-source files.
+- Do not break schema expectations of generated JSON consumed by `output/index.json` and per-source files under `output/sources/`.
 - For parser changes, prioritize deterministic tests with fixtures under `tests/fixtures/`.
 - Prefer updating tests together with behavior changes.
 

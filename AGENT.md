@@ -19,7 +19,8 @@ uv run pytest
 ## Project Layout
 - `src/bulletin/` — main package (src layout, built with hatchling)
 - `config/sources.yaml` — source definitions
-- `data/` — output JSON files (committed by CI)
+- `output/` — API output root (committed by CI)
+- `output/sources/` — per-source JSON files
 - `tests/fixtures/` — saved HTML snapshots for testing
 
 ## Adding a new adapter

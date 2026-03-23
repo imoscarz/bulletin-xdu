@@ -1,0 +1,711 @@
+{
+  "meta": {
+    "source_id": "sem",
+    "name": "经济与管理学院",
+    "url": "https://sem.xidian.edu.cn/tzgg.htm",
+    "last_scraped": "2026-03-23T14:49:44.120503Z",
+    "total_notices": 100
+  },
+  "notices": [
+    {
+      "id": "sem:13331",
+      "source_id": "sem",
+      "title": "2026年中国大学生机械工程创新创意大赛——工业工程与精益管理创新赛校赛通知",
+      "url": "https://sem.xidian.edu.cn/info/1536/13331.htm",
+      "date": "2026-03-23"
+    },
+    {
+      "id": "sem:13211",
+      "source_id": "sem",
+      "title": "西安电子科技大学经济与管理学院AI+CFA实验班春季补录公告",
+      "url": "https://sem.xidian.edu.cn/info/1536/13211.htm",
+      "date": "2026-02-27"
+    },
+    {
+      "id": "sem:12751",
+      "source_id": "sem",
+      "title": "关于组织参加第十六届全国大学生电子商务“创新、创意及创业”挑战赛  西安电子科技大学校赛的通知",
+      "url": "https://sem.xidian.edu.cn/info/1536/12751.htm",
+      "date": "2025-11-11"
+    },
+    {
+      "id": "sem:12561",
+      "source_id": "sem",
+      "title": "关于举办第十二届全国大学生能源经济学术创意大赛（陕西赛区）的通知",
+      "url": "https://sem.xidian.edu.cn/info/1536/12561.htm",
+      "date": "2025-10-13"
+    },
+    {
+      "id": "sem:12541",
+      "source_id": "sem",
+      "title": "经济与管理学院关于2025年12月  博士研究生学位申请工作的安排通知",
+      "url": "https://sem.xidian.edu.cn/info/1536/12541.htm",
+      "date": "2025-10-09"
+    },
+    {
+      "id": "sem:12521",
+      "source_id": "sem",
+      "title": "第四届中国研究生金融科技创新大赛预报名通知",
+      "url": "https://sem.xidian.edu.cn/info/1536/12521.htm",
+      "date": "2025-09-30"
+    },
+    {
+      "id": "sem:13011",
+      "source_id": "sem",
+      "title": "关于更新师德师风监督举报电话和举报邮箱的通知",
+      "url": "https://sem.xidian.edu.cn/info/1536/13011.htm",
+      "date": "2025-09-12"
+    },
+    {
+      "id": "sem:12391",
+      "source_id": "sem",
+      "title": "经济与管理学院2026年推荐免试研究生 复试录取工作方案",
+      "url": "https://sem.xidian.edu.cn/info/1536/12391.htm",
+      "date": "2025-09-12"
+    },
+    {
+      "id": "sem:12371",
+      "source_id": "sem",
+      "title": "关于调整经济与管理学院2026年推免生预报名系统时间的通知",
+      "url": "https://sem.xidian.edu.cn/info/1536/12371.htm",
+      "date": "2025-09-11"
+    },
+    {
+      "id": "sem:12341",
+      "source_id": "sem",
+      "title": "第二十三届中国MBA发展论坛会议通知",
+      "url": "https://sem.xidian.edu.cn/info/1536/12341.htm",
+      "date": "2025-09-09"
+    },
+    {
+      "id": "sem:12311",
+      "source_id": "sem",
+      "title": "关于组织我校研究生参加中国研究生企业管理创新大赛的通知",
+      "url": "https://sem.xidian.edu.cn/info/1536/12311.htm",
+      "date": "2025-09-02"
+    },
+    {
+      "id": "sem:12091",
+      "source_id": "sem",
+      "title": "西安电子科技大学经济与管理学院AI+CFA实验班招生简章",
+      "url": "https://sem.xidian.edu.cn/info/1536/12091.htm",
+      "date": "2025-07-24"
+    },
+    {
+      "id": "sem:12181",
+      "source_id": "sem",
+      "title": "关于调整我院2026级硕士研究生招生考试复试专业课科目的通知",
+      "url": "https://sem.xidian.edu.cn/info/1536/12181.htm",
+      "date": "2025-07-14"
+    },
+    {
+      "id": "sem:12171",
+      "source_id": "sem",
+      "title": "经济与管理学院2026年推荐免试研究生招生预报名通知",
+      "url": "https://sem.xidian.edu.cn/info/1536/12171.htm",
+      "date": "2025-07-14"
+    },
+    {
+      "id": "sem:12161",
+      "source_id": "sem",
+      "title": "西安电子科技大学经济与管理学院CPA菁英班2025级提前批招生公告",
+      "url": "https://sem.xidian.edu.cn/info/1536/12161.htm",
+      "date": "2025-07-14"
+    },
+    {
+      "id": "sem:12071",
+      "source_id": "sem",
+      "title": "经济与管理学院关于2023级本科生转专业选拔工作安排",
+      "url": "https://sem.xidian.edu.cn/info/1536/12071.htm",
+      "date": "2025-07-07"
+    },
+    {
+      "id": "sem:11981",
+      "source_id": "sem",
+      "title": "经济与管理学院关于2023级本科生转专业通知",
+      "url": "https://sem.xidian.edu.cn/info/1536/11981.htm",
+      "date": "2025-07-01"
+    },
+    {
+      "id": "sem:11941",
+      "source_id": "sem",
+      "title": "第四届中国研究生“双碳”创新与创意大赛校内赛执行方案",
+      "url": "https://sem.xidian.edu.cn/info/1536/11941.htm",
+      "date": "2025-06-28"
+    },
+    {
+      "id": "sem:11921",
+      "source_id": "sem",
+      "title": "【会议通知】新发展格局下促进经管学科高质量发展大会",
+      "url": "https://sem.xidian.edu.cn/info/1536/11921.htm",
+      "date": "2025-06-25"
+    },
+    {
+      "id": "sem:11801",
+      "source_id": "sem",
+      "title": "2025年西安电子科技大学经济与管理学院CPA菁英班招生简章",
+      "url": "https://sem.xidian.edu.cn/info/1536/11801.htm",
+      "date": "2025-06-17"
+    },
+    {
+      "id": "sem:11791",
+      "source_id": "sem",
+      "title": "西安电子科技大学经济与管理学院2025年一般管理岗位外聘人员招聘公告",
+      "url": "https://sem.xidian.edu.cn/info/1536/11791.htm",
+      "date": "2025-06-17"
+    },
+    {
+      "id": "sem:11781",
+      "source_id": "sem",
+      "title": "2025年中国情报学年会暨情报学与情报工作发展论坛 第十五届全国情报学博士生学术论坛会议注册通知",
+      "url": "https://sem.xidian.edu.cn/info/1536/11781.htm",
+      "date": "2025-06-16"
+    },
+    {
+      "id": "sem:11761",
+      "source_id": "sem",
+      "title": "关于在国际创新实践周开设“创新思维与创业实践训练营”的通知",
+      "url": "https://sem.xidian.edu.cn/info/1536/11761.htm",
+      "date": "2025-06-16"
+    },
+    {
+      "id": "sem:11701",
+      "source_id": "sem",
+      "title": "经济与管理学院关于开展选聘2025届毕业生担任院内科研助理工作的通知",
+      "url": "https://sem.xidian.edu.cn/2022/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1536&wbnewsid=11701",
+      "date": "2025-06-06"
+    },
+    {
+      "id": "sem:11661",
+      "source_id": "sem",
+      "title": "关于公布经济与管理学院2025年秋季入学博士研究生递补拟录取名单的通知",
+      "url": "https://sem.xidian.edu.cn/info/1536/11661.htm",
+      "date": "2025-06-04"
+    },
+    {
+      "id": "sem:11571",
+      "source_id": "sem",
+      "title": "关于公布经济与管理学院2025年秋季入学博士研究生递补拟录取名单的通知",
+      "url": "https://sem.xidian.edu.cn/info/1536/11571.htm",
+      "date": "2025-05-29"
+    },
+    {
+      "id": "sem:11551",
+      "source_id": "sem",
+      "title": "经济与管理学院2025级研究生党/团组织关系转接通知",
+      "url": "https://sem.xidian.edu.cn/info/1536/11551.htm",
+      "date": "2025-05-29"
+    },
+    {
+      "id": "sem:11521",
+      "source_id": "sem",
+      "title": "关于公布经济与管理学院2025年  秋季入学博士研究生追加指标拟录取名单的通知",
+      "url": "https://sem.xidian.edu.cn/info/1536/11521.htm",
+      "date": "2025-05-27"
+    },
+    {
+      "id": "sem:11461",
+      "source_id": "sem",
+      "title": "关于公布经济与管理学院2025年  秋季入学博士研究生拟录取名单的通知",
+      "url": "https://sem.xidian.edu.cn/info/1536/11461.htm",
+      "date": "2025-05-23"
+    },
+    {
+      "id": "sem:11441",
+      "source_id": "sem",
+      "title": "关于公布经济与管理学院2025年秋季博士招生复试成绩的通知",
+      "url": "https://sem.xidian.edu.cn/info/1536/11441.htm",
+      "date": "2025-05-20"
+    },
+    {
+      "id": "sem:11421",
+      "source_id": "sem",
+      "title": "经济与管理学院2025年秋季学术学位博士研究生招生复试与录取工作方案",
+      "url": "https://sem.xidian.edu.cn/info/1536/11421.htm",
+      "date": "2025-05-15"
+    },
+    {
+      "id": "sem:11121",
+      "source_id": "sem",
+      "title": "2025年中国情报学年会暨情报学与情报工作发展论坛、第十五届全国情报学博士生学术论坛征文通知（第二轮）",
+      "url": "https://sem.xidian.edu.cn/info/1536/11121.htm",
+      "date": "2025-04-17"
+    },
+    {
+      "id": "sem:11101",
+      "source_id": "sem",
+      "title": "关于举办纪念中国人民抗日战争暨世界反法西斯战争胜利80周年主题摄影作品展的通知",
+      "url": "https://sem.xidian.edu.cn/info/1536/11101.htm",
+      "date": "2025-04-16"
+    },
+    {
+      "id": "sem:11091",
+      "source_id": "sem",
+      "title": "2025年中国大学生机械工程创新创意大赛——工业工程与精益管理创新赛校赛通知",
+      "url": "https://sem.xidian.edu.cn/info/1536/11091.htm",
+      "date": "2025-04-16"
+    },
+    {
+      "id": "sem:11051",
+      "source_id": "sem",
+      "title": "关于开展纪念中国人民抗日战争暨世界反法西斯战争胜利80周年主题征文活动的通知",
+      "url": "https://sem.xidian.edu.cn/info/1536/11051.htm",
+      "date": "2025-04-14"
+    },
+    {
+      "id": "sem:11011",
+      "source_id": "sem",
+      "title": "2025年陕西省第十六届工业工程改善创意竞赛西电校赛",
+      "url": "https://sem.xidian.edu.cn/info/1536/11011.htm",
+      "date": "2025-04-11"
+    },
+    {
+      "id": "sem:10911",
+      "source_id": "sem",
+      "title": "关于公布经济与管理学院2025年硕士研究生复试成绩的通知",
+      "url": "https://sem.xidian.edu.cn/info/1536/10911.htm",
+      "date": "2025-04-01"
+    },
+    {
+      "id": "sem:10781",
+      "source_id": "sem",
+      "title": "西安电子科技大学经济与管理学院2025年硕士研究生招生复试笔试安排",
+      "url": "https://sem.xidian.edu.cn/info/1536/10781.htm",
+      "date": "2025-03-24"
+    },
+    {
+      "id": "sem:10761",
+      "source_id": "sem",
+      "title": "关于举办西安电子科技大学2025年全国企业竞争模拟大赛校内选拔赛的通知",
+      "url": "https://sem.xidian.edu.cn/info/1536/10761.htm",
+      "date": "2025-03-23"
+    },
+    {
+      "id": "sem:10751",
+      "source_id": "sem",
+      "title": "经济与管理学院2025年全日制硕士研究生招生复试录取工作方案",
+      "url": "https://sem.xidian.edu.cn/info/1536/10751.htm",
+      "date": "2025-03-21"
+    },
+    {
+      "id": "sem:10581",
+      "source_id": "sem",
+      "title": "西安电子科技大学经济与管理学院CFA实验班春季补录公告",
+      "url": "https://sem.xidian.edu.cn/info/1536/10581.htm",
+      "date": "2025-02-18"
+    },
+    {
+      "id": "sem:10521",
+      "source_id": "sem",
+      "title": "2025年中国情报学年会暨情报学与情报工作发展论坛、第十五届全国情报学博士生学术论坛征文通知（第一轮）",
+      "url": "https://sem.xidian.edu.cn/info/1536/10521.htm",
+      "date": "2025-01-25"
+    },
+    {
+      "id": "sem:10421",
+      "source_id": "sem",
+      "title": "经济与管理学院2025年寒假值班安排表",
+      "url": "https://sem.xidian.edu.cn/info/1536/10421.htm",
+      "date": "2025-01-13"
+    },
+    {
+      "id": "sem:10701",
+      "source_id": "sem",
+      "title": "西安电子科技大学经济与管理学院2025年人才招聘简章",
+      "url": "https://sem.xidian.edu.cn/info/1536/10701.htm",
+      "date": "2025-01-01"
+    },
+    {
+      "id": "sem:10341",
+      "source_id": "sem",
+      "title": "第十三届党委第二轮巡察第六巡察组 结束现场巡察工作公告",
+      "url": "https://sem.xidian.edu.cn/info/1536/10341.htm",
+      "date": "2024-12-27"
+    },
+    {
+      "id": "sem:10321",
+      "source_id": "sem",
+      "title": "经济与管理学院2025年元旦节值班安排表",
+      "url": "https://sem.xidian.edu.cn/info/1536/10321.htm",
+      "date": "2024-12-25"
+    },
+    {
+      "id": "sem:10261",
+      "source_id": "sem",
+      "title": "经济与管理学院2025年博士研究生（春季入学）复试结果公示",
+      "url": "https://sem.xidian.edu.cn/info/1536/10261.htm",
+      "date": "2024-12-16"
+    },
+    {
+      "id": "sem:10121",
+      "source_id": "sem",
+      "title": "经济与管理学院关于报销“出国类外语水平考试奖励”的流程",
+      "url": "https://sem.xidian.edu.cn/info/1536/10121.htm",
+      "date": "2024-12-02"
+    },
+    {
+      "id": "sem:9771",
+      "source_id": "sem",
+      "title": "第十五届全国大学生电子商务“创新、创意及创业”挑战赛西安电子科技大学校赛报名通知",
+      "url": "https://sem.xidian.edu.cn/info/1536/9771.htm",
+      "date": "2024-10-31"
+    },
+    {
+      "id": "sem:9761",
+      "source_id": "sem",
+      "title": "关于学校第十三届党委第二轮第六巡察组巡察经济与管理学院党委的公告",
+      "url": "https://sem.xidian.edu.cn/info/1536/9761.htm",
+      "date": "2024-10-30"
+    },
+    {
+      "id": "sem:9561",
+      "source_id": "sem",
+      "title": "经济与管理学院2024年国庆节值班安排表",
+      "url": "https://sem.xidian.edu.cn/info/1536/9561.htm",
+      "date": "2024-09-30"
+    },
+    {
+      "id": "sem:9521",
+      "source_id": "sem",
+      "title": "关于举办第十一届全国大学生能源经济学术创意大赛（陕西赛区）的通知",
+      "url": "https://sem.xidian.edu.cn/info/1536/9521.htm",
+      "date": "2024-09-23"
+    },
+    {
+      "id": "sem:9511",
+      "source_id": "sem",
+      "title": "经济与管理学院2025年推荐免试研究生  复试录取工作方案",
+      "url": "https://sem.xidian.edu.cn/info/1536/9511.htm",
+      "date": "2024-09-21"
+    },
+    {
+      "id": "sem:9491",
+      "source_id": "sem",
+      "title": "经济与管理学院2024年中秋节值班安排表",
+      "url": "https://sem.xidian.edu.cn/info/1536/9491.htm",
+      "date": "2024-09-14"
+    },
+    {
+      "id": "sem:9451",
+      "source_id": "sem",
+      "title": "经济与管理学院推荐优秀2025届本科毕业生  免试攻读硕士学位研究生工作实施细则",
+      "url": "https://sem.xidian.edu.cn/info/1536/9451.htm",
+      "date": "2024-09-09"
+    },
+    {
+      "id": "sem:9401",
+      "source_id": "sem",
+      "title": "关于举办2024第七届“智享杯” 全国高校经管类实验教学案例大赛西北区赛的通知 （第一轮通知）",
+      "url": "https://sem.xidian.edu.cn/info/1536/9401.htm",
+      "date": "2024-09-03"
+    },
+    {
+      "id": "sem:9331",
+      "source_id": "sem",
+      "title": "关于举办2024第七届“智享杯”全国高校经管类实验教学案例大赛西北区域赛赛前案例研发培训通知",
+      "url": "https://sem.xidian.edu.cn/info/1536/9331.htm",
+      "date": "2024-09-02"
+    },
+    {
+      "id": "sem:9241",
+      "source_id": "sem",
+      "title": "经济与管理学院2025年 “优秀科研人才选拔计划”实施办法",
+      "url": "https://sem.xidian.edu.cn/info/1536/9241.htm",
+      "date": "2024-08-05"
+    },
+    {
+      "id": "sem:9221",
+      "source_id": "sem",
+      "title": "经济与管理学院2025年推荐免试研究生招生预报名通知",
+      "url": "https://sem.xidian.edu.cn/info/1536/9221.htm",
+      "date": "2024-08-04"
+    },
+    {
+      "id": "sem:9211",
+      "source_id": "sem",
+      "title": "西安电子科技大学经济与管理学院CFA实验班招生简章",
+      "url": "https://sem.xidian.edu.cn/info/1536/9211.htm",
+      "date": "2024-07-15"
+    },
+    {
+      "id": "sem:9205",
+      "source_id": "sem",
+      "title": "经济与管理学院 2024 年暑假值班安排表",
+      "url": "https://sem.xidian.edu.cn/info/1536/9205.htm",
+      "date": "2024-07-15"
+    },
+    {
+      "id": "sem:9187",
+      "source_id": "sem",
+      "title": "2024年西安电子科技大学经济与管理学院CPA菁英班招生简章",
+      "url": "https://sem.xidian.edu.cn/info/1536/9187.htm",
+      "date": "2024-07-11"
+    },
+    {
+      "id": "sem:9175",
+      "source_id": "sem",
+      "title": "经济与管理学院关于2022级本科生转专业选拔工作安排",
+      "url": "https://sem.xidian.edu.cn/info/1536/9175.htm",
+      "date": "2024-07-08"
+    },
+    {
+      "id": "sem:9164",
+      "source_id": "sem",
+      "title": "经济与管理学院关于2022级本科生转专业通知",
+      "url": "https://sem.xidian.edu.cn/info/1536/9164.htm",
+      "date": "2024-07-02"
+    },
+    {
+      "id": "sem:9155",
+      "source_id": "sem",
+      "title": "中国研究生乡村振兴科技强农+创新大赛第四届科技作品竞赛校内赛执行方案",
+      "url": "https://sem.xidian.edu.cn/info/1536/9155.htm",
+      "date": "2024-06-26"
+    },
+    {
+      "id": "sem:9141",
+      "source_id": "sem",
+      "title": "经济与管理学院2024年端午节值班安排表",
+      "url": "https://sem.xidian.edu.cn/info/1536/9141.htm",
+      "date": "2024-06-07"
+    },
+    {
+      "id": "sem:9140",
+      "source_id": "sem",
+      "title": "经济与管理学院2024年硕士研究生拟录取考生党/团组织关系转接补充通知",
+      "url": "https://sem.xidian.edu.cn/info/1536/9140.htm",
+      "date": "2024-06-04"
+    },
+    {
+      "id": "sem:9139",
+      "source_id": "sem",
+      "title": "西安电子科技大学经济与管理学院2024年一般管理岗位（科研助理）外聘人员招聘公告",
+      "url": "https://sem.xidian.edu.cn/info/1536/9139.htm",
+      "date": "2024-06-03"
+    },
+    {
+      "id": "sem:9136",
+      "source_id": "sem",
+      "title": "经济与管理学院关于2024年博士研究生招生追加指标的通知",
+      "url": "https://sem.xidian.edu.cn/info/1536/9136.htm",
+      "date": "2024-05-29"
+    },
+    {
+      "id": "sem:9129",
+      "source_id": "sem",
+      "title": "关于公布经济与管理学院2024年秋季博士招生复试成绩的通知",
+      "url": "https://sem.xidian.edu.cn/info/1536/9129.htm",
+      "date": "2024-05-28"
+    },
+    {
+      "id": "sem:9120",
+      "source_id": "sem",
+      "title": "经济与管理学院2024年秋季学术学位博士研究生复试名单（第二批）",
+      "url": "https://sem.xidian.edu.cn/info/1536/9120.htm",
+      "date": "2024-05-24"
+    },
+    {
+      "id": "sem:9118",
+      "source_id": "sem",
+      "title": "经济与管理学院2024年秋季学术学位博士研究生复试名单",
+      "url": "https://sem.xidian.edu.cn/info/1536/9118.htm",
+      "date": "2024-05-23"
+    },
+    {
+      "id": "sem:9117",
+      "source_id": "sem",
+      "title": "经济与管理学院2024年秋季学术学位博士研究生招生复试与录取工作方案",
+      "url": "https://sem.xidian.edu.cn/info/1536/9117.htm",
+      "date": "2024-05-23"
+    },
+    {
+      "id": "sem:9081",
+      "source_id": "sem",
+      "title": "关于公布第十届全国大学生能源经济学术创意大赛陕西赛区获奖名单的通知",
+      "url": "https://sem.xidian.edu.cn/info/1536/9081.htm",
+      "date": "2024-04-15"
+    },
+    {
+      "id": "sem:9072",
+      "source_id": "sem",
+      "title": "关于公示经济与管理学院2024年硕士研究生招生统考拟录取名单的通知",
+      "url": "https://sem.xidian.edu.cn/info/1536/9072.htm",
+      "date": "2024-04-07"
+    },
+    {
+      "id": "sem:9068",
+      "source_id": "sem",
+      "title": "关于公布经济与管理学院2024年硕士研究生一志愿考生复试成绩的通知",
+      "url": "https://sem.xidian.edu.cn/info/1536/9068.htm",
+      "date": "2024-04-03"
+    },
+    {
+      "id": "sem:9051",
+      "source_id": "sem",
+      "title": "2024年陕西省第十五届工业工程改善创意竞赛西电校赛",
+      "url": "https://sem.xidian.edu.cn/info/1536/9051.htm",
+      "date": "2024-03-27"
+    },
+    {
+      "id": "sem:9046",
+      "source_id": "sem",
+      "title": "西安电子科技大学经济与管理学院2024年硕士研究生招生复试笔试安排",
+      "url": "https://sem.xidian.edu.cn/info/1536/9046.htm",
+      "date": "2024-03-26"
+    },
+    {
+      "id": "sem:9014",
+      "source_id": "sem",
+      "title": "经济与管理学院关于2024年6月全日制硕士研究生学位申请工作的安排通知",
+      "url": "https://sem.xidian.edu.cn/info/1536/9014.htm",
+      "date": "2024-02-23"
+    },
+    {
+      "id": "sem:9013",
+      "source_id": "sem",
+      "title": "经济与管理学院关于2024年6月博士研究生学位申请工作的安排通知",
+      "url": "https://sem.xidian.edu.cn/info/1536/9013.htm",
+      "date": "2024-02-23"
+    },
+    {
+      "id": "sem:8864",
+      "source_id": "sem",
+      "title": "关于公布经济与管理学院2024年春季博士招生复试名单的通知",
+      "url": "https://sem.xidian.edu.cn/info/1536/8864.htm",
+      "date": "2023-11-21"
+    },
+    {
+      "id": "sem:8750",
+      "source_id": "sem",
+      "title": "关于举办第十届全国大学生能源经济学术创意大赛（陕西赛区）的通知",
+      "url": "https://sem.xidian.edu.cn/info/1536/8750.htm",
+      "date": "2023-09-22"
+    },
+    {
+      "id": "sem:8727",
+      "source_id": "sem",
+      "title": "经济与管理学院推荐优秀2024届本科毕业生免试攻读硕士学位研究生工作实施细则",
+      "url": "https://sem.xidian.edu.cn/info/1536/8727.htm",
+      "date": "2023-09-12"
+    },
+    {
+      "id": "sem:8717",
+      "source_id": "sem",
+      "title": "关于举办第十届全国大学生能源经济学术创意大赛的通知",
+      "url": "https://sem.xidian.edu.cn/info/1536/8717.htm",
+      "date": "2023-09-05"
+    },
+    {
+      "id": "sem:8693",
+      "source_id": "sem",
+      "title": "经济与管理学院2024年“优秀科研人才选拔计划”实施办法",
+      "url": "https://sem.xidian.edu.cn/info/1536/8693.htm",
+      "date": "2023-07-12"
+    },
+    {
+      "id": "sem:8685",
+      "source_id": "sem",
+      "title": "西安电子科技大学经济与管理学院2023年CFA实验班招生简章",
+      "url": "https://sem.xidian.edu.cn/info/1536/8685.htm",
+      "date": "2023-07-07"
+    },
+    {
+      "id": "sem:8676",
+      "source_id": "sem",
+      "title": "经济与管理学院关于2021级本科生转专业选拔工作安排",
+      "url": "https://sem.xidian.edu.cn/info/1536/8676.htm",
+      "date": "2023-07-04"
+    },
+    {
+      "id": "sem:8655",
+      "source_id": "sem",
+      "title": "2023年西安电子科技大学经济与管理学院CPA菁英班招生简章",
+      "url": "https://sem.xidian.edu.cn/info/1536/8655.htm",
+      "date": "2023-06-30"
+    },
+    {
+      "id": "sem:8652",
+      "source_id": "sem",
+      "title": "经济与管理学院关于2021级本科生转专业通知",
+      "url": "https://sem.xidian.edu.cn/info/1536/8652.htm",
+      "date": "2023-06-30"
+    },
+    {
+      "id": "sem:8599",
+      "source_id": "sem",
+      "title": "经济与管理学院2023年硕士研究生拟录取考生党/团组织关系转接补充通知",
+      "url": "https://sem.xidian.edu.cn/info/1536/8599.htm",
+      "date": "2023-05-30"
+    },
+    {
+      "id": "sem:8510",
+      "source_id": "sem",
+      "title": "2023年陕西省第十四届工业工程改善创意竞赛校赛通知",
+      "url": "https://sem.xidian.edu.cn/info/1536/8510.htm",
+      "date": "2023-04-06"
+    },
+    {
+      "id": "sem:8260",
+      "source_id": "sem",
+      "title": "西安电子科技大学经济与管理学院CFA实验班春季补录公告",
+      "url": "https://sem.xidian.edu.cn/info/1536/8260.htm",
+      "date": "2023-03-10"
+    },
+    {
+      "id": "sem:8195",
+      "source_id": "sem",
+      "title": "西安电子科技大学经济与管理学院2023年人才招聘简章",
+      "url": "https://sem.xidian.edu.cn/info/1536/8195.htm",
+      "date": "2023-02-20"
+    },
+    {
+      "id": "sem:8193",
+      "source_id": "sem",
+      "title": "西电经管院关于承办2023年第九届全国大学生能源经济学术创意大赛（陕西赛区）的通知",
+      "url": "https://sem.xidian.edu.cn/info/1536/8193.htm",
+      "date": "2023-01-20"
+    },
+    {
+      "id": "sem:8139",
+      "source_id": "sem",
+      "title": "经济与管理学院关于2023年6月博士研究生学位申请工作的安排通知",
+      "url": "https://sem.xidian.edu.cn/info/1536/8139.htm",
+      "date": "2023-01-15"
+    },
+    {
+      "id": "sem:8124",
+      "source_id": "sem",
+      "title": "经济与管理学院关于2023年6月全日制硕士研究生学位申请工作的安排通知",
+      "url": "https://sem.xidian.edu.cn/info/1536/8124.htm",
+      "date": "2023-01-15"
+    },
+    {
+      "id": "sem:8191",
+      "source_id": "sem",
+      "title": "[值班安排]经济与管理学院2023年寒假值班安排",
+      "url": "https://sem.xidian.edu.cn/info/1536/8191.htm",
+      "date": "2023-01-09"
+    },
+    {
+      "id": "sem:8209",
+      "source_id": "sem",
+      "title": "经济与管理学院分会荣获2022年度省教科文卫体系统模范职工小家称号",
+      "url": "https://sem.xidian.edu.cn/info/1536/8209.htm",
+      "date": "2022-12-06"
+    },
+    {
+      "id": "sem:8125",
+      "source_id": "sem",
+      "title": "关于公布师德师风监督举报电话和举报邮箱的通知",
+      "url": "https://sem.xidian.edu.cn/info/1536/8125.htm",
+      "date": "2022-12-06"
+    },
+    {
+      "id": "sem:8208",
+      "source_id": "sem",
+      "title": "经管院第二届“研途启航文献综述大赛”正式启动",
+      "url": "https://sem.xidian.edu.cn/info/1536/8208.htm",
+      "date": "2022-11-22"
+    }
+  ]
+}

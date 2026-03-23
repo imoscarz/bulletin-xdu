@@ -1,0 +1,536 @@
+{
+  "meta": {
+    "source_id": "amn",
+    "name": "先进材料与纳米科技学院",
+    "url": "https://amn.xidian.edu.cn/tzgg.htm",
+    "last_scraped": "2026-03-23T14:49:46.117989Z",
+    "total_notices": 75
+  },
+  "notices": [
+    {
+      "id": "amn:17342",
+      "source_id": "amn",
+      "title": "先进材料与纳米科技学院2026年硕士研究生招生复试录取工作方案",
+      "url": "https://amn.xidian.edu.cn/info/1013/17342.htm",
+      "date": "2026-03-23"
+    },
+    {
+      "id": "amn:16932",
+      "source_id": "amn",
+      "title": "先进材料与纳米科技学院办公室2026年寒假值班表",
+      "url": "https://amn.xidian.edu.cn/info/1013/16932.htm",
+      "date": "2026-01-19"
+    },
+    {
+      "id": "amn:16762",
+      "source_id": "amn",
+      "title": "先进材料与纳米科技学院2026年元旦假期值班表",
+      "url": "https://amn.xidian.edu.cn/info/1013/16762.htm",
+      "date": "2025-12-31"
+    },
+    {
+      "id": "amn:16022",
+      "source_id": "amn",
+      "title": "先进材料与纳米科技学院关于对研究生2025～2026学年学业奖学金评选结果的公示",
+      "url": "https://amn.xidian.edu.cn/info/1013/16022.htm",
+      "date": "2025-11-21"
+    },
+    {
+      "id": "amn:15892",
+      "source_id": "amn",
+      "title": "先进材料与纳米科技学院博士研究生招生申请考核制实施方案(2025版)",
+      "url": "https://amn.xidian.edu.cn/info/1013/15892.htm",
+      "date": "2025-11-03"
+    },
+    {
+      "id": "amn:15532",
+      "source_id": "amn",
+      "title": "关于李逸君同志的考察预告",
+      "url": "https://amn.xidian.edu.cn/info/1013/15532.htm",
+      "date": "2025-10-16"
+    },
+    {
+      "id": "amn:15522",
+      "source_id": "amn",
+      "title": "先进材料与纳米科技学院2025年中秋国庆假期值班表",
+      "url": "https://amn.xidian.edu.cn/info/1013/15522.htm",
+      "date": "2025-09-30"
+    },
+    {
+      "id": "amn:15282",
+      "source_id": "amn",
+      "title": "关于调整先进材料与纳米科技学院2026年推免生预报名系统时间的通知",
+      "url": "https://amn.xidian.edu.cn/info/1013/15282.htm",
+      "date": "2025-09-15"
+    },
+    {
+      "id": "amn:15272",
+      "source_id": "amn",
+      "title": "先进材料与纳米科技学院2026年推荐免试研究生接收工作实施方案",
+      "url": "https://amn.xidian.edu.cn/info/1013/15272.htm",
+      "date": "2025-09-15"
+    },
+    {
+      "id": "amn:15092",
+      "source_id": "amn",
+      "title": "先进材料与纳米科技学院2025年师昌绪电子材料菁英班选拔面试的通知",
+      "url": "https://amn.xidian.edu.cn/info/1013/15092.htm",
+      "date": "2025-09-01"
+    },
+    {
+      "id": "amn:14972",
+      "source_id": "amn",
+      "title": "先进材料与纳米科技学院2026年推荐免试研究生招生预报名的通知",
+      "url": "https://amn.xidian.edu.cn/info/1013/14972.htm",
+      "date": "2025-07-24"
+    },
+    {
+      "id": "amn:14942",
+      "source_id": "amn",
+      "title": "先进材料与纳米科技学院办公室2025年暑假值班表",
+      "url": "https://amn.xidian.edu.cn/info/1013/14942.htm",
+      "date": "2025-07-14"
+    },
+    {
+      "id": "amn:14652",
+      "source_id": "amn",
+      "title": "关于调整我院2026年硕士研究生招生考试初试专业课科目的通知",
+      "url": "https://amn.xidian.edu.cn/info/1013/14652.htm",
+      "date": "2025-06-24"
+    },
+    {
+      "id": "amn:14382",
+      "source_id": "amn",
+      "title": "先进材料与纳米科技学院2025年研究生指导教师资格认定名单公示",
+      "url": "https://amn.xidian.edu.cn/info/1013/14382.htm",
+      "date": "2025-06-10"
+    },
+    {
+      "id": "amn:14252",
+      "source_id": "amn",
+      "title": "先进材料与纳米科技学院2025年端午节假期值班表",
+      "url": "https://amn.xidian.edu.cn/info/1013/14252.htm",
+      "date": "2025-05-30"
+    },
+    {
+      "id": "amn:14172",
+      "source_id": "amn",
+      "title": "关于公布先进材料与纳米科技学院2025年秋季入学博士研究生拟录取名单的通知",
+      "url": "https://amn.xidian.edu.cn/info/1013/14172.htm",
+      "date": "2025-05-27"
+    },
+    {
+      "id": "amn:14032",
+      "source_id": "amn",
+      "title": "关于公布先进材料与纳米科技学院2025年秋季博士招生复试成绩的通知",
+      "url": "https://amn.xidian.edu.cn/info/1013/14032.htm",
+      "date": "2025-05-26"
+    },
+    {
+      "id": "amn:13962",
+      "source_id": "amn",
+      "title": "先进材料与纳米科技学院2025年秋季博士研究生招生复试录取工作安排",
+      "url": "https://amn.xidian.edu.cn/info/1013/13962.htm",
+      "date": "2025-05-16"
+    },
+    {
+      "id": "amn:8832",
+      "source_id": "amn",
+      "title": "先进材料与纳米科技学院2025年五一劳动节假期值班表",
+      "url": "https://amn.xidian.edu.cn/info/1013/8832.htm",
+      "date": "2025-04-30"
+    },
+    {
+      "id": "amn:8652",
+      "source_id": "amn",
+      "title": "CMC2025-分会介绍|D11-电子材料与微系统",
+      "url": "https://amn.xidian.edu.cn/info/1013/8652.htm",
+      "date": "2025-04-18"
+    },
+    {
+      "id": "amn:8552",
+      "source_id": "amn",
+      "title": "先进材料与纳米科技学院关于对春季博士2025年研究生学业奖学金评选结果的公示",
+      "url": "https://amn.xidian.edu.cn/info/1013/8552.htm",
+      "date": "2025-04-16"
+    },
+    {
+      "id": "amn:8412",
+      "source_id": "amn",
+      "title": "先进材料与纳米科技学院2025年清明节假期值班表",
+      "url": "https://amn.xidian.edu.cn/info/1013/8412.htm",
+      "date": "2025-04-03"
+    },
+    {
+      "id": "amn:8382",
+      "source_id": "amn",
+      "title": "先进材料与纳米科技学院2025年硕士研究生招生一志愿统考拟录取名单公示",
+      "url": "https://amn.xidian.edu.cn/info/1013/8382.htm",
+      "date": "2025-04-03"
+    },
+    {
+      "id": "amn:8322",
+      "source_id": "amn",
+      "title": "关于公布先进材料与纳米科技学院2025年硕士研究生招生复试成绩的通知",
+      "url": "https://amn.xidian.edu.cn/info/1013/8322.htm",
+      "date": "2025-03-31"
+    },
+    {
+      "id": "amn:8222",
+      "source_id": "amn",
+      "title": "先进材料与纳米科技学院2025年硕士研究生招生复试录取工作方案",
+      "url": "https://amn.xidian.edu.cn/info/1013/8222.htm",
+      "date": "2025-03-22"
+    },
+    {
+      "id": "amn:8142",
+      "source_id": "amn",
+      "title": "“材”聚未来  “料”定辉煌丨材料学院诚聘全球英才",
+      "url": "https://amn.xidian.edu.cn/info/1013/8142.htm",
+      "date": "2025-03-17"
+    },
+    {
+      "id": "amn:7472",
+      "source_id": "amn",
+      "title": "先进材料与纳米科技学院办公室2025年寒假值班表",
+      "url": "https://amn.xidian.edu.cn/info/1013/7472.htm",
+      "date": "2025-01-13"
+    },
+    {
+      "id": "amn:6782",
+      "source_id": "amn",
+      "title": "先进材料与纳米科技学院关于2024年本科优质教学奖评选结果的公示",
+      "url": "https://amn.xidian.edu.cn/info/1013/6782.htm",
+      "date": "2024-12-31"
+    },
+    {
+      "id": "amn:6772",
+      "source_id": "amn",
+      "title": "先进材料与纳米科技学院2025年春季博士研究生招生拟录取名单公示",
+      "url": "https://amn.xidian.edu.cn/info/1013/6772.htm",
+      "date": "2024-12-18"
+    },
+    {
+      "id": "amn:6322",
+      "source_id": "amn",
+      "title": "先进材料与纳米科技学院关于对研究生2024～2025学年学业奖学金评选结果的公示",
+      "url": "https://amn.xidian.edu.cn/info/1013/6322.htm",
+      "date": "2024-11-15"
+    },
+    {
+      "id": "amn:6302",
+      "source_id": "amn",
+      "title": "先进材料与纳米科技学院2024年研究生国家奖学金名单公示",
+      "url": "https://amn.xidian.edu.cn/info/1013/6302.htm",
+      "date": "2024-11-06"
+    },
+    {
+      "id": "amn:6292",
+      "source_id": "amn",
+      "title": "关于2024年材料学院研究生国家奖学金答辩评审的通知",
+      "url": "https://amn.xidian.edu.cn/info/1013/6292.htm",
+      "date": "2024-10-14"
+    },
+    {
+      "id": "amn:6012",
+      "source_id": "amn",
+      "title": "先进材料与纳米科技学院2025年推荐免试研究生接收工作实施方案",
+      "url": "https://amn.xidian.edu.cn/info/1013/6012.htm",
+      "date": "2024-09-21"
+    },
+    {
+      "id": "amn:6002",
+      "source_id": "amn",
+      "title": "先进材料与纳米科技学院2024年师昌绪电子材料菁英班选拔面试的通知",
+      "url": "https://amn.xidian.edu.cn/info/1013/6002.htm",
+      "date": "2024-09-05"
+    },
+    {
+      "id": "amn:5992",
+      "source_id": "amn",
+      "title": "先进材料与纳米科技学院关于2023级师昌绪电子材料菁英班滚动选拔结果的公示",
+      "url": "https://amn.xidian.edu.cn/info/1013/5992.htm",
+      "date": "2024-09-03"
+    },
+    {
+      "id": "amn:5982",
+      "source_id": "amn",
+      "title": "先进材料与纳米科技学院关于开展师昌绪电子材料菁英班招生和选拔面试的通知",
+      "url": "https://amn.xidian.edu.cn/info/1013/5982.htm",
+      "date": "2024-08-25"
+    },
+    {
+      "id": "amn:5972",
+      "source_id": "amn",
+      "title": "先进材料与纳米科技学院关于开展师昌绪电子材料菁英班招生和选拔的通知",
+      "url": "https://amn.xidian.edu.cn/info/1013/5972.htm",
+      "date": "2024-08-16"
+    },
+    {
+      "id": "amn:5944",
+      "source_id": "amn",
+      "title": "先进材料与纳米科技学院2025年推荐免试研究生招生预报名的通知",
+      "url": "https://amn.xidian.edu.cn/info/1013/5944.htm",
+      "date": "2024-07-15"
+    },
+    {
+      "id": "amn:5943",
+      "source_id": "amn",
+      "title": "先进材料与纳米科技学院关于2024-2025学年秋季学期本科课程教材选用情况的公示",
+      "url": "https://amn.xidian.edu.cn/info/1013/5943.htm",
+      "date": "2024-07-15"
+    },
+    {
+      "id": "amn:5931",
+      "source_id": "amn",
+      "title": "先进材料与纳米科技学院办公室2024年暑假值班表",
+      "url": "https://amn.xidian.edu.cn/info/1013/5931.htm",
+      "date": "2024-07-15"
+    },
+    {
+      "id": "amn:5923",
+      "source_id": "amn",
+      "title": "先进材料与纳米科技学院2025届优秀科研人才夏令营暨推免预选拔工作通知",
+      "url": "https://amn.xidian.edu.cn/info/1013/5923.htm",
+      "date": "2024-07-09"
+    },
+    {
+      "id": "amn:5892",
+      "source_id": "amn",
+      "title": "关于先进材料与纳米科技学院2022级本科生转专业的通知",
+      "url": "https://amn.xidian.edu.cn/info/1013/5892.htm",
+      "date": "2024-07-01"
+    },
+    {
+      "id": "amn:5847",
+      "source_id": "amn",
+      "title": "先进材料与纳米科技学院2024年端午节假期值班表",
+      "url": "https://amn.xidian.edu.cn/info/1013/5847.htm",
+      "date": "2024-06-07"
+    },
+    {
+      "id": "amn:5846",
+      "source_id": "amn",
+      "title": "先进材料与纳米科技学院2024年研究生指导教师资格认定名单公示",
+      "url": "https://amn.xidian.edu.cn/info/1013/5846.htm",
+      "date": "2024-06-05"
+    },
+    {
+      "id": "amn:5824",
+      "source_id": "amn",
+      "title": "先进材料与纳米科技学院2023～2024年度先进集体和先进个人推荐名单公示",
+      "url": "https://amn.xidian.edu.cn/info/1013/5824.htm",
+      "date": "2024-05-27"
+    },
+    {
+      "id": "amn:5823",
+      "source_id": "amn",
+      "title": "先进材料与纳米科技学院2024年度党内先进集体和个人名单公示",
+      "url": "https://amn.xidian.edu.cn/info/1013/5823.htm",
+      "date": "2024-05-27"
+    },
+    {
+      "id": "amn:5807",
+      "source_id": "amn",
+      "title": "先进材料与纳米科技学院2024年秋季博士研究生招生拟录取名单公示",
+      "url": "https://amn.xidian.edu.cn/info/1013/5807.htm",
+      "date": "2024-05-20"
+    },
+    {
+      "id": "amn:5798",
+      "source_id": "amn",
+      "title": "先进材料与纳米科技学院2024年秋季博士研究生招生复试录取工作安排",
+      "url": "https://amn.xidian.edu.cn/info/1013/5798.htm",
+      "date": "2024-05-13"
+    },
+    {
+      "id": "amn:5774",
+      "source_id": "amn",
+      "title": "先进材料与纳米科技学院2024年五一劳动节假期值班表",
+      "url": "https://amn.xidian.edu.cn/info/1013/5774.htm",
+      "date": "2024-04-30"
+    },
+    {
+      "id": "amn:5755",
+      "source_id": "amn",
+      "title": "先进材料与纳米科技学院关于对春季博士2024年研究生学业奖学金评选结果的公示",
+      "url": "https://amn.xidian.edu.cn/info/1013/5755.htm",
+      "date": "2024-04-18"
+    },
+    {
+      "id": "amn:5746",
+      "source_id": "amn",
+      "title": "先进材料与纳米科技学院2024年硕士研究生招生追加指标拟录取名单公示",
+      "url": "https://amn.xidian.edu.cn/info/1013/5746.htm",
+      "date": "2024-04-08"
+    },
+    {
+      "id": "amn:5744",
+      "source_id": "amn",
+      "title": "先进材料与纳米科技学院2024年硕士研究生招生指标追加通知",
+      "url": "https://amn.xidian.edu.cn/info/1013/5744.htm",
+      "date": "2024-04-08"
+    },
+    {
+      "id": "amn:5738",
+      "source_id": "amn",
+      "title": "关于公示先进材料与纳米科技学院2024年硕士研究生招生一志愿拟录取名单的通知",
+      "url": "https://amn.xidian.edu.cn/info/1013/5738.htm",
+      "date": "2024-04-03"
+    },
+    {
+      "id": "amn:5737",
+      "source_id": "amn",
+      "title": "先进材料与纳米科技学院2024年清明节假期值班表",
+      "url": "https://amn.xidian.edu.cn/info/1013/5737.htm",
+      "date": "2024-04-03"
+    },
+    {
+      "id": "amn:5736",
+      "source_id": "amn",
+      "title": "先进材料与纳米科技学院2023～2024年度工会先进集体和先进个人名单公示",
+      "url": "https://amn.xidian.edu.cn/info/1013/5736.htm",
+      "date": "2024-04-03"
+    },
+    {
+      "id": "amn:5729",
+      "source_id": "amn",
+      "title": "先进材料与纳米科技学院2024年硕士研究生招生复试成绩公布",
+      "url": "https://amn.xidian.edu.cn/info/1013/5729.htm",
+      "date": "2024-04-02"
+    },
+    {
+      "id": "amn:5721",
+      "source_id": "amn",
+      "title": "考生须知",
+      "url": "https://amn.xidian.edu.cn/info/1013/5721.htm",
+      "date": "2024-03-25"
+    },
+    {
+      "id": "amn:5719",
+      "source_id": "amn",
+      "title": "先进材料与纳米科技学院2024年硕士研究生招生复试工作方案",
+      "url": "https://amn.xidian.edu.cn/info/1013/5719.htm",
+      "date": "2024-03-25"
+    },
+    {
+      "id": "amn:5706",
+      "source_id": "amn",
+      "title": "先进材料与纳米科技学院2024年自由探索立项公示",
+      "url": "https://amn.xidian.edu.cn/info/1013/5706.htm",
+      "date": "2024-03-11"
+    },
+    {
+      "id": "amn:5702",
+      "source_id": "amn",
+      "title": "先进材料与纳米科技学院2024年研究生创新基金项目立项公示",
+      "url": "https://amn.xidian.edu.cn/info/1013/5702.htm",
+      "date": "2024-03-08"
+    },
+    {
+      "id": "amn:5676",
+      "source_id": "amn",
+      "title": "先进材料与纳米科技学院办公室2024年寒假值班表",
+      "url": "https://amn.xidian.edu.cn/info/1013/5676.htm",
+      "date": "2024-01-22"
+    },
+    {
+      "id": "amn:5657",
+      "source_id": "amn",
+      "title": "先进材料与纳米科技学院2024年元旦假期值班表",
+      "url": "https://amn.xidian.edu.cn/info/1013/5657.htm",
+      "date": "2023-12-29"
+    },
+    {
+      "id": "amn:5647",
+      "source_id": "amn",
+      "title": "先进材料与纳米科技学院关于2023年本科优质教学奖评选结果的公示",
+      "url": "https://amn.xidian.edu.cn/info/1013/5647.htm",
+      "date": "2023-12-25"
+    },
+    {
+      "id": "amn:5616",
+      "source_id": "amn",
+      "title": "先进材料与纳米科技学院关于对研究生2023～2024学年学业奖学金评选结果的公示",
+      "url": "https://amn.xidian.edu.cn/info/1013/5616.htm",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "amn:5583",
+      "source_id": "amn",
+      "title": "先进材料与纳米科技学院分会工会委员会委员候选人建议人选的公示",
+      "url": "https://amn.xidian.edu.cn/info/1013/5583.htm",
+      "date": "2023-11-13"
+    },
+    {
+      "id": "amn:5531",
+      "source_id": "amn",
+      "title": "先进材料与纳米科技学院2023年研究生国家奖学金名单公示",
+      "url": "https://amn.xidian.edu.cn/info/1013/5531.htm",
+      "date": "2023-10-08"
+    },
+    {
+      "id": "amn:5525",
+      "source_id": "amn",
+      "title": "关于2023年材料学院研究生国家奖学金答辩评审的通知",
+      "url": "https://amn.xidian.edu.cn/info/1013/5525.htm",
+      "date": "2023-10-07"
+    },
+    {
+      "id": "amn:5521",
+      "source_id": "amn",
+      "title": "先进材料与纳米科技学院2023年中秋国庆假期值班表",
+      "url": "https://amn.xidian.edu.cn/info/1013/5521.htm",
+      "date": "2023-09-28"
+    },
+    {
+      "id": "amn:5503",
+      "source_id": "amn",
+      "title": "先进材料与纳米科技学院2024年推荐免试研究生接收工作实施方案",
+      "url": "https://amn.xidian.edu.cn/info/1013/5503.htm",
+      "date": "2023-09-22"
+    },
+    {
+      "id": "amn:5446",
+      "source_id": "amn",
+      "title": "先进材料与纳米科技学院2023年师昌绪电子材料菁英班选拔面试的通知",
+      "url": "https://amn.xidian.edu.cn/info/1013/5446.htm",
+      "date": "2023-09-07"
+    },
+    {
+      "id": "amn:5443",
+      "source_id": "amn",
+      "title": "欢迎加入先进材料与纳米科技学院师昌绪电子材料菁英班",
+      "url": "https://amn.xidian.edu.cn/info/1013/5443.htm",
+      "date": "2023-09-04"
+    },
+    {
+      "id": "amn:5434",
+      "source_id": "amn",
+      "title": "先进材料与纳米科技学院2024年推荐免试研究生招生预报名通知",
+      "url": "https://amn.xidian.edu.cn/info/1013/5434.htm",
+      "date": "2023-08-20"
+    },
+    {
+      "id": "amn:5432",
+      "source_id": "amn",
+      "title": "先进材料与纳米科技学院办公室2023年暑假值班表",
+      "url": "https://amn.xidian.edu.cn/info/1013/5432.htm",
+      "date": "2023-07-17"
+    },
+    {
+      "id": "amn:5421",
+      "source_id": "amn",
+      "title": "先进材料与纳米科技学院关于第三届本科教学创新奖推荐结果公示",
+      "url": "https://amn.xidian.edu.cn/info/1013/5421.htm",
+      "date": "2023-07-10"
+    },
+    {
+      "id": "amn:5420",
+      "source_id": "amn",
+      "title": "先进材料与纳米科技学院2024年“优秀科研人才选拔计划”暑期夏令营实施方案",
+      "url": "https://amn.xidian.edu.cn/info/1013/5420.htm",
+      "date": "2023-07-07"
+    }
+  ]
+}

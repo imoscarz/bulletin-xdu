@@ -1,0 +1,1411 @@
+{
+  "meta": {
+    "source_id": "bksy",
+    "name": "本科生院",
+    "url": "https://bksy.xidian.edu.cn/tzgg.htm",
+    "last_scraped": "2026-03-23T14:49:56.942542Z",
+    "total_notices": 200
+  },
+  "notices": [
+    {
+      "id": "bksy:32762",
+      "source_id": "bksy",
+      "title": "【教学培训】2026年第24期 决策咨询类信息撰写能力提...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/32762.htm",
+      "date": "2026-03-20"
+    },
+    {
+      "id": "bksy:32752",
+      "source_id": "bksy",
+      "title": "【教学培训】2026年第23期 探寻信息传输的极限-香农...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/32752.htm",
+      "date": "2026-03-20"
+    },
+    {
+      "id": "bksy:32742",
+      "source_id": "bksy",
+      "title": "【人工智能赋能】2026年第22期 大学物理智慧课程建设...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/32742.htm",
+      "date": "2026-03-20"
+    },
+    {
+      "id": "bksy:32722",
+      "source_id": "bksy",
+      "title": "【人工智能赋能】2026年第20期 AI赋能中国近现代史纲...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/32722.htm",
+      "date": "2026-03-18"
+    },
+    {
+      "id": "bksy:32712",
+      "source_id": "bksy",
+      "title": "2026年基本科研业务费本科生创新基金拟资助项目公示",
+      "url": "https://bksy.xidian.edu.cn/info/1003/32712.htm",
+      "date": "2026-03-18"
+    },
+    {
+      "id": "bksy:32692",
+      "source_id": "bksy",
+      "title": "关于延长第十七届中国大学生服务外包创新创业大赛报...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/32692.htm",
+      "date": "2026-03-17"
+    },
+    {
+      "id": "bksy:32702",
+      "source_id": "bksy",
+      "title": "关于组织参加2026年（第十二届）全国大学生统计建模...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/32702.htm",
+      "date": "2026-03-16"
+    },
+    {
+      "id": "bksy:32672",
+      "source_id": "bksy",
+      "title": "关于2026年上半年全国大学英语四、六级考试报名的通...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/32672.htm",
+      "date": "2026-03-13"
+    },
+    {
+      "id": "bksy:32642",
+      "source_id": "bksy",
+      "title": "关于2025～2026学年第二学期重修选课的通知",
+      "url": "https://bksy.xidian.edu.cn/info/1003/32642.htm",
+      "date": "2026-03-05"
+    },
+    {
+      "id": "bksy:32622",
+      "source_id": "bksy",
+      "title": "关于开展2026年春季学期学生勤工助学工作的通知",
+      "url": "https://bksy.xidian.edu.cn/info/1003/32622.htm",
+      "date": "2026-03-05"
+    },
+    {
+      "id": "bksy:32602",
+      "source_id": "bksy",
+      "title": "关于开展2026年春季困难补助评定工作的通知",
+      "url": "https://bksy.xidian.edu.cn/info/1003/32602.htm",
+      "date": "2026-03-05"
+    },
+    {
+      "id": "bksy:32562",
+      "source_id": "bksy",
+      "title": "关于做好2026年校内无息助学贷款工作的通知",
+      "url": "https://bksy.xidian.edu.cn/info/1003/32562.htm",
+      "date": "2026-03-05"
+    },
+    {
+      "id": "bksy:32412",
+      "source_id": "bksy",
+      "title": "关于“物理实验能力达标测试（C1-2）”补测的通知",
+      "url": "https://bksy.xidian.edu.cn/info/1003/32412.htm",
+      "date": "2026-03-04"
+    },
+    {
+      "id": "bksy:32382",
+      "source_id": "bksy",
+      "title": "关于组织开展2026年基本科研业务费本科生创新基金项...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/32382.htm",
+      "date": "2026-03-03"
+    },
+    {
+      "id": "bksy:32402",
+      "source_id": "bksy",
+      "title": "西安电子科技大学“信号与系统”公共课实验教学专题培训",
+      "url": "https://bksy.xidian.edu.cn/info/1003/32402.htm",
+      "date": "2026-03-02"
+    },
+    {
+      "id": "bksy:32392",
+      "source_id": "bksy",
+      "title": "关于举办“2026年团体程序设计天梯赛校内选拔赛”的...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/32392.htm",
+      "date": "2026-03-02"
+    },
+    {
+      "id": "bksy:32372",
+      "source_id": "bksy",
+      "title": "关于2022级学生综合层（A级）实验实践能力达标春季补...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/32372.htm",
+      "date": "2026-03-02"
+    },
+    {
+      "id": "bksy:32362",
+      "source_id": "bksy",
+      "title": "关于2025级本科生《物理实验（I）》实验选课及《物理...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/32362.htm",
+      "date": "2026-02-28"
+    },
+    {
+      "id": "bksy:32352",
+      "source_id": "bksy",
+      "title": "关于组织参加“第十七届中国大学生服务外包创新创业...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/32352.htm",
+      "date": "2026-02-28"
+    },
+    {
+      "id": "bksy:32342",
+      "source_id": "bksy",
+      "title": "关于举办2026年全国大学生物理实验竞赛（创新）校内...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/32342.htm",
+      "date": "2026-02-28"
+    },
+    {
+      "id": "bksy:32302",
+      "source_id": "bksy",
+      "title": "关于报送2025年国家奖学金获奖学生先进事迹材料的通...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/32302.htm",
+      "date": "2026-02-28"
+    },
+    {
+      "id": "bksy:32292",
+      "source_id": "bksy",
+      "title": "关于开放2025~2026学年第二学期补（缓）考预约的通知",
+      "url": "https://bksy.xidian.edu.cn/info/1003/32292.htm",
+      "date": "2026-02-24"
+    },
+    {
+      "id": "bksy:32242",
+      "source_id": "bksy",
+      "title": "关于对2025～2026学年第一学期青年教师助教工作审核...",
+      "url": "https://bksy.xidian.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1003&wbnewsid=32242",
+      "date": "2026-01-19"
+    },
+    {
+      "id": "bksy:32232",
+      "source_id": "bksy",
+      "title": "本科生院2026年寒假值班安排表",
+      "url": "https://bksy.xidian.edu.cn/info/1003/32232.htm",
+      "date": "2026-01-19"
+    },
+    {
+      "id": "bksy:32222",
+      "source_id": "bksy",
+      "title": "关于2025~2026学年第二学期  本科生选课的通知",
+      "url": "https://bksy.xidian.edu.cn/info/1003/32222.htm",
+      "date": "2026-01-16"
+    },
+    {
+      "id": "bksy:32212",
+      "source_id": "bksy",
+      "title": "关于开展创新俱乐部2025年度建设考核的通知",
+      "url": "https://bksy.xidian.edu.cn/info/1003/32212.htm",
+      "date": "2026-01-15"
+    },
+    {
+      "id": "bksy:32202",
+      "source_id": "bksy",
+      "title": "关于提前做好2025～2026学年第二学期补考工作的通知",
+      "url": "https://bksy.xidian.edu.cn/info/1003/32202.htm",
+      "date": "2026-01-14"
+    },
+    {
+      "id": "bksy:32192",
+      "source_id": "bksy",
+      "title": "西安电子科技大学2025年度本科优质教学奖评选结果公...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/32192.htm",
+      "date": "2026-01-14"
+    },
+    {
+      "id": "bksy:32172",
+      "source_id": "bksy",
+      "title": "关于对2025～2026学年第二学期西安电子科技大学优质...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/32172.htm",
+      "date": "2026-01-13"
+    },
+    {
+      "id": "bksy:32152",
+      "source_id": "bksy",
+      "title": "关于组织申报2026年校级本科教育教学改革项目的通知",
+      "url": "https://bksy.xidian.edu.cn/info/1003/32152.htm",
+      "date": "2026-01-08"
+    },
+    {
+      "id": "bksy:32142",
+      "source_id": "bksy",
+      "title": "【教学示范】2026年第4期  “人工智能导论”教学示范",
+      "url": "https://bksy.xidian.edu.cn/info/1003/32142.htm",
+      "date": "2026-01-07"
+    },
+    {
+      "id": "bksy:32112",
+      "source_id": "bksy",
+      "title": "关于公布2023年校级教改项目（研究类）及2024年人工...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/32112.htm",
+      "date": "2026-01-05"
+    },
+    {
+      "id": "bksy:32102",
+      "source_id": "bksy",
+      "title": "【教学示范】2026年第1期 “信息论基础”教学示范",
+      "url": "https://bksy.xidian.edu.cn/info/1003/32102.htm",
+      "date": "2025-12-31"
+    },
+    {
+      "id": "bksy:32082",
+      "source_id": "bksy",
+      "title": "【教学培训】2025年第360期 传感器实验建设交流研讨",
+      "url": "https://bksy.xidian.edu.cn/info/1003/32082.htm",
+      "date": "2025-12-25"
+    },
+    {
+      "id": "bksy:32052",
+      "source_id": "bksy",
+      "title": "【公开课】2025年第359期 数字电路与逻辑设计",
+      "url": "https://bksy.xidian.edu.cn/info/1003/32052.htm",
+      "date": "2025-12-24"
+    },
+    {
+      "id": "bksy:32042",
+      "source_id": "bksy",
+      "title": "【公开课】2025年第357期 电路分析基础公开课",
+      "url": "https://bksy.xidian.edu.cn/info/1003/32042.htm",
+      "date": "2025-12-24"
+    },
+    {
+      "id": "bksy:32022",
+      "source_id": "bksy",
+      "title": "关于选聘第八批“学生资助宣传大使”的通知",
+      "url": "https://bksy.xidian.edu.cn/info/1003/32022.htm",
+      "date": "2025-12-23"
+    },
+    {
+      "id": "bksy:32012",
+      "source_id": "bksy",
+      "title": "关于公布2025年国家级、省级大学生创新训练计划立项...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/32012.htm",
+      "date": "2025-12-23"
+    },
+    {
+      "id": "bksy:31972",
+      "source_id": "bksy",
+      "title": "关于对2025年华为奖学金获奖学生名单进行公示的通知",
+      "url": "https://bksy.xidian.edu.cn/info/1003/31972.htm",
+      "date": "2025-12-22"
+    },
+    {
+      "id": "bksy:31962",
+      "source_id": "bksy",
+      "title": "2026年全国大学生英语竞赛（NECCS）报名缴费通知",
+      "url": "https://bksy.xidian.edu.cn/info/1003/31962.htm",
+      "date": "2025-12-19"
+    },
+    {
+      "id": "bksy:31952",
+      "source_id": "bksy",
+      "title": "关于做好2026届毕业生图像信息采集工作的通知",
+      "url": "https://bksy.xidian.edu.cn/info/1003/31952.htm",
+      "date": "2025-12-19"
+    },
+    {
+      "id": "bksy:31942",
+      "source_id": "bksy",
+      "title": "【公开课】2025年第355期 场论与复变函数",
+      "url": "https://bksy.xidian.edu.cn/info/1003/31942.htm",
+      "date": "2025-12-18"
+    },
+    {
+      "id": "bksy:31932",
+      "source_id": "bksy",
+      "title": "【公开课】2025年第354期 电子技术基础",
+      "url": "https://bksy.xidian.edu.cn/info/1003/31932.htm",
+      "date": "2025-12-18"
+    },
+    {
+      "id": "bksy:31922",
+      "source_id": "bksy",
+      "title": "关于做好2025~2026学年第一学期期末考试工作的通知",
+      "url": "https://bksy.xidian.edu.cn/info/1003/31922.htm",
+      "date": "2025-12-18"
+    },
+    {
+      "id": "bksy:31892",
+      "source_id": "bksy",
+      "title": "【人工智能赋能】2025年第350期 AI赋能大学数学课程...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/31892.htm",
+      "date": "2025-12-16"
+    },
+    {
+      "id": "bksy:31862",
+      "source_id": "bksy",
+      "title": "关于公布2025年“本科生校长奖”拟推荐学生名单的通...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/31862.htm",
+      "date": "2025-12-15"
+    },
+    {
+      "id": "bksy:31842",
+      "source_id": "bksy",
+      "title": "关于对2025年秋季学期返乡交通补贴专项临时困难补助...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/31842.htm",
+      "date": "2025-12-15"
+    },
+    {
+      "id": "bksy:31832",
+      "source_id": "bksy",
+      "title": "【人工智能赋能】2025年第349期 信息管理类智慧课程...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/31832.htm",
+      "date": "2025-12-15"
+    },
+    {
+      "id": "bksy:31622",
+      "source_id": "bksy",
+      "title": "【教学示范】2025年第346期 现代物理基础",
+      "url": "https://bksy.xidian.edu.cn/info/1003/31622.htm",
+      "date": "2025-12-09"
+    },
+    {
+      "id": "bksy:31602",
+      "source_id": "bksy",
+      "title": "【公开课】2025年第343期 软件技术基础",
+      "url": "https://bksy.xidian.edu.cn/info/1003/31602.htm",
+      "date": "2025-12-08"
+    },
+    {
+      "id": "bksy:31592",
+      "source_id": "bksy",
+      "title": "【教学培训】2025年第345期  校企联合人才培训模式探...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/31592.htm",
+      "date": "2025-12-08"
+    },
+    {
+      "id": "bksy:31582",
+      "source_id": "bksy",
+      "title": "【教学示范】2025年第344期  物理实验",
+      "url": "https://bksy.xidian.edu.cn/info/1003/31582.htm",
+      "date": "2025-12-08"
+    },
+    {
+      "id": "bksy:31562",
+      "source_id": "bksy",
+      "title": "关于对2025年冬寒补助拟推荐名单进行公示的通知",
+      "url": "https://bksy.xidian.edu.cn/info/1003/31562.htm",
+      "date": "2025-12-08"
+    },
+    {
+      "id": "bksy:31802",
+      "source_id": "bksy",
+      "title": "关于2026年全国大学生电子设计竞赛系列竞赛校内报名...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/31802.htm",
+      "date": "2025-12-06"
+    },
+    {
+      "id": "bksy:31552",
+      "source_id": "bksy",
+      "title": "【公开课】2025年第338期 混合式教学课堂设计创新---...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/31552.htm",
+      "date": "2025-12-05"
+    },
+    {
+      "id": "bksy:31542",
+      "source_id": "bksy",
+      "title": "【公开课】2025年第337期 微生物学",
+      "url": "https://bksy.xidian.edu.cn/info/1003/31542.htm",
+      "date": "2025-12-05"
+    },
+    {
+      "id": "bksy:31522",
+      "source_id": "bksy",
+      "title": "西安电子科技大学学生体质测试补测的通知",
+      "url": "https://bksy.xidian.edu.cn/info/1003/31522.htm",
+      "date": "2025-12-05"
+    },
+    {
+      "id": "bksy:31502",
+      "source_id": "bksy",
+      "title": "【人工智能赋能】2025年第336期  核心课程知识图谱建...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/31502.htm",
+      "date": "2025-12-04"
+    },
+    {
+      "id": "bksy:31482",
+      "source_id": "bksy",
+      "title": "关于开展2025年秋季学期返乡交通补贴专项临时困难补...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/31482.htm",
+      "date": "2025-12-03"
+    },
+    {
+      "id": "bksy:31472",
+      "source_id": "bksy",
+      "title": "【教学示范】2025年第333期 “下一代网络技术（校企...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/31472.htm",
+      "date": "2025-12-03"
+    },
+    {
+      "id": "bksy:31452",
+      "source_id": "bksy",
+      "title": "2025年12月13日全国大学英语四、六级考试考生须知",
+      "url": "https://bksy.xidian.edu.cn/info/1003/31452.htm",
+      "date": "2025-12-01"
+    },
+    {
+      "id": "bksy:31422",
+      "source_id": "bksy",
+      "title": "关于对2025年冬寒补助拟推荐名单（第一批）进行公示...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/31422.htm",
+      "date": "2025-12-01"
+    },
+    {
+      "id": "bksy:31412",
+      "source_id": "bksy",
+      "title": "【教学示范】2025年第331期 “半导体物理”示范教学...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/31412.htm",
+      "date": "2025-11-28"
+    },
+    {
+      "id": "bksy:31402",
+      "source_id": "bksy",
+      "title": "【教学培训】2025年第330期 “集成电路制造技术”课...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/31402.htm",
+      "date": "2025-11-28"
+    },
+    {
+      "id": "bksy:31392",
+      "source_id": "bksy",
+      "title": "【公开课】2025年第329期 “大学体育（篮球）”四角...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/31392.htm",
+      "date": "2025-11-28"
+    },
+    {
+      "id": "bksy:31372",
+      "source_id": "bksy",
+      "title": "关于对2025年社会奖助学金（第二批）拟推荐学生名单...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/31372.htm",
+      "date": "2025-11-26"
+    },
+    {
+      "id": "bksy:31342",
+      "source_id": "bksy",
+      "title": "【教学培训】2025年第328期 “数据科学导论”课程建...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/31342.htm",
+      "date": "2025-11-26"
+    },
+    {
+      "id": "bksy:31312",
+      "source_id": "bksy",
+      "title": "【教学活动】2025年第325期 经管院2025秋核心示范课...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/31312.htm",
+      "date": "2025-11-26"
+    },
+    {
+      "id": "bksy:31302",
+      "source_id": "bksy",
+      "title": "【教学培训】2025年第324期 “应用统计学”中“通俗...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/31302.htm",
+      "date": "2025-11-26"
+    },
+    {
+      "id": "bksy:31292",
+      "source_id": "bksy",
+      "title": "【教学培训】2025年第323期  本科实验教学的探索与思...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/31292.htm",
+      "date": "2025-11-26"
+    },
+    {
+      "id": "bksy:31282",
+      "source_id": "bksy",
+      "title": "【教学培训】2025年第327期 基于OBE理念的本科专业培...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/31282.htm",
+      "date": "2025-11-26"
+    },
+    {
+      "id": "bksy:31272",
+      "source_id": "bksy",
+      "title": "【教学培训】2025年第326期  生命科学技术学院本科人...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/31272.htm",
+      "date": "2025-11-26"
+    },
+    {
+      "id": "bksy:31262",
+      "source_id": "bksy",
+      "title": "关于第十二届全国大学生机械创新设计大赛（校赛）评...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/31262.htm",
+      "date": "2025-11-24"
+    },
+    {
+      "id": "bksy:31242",
+      "source_id": "bksy",
+      "title": "关于2024-2025学年“四好”宿舍评选结果的公示",
+      "url": "https://bksy.xidian.edu.cn/info/1003/31242.htm",
+      "date": "2025-11-24"
+    },
+    {
+      "id": "bksy:31232",
+      "source_id": "bksy",
+      "title": "关于2024级“大学生物理实验能力达标测试（C1-2）”...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/31232.htm",
+      "date": "2025-11-24"
+    },
+    {
+      "id": "bksy:31222",
+      "source_id": "bksy",
+      "title": "【教学示范】2025年第314期 “网络通信基础与实践”...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/31222.htm",
+      "date": "2025-11-21"
+    },
+    {
+      "id": "bksy:31212",
+      "source_id": "bksy",
+      "title": "关于开展2025年新生冬寒补助申请工作的通知",
+      "url": "https://bksy.xidian.edu.cn/info/1003/31212.htm",
+      "date": "2025-11-20"
+    },
+    {
+      "id": "bksy:31182",
+      "source_id": "bksy",
+      "title": "关于2024-2025学年先进班级评选结果的公示",
+      "url": "https://bksy.xidian.edu.cn/info/1003/31182.htm",
+      "date": "2025-11-20"
+    },
+    {
+      "id": "bksy:31152",
+      "source_id": "bksy",
+      "title": "【公开课】2025年第313期 大学英语中级（I）公开课",
+      "url": "https://bksy.xidian.edu.cn/info/1003/31152.htm",
+      "date": "2025-11-19"
+    },
+    {
+      "id": "bksy:31142",
+      "source_id": "bksy",
+      "title": "【公开课】2025年第312期 “电子材料化学Ⅱ”公开课",
+      "url": "https://bksy.xidian.edu.cn/info/1003/31142.htm",
+      "date": "2025-11-19"
+    },
+    {
+      "id": "bksy:31132",
+      "source_id": "bksy",
+      "title": "【人工智能赋能】2025年第311期 数智时代课程思政转...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/31132.htm",
+      "date": "2025-11-19"
+    },
+    {
+      "id": "bksy:31122",
+      "source_id": "bksy",
+      "title": "【公开课】2025年第310期“大学物理II”公开课",
+      "url": "https://bksy.xidian.edu.cn/info/1003/31122.htm",
+      "date": "2025-11-19"
+    },
+    {
+      "id": "bksy:31112",
+      "source_id": "bksy",
+      "title": "【教学培训】2025年第309期 “大学物理”课程量子物...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/31112.htm",
+      "date": "2025-11-19"
+    },
+    {
+      "id": "bksy:31102",
+      "source_id": "bksy",
+      "title": "关于2025年秋季计算机应用“实验实践能力达标测试（C...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/31102.htm",
+      "date": "2025-11-19"
+    },
+    {
+      "id": "bksy:31092",
+      "source_id": "bksy",
+      "title": "2025年下半年全国大学英语四六级口语考试考生须知",
+      "url": "https://bksy.xidian.edu.cn/info/1003/31092.htm",
+      "date": "2025-11-19"
+    },
+    {
+      "id": "bksy:31072",
+      "source_id": "bksy",
+      "title": "【教学培训】2025年第305期 程序设计基础课程教学研...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/31072.htm",
+      "date": "2025-11-18"
+    },
+    {
+      "id": "bksy:31062",
+      "source_id": "bksy",
+      "title": "【教学培训】2025年第306期 本科生课程试卷检查与质...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/31062.htm",
+      "date": "2025-11-18"
+    },
+    {
+      "id": "bksy:31032",
+      "source_id": "bksy",
+      "title": "关于对2025年本科生社会奖助学金（第一批）拟推荐学...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/31032.htm",
+      "date": "2025-11-18"
+    },
+    {
+      "id": "bksy:31012",
+      "source_id": "bksy",
+      "title": "【教学培训】2025年第301期 全国高校混合式教学设计...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/31012.htm",
+      "date": "2025-11-17"
+    },
+    {
+      "id": "bksy:30982",
+      "source_id": "bksy",
+      "title": "关于开展2023年校级教改项目（研究类）及2024年人工...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/30982.htm",
+      "date": "2025-11-14"
+    },
+    {
+      "id": "bksy:30952",
+      "source_id": "bksy",
+      "title": "关于开展2025年“本科生校长奖”评选活动的通知",
+      "url": "https://bksy.xidian.edu.cn/info/1003/30952.htm",
+      "date": "2025-11-13"
+    },
+    {
+      "id": "bksy:30922",
+      "source_id": "bksy",
+      "title": "【公开课】2025年第296期 “电子材料理论物理”公开...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/30922.htm",
+      "date": "2025-11-13"
+    },
+    {
+      "id": "bksy:30912",
+      "source_id": "bksy",
+      "title": "【人工智能赋能】关于召开“人工智能赋能高校教师教...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/30912.htm",
+      "date": "2025-11-13"
+    },
+    {
+      "id": "bksy:30902",
+      "source_id": "bksy",
+      "title": "【人工智能赋能】2025年第299期 电波传播与天线专业...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/30902.htm",
+      "date": "2025-11-12"
+    },
+    {
+      "id": "bksy:30972",
+      "source_id": "bksy",
+      "title": "关于组织培育2026年校级大学生创新训练计划项目的通...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/30972.htm",
+      "date": "2025-11-11"
+    },
+    {
+      "id": "bksy:30892",
+      "source_id": "bksy",
+      "title": "关于开放使用自主学习校内公开课资源的通知（12月22...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/30892.htm",
+      "date": "2025-11-11"
+    },
+    {
+      "id": "bksy:30882",
+      "source_id": "bksy",
+      "title": "【教学培训】2025年第295期  网络与信息安全学院智慧...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/30882.htm",
+      "date": "2025-11-10"
+    },
+    {
+      "id": "bksy:30872",
+      "source_id": "bksy",
+      "title": "【人工智能赋能】2025年第294期  核心课程知识图谱建...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/30872.htm",
+      "date": "2025-11-10"
+    },
+    {
+      "id": "bksy:30842",
+      "source_id": "bksy",
+      "title": "【教学培训】2025年第289期 从培训赋能到课程重构：...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/30842.htm",
+      "date": "2025-11-07"
+    },
+    {
+      "id": "bksy:30832",
+      "source_id": "bksy",
+      "title": "【教学培训】2025年第288期 机械专业课程思政案例分...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/30832.htm",
+      "date": "2025-11-07"
+    },
+    {
+      "id": "bksy:30822",
+      "source_id": "bksy",
+      "title": "【公开课】2025年第290期 “概率论与数理统计”公开...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/30822.htm",
+      "date": "2025-11-07"
+    },
+    {
+      "id": "bksy:30812",
+      "source_id": "bksy",
+      "title": "【人工智能赋能】2025年第287期  生成式AI冲击下课程...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/30812.htm",
+      "date": "2025-11-07"
+    },
+    {
+      "id": "bksy:30802",
+      "source_id": "bksy",
+      "title": "【教学培训】2025年第286期  中华优秀传统文化在“思...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/30802.htm",
+      "date": "2025-11-07"
+    },
+    {
+      "id": "bksy:30782",
+      "source_id": "bksy",
+      "title": "关于对2025~2026学年国家助学金拟推荐名单进行公示的...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/30782.htm",
+      "date": "2025-11-05"
+    },
+    {
+      "id": "bksy:30772",
+      "source_id": "bksy",
+      "title": "【教学示范】2025年第283期 “光纤通信”教学示范",
+      "url": "https://bksy.xidian.edu.cn/info/1003/30772.htm",
+      "date": "2025-11-04"
+    },
+    {
+      "id": "bksy:30762",
+      "source_id": "bksy",
+      "title": "西安电子科技大学关于学生体质测试补测的通知",
+      "url": "https://bksy.xidian.edu.cn/info/1003/30762.htm",
+      "date": "2025-11-03"
+    },
+    {
+      "id": "bksy:30752",
+      "source_id": "bksy",
+      "title": "【人工智能赋能】2025年第282期  AI时代下工程制图课...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/30752.htm",
+      "date": "2025-11-03"
+    },
+    {
+      "id": "bksy:30742",
+      "source_id": "bksy",
+      "title": "【教学培训】2025年第281期  立足大学生物理学术竞赛...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/30742.htm",
+      "date": "2025-11-03"
+    },
+    {
+      "id": "bksy:30732",
+      "source_id": "bksy",
+      "title": "【教学培训】2025年第277期  光电信息科学与工程专业...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/30732.htm",
+      "date": "2025-11-03"
+    },
+    {
+      "id": "bksy:30712",
+      "source_id": "bksy",
+      "title": "关于开展2025年西安电子科技大学本科生社会奖助学金...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/30712.htm",
+      "date": "2025-11-03"
+    },
+    {
+      "id": "bksy:30702",
+      "source_id": "bksy",
+      "title": "关于开展2025年度校级规划教材建设资助项目立项工作...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/30702.htm",
+      "date": "2025-11-03"
+    },
+    {
+      "id": "bksy:30692",
+      "source_id": "bksy",
+      "title": "关于举办“中国中车杯”第八届全国大学生可再生能源...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/30692.htm",
+      "date": "2025-11-03"
+    },
+    {
+      "id": "bksy:30682",
+      "source_id": "bksy",
+      "title": "【人工智能赋能】2025年第278期  教育数字化转型背景...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/30682.htm",
+      "date": "2025-10-31"
+    },
+    {
+      "id": "bksy:30652",
+      "source_id": "bksy",
+      "title": "【教学培训】2025年第276期 “教育部新思想领航计划...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/30652.htm",
+      "date": "2025-10-30"
+    },
+    {
+      "id": "bksy:30642",
+      "source_id": "bksy",
+      "title": "【人工智能赋能】2025年第275期 “管理学”课程知识...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/30642.htm",
+      "date": "2025-10-30"
+    },
+    {
+      "id": "bksy:30632",
+      "source_id": "bksy",
+      "title": "关于开展2025-2026学年第一学期通识选修课程遴选工作...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/30632.htm",
+      "date": "2025-10-30"
+    },
+    {
+      "id": "bksy:30582",
+      "source_id": "bksy",
+      "title": "【教学培训】2025年第270期 机电院测控系专业认证专...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/30582.htm",
+      "date": "2025-10-24"
+    },
+    {
+      "id": "bksy:30572",
+      "source_id": "bksy",
+      "title": "【人工智能赋能】2025年第269期  知识图谱课程建设培...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/30572.htm",
+      "date": "2025-10-24"
+    },
+    {
+      "id": "bksy:30562",
+      "source_id": "bksy",
+      "title": "【人工智能赋能】2025年第268期 “政治经济学”课程...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/30562.htm",
+      "date": "2025-10-24"
+    },
+    {
+      "id": "bksy:30522",
+      "source_id": "bksy",
+      "title": "关于对2025年度港澳及华侨学生奖学金、台湾学生奖学...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/30522.htm",
+      "date": "2025-10-23"
+    },
+    {
+      "id": "bksy:30342",
+      "source_id": "bksy",
+      "title": "【专题培训】2025年第267期 认证标准(2024)毕业要求...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/30342.htm",
+      "date": "2025-10-22"
+    },
+    {
+      "id": "bksy:30332",
+      "source_id": "bksy",
+      "title": "【教学培训】2025年第266期 “电子装备多场耦合分析...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/30332.htm",
+      "date": "2025-10-22"
+    },
+    {
+      "id": "bksy:30322",
+      "source_id": "bksy",
+      "title": "【教学培训】2025年第265期 “半导体物理”课程建设...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/30322.htm",
+      "date": "2025-10-22"
+    },
+    {
+      "id": "bksy:30312",
+      "source_id": "bksy",
+      "title": "【人工智能赋能】2025年第264期  AI教学赋能“人工智...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/30312.htm",
+      "date": "2025-10-22"
+    },
+    {
+      "id": "bksy:30302",
+      "source_id": "bksy",
+      "title": "【人工智能赋能】2025年第263期  “空天内驱，数智赋...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/30302.htm",
+      "date": "2025-10-22"
+    },
+    {
+      "id": "bksy:30292",
+      "source_id": "bksy",
+      "title": "【教学培训】2025年第262期 机械制图与 CAD 综合实践...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/30292.htm",
+      "date": "2025-10-21"
+    },
+    {
+      "id": "bksy:30272",
+      "source_id": "bksy",
+      "title": "【教学示范】2025年第258期 “集”“微”成著用“芯...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/30272.htm",
+      "date": "2025-10-20"
+    },
+    {
+      "id": "bksy:30262",
+      "source_id": "bksy",
+      "title": "【教学示范】2025年第260期 “通信信号处理”教学示...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/30262.htm",
+      "date": "2025-10-20"
+    },
+    {
+      "id": "bksy:30252",
+      "source_id": "bksy",
+      "title": "【人工智能赋能】2025年第259期 专业核心课程知识图...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/30252.htm",
+      "date": "2025-10-20"
+    },
+    {
+      "id": "bksy:30092",
+      "source_id": "bksy",
+      "title": "关于开展2025年度港澳及华侨学生奖学金、台湾学生奖...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/30092.htm",
+      "date": "2025-10-20"
+    },
+    {
+      "id": "bksy:30232",
+      "source_id": "bksy",
+      "title": "关于开展2026年度教师教学鉴定工作的通知",
+      "url": "https://bksy.xidian.edu.cn/info/1003/30232.htm",
+      "date": "2025-10-17"
+    },
+    {
+      "id": "bksy:30222",
+      "source_id": "bksy",
+      "title": "关于开展2025年下学期本科教学准入证办理工作的通知",
+      "url": "https://bksy.xidian.edu.cn/info/1003/30222.htm",
+      "date": "2025-10-17"
+    },
+    {
+      "id": "bksy:30212",
+      "source_id": "bksy",
+      "title": "【教学培训】2025年第256期 基于物理学科竞赛的本科...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/30212.htm",
+      "date": "2025-10-17"
+    },
+    {
+      "id": "bksy:30192",
+      "source_id": "bksy",
+      "title": "关于对2024~2025学年本科生学校奖学金及荣誉称号拟获...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/30192.htm",
+      "date": "2025-10-17"
+    },
+    {
+      "id": "bksy:30162",
+      "source_id": "bksy",
+      "title": "【教学活动】2025年第255期 学业数据驱动下的课程优...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/30162.htm",
+      "date": "2025-10-17"
+    },
+    {
+      "id": "bksy:30072",
+      "source_id": "bksy",
+      "title": "关于开展2025年国家助学金评定工作的通知",
+      "url": "https://bksy.xidian.edu.cn/info/1003/30072.htm",
+      "date": "2025-10-17"
+    },
+    {
+      "id": "bksy:30152",
+      "source_id": "bksy",
+      "title": "【公开课】2025年第250期 混合式教学法在高校体育教...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/30152.htm",
+      "date": "2025-10-16"
+    },
+    {
+      "id": "bksy:30142",
+      "source_id": "bksy",
+      "title": "【公开课】2025年第253期 “中国古代文学史(III)”公...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/30142.htm",
+      "date": "2025-10-16"
+    },
+    {
+      "id": "bksy:30132",
+      "source_id": "bksy",
+      "title": "【教学培训】2025年第252期 “工程力学”和“机器人...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/30132.htm",
+      "date": "2025-10-16"
+    },
+    {
+      "id": "bksy:30112",
+      "source_id": "bksy",
+      "title": "关于2025“外研社·国才杯”“理解当代中国”全国大学...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/30112.htm",
+      "date": "2025-10-16"
+    },
+    {
+      "id": "bksy:29962",
+      "source_id": "bksy",
+      "title": "关于报送2025年度服义务兵役学生国家教育资助申请材...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/29962.htm",
+      "date": "2025-10-16"
+    },
+    {
+      "id": "bksy:29842",
+      "source_id": "bksy",
+      "title": "关于对2024~2025学年国家奖学金、国家励志奖学金初审...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/29842.htm",
+      "date": "2025-10-14"
+    },
+    {
+      "id": "bksy:29832",
+      "source_id": "bksy",
+      "title": "【教学活动】2025年第249期 探测制导与控制技术一流...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/29832.htm",
+      "date": "2025-10-14"
+    },
+    {
+      "id": "bksy:29822",
+      "source_id": "bksy",
+      "title": "【教学活动】2025年第248期 马克思主义基本原理课程...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/29822.htm",
+      "date": "2025-10-14"
+    },
+    {
+      "id": "bksy:29812",
+      "source_id": "bksy",
+      "title": "【教学培训】2025年第247期 纲要课程教学质量提升",
+      "url": "https://bksy.xidian.edu.cn/info/1003/29812.htm",
+      "date": "2025-10-14"
+    },
+    {
+      "id": "bksy:29802",
+      "source_id": "bksy",
+      "title": "【教学培训】2025年第246期 “中国式现代化蕴含的世...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/29802.htm",
+      "date": "2025-10-14"
+    },
+    {
+      "id": "bksy:29792",
+      "source_id": "bksy",
+      "title": "关于认真做好 2025～2026 学年第一学期期中考试工作...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/29792.htm",
+      "date": "2025-10-14"
+    },
+    {
+      "id": "bksy:29752",
+      "source_id": "bksy",
+      "title": "关于西安电子科技大学第十届大学生物理学术竞赛暨202...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/29752.htm",
+      "date": "2025-10-11"
+    },
+    {
+      "id": "bksy:29742",
+      "source_id": "bksy",
+      "title": "关于面向全校征集2026年度校级大学生创新训练计划命...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/29742.htm",
+      "date": "2025-10-11"
+    },
+    {
+      "id": "bksy:29732",
+      "source_id": "bksy",
+      "title": "【人工智能赋能】2025年第244期 西电智课平台知识图...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/29732.htm",
+      "date": "2025-10-11"
+    },
+    {
+      "id": "bksy:29702",
+      "source_id": "bksy",
+      "title": "【教学培训】2025年第243期 全国电路虚拟教研室西北...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/29702.htm",
+      "date": "2025-10-10"
+    },
+    {
+      "id": "bksy:29692",
+      "source_id": "bksy",
+      "title": "【教学培训】2025年第241期 “集成电路制造技术”智...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/29692.htm",
+      "date": "2025-10-10"
+    },
+    {
+      "id": "bksy:29662",
+      "source_id": "bksy",
+      "title": "【教学培训】2025年第240期 线性代数MOOC建设的探索...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/29662.htm",
+      "date": "2025-10-09"
+    },
+    {
+      "id": "bksy:29652",
+      "source_id": "bksy",
+      "title": "西安电子科技大学关于做好2022级本科生毕业设计（论...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/29652.htm",
+      "date": "2025-10-09"
+    },
+    {
+      "id": "bksy:29642",
+      "source_id": "bksy",
+      "title": "【人工智能赋能】2025年第238期 知识图谱建设研讨会",
+      "url": "https://bksy.xidian.edu.cn/info/1003/29642.htm",
+      "date": "2025-09-30"
+    },
+    {
+      "id": "bksy:29622",
+      "source_id": "bksy",
+      "title": "关于开展2025年度陕西高等教育教学改革研究项目（本...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/29622.htm",
+      "date": "2025-09-29"
+    },
+    {
+      "id": "bksy:29602",
+      "source_id": "bksy",
+      "title": "【教学示范】2025年第236期 “人工智能概论”教学示...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/29602.htm",
+      "date": "2025-09-29"
+    },
+    {
+      "id": "bksy:29592",
+      "source_id": "bksy",
+      "title": "【教学培训】2025年第234期 体育教学训练研究中的中...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/29592.htm",
+      "date": "2025-09-29"
+    },
+    {
+      "id": "bksy:29582",
+      "source_id": "bksy",
+      "title": "【教学培训】2025年第232期 “激光原理与技术”课程...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/29582.htm",
+      "date": "2025-09-28"
+    },
+    {
+      "id": "bksy:29572",
+      "source_id": "bksy",
+      "title": "【教学培训】2025年第231期 语言智能课程体系建设之...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/29572.htm",
+      "date": "2025-09-28"
+    },
+    {
+      "id": "bksy:29562",
+      "source_id": "bksy",
+      "title": "关于举办“2025第三届全国人工智能应用场景创新挑战...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/29562.htm",
+      "date": "2025-09-28"
+    },
+    {
+      "id": "bksy:29552",
+      "source_id": "bksy",
+      "title": "关于对2023级本科生进行基础层（C2级）实验实践能力...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/29552.htm",
+      "date": "2025-09-24"
+    },
+    {
+      "id": "bksy:29542",
+      "source_id": "bksy",
+      "title": "【教学培训】2025年第228期 语言智能课程体系建设",
+      "url": "https://bksy.xidian.edu.cn/info/1003/29542.htm",
+      "date": "2025-09-23"
+    },
+    {
+      "id": "bksy:29522",
+      "source_id": "bksy",
+      "title": "【教学培训】2025年第227期 走向讲台的梦想——如何...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/29522.htm",
+      "date": "2025-09-23"
+    },
+    {
+      "id": "bksy:29512",
+      "source_id": "bksy",
+      "title": "【教学培训】2025年第226期 电子线路基础I理论与实验...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/29512.htm",
+      "date": "2025-09-23"
+    },
+    {
+      "id": "bksy:29422",
+      "source_id": "bksy",
+      "title": "关于开展2025年本科生校园地国家助学贷款办理工作的...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/29422.htm",
+      "date": "2025-09-22"
+    },
+    {
+      "id": "bksy:29402",
+      "source_id": "bksy",
+      "title": "【教学培训】2025年第225期 当“通信原理”遇见AI：...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/29402.htm",
+      "date": "2025-09-18"
+    },
+    {
+      "id": "bksy:29372",
+      "source_id": "bksy",
+      "title": "2025年“外研社·国才杯”“理解当代中国”全国大学生...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/29372.htm",
+      "date": "2025-09-17"
+    },
+    {
+      "id": "bksy:29332",
+      "source_id": "bksy",
+      "title": "西安电子科技大学关于公布2025年下半年实验班录取学...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/29332.htm",
+      "date": "2025-09-15"
+    },
+    {
+      "id": "bksy:29322",
+      "source_id": "bksy",
+      "title": "【教学培训】2025年第223期 “马克思主义基本原理”...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/29322.htm",
+      "date": "2025-09-15"
+    },
+    {
+      "id": "bksy:29312",
+      "source_id": "bksy",
+      "title": "【教学培训】2025年第222期 人工智能时代虚拟仿真课...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/29312.htm",
+      "date": "2025-09-15"
+    },
+    {
+      "id": "bksy:29292",
+      "source_id": "bksy",
+      "title": "关于开展2025年国家奖学金、国家励志奖学金评选工作...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/29292.htm",
+      "date": "2025-09-12"
+    },
+    {
+      "id": "bksy:29272",
+      "source_id": "bksy",
+      "title": "关于做好2025～2026学年家庭经济困难本科生学费缓缴...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/29272.htm",
+      "date": "2025-09-12"
+    },
+    {
+      "id": "bksy:29262",
+      "source_id": "bksy",
+      "title": "关于启动2025～2026学年家庭经济困难学生认定工作的...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/29262.htm",
+      "date": "2025-09-12"
+    },
+    {
+      "id": "bksy:29232",
+      "source_id": "bksy",
+      "title": "关于开展2024～2025学年本科生学年总评工作的通知",
+      "url": "https://bksy.xidian.edu.cn/info/1003/29232.htm",
+      "date": "2025-09-12"
+    },
+    {
+      "id": "bksy:29212",
+      "source_id": "bksy",
+      "title": "关于对2025年青春人物拟推荐学生名单进行公示的通知",
+      "url": "https://bksy.xidian.edu.cn/info/1003/29212.htm",
+      "date": "2025-09-12"
+    },
+    {
+      "id": "bksy:29202",
+      "source_id": "bksy",
+      "title": "关于2025年下半年全国大学英语四、六级考试报名的通...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/29202.htm",
+      "date": "2025-09-12"
+    },
+    {
+      "id": "bksy:29192",
+      "source_id": "bksy",
+      "title": "关于AI+工业设计专业试点改革及学生选拔的通知",
+      "url": "https://bksy.xidian.edu.cn/info/1003/29192.htm",
+      "date": "2025-09-12"
+    },
+    {
+      "id": "bksy:29182",
+      "source_id": "bksy",
+      "title": "关于2025～2026学年第一学期重修选课的通知",
+      "url": "https://bksy.xidian.edu.cn/info/1003/29182.htm",
+      "date": "2025-09-10"
+    },
+    {
+      "id": "bksy:29132",
+      "source_id": "bksy",
+      "title": "【教学培训】2025年第220期 “电路分析与电子线路I”...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/29132.htm",
+      "date": "2025-09-08"
+    },
+    {
+      "id": "bksy:29122",
+      "source_id": "bksy",
+      "title": "【教学培训】2025年第218期 大中物理教育衔接与创新...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/29122.htm",
+      "date": "2025-09-08"
+    },
+    {
+      "id": "bksy:29112",
+      "source_id": "bksy",
+      "title": "关于2022级学生综合层（A级）实验实践能力达标测试的...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/29112.htm",
+      "date": "2025-09-08"
+    },
+    {
+      "id": "bksy:29162",
+      "source_id": "bksy",
+      "title": "关于开展2025年秋季学期学生勤工助学工作的通知",
+      "url": "https://bksy.xidian.edu.cn/info/1003/29162.htm",
+      "date": "2025-09-04"
+    },
+    {
+      "id": "bksy:29062",
+      "source_id": "bksy",
+      "title": "关于2025~2026学年第一学期2025级学生选课及学校通识...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/29062.htm",
+      "date": "2025-09-03"
+    },
+    {
+      "id": "bksy:29012",
+      "source_id": "bksy",
+      "title": "【教学培训】2025年第214期 “政治经济学”课程思政...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/29012.htm",
+      "date": "2025-09-01"
+    },
+    {
+      "id": "bksy:29002",
+      "source_id": "bksy",
+      "title": "关于2024级本科生《物理实验（II ）》实验选课及《物...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/29002.htm",
+      "date": "2025-09-01"
+    },
+    {
+      "id": "bksy:28992",
+      "source_id": "bksy",
+      "title": "关于2025-2026学年第一学期开展 “校园阳光乐跑”的...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/28992.htm",
+      "date": "2025-09-01"
+    },
+    {
+      "id": "bksy:28982",
+      "source_id": "bksy",
+      "title": "关于2025级高考录取实验班学生分流面试安排的通知",
+      "url": "https://bksy.xidian.edu.cn/info/1003/28982.htm",
+      "date": "2025-08-31"
+    },
+    {
+      "id": "bksy:28962",
+      "source_id": "bksy",
+      "title": "【院系活动】2025年第212期 专业课程内容规划与课程...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/28962.htm",
+      "date": "2025-08-30"
+    },
+    {
+      "id": "bksy:28942",
+      "source_id": "bksy",
+      "title": "关于2025~2026学年第一学期  2022、2023、2024级学生...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/28942.htm",
+      "date": "2025-08-26"
+    },
+    {
+      "id": "bksy:28932",
+      "source_id": "bksy",
+      "title": "关于开放2025～2026学年第一学期补（缓）考预约的通...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/28932.htm",
+      "date": "2025-08-24"
+    },
+    {
+      "id": "bksy:28922",
+      "source_id": "bksy",
+      "title": "2025级本科新生入学能力测试考生须知",
+      "url": "https://bksy.xidian.edu.cn/info/1003/28922.htm",
+      "date": "2025-08-24"
+    },
+    {
+      "id": "bksy:28912",
+      "source_id": "bksy",
+      "title": "关于2025级学生实验班选拔的通知",
+      "url": "https://bksy.xidian.edu.cn/info/1003/28912.htm",
+      "date": "2025-08-24"
+    },
+    {
+      "id": "bksy:28902",
+      "source_id": "bksy",
+      "title": "关于2025级高考录取实验班学生分流的通知",
+      "url": "https://bksy.xidian.edu.cn/info/1003/28902.htm",
+      "date": "2025-08-24"
+    },
+    {
+      "id": "bksy:28862",
+      "source_id": "bksy",
+      "title": "关于举办西安电子科技大学2025年暑期专业核心课程教...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/28862.htm",
+      "date": "2025-07-29"
+    },
+    {
+      "id": "bksy:28952",
+      "source_id": "bksy",
+      "title": "※※※ 科技（新文科）创新俱乐部2025级新生招募专属...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/28952.htm",
+      "date": "2025-07-24"
+    },
+    {
+      "id": "bksy:28842",
+      "source_id": "bksy",
+      "title": "关于第十九届“挑战杯”全国大学生课外学术科技作品...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/28842.htm",
+      "date": "2025-07-22"
+    },
+    {
+      "id": "bksy:28822",
+      "source_id": "bksy",
+      "title": "西安电子科技大学2025年度新增专业设置申报材料公示",
+      "url": "https://bksy.xidian.edu.cn/info/1003/28822.htm",
+      "date": "2025-07-17"
+    },
+    {
+      "id": "bksy:28802",
+      "source_id": "bksy",
+      "title": "关于拟推报第十九届“挑战杯”全国大学生课外学术科...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/28802.htm",
+      "date": "2025-07-16"
+    },
+    {
+      "id": "bksy:28792",
+      "source_id": "bksy",
+      "title": "关于我校第二十届优秀教材评选结果的公示",
+      "url": "https://bksy.xidian.edu.cn/info/1003/28792.htm",
+      "date": "2025-07-15"
+    }
+  ]
+}

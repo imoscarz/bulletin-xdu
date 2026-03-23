@@ -37,7 +37,7 @@ async def scrape(config_path: Path) -> bool:
             else:
                 store.save_notices(source_config, existing_notices)
 
-    store.save_index(config.sources)
+    store.save_index(config.sources, config.content_limit)
     return any_new
 
 
