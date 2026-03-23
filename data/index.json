@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-22T18:46:12.471610+00:00",
+  "generated_at": "2026-03-23T02:46:42.797470+00:00",
   "sources": [
     {
       "source_id": "jwc",
@@ -539,8 +539,16 @@
       "source_id": "sem",
       "name": "经济与管理学院",
       "url": "https://sem.xidian.edu.cn/tzgg.htm",
-      "total_notices": 20,
+      "total_notices": 21,
       "latest": [
+        {
+          "id": "sem:13331",
+          "source_id": "sem",
+          "title": "2026年中国大学生机械工程创新创意大赛——工业工程与精益管理创新赛校赛通知",
+          "url": "https://sem.xidian.edu.cn/info/1536/13331.htm",
+          "date": "2026-03-23",
+          "is_new": false
+        },
         {
           "id": "sem:13211",
           "source_id": "sem",
@@ -611,14 +619,6 @@
           "title": "第二十三届中国MBA发展论坛会议通知",
           "url": "https://sem.xidian.edu.cn/info/1536/12341.htm",
           "date": "2025-09-09",
-          "is_new": false
-        },
-        {
-          "id": "sem:12311",
-          "source_id": "sem",
-          "title": "关于组织我校研究生参加中国研究生企业管理创新大赛的通知",
-          "url": "https://sem.xidian.edu.cn/info/1536/12311.htm",
-          "date": "2025-09-02",
           "is_new": false
         }
       ],

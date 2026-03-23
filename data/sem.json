@@ -3,10 +3,18 @@
     "source_id": "sem",
     "name": "经济与管理学院",
     "url": "https://sem.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-03-22T18:45:38.792741Z",
-    "total_notices": 20
+    "last_scraped": "2026-03-23T02:45:34.726707Z",
+    "total_notices": 21
   },
   "notices": [
+    {
+      "id": "sem:13331",
+      "source_id": "sem",
+      "title": "2026年中国大学生机械工程创新创意大赛——工业工程与精益管理创新赛校赛通知",
+      "url": "https://sem.xidian.edu.cn/info/1536/13331.htm",
+      "date": "2026-03-23",
+      "is_new": false
+    },
     {
       "id": "sem:13211",
       "source_id": "sem",
