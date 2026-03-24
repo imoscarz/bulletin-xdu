@@ -3,10 +3,17 @@
     "source_id": "sem",
     "name": "经济与管理学院",
     "url": "https://sem.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-03-23T19:03:16.159258Z",
-    "total_notices": 100
+    "last_scraped": "2026-03-24T02:36:24.731863Z",
+    "total_notices": 101
   },
   "notices": [
+    {
+      "id": "sem:13341",
+      "source_id": "sem",
+      "title": "经济与管理学院2026年硕士研究生招生复试录取工作方案",
+      "url": "https://sem.xidian.edu.cn/info/1536/13341.htm",
+      "date": "2026-03-24"
+    },
     {
       "id": "sem:13331",
       "source_id": "sem",

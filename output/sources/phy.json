@@ -3,10 +3,17 @@
     "source_id": "phy",
     "name": "物理与光电工程学院",
     "url": "https://phy.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-03-23T19:03:12.572669Z",
-    "total_notices": 50
+    "last_scraped": "2026-03-24T02:36:17.873326Z",
+    "total_notices": 51
   },
   "notices": [
+    {
+      "id": "phy:10353",
+      "source_id": "phy",
+      "title": "物理学院关于2026年硕士研究生复试资格审查的通知",
+      "url": "https://phy.xidian.edu.cn/info/1012/10353.htm",
+      "date": "2026-03-24"
+    },
     {
       "id": "phy:10323",
       "source_id": "phy",

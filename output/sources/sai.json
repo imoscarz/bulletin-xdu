@@ -3,10 +3,17 @@
     "source_id": "sai",
     "name": "人工智能学院",
     "url": "https://sai.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-03-23T19:03:24.063947Z",
-    "total_notices": 100
+    "last_scraped": "2026-03-24T02:36:33.292373Z",
+    "total_notices": 101
   },
   "notices": [
+    {
+      "id": "sai:14082",
+      "source_id": "sai",
+      "title": "人工智能学院2026年硕士研究生招生复试录取工作方案",
+      "url": "https://sai.xidian.edu.cn/info/1106/14082.htm",
+      "date": "2026-03-24"
+    },
     {
       "id": "sai:13972",
       "source_id": "sai",

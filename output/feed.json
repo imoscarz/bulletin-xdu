@@ -1,8 +1,56 @@
 {
-  "generated_at": "2026-03-23T19:03:56.654010+00:00",
-  "total_notices": 2142,
+  "generated_at": "2026-03-24T02:37:15.228262+00:00",
+  "total_notices": 2148,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "sem:13341",
+      "source_id": "sem",
+      "title": "经济与管理学院2026年硕士研究生招生复试录取工作方案",
+      "url": "https://sem.xidian.edu.cn/info/1536/13341.htm",
+      "date": "2026-03-24",
+      "source_name": "经济与管理学院"
+    },
+    {
+      "id": "sai:14082",
+      "source_id": "sai",
+      "title": "人工智能学院2026年硕士研究生招生复试录取工作方案",
+      "url": "https://sai.xidian.edu.cn/info/1106/14082.htm",
+      "date": "2026-03-24",
+      "source_name": "人工智能学院"
+    },
+    {
+      "id": "rwxy:16444",
+      "source_id": "rwxy",
+      "title": "西安电子科技大学人文学院2026年诚聘海内外英才",
+      "url": "https://rwxy.xidian.edu.cn/info/1023/16444.htm",
+      "date": "2026-03-24",
+      "source_name": "人文学院"
+    },
+    {
+      "id": "phy:10353",
+      "source_id": "phy",
+      "title": "物理学院关于2026年硕士研究生复试资格审查的通知",
+      "url": "https://phy.xidian.edu.cn/info/1012/10353.htm",
+      "date": "2026-03-24",
+      "source_name": "物理与光电工程学院"
+    },
+    {
+      "id": "imse:5551",
+      "source_id": "imse",
+      "title": "信息力学与感知工程学院2026年硕士研究生招生复试录取工作方案",
+      "url": "https://imse.xidian.edu.cn/info/1030/5551.htm",
+      "date": "2026-03-24",
+      "source_name": "信息力学与感知工程学院"
+    },
+    {
+      "id": "cs:23804",
+      "source_id": "cs",
+      "title": "国家特色化示范性软件学院联合培养项目​2026级研究生招生简章",
+      "url": "https://cs.xidian.edu.cn/info/1003/23804.htm",
+      "date": "2026-03-24",
+      "source_name": "计算机科学与技术学院"
+    },
     {
       "id": "sem:13331",
       "source_id": "sem",

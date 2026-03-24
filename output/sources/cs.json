@@ -3,10 +3,17 @@
     "source_id": "cs",
     "name": "计算机科学与技术学院",
     "url": "https://cs.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-03-23T19:03:06.306020Z",
-    "total_notices": 75
+    "last_scraped": "2026-03-24T02:36:11.452434Z",
+    "total_notices": 76
   },
   "notices": [
+    {
+      "id": "cs:23804",
+      "source_id": "cs",
+      "title": "国家特色化示范性软件学院联合培养项目​2026级研究生招生简章",
+      "url": "https://cs.xidian.edu.cn/info/1003/23804.htm",
+      "date": "2026-03-24"
+    },
     {
       "id": "cs:23744",
       "source_id": "cs",
