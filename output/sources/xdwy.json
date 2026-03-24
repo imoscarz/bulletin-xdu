@@ -3,10 +3,17 @@
     "source_id": "xdwy",
     "name": "网络与继续教育学院",
     "url": "https://xdwy.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-03-24T07:13:05.950083Z",
-    "total_notices": 75
+    "last_scraped": "2026-03-24T13:25:14.305433Z",
+    "total_notices": 76
   },
   "notices": [
+    {
+      "id": "xdwy:9914",
+      "source_id": "xdwy",
+      "title": "关于办理2026年春季学期期末考试预约工作的通知",
+      "url": "https://xdwy.xidian.edu.cn/info/1194/9914.htm",
+      "date": "2026-03-24"
+    },
     {
       "id": "xdwy:9884",
       "source_id": "xdwy",

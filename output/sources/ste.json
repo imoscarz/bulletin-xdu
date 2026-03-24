@@ -3,10 +3,31 @@
     "source_id": "ste",
     "name": "通信工程学院",
     "url": "https://ste.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-03-24T07:13:22.953885Z",
-    "total_notices": 50
+    "last_scraped": "2026-03-24T13:25:26.223074Z",
+    "total_notices": 53
   },
   "notices": [
+    {
+      "id": "ste:14876",
+      "source_id": "ste",
+      "title": "通信工程学院2026年硕士研究生招生复试录取工作方案",
+      "url": "https://ste.xidian.edu.cn/info/1337/14876.htm",
+      "date": "2026-03-24"
+    },
+    {
+      "id": "ste:14866",
+      "source_id": "ste",
+      "title": "通信工程学院关于2026年硕士研究生招生复试资格审查的通知",
+      "url": "https://ste.xidian.edu.cn/info/1337/14866.htm",
+      "date": "2026-03-24"
+    },
+    {
+      "id": "ste:14856",
+      "source_id": "ste",
+      "title": "通信工程学院关于2026年硕士研究生招生复试心理测试的通知",
+      "url": "https://ste.xidian.edu.cn/info/1337/14856.htm",
+      "date": "2026-03-24"
+    },
     {
       "id": "ste:14846",
       "source_id": "ste",

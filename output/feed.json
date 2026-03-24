@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-24T07:13:31.072815+00:00",
-  "total_notices": 2156,
+  "generated_at": "2026-03-24T13:25:32.952889+00:00",
+  "total_notices": 2166,
   "content_limit": 5000,
   "notices": [
     {
@@ -18,6 +18,54 @@
       "url": "https://xgc.xidian.edu.cn/info/1033/13674.htm",
       "date": "2026-03-24",
       "source_name": "学生工作处"
+    },
+    {
+      "id": "xdwy:9914",
+      "source_id": "xdwy",
+      "title": "关于办理2026年春季学期期末考试预约工作的通知",
+      "url": "https://xdwy.xidian.edu.cn/info/1194/9914.htm",
+      "date": "2026-03-24",
+      "source_name": "网络与继续教育学院"
+    },
+    {
+      "id": "ste:14876",
+      "source_id": "ste",
+      "title": "通信工程学院2026年硕士研究生招生复试录取工作方案",
+      "url": "https://ste.xidian.edu.cn/info/1337/14876.htm",
+      "date": "2026-03-24",
+      "source_name": "通信工程学院"
+    },
+    {
+      "id": "ste:14866",
+      "source_id": "ste",
+      "title": "通信工程学院关于2026年硕士研究生招生复试资格审查的通知",
+      "url": "https://ste.xidian.edu.cn/info/1337/14866.htm",
+      "date": "2026-03-24",
+      "source_name": "通信工程学院"
+    },
+    {
+      "id": "ste:14856",
+      "source_id": "ste",
+      "title": "通信工程学院关于2026年硕士研究生招生复试心理测试的通知",
+      "url": "https://ste.xidian.edu.cn/info/1337/14856.htm",
+      "date": "2026-03-24",
+      "source_name": "通信工程学院"
+    },
+    {
+      "id": "sme:3443",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/0324/3443.html",
+      "date": "2026-03-24",
+      "source_name": "集成电路学部"
+    },
+    {
+      "id": "sme:3442",
+      "source_id": "sme",
+      "title": "集成电路学部2026年硕士研究生招生复试录取工作方案",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/2026/0324/3442.html",
+      "date": "2026-03-24",
+      "source_name": "集成电路学部"
     },
     {
       "id": "sfl:15888",
@@ -60,6 +108,14 @@
       "source_name": "物理与光电工程学院"
     },
     {
+      "id": "jwc:21803",
+      "source_id": "jwc",
+      "title": "关于开展2026年春季学期实验班选拔的通知",
+      "url": "https://jwc.xidian.edu.cn/info/1012/21803.htm",
+      "date": "2026-03-24",
+      "source_name": "教务处"
+    },
+    {
       "id": "imse:5551",
       "source_id": "imse",
       "title": "信息力学与感知工程学院2026年硕士研究生招生复试录取工作方案",
@@ -76,6 +132,22 @@
       "source_name": "研究生院"
     },
     {
+      "id": "cs:23904",
+      "source_id": "cs",
+      "title": "计科院关于2026年硕士研究生招生复试心理测试的通知",
+      "url": "https://cs.xidian.edu.cn/info/1003/23904.htm",
+      "date": "2026-03-24",
+      "source_name": "计算机科学与技术学院"
+    },
+    {
+      "id": "cs:23874",
+      "source_id": "cs",
+      "title": "计算机科学与技术学院2026年硕士研究生招生复试笔试机试考试通知",
+      "url": "https://cs.xidian.edu.cn/info/1003/23874.htm",
+      "date": "2026-03-24",
+      "source_name": "计算机科学与技术学院"
+    },
+    {
       "id": "cs:23834",
       "source_id": "cs",
       "title": "北京电子科技学院简介",
@@ -90,6 +162,14 @@
       "url": "https://cs.xidian.edu.cn/info/1003/23804.htm",
       "date": "2026-03-24",
       "source_name": "计算机科学与技术学院"
+    },
+    {
+      "id": "bksy:32822",
+      "source_id": "bksy",
+      "title": "关于开展2026年春季学期实验班选拔的通知",
+      "url": "https://bksy.xidian.edu.cn/info/1003/32822.htm",
+      "date": "2026-03-24",
+      "source_name": "本科生院"
     },
     {
       "id": "bksy:32812",
