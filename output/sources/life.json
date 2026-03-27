@@ -3,10 +3,17 @@
     "source_id": "life",
     "name": "生命科学技术学院",
     "url": "https://life.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-03-26T19:16:14.492120Z",
-    "total_notices": 75
+    "last_scraped": "2026-03-27T02:51:14.171546Z",
+    "total_notices": 76
   },
   "notices": [
+    {
+      "id": "life:16771",
+      "source_id": "life",
+      "title": "生命科学技术学院2026年硕士研究生招生复试时间地点安排",
+      "url": "https://life.xidian.edu.cn/info/1048/16771.htm",
+      "date": "2026-03-27"
+    },
     {
       "id": "life:16761",
       "source_id": "life",
