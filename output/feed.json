@@ -1,8 +1,16 @@
 {
-  "generated_at": "2026-03-27T02:52:16.634270+00:00",
-  "total_notices": 2177,
+  "generated_at": "2026-03-27T07:26:19.079235+00:00",
+  "total_notices": 2178,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "phy:10413",
+      "source_id": "phy",
+      "title": "西安电子科技大学物理学院2026年硕士研究生招生复试综合面试通知",
+      "url": "https://phy.xidian.edu.cn/info/1012/10413.htm",
+      "date": "2026-03-27",
+      "source_name": "物理与光电工程学院"
+    },
     {
       "id": "phy:10393",
       "source_id": "phy",

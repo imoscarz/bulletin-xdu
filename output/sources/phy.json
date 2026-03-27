@@ -3,10 +3,17 @@
     "source_id": "phy",
     "name": "物理与光电工程学院",
     "url": "https://phy.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-03-27T02:51:08.444685Z",
-    "total_notices": 53
+    "last_scraped": "2026-03-27T07:16:28.794634Z",
+    "total_notices": 54
   },
   "notices": [
+    {
+      "id": "phy:10413",
+      "source_id": "phy",
+      "title": "西安电子科技大学物理学院2026年硕士研究生招生复试综合面试通知",
+      "url": "https://phy.xidian.edu.cn/info/1012/10413.htm",
+      "date": "2026-03-27"
+    },
     {
       "id": "phy:10393",
       "source_id": "phy",
