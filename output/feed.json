@@ -1,8 +1,16 @@
 {
-  "generated_at": "2026-03-28T07:10:36.953433+00:00",
-  "total_notices": 2186,
+  "generated_at": "2026-03-28T13:07:25.746159+00:00",
+  "total_notices": 2188,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "sme:3448",
+      "source_id": "sme",
+      "title": "集成电路学部2026年硕士研究生招生复试综合能力考核面试通知",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/2026/0328/3448.html",
+      "date": "2026-03-28",
+      "source_name": "集成电路学部"
+    },
     {
       "id": "rwxy:16494",
       "source_id": "rwxy",
@@ -10,6 +18,14 @@
       "url": "https://rwxy.xidian.edu.cn/info/1023/16494.htm",
       "date": "2026-03-28",
       "source_name": "人文学院"
+    },
+    {
+      "id": "cs:23934",
+      "source_id": "cs",
+      "title": "计科院2026年硕士研究生招生复试综合面试通知",
+      "url": "https://cs.xidian.edu.cn/info/1003/23934.htm",
+      "date": "2026-03-28",
+      "source_name": "计算机科学与技术学院"
     },
     {
       "id": "xdwy:10004",
