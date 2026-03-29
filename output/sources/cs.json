@@ -3,10 +3,17 @@
     "source_id": "cs",
     "name": "计算机科学与技术学院",
     "url": "https://cs.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-03-29T02:55:00.379129Z",
-    "total_notices": 80
+    "last_scraped": "2026-03-29T07:12:03.668330Z",
+    "total_notices": 81
   },
   "notices": [
+    {
+      "id": "cs:23964",
+      "source_id": "cs",
+      "title": "关于公布2026年全国硕士研究生招生考试符合加分政策考生名单的通知",
+      "url": "https://cs.xidian.edu.cn/info/1003/23964.htm",
+      "date": "2026-03-29"
+    },
     {
       "id": "cs:23934",
       "source_id": "cs",
