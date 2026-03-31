@@ -3,10 +3,24 @@
     "source_id": "sai",
     "name": "人工智能学院",
     "url": "https://sai.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-03-31T02:50:43.423673Z",
-    "total_notices": 103
+    "last_scraped": "2026-03-31T13:46:37.316167Z",
+    "total_notices": 105
   },
   "notices": [
+    {
+      "id": "sai:18272",
+      "source_id": "sai",
+      "title": "人工智能学院关于一志愿拟录取考生做好选取意向导师准备工作的通知",
+      "url": "https://sai.xidian.edu.cn/info/1106/18272.htm",
+      "date": "2026-03-31"
+    },
+    {
+      "id": "sai:18262",
+      "source_id": "sai",
+      "title": "人工智能学院2026年硕士研究生招生一志愿统考拟录取名单公示",
+      "url": "https://sai.xidian.edu.cn/info/1106/18262.htm",
+      "date": "2026-03-31"
+    },
     {
       "id": "sai:17122",
       "source_id": "sai",

@@ -3,10 +3,24 @@
     "source_id": "sast",
     "name": "空间科学与技术学院",
     "url": "https://sast.xidian.edu.cn/index/tzgg.htm",
-    "last_scraped": "2026-03-31T07:31:19.690134Z",
-    "total_notices": 78
+    "last_scraped": "2026-03-31T13:46:51.598485Z",
+    "total_notices": 80
   },
   "notices": [
+    {
+      "id": "sast:17907",
+      "source_id": "sast",
+      "title": "空间科学与技术学院2027届优秀本科毕业生  免试攻读研究生推荐工作实施办法",
+      "url": "https://sast.xidian.edu.cn/info/1014/17907.htm",
+      "date": "2026-03-31"
+    },
+    {
+      "id": "sast:17887",
+      "source_id": "sast",
+      "title": "钱学森空间科学实验班2027届优秀本科毕业生免试攻读研究生推荐工作实施办法",
+      "url": "https://sast.xidian.edu.cn/info/1014/17887.htm",
+      "date": "2026-03-31"
+    },
     {
       "id": "sast:17867",
       "source_id": "sast",

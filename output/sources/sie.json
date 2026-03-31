@@ -3,10 +3,17 @@
     "source_id": "sie",
     "name": "国际教育学院",
     "url": "https://sie.xidian.edu.cn/sy/tzgg.htm",
-    "last_scraped": "2026-03-31T02:51:36.610407Z",
-    "total_notices": 60
+    "last_scraped": "2026-03-31T13:50:59.298646Z",
+    "total_notices": 61
   },
   "notices": [
+    {
+      "id": "sie:7275",
+      "source_id": "sie",
+      "title": "西安电子科技大学关于推荐海外孔子学院（课堂） 公派出国教师人选的公示",
+      "url": "https://sie.xidian.edu.cn/info/1130/7275.htm",
+      "date": "2026-03-31"
+    },
     {
       "id": "sie:7265",
       "source_id": "sie",

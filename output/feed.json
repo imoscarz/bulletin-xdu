@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-31T07:38:01.540278+00:00",
-  "total_notices": 2205,
+  "generated_at": "2026-03-31T13:51:01.549981+00:00",
+  "total_notices": 2215,
   "content_limit": 5000,
   "notices": [
     {
@@ -20,12 +20,52 @@
       "source_name": "集成电路学部"
     },
     {
+      "id": "sie:7275",
+      "source_id": "sie",
+      "title": "西安电子科技大学关于推荐海外孔子学院（课堂） 公派出国教师人选的公示",
+      "url": "https://sie.xidian.edu.cn/info/1130/7275.htm",
+      "date": "2026-03-31",
+      "source_name": "国际教育学院"
+    },
+    {
+      "id": "sast:17907",
+      "source_id": "sast",
+      "title": "空间科学与技术学院2027届优秀本科毕业生  免试攻读研究生推荐工作实施办法",
+      "url": "https://sast.xidian.edu.cn/info/1014/17907.htm",
+      "date": "2026-03-31",
+      "source_name": "空间科学与技术学院"
+    },
+    {
+      "id": "sast:17887",
+      "source_id": "sast",
+      "title": "钱学森空间科学实验班2027届优秀本科毕业生免试攻读研究生推荐工作实施办法",
+      "url": "https://sast.xidian.edu.cn/info/1014/17887.htm",
+      "date": "2026-03-31",
+      "source_name": "空间科学与技术学院"
+    },
+    {
       "id": "sast:17867",
       "source_id": "sast",
       "title": "关于开展3月30日-4月3日院领导接待日工作的通知",
       "url": "https://sast.xidian.edu.cn/info/1014/17867.htm",
       "date": "2026-03-31",
       "source_name": "空间科学与技术学院"
+    },
+    {
+      "id": "sai:18272",
+      "source_id": "sai",
+      "title": "人工智能学院关于一志愿拟录取考生做好选取意向导师准备工作的通知",
+      "url": "https://sai.xidian.edu.cn/info/1106/18272.htm",
+      "date": "2026-03-31",
+      "source_name": "人工智能学院"
+    },
+    {
+      "id": "sai:18262",
+      "source_id": "sai",
+      "title": "人工智能学院2026年硕士研究生招生一志愿统考拟录取名单公示",
+      "url": "https://sai.xidian.edu.cn/info/1106/18262.htm",
+      "date": "2026-03-31",
+      "source_name": "人工智能学院"
     },
     {
       "id": "math:22392",
@@ -36,12 +76,52 @@
       "source_name": "数学与统计学院"
     },
     {
+      "id": "life:16791",
+      "source_id": "life",
+      "title": "生命科学技术学院2026年硕士研究生招生一志愿统考拟录取名单公示",
+      "url": "https://life.xidian.edu.cn/info/1048/16791.htm",
+      "date": "2026-03-31",
+      "source_name": "生命科学技术学院"
+    },
+    {
+      "id": "imse:5591",
+      "source_id": "imse",
+      "title": "关于公布信息力学与感知工程学院2026年硕士研究生复试成绩的通知",
+      "url": "https://imse.xidian.edu.cn/info/1030/5591.htm",
+      "date": "2026-03-31",
+      "source_name": "信息力学与感知工程学院"
+    },
+    {
+      "id": "eme:14666",
+      "source_id": "eme",
+      "title": "关于公布机电工程学院2026年硕士研究生复试成绩的通知",
+      "url": "https://eme.xidian.edu.cn/info/1012/14666.htm",
+      "date": "2026-03-31",
+      "source_name": "机电工程学院"
+    },
+    {
+      "id": "cs:24114",
+      "source_id": "cs",
+      "title": "计算机科学与技术学院2026年硕士研究生招生一志愿统考拟录取名单公示",
+      "url": "https://cs.xidian.edu.cn/info/1003/24114.htm",
+      "date": "2026-03-31",
+      "source_name": "计算机科学与技术学院"
+    },
+    {
       "id": "cs:24084",
       "source_id": "cs",
       "title": "计科院2026年硕士研究生招生全日制一志愿专业内方向调整综合面试安排",
       "url": "https://cs.xidian.edu.cn/info/1003/24084.htm",
       "date": "2026-03-31",
       "source_name": "计算机科学与技术学院"
+    },
+    {
+      "id": "amn:17372",
+      "source_id": "amn",
+      "title": "关于公布先进材料与纳米科技学院2026年硕士研究生复试成绩的通知",
+      "url": "https://amn.xidian.edu.cn/info/1013/17372.htm",
+      "date": "2026-03-31",
+      "source_name": "先进材料与纳米科技学院"
     },
     {
       "id": "sast:17827",

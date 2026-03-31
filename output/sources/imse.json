@@ -3,10 +3,17 @@
     "source_id": "imse",
     "name": "信息力学与感知工程学院",
     "url": "https://imse.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-03-31T02:51:16.138674Z",
-    "total_notices": 16
+    "last_scraped": "2026-03-31T13:47:04.955608Z",
+    "total_notices": 17
   },
   "notices": [
+    {
+      "id": "imse:5591",
+      "source_id": "imse",
+      "title": "关于公布信息力学与感知工程学院2026年硕士研究生复试成绩的通知",
+      "url": "https://imse.xidian.edu.cn/info/1030/5591.htm",
+      "date": "2026-03-31"
+    },
     {
       "id": "imse:5551",
       "source_id": "imse",
