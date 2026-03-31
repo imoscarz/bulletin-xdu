@@ -3,10 +3,17 @@
     "source_id": "ste",
     "name": "通信工程学院",
     "url": "https://ste.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-03-31T02:51:23.360539Z",
-    "total_notices": 56
+    "last_scraped": "2026-03-31T19:10:56.219747Z",
+    "total_notices": 57
   },
   "notices": [
+    {
+      "id": "ste:14936",
+      "source_id": "ste",
+      "title": "关于公布通信工程学院2026年硕士研究生复试成绩的通知",
+      "url": "https://ste.xidian.edu.cn/info/1337/14936.htm",
+      "date": "2026-03-31"
+    },
     {
       "id": "ste:14916",
       "source_id": "ste",
