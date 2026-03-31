@@ -3,10 +3,17 @@
     "source_id": "math",
     "name": "数学与统计学院",
     "url": "https://math.xidian.edu.cn/xwgg/tzgg.htm",
-    "last_scraped": "2026-03-31T02:50:23.380527Z",
-    "total_notices": 51
+    "last_scraped": "2026-03-31T07:24:39.051643Z",
+    "total_notices": 52
   },
   "notices": [
+    {
+      "id": "math:22392",
+      "source_id": "math",
+      "title": "数学与统计学院2026年硕士研究生招生一志愿统考拟录取名单公示",
+      "url": "https://math.xidian.edu.cn/info/1020/22392.htm",
+      "date": "2026-03-31"
+    },
     {
       "id": "math:22372",
       "source_id": "math",

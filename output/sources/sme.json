@@ -3,10 +3,17 @@
     "source_id": "sme",
     "name": "集成电路学部",
     "url": "https://sme.xidian.edu.cn/plus/list.php?tid=6",
-    "last_scraped": "2026-03-31T02:51:39.420039Z",
-    "total_notices": 82
+    "last_scraped": "2026-03-31T07:38:01.524649Z",
+    "total_notices": 83
   },
   "notices": [
+    {
+      "id": "sme:3449",
+      "source_id": "sme",
+      "title": "关于公布集成电路学部2026年硕士研究生复试成绩的通知",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/2026/0331/3449.html",
+      "date": "2026-03-31"
+    },
     {
       "id": "sme:3448",
       "source_id": "sme",

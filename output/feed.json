@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-31T02:51:39.433843+00:00",
-  "total_notices": 2201,
+  "generated_at": "2026-03-31T07:38:01.540278+00:00",
+  "total_notices": 2205,
   "content_limit": 5000,
   "notices": [
     {
@@ -10,6 +10,38 @@
       "url": "https://ste.xidian.edu.cn/info/1336/14916.htm",
       "date": "2026-03-31",
       "source_name": "通信工程学院"
+    },
+    {
+      "id": "sme:3449",
+      "source_id": "sme",
+      "title": "关于公布集成电路学部2026年硕士研究生复试成绩的通知",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/2026/0331/3449.html",
+      "date": "2026-03-31",
+      "source_name": "集成电路学部"
+    },
+    {
+      "id": "sast:17867",
+      "source_id": "sast",
+      "title": "关于开展3月30日-4月3日院领导接待日工作的通知",
+      "url": "https://sast.xidian.edu.cn/info/1014/17867.htm",
+      "date": "2026-03-31",
+      "source_name": "空间科学与技术学院"
+    },
+    {
+      "id": "math:22392",
+      "source_id": "math",
+      "title": "数学与统计学院2026年硕士研究生招生一志愿统考拟录取名单公示",
+      "url": "https://math.xidian.edu.cn/info/1020/22392.htm",
+      "date": "2026-03-31",
+      "source_name": "数学与统计学院"
+    },
+    {
+      "id": "cs:24084",
+      "source_id": "cs",
+      "title": "计科院2026年硕士研究生招生全日制一志愿专业内方向调整综合面试安排",
+      "url": "https://cs.xidian.edu.cn/info/1003/24084.htm",
+      "date": "2026-03-31",
+      "source_name": "计算机科学与技术学院"
     },
     {
       "id": "sast:17827",
