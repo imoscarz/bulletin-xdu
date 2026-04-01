@@ -3,10 +3,17 @@
     "source_id": "gr",
     "name": "研究生院",
     "url": "https://gr.xidian.edu.cn/tzgg1.htm",
-    "last_scraped": "2026-03-31T19:10:27.006501Z",
-    "total_notices": 101
+    "last_scraped": "2026-04-01T03:20:43.305523Z",
+    "total_notices": 102
   },
   "notices": [
+    {
+      "id": "gr:18854",
+      "source_id": "gr",
+      "title": "西安电子科技大学·中兴通讯领军班报名通道已全面开启",
+      "url": "https://gr.xidian.edu.cn/info/1073/18854.htm",
+      "date": "2026-04-01"
+    },
     {
       "id": "gr:18724",
       "source_id": "gr",

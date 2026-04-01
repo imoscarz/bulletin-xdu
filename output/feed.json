@@ -1,8 +1,48 @@
 {
-  "generated_at": "2026-03-31T19:11:48.704940+00:00",
-  "total_notices": 2216,
+  "generated_at": "2026-04-01T03:21:09.224356+00:00",
+  "total_notices": 2221,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "sme:3450",
+      "source_id": "sme",
+      "title": "集成电路学部关于开展2026年度本科教育教学改革项目申报的通知",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/2026/0401/3450.html",
+      "date": "2026-04-01",
+      "source_name": "集成电路学部"
+    },
+    {
+      "id": "jwc:21873",
+      "source_id": "jwc",
+      "title": "关于认真做好2025～2026学年第二学期期中考试工作的通知",
+      "url": "https://jwc.xidian.edu.cn/info/1012/21873.htm",
+      "date": "2026-04-01",
+      "source_name": "教务处"
+    },
+    {
+      "id": "jgrsrc:17288",
+      "source_id": "jgrsrc",
+      "title": "关于做好2026年教师资格专业技能考试工作的通知",
+      "url": "https://jgrsrc.xidian.edu.cn/info/1067/17288.htm",
+      "date": "2026-04-01",
+      "source_name": "人才招聘"
+    },
+    {
+      "id": "gr:18854",
+      "source_id": "gr",
+      "title": "西安电子科技大学·中兴通讯领军班报名通道已全面开启",
+      "url": "https://gr.xidian.edu.cn/info/1073/18854.htm",
+      "date": "2026-04-01",
+      "source_name": "研究生院"
+    },
+    {
+      "id": "bksy:32882",
+      "source_id": "bksy",
+      "title": "关于认真做好2025～2026学年第二学期期中考试工作的...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/32882.htm",
+      "date": "2026-04-01",
+      "source_name": "本科生院"
+    },
     {
       "id": "ste:14936",
       "source_id": "ste",

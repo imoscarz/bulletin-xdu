@@ -3,10 +3,17 @@
     "source_id": "jgrsrc",
     "name": "人才招聘",
     "url": "https://jgrsrc.xidian.edu.cn/index/tzgg.htm",
-    "last_scraped": "2026-03-31T19:10:29.224148Z",
-    "total_notices": 76
+    "last_scraped": "2026-04-01T03:20:44.446467Z",
+    "total_notices": 77
   },
   "notices": [
+    {
+      "id": "jgrsrc:17288",
+      "source_id": "jgrsrc",
+      "title": "关于做好2026年教师资格专业技能考试工作的通知",
+      "url": "https://jgrsrc.xidian.edu.cn/info/1067/17288.htm",
+      "date": "2026-04-01"
+    },
     {
       "id": "jgrsrc:17238",
       "source_id": "jgrsrc",
