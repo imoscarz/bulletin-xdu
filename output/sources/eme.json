@@ -3,10 +3,17 @@
     "source_id": "eme",
     "name": "机电工程学院",
     "url": "https://eme.xidian.edu.cn/tz.htm",
-    "last_scraped": "2026-04-01T07:43:07.417146Z",
-    "total_notices": 102
+    "last_scraped": "2026-04-01T13:48:57.514356Z",
+    "total_notices": 103
   },
   "notices": [
+    {
+      "id": "eme:14676",
+      "source_id": "eme",
+      "title": "机电工程学院2026年硕士研究生招生一志愿统考拟录取名单公示",
+      "url": "https://eme.xidian.edu.cn/info/1012/14676.htm",
+      "date": "2026-04-01"
+    },
     {
       "id": "eme:14666",
       "source_id": "eme",

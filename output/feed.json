@@ -1,8 +1,40 @@
 {
-  "generated_at": "2026-04-01T07:44:13.611977+00:00",
-  "total_notices": 2227,
+  "generated_at": "2026-04-01T13:49:40.970982+00:00",
+  "total_notices": 2236,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "ste:14956",
+      "source_id": "ste",
+      "title": "通信工程学院2026年全日制研究生招生专业内方向调整的通知",
+      "url": "https://ste.xidian.edu.cn/info/1337/14956.htm",
+      "date": "2026-04-01",
+      "source_name": "通信工程学院"
+    },
+    {
+      "id": "ste:14946",
+      "source_id": "ste",
+      "title": "关于公示通信工程学院2026年硕士研究生招生统考拟录取名单的通知（不含北电联培及非全日制考生）",
+      "url": "https://ste.xidian.edu.cn/info/1337/14946.htm",
+      "date": "2026-04-01",
+      "source_name": "通信工程学院"
+    },
+    {
+      "id": "soe:16295",
+      "source_id": "soe",
+      "title": "科研协作项目公示-20260401-1",
+      "url": "https://soe.xidian.edu.cn/info/1095/16295.htm",
+      "date": "2026-04-01",
+      "source_name": "光电工程学院"
+    },
+    {
+      "id": "sme:3453",
+      "source_id": "sme",
+      "title": "集成电路学部2026年硕士研究生招生全日制一志愿专业内方向调整的通知",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/2026/0401/3453.html",
+      "date": "2026-04-01",
+      "source_name": "集成电路学部"
+    },
     {
       "id": "sme:3452",
       "source_id": "sme",
@@ -28,12 +60,28 @@
       "source_name": "集成电路学部"
     },
     {
+      "id": "sfl:16178",
+      "source_id": "sfl",
+      "title": "关于公布语言智能学部（外国语学院）2026年硕士研究生复试成绩的通知",
+      "url": "https://sfl.xidian.edu.cn/info/1031/16178.htm",
+      "date": "2026-04-01",
+      "source_name": "语言智能学部"
+    },
+    {
       "id": "sem:13491",
       "source_id": "sem",
       "title": "关于公布经济与管理学院2026年硕士研究生复试成绩的通知",
       "url": "https://sem.xidian.edu.cn/info/1536/13491.htm",
       "date": "2026-04-01",
       "source_name": "经济与管理学院"
+    },
+    {
+      "id": "sast:17927",
+      "source_id": "sast",
+      "title": "空间科学与技术学院2026年硕士研究生招生一志愿统考拟录取名单公示",
+      "url": "https://sast.xidian.edu.cn/info/1014/17927.htm",
+      "date": "2026-04-01",
+      "source_name": "空间科学与技术学院"
     },
     {
       "id": "jwc:21873",
@@ -52,6 +100,14 @@
       "source_name": "教师发展中心"
     },
     {
+      "id": "jgrsrc:17338",
+      "source_id": "jgrsrc",
+      "title": "西安电子科技大学关于开展2026～2028年度专业技术职务分级工作的通知",
+      "url": "https://jgrsrc.xidian.edu.cn/info/1067/17338.htm",
+      "date": "2026-04-01",
+      "source_name": "人才招聘"
+    },
+    {
       "id": "jgrsrc:17288",
       "source_id": "jgrsrc",
       "title": "关于做好2026年教师资格专业技能考试工作的通知",
@@ -66,6 +122,22 @@
       "url": "https://gr.xidian.edu.cn/info/1073/18854.htm",
       "date": "2026-04-01",
       "source_name": "研究生院"
+    },
+    {
+      "id": "eme:14676",
+      "source_id": "eme",
+      "title": "机电工程学院2026年硕士研究生招生一志愿统考拟录取名单公示",
+      "url": "https://eme.xidian.edu.cn/info/1012/14676.htm",
+      "date": "2026-04-01",
+      "source_name": "机电工程学院"
+    },
+    {
+      "id": "cs:24174",
+      "source_id": "cs",
+      "title": "计科院关于2026年全日制一志愿拟录取硕士研究生选取意向导师的通知",
+      "url": "https://cs.xidian.edu.cn/info/1003/24174.htm",
+      "date": "2026-04-01",
+      "source_name": "计算机科学与技术学院"
     },
     {
       "id": "cs:24144",

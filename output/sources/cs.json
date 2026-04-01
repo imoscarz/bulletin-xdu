@@ -3,10 +3,17 @@
     "source_id": "cs",
     "name": "计算机科学与技术学院",
     "url": "https://cs.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-04-01T07:42:26.483387Z",
-    "total_notices": 87
+    "last_scraped": "2026-04-01T13:48:13.515498Z",
+    "total_notices": 88
   },
   "notices": [
+    {
+      "id": "cs:24174",
+      "source_id": "cs",
+      "title": "计科院关于2026年全日制一志愿拟录取硕士研究生选取意向导师的通知",
+      "url": "https://cs.xidian.edu.cn/info/1003/24174.htm",
+      "date": "2026-04-01"
+    },
     {
       "id": "cs:24144",
       "source_id": "cs",

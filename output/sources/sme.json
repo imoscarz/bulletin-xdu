@@ -3,10 +3,17 @@
     "source_id": "sme",
     "name": "集成电路学部",
     "url": "https://sme.xidian.edu.cn/plus/list.php?tid=6",
-    "last_scraped": "2026-04-01T07:44:13.598796Z",
-    "total_notices": 86
+    "last_scraped": "2026-04-01T13:49:40.957554Z",
+    "total_notices": 87
   },
   "notices": [
+    {
+      "id": "sme:3453",
+      "source_id": "sme",
+      "title": "集成电路学部2026年硕士研究生招生全日制一志愿专业内方向调整的通知",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/2026/0401/3453.html",
+      "date": "2026-04-01"
+    },
     {
       "id": "sme:3452",
       "source_id": "sme",

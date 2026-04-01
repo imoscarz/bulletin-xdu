@@ -3,10 +3,17 @@
     "source_id": "sfl",
     "name": "语言智能学部",
     "url": "https://sfl.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-04-01T07:42:42.965812Z",
-    "total_notices": 51
+    "last_scraped": "2026-04-01T13:48:32.815584Z",
+    "total_notices": 52
   },
   "notices": [
+    {
+      "id": "sfl:16178",
+      "source_id": "sfl",
+      "title": "关于公布语言智能学部（外国语学院）2026年硕士研究生复试成绩的通知",
+      "url": "https://sfl.xidian.edu.cn/info/1031/16178.htm",
+      "date": "2026-04-01"
+    },
     {
       "id": "sfl:15888",
       "source_id": "sfl",

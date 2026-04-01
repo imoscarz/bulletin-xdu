@@ -3,10 +3,24 @@
     "source_id": "ste",
     "name": "通信工程学院",
     "url": "https://ste.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-04-01T07:43:49.357594Z",
-    "total_notices": 57
+    "last_scraped": "2026-04-01T13:49:27.788039Z",
+    "total_notices": 59
   },
   "notices": [
+    {
+      "id": "ste:14956",
+      "source_id": "ste",
+      "title": "通信工程学院2026年全日制研究生招生专业内方向调整的通知",
+      "url": "https://ste.xidian.edu.cn/info/1337/14956.htm",
+      "date": "2026-04-01"
+    },
+    {
+      "id": "ste:14946",
+      "source_id": "ste",
+      "title": "关于公示通信工程学院2026年硕士研究生招生统考拟录取名单的通知（不含北电联培及非全日制考生）",
+      "url": "https://ste.xidian.edu.cn/info/1337/14946.htm",
+      "date": "2026-04-01"
+    },
     {
       "id": "ste:14936",
       "source_id": "ste",

@@ -3,10 +3,17 @@
     "source_id": "jgrsrc",
     "name": "人才招聘",
     "url": "https://jgrsrc.xidian.edu.cn/index/tzgg.htm",
-    "last_scraped": "2026-04-01T07:43:05.878814Z",
-    "total_notices": 77
+    "last_scraped": "2026-04-01T13:48:55.380944Z",
+    "total_notices": 78
   },
   "notices": [
+    {
+      "id": "jgrsrc:17338",
+      "source_id": "jgrsrc",
+      "title": "西安电子科技大学关于开展2026～2028年度专业技术职务分级工作的通知",
+      "url": "https://jgrsrc.xidian.edu.cn/info/1067/17338.htm",
+      "date": "2026-04-01"
+    },
     {
       "id": "jgrsrc:17288",
       "source_id": "jgrsrc",
