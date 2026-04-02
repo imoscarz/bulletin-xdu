@@ -1,8 +1,56 @@
 {
-  "generated_at": "2026-04-01T19:11:33.647449+00:00",
-  "total_notices": 2236,
+  "generated_at": "2026-04-02T02:47:31.590856+00:00",
+  "total_notices": 2242,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "ste:14966",
+      "source_id": "ste",
+      "title": "关于通信工程学院2026年全日制一志愿拟录取硕士研究生选取意向导师的通知",
+      "url": "https://ste.xidian.edu.cn/info/1337/14966.htm",
+      "date": "2026-04-02",
+      "source_name": "通信工程学院"
+    },
+    {
+      "id": "sai:18292",
+      "source_id": "sai",
+      "title": "人工智能学院关于一志愿拟录取考生选取意向导师的通知",
+      "url": "https://sai.xidian.edu.cn/info/1106/18292.htm",
+      "date": "2026-04-02",
+      "source_name": "人工智能学院"
+    },
+    {
+      "id": "rwxy:16554",
+      "source_id": "rwxy",
+      "title": "人文学院工作简讯",
+      "url": "https://rwxy.xidian.edu.cn/info/1023/16554.htm",
+      "date": "2026-04-02",
+      "source_name": "人文学院"
+    },
+    {
+      "id": "rwxy:16544",
+      "source_id": "rwxy",
+      "title": "人文学院2026年硕士研究生招生一志愿统考拟录取名单公示",
+      "url": "https://rwxy.xidian.edu.cn/info/1023/16544.htm",
+      "date": "2026-04-02",
+      "source_name": "人文学院"
+    },
+    {
+      "id": "phy:10473",
+      "source_id": "phy",
+      "title": "关于公布物理学院2026年硕士研究生复试成绩的通知",
+      "url": "https://phy.xidian.edu.cn/info/1012/10473.htm",
+      "date": "2026-04-02",
+      "source_name": "物理与光电工程学院"
+    },
+    {
+      "id": "imse:5601",
+      "source_id": "imse",
+      "title": "信息力学与感知工程学院2026年硕士研究生招生一志愿统考拟录取名单公示",
+      "url": "https://imse.xidian.edu.cn/info/1030/5601.htm",
+      "date": "2026-04-02",
+      "source_name": "信息力学与感知工程学院"
+    },
     {
       "id": "ste:14956",
       "source_id": "ste",

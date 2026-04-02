@@ -3,10 +3,17 @@
     "source_id": "sai",
     "name": "人工智能学院",
     "url": "https://sai.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-04-01T19:11:05.016674Z",
-    "total_notices": 105
+    "last_scraped": "2026-04-02T02:46:42.448405Z",
+    "total_notices": 106
   },
   "notices": [
+    {
+      "id": "sai:18292",
+      "source_id": "sai",
+      "title": "人工智能学院关于一志愿拟录取考生选取意向导师的通知",
+      "url": "https://sai.xidian.edu.cn/info/1106/18292.htm",
+      "date": "2026-04-02"
+    },
     {
       "id": "sai:18272",
       "source_id": "sai",

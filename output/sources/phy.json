@@ -3,10 +3,17 @@
     "source_id": "phy",
     "name": "物理与光电工程学院",
     "url": "https://phy.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-04-01T19:10:57.420198Z",
-    "total_notices": 54
+    "last_scraped": "2026-04-02T02:46:31.882909Z",
+    "total_notices": 55
   },
   "notices": [
+    {
+      "id": "phy:10473",
+      "source_id": "phy",
+      "title": "关于公布物理学院2026年硕士研究生复试成绩的通知",
+      "url": "https://phy.xidian.edu.cn/info/1012/10473.htm",
+      "date": "2026-04-02"
+    },
     {
       "id": "phy:10413",
       "source_id": "phy",
