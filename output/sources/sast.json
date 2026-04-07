@@ -3,10 +3,24 @@
     "source_id": "sast",
     "name": "空间科学与技术学院",
     "url": "https://sast.xidian.edu.cn/index/tzgg.htm",
-    "last_scraped": "2026-04-07T07:27:12.929057Z",
-    "total_notices": 82
+    "last_scraped": "2026-04-07T13:42:50.725131Z",
+    "total_notices": 85
   },
   "notices": [
+    {
+      "id": "sast:18097",
+      "source_id": "sast",
+      "title": "空间科学与技术学院2026年全日制  硕士研究生招生调剂方案",
+      "url": "https://sast.xidian.edu.cn/info/1014/18097.htm",
+      "date": "2026-04-07"
+    },
+    {
+      "id": "sast:18077",
+      "source_id": "sast",
+      "title": "空间科学与技术学院2026年非全日制硕招生调剂方案",
+      "url": "https://sast.xidian.edu.cn/info/1014/18077.htm",
+      "date": "2026-04-07"
+    },
     {
       "id": "sast:18007",
       "source_id": "sast",
@@ -55,6 +69,13 @@
       "title": "关于对第三十七届“星火杯”暨2026年“挑战杯”空间学院选拔赛  获奖结果进行公示的通知",
       "url": "https://sast.xidian.edu.cn/info/1014/17797.htm",
       "date": "2026-03-27"
+    },
+    {
+      "id": "sast:17727",
+      "source_id": "sast",
+      "title": "空间学院开展中医义诊活动",
+      "url": "https://sast.xidian.edu.cn/info/1014/17727.htm",
+      "date": "2026-03-24"
     },
     {
       "id": "sast:17707",

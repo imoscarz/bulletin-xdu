@@ -1,8 +1,64 @@
 {
-  "generated_at": "2026-04-07T07:27:45.068278+00:00",
-  "total_notices": 2307,
+  "generated_at": "2026-04-07T13:43:16.127875+00:00",
+  "total_notices": 2325,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "ygb:10563",
+      "source_id": "ygb",
+      "title": "关于做好参加陕西省第十届研究生创新成果展暨西安电子科技大学研究生学术成果墙报展的通知",
+      "url": "https://ygb.xidian.edu.cn/info/1036/10563.htm",
+      "date": "2026-04-07",
+      "source_name": "党委研究生工作部"
+    },
+    {
+      "id": "soe:16385",
+      "source_id": "soe",
+      "title": "光电工程学院关于开放2026年硕士研究生招生“少数民族高层次骨干人才”专项计划调剂的通知",
+      "url": "https://soe.xidian.edu.cn/info/1095/16385.htm",
+      "date": "2026-04-07",
+      "source_name": "光电工程学院"
+    },
+    {
+      "id": "sme:3470",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/2026/0407/3470.html",
+      "date": "2026-04-07",
+      "source_name": "集成电路学部"
+    },
+    {
+      "id": "sme:3469",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/2026/0407/3469.html",
+      "date": "2026-04-07",
+      "source_name": "集成电路学部"
+    },
+    {
+      "id": "sie:7285",
+      "source_id": "sie",
+      "title": "西安电子科技大学2026年学校公派留学项目拟资助名单公示",
+      "url": "https://sie.xidian.edu.cn/info/1130/7285.htm",
+      "date": "2026-04-07",
+      "source_name": "国际教育学院"
+    },
+    {
+      "id": "sast:18097",
+      "source_id": "sast",
+      "title": "空间科学与技术学院2026年全日制  硕士研究生招生调剂方案",
+      "url": "https://sast.xidian.edu.cn/info/1014/18097.htm",
+      "date": "2026-04-07",
+      "source_name": "空间科学与技术学院"
+    },
+    {
+      "id": "sast:18077",
+      "source_id": "sast",
+      "title": "空间科学与技术学院2026年非全日制硕招生调剂方案",
+      "url": "https://sast.xidian.edu.cn/info/1014/18077.htm",
+      "date": "2026-04-07",
+      "source_name": "空间科学与技术学院"
+    },
     {
       "id": "sai:18342",
       "source_id": "sai",
@@ -20,12 +76,84 @@
       "source_name": "人工智能学院"
     },
     {
+      "id": "phy:10593",
+      "source_id": "phy",
+      "title": "关于做好参加陕西省第十届研究生创新成果展暨西安电子科技大学研究生学术成果墙报展的通知",
+      "url": "https://phy.xidian.edu.cn/info/1012/10593.htm",
+      "date": "2026-04-07",
+      "source_name": "物理与光电工程学院"
+    },
+    {
+      "id": "jsfz:11642",
+      "source_id": "jsfz",
+      "title": "【教学活动】2026年第33期  新形势下测控技术与仪器专业教育部工程认证自评报告撰写研讨",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/11642.htm",
+      "date": "2026-04-07",
+      "source_name": "教师发展中心"
+    },
+    {
+      "id": "jsfz:11632",
+      "source_id": "jsfz",
+      "title": "【教学培训】2026年第30期 中华优秀传统文化的精神内蕴及思政育人功能",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/11632.htm",
+      "date": "2026-04-07",
+      "source_name": "教师发展中心"
+    },
+    {
+      "id": "jsfz:11622",
+      "source_id": "jsfz",
+      "title": "【人工智能赋能】2026年第31期 人工智能赋能“会计学”课程研讨会",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/11622.htm",
+      "date": "2026-04-07",
+      "source_name": "教师发展中心"
+    },
+    {
       "id": "imse:5741",
       "source_id": "imse",
       "title": "信息力学与感知工程学院关于开放2026年硕士研究生招生“少数民族高层次骨干人才”专项计划调剂的通知",
       "url": "https://imse.xidian.edu.cn/info/1030/5741.htm",
       "date": "2026-04-07",
       "source_name": "信息力学与感知工程学院"
+    },
+    {
+      "id": "eme:14736",
+      "source_id": "eme",
+      "title": "科研协作项目公示信息（260407）",
+      "url": "https://eme.xidian.edu.cn/info/1012/14736.htm",
+      "date": "2026-04-07",
+      "source_name": "机电工程学院"
+    },
+    {
+      "id": "bksy:32982",
+      "source_id": "bksy",
+      "title": "【教学活动】2026年第33期  新形势下测控技术与仪器...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/32982.htm",
+      "date": "2026-04-07",
+      "source_name": "本科生院"
+    },
+    {
+      "id": "bksy:32972",
+      "source_id": "bksy",
+      "title": "【教学培训】2026年第30期 中华优秀传统文化的精神内...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/32972.htm",
+      "date": "2026-04-07",
+      "source_name": "本科生院"
+    },
+    {
+      "id": "bksy:32962",
+      "source_id": "bksy",
+      "title": "【人工智能赋能】2026年第31期 人工智能赋能“会计学...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/32962.htm",
+      "date": "2026-04-07",
+      "source_name": "本科生院"
+    },
+    {
+      "id": "bksy:32952",
+      "source_id": "bksy",
+      "title": "关于举办2026年西安电子科技大学“华为杯”第24届程...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/32952.htm",
+      "date": "2026-04-07",
+      "source_name": "本科生院"
     },
     {
       "id": "bksy:32942",
@@ -90,6 +218,14 @@
       "url": "https://soe.xidian.edu.cn/info/1095/16315.htm",
       "date": "2026-04-03",
       "source_name": "光电工程学院"
+    },
+    {
+      "id": "sme:3468",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/2026/0407/3468.html",
+      "date": "2026-04-03",
+      "source_name": "集成电路学部"
     },
     {
       "id": "sme:3467",
@@ -1210,6 +1346,14 @@
       "url": "https://sem.xidian.edu.cn/info/1536/13341.htm",
       "date": "2026-03-24",
       "source_name": "经济与管理学院"
+    },
+    {
+      "id": "sast:17727",
+      "source_id": "sast",
+      "title": "空间学院开展中医义诊活动",
+      "url": "https://sast.xidian.edu.cn/info/1014/17727.htm",
+      "date": "2026-03-24",
+      "source_name": "空间科学与技术学院"
     },
     {
       "id": "sai:14082",

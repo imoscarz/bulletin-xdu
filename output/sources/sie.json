@@ -3,10 +3,17 @@
     "source_id": "sie",
     "name": "国际教育学院",
     "url": "https://sie.xidian.edu.cn/sy/tzgg.htm",
-    "last_scraped": "2026-04-07T07:27:35.095342Z",
-    "total_notices": 61
+    "last_scraped": "2026-04-07T13:43:06.883380Z",
+    "total_notices": 62
   },
   "notices": [
+    {
+      "id": "sie:7285",
+      "source_id": "sie",
+      "title": "西安电子科技大学2026年学校公派留学项目拟资助名单公示",
+      "url": "https://sie.xidian.edu.cn/info/1130/7285.htm",
+      "date": "2026-04-07"
+    },
     {
       "id": "sie:7275",
       "source_id": "sie",

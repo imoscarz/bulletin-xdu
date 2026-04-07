@@ -3,10 +3,31 @@
     "source_id": "jsfz",
     "name": "教师发展中心",
     "url": "https://jsfz.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-04-07T07:27:28.626746Z",
-    "total_notices": 52
+    "last_scraped": "2026-04-07T13:43:01.422025Z",
+    "total_notices": 55
   },
   "notices": [
+    {
+      "id": "jsfz:11642",
+      "source_id": "jsfz",
+      "title": "【教学活动】2026年第33期  新形势下测控技术与仪器专业教育部工程认证自评报告撰写研讨",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/11642.htm",
+      "date": "2026-04-07"
+    },
+    {
+      "id": "jsfz:11632",
+      "source_id": "jsfz",
+      "title": "【教学培训】2026年第30期 中华优秀传统文化的精神内蕴及思政育人功能",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/11632.htm",
+      "date": "2026-04-07"
+    },
+    {
+      "id": "jsfz:11622",
+      "source_id": "jsfz",
+      "title": "【人工智能赋能】2026年第31期 人工智能赋能“会计学”课程研讨会",
+      "url": "https://jsfz.xidian.edu.cn/info/1022/11622.htm",
+      "date": "2026-04-07"
+    },
     {
       "id": "jsfz:11612",
       "source_id": "jsfz",

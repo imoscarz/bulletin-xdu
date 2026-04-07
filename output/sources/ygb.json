@@ -3,10 +3,17 @@
     "source_id": "ygb",
     "name": "党委研究生工作部",
     "url": "https://ygb.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-04-07T07:27:24.733380Z",
-    "total_notices": 75
+    "last_scraped": "2026-04-07T13:42:58.175015Z",
+    "total_notices": 76
   },
   "notices": [
+    {
+      "id": "ygb:10563",
+      "source_id": "ygb",
+      "title": "关于做好参加陕西省第十届研究生创新成果展暨西安电子科技大学研究生学术成果墙报展的通知",
+      "url": "https://ygb.xidian.edu.cn/info/1036/10563.htm",
+      "date": "2026-04-07"
+    },
     {
       "id": "ygb:9683",
       "source_id": "ygb",

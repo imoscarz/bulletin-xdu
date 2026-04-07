@@ -3,10 +3,38 @@
     "source_id": "bksy",
     "name": "本科生院",
     "url": "https://bksy.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-04-07T07:27:07.433049Z",
-    "total_notices": 213
+    "last_scraped": "2026-04-07T13:42:41.143973Z",
+    "total_notices": 217
   },
   "notices": [
+    {
+      "id": "bksy:32982",
+      "source_id": "bksy",
+      "title": "【教学活动】2026年第33期  新形势下测控技术与仪器...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/32982.htm",
+      "date": "2026-04-07"
+    },
+    {
+      "id": "bksy:32972",
+      "source_id": "bksy",
+      "title": "【教学培训】2026年第30期 中华优秀传统文化的精神内...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/32972.htm",
+      "date": "2026-04-07"
+    },
+    {
+      "id": "bksy:32962",
+      "source_id": "bksy",
+      "title": "【人工智能赋能】2026年第31期 人工智能赋能“会计学...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/32962.htm",
+      "date": "2026-04-07"
+    },
+    {
+      "id": "bksy:32952",
+      "source_id": "bksy",
+      "title": "关于举办2026年西安电子科技大学“华为杯”第24届程...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/32952.htm",
+      "date": "2026-04-07"
+    },
     {
       "id": "bksy:32942",
       "source_id": "bksy",

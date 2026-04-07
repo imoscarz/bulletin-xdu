@@ -3,10 +3,17 @@
     "source_id": "phy",
     "name": "物理与光电工程学院",
     "url": "https://phy.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-04-07T07:26:55.188031Z",
-    "total_notices": 60
+    "last_scraped": "2026-04-07T13:42:15.512119Z",
+    "total_notices": 61
   },
   "notices": [
+    {
+      "id": "phy:10593",
+      "source_id": "phy",
+      "title": "关于做好参加陕西省第十届研究生创新成果展暨西安电子科技大学研究生学术成果墙报展的通知",
+      "url": "https://phy.xidian.edu.cn/info/1012/10593.htm",
+      "date": "2026-04-07"
+    },
     {
       "id": "phy:10543",
       "source_id": "phy",
