@@ -80,7 +80,7 @@ ls output/
 - `CLOUDFLARE_ACCOUNT_ID`：Cloudflare Account ID
 - `CLOUDFLARE_PROJECT_NAME`：Cloudflare Pages 项目名
 
-部署工作流位于 `.github/workflows/deploy-cloudflare-pages.yml`，会在 `Scrape Bulletins` 成功后自动触发，也支持手动触发。
+部署工作流位于 `.github/workflows/deploy-cloudflare-pages.yml`，使用 `cloudflare/wrangler-action` 执行 `wrangler pages deploy`。该工作流会在 `Scrape Bulletins` 成功后自动触发，也支持手动触发。
 
 ## 添加新数据源
 
