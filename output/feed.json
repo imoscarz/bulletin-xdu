@@ -1,8 +1,24 @@
 {
-  "generated_at": "2026-04-09T02:48:33.711164+00:00",
-  "total_notices": 2334,
+  "generated_at": "2026-04-09T07:46:47.193749+00:00",
+  "total_notices": 2337,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "xdwy:10044",
+      "source_id": "xdwy",
+      "title": "关于2026年春季学期高等学历继续教育本科毕业论文（设计）答辩安排的通知",
+      "url": "https://xdwy.xidian.edu.cn/info/1194/10044.htm",
+      "date": "2026-04-09",
+      "source_name": "网络与继续教育学院"
+    },
+    {
+      "id": "ste:15076",
+      "source_id": "ste",
+      "title": "2026届本科毕业设计中期报告/周记抽审结果公布",
+      "url": "https://ste.xidian.edu.cn/info/1336/15076.htm",
+      "date": "2026-04-09",
+      "source_name": "通信工程学院"
+    },
     {
       "id": "sme:3476",
       "source_id": "sme",
@@ -10,6 +26,14 @@
       "url": "https://sme.xidian.edu.cn/html/tzgg/js/2026/0409/3476.html",
       "date": "2026-04-09",
       "source_name": "集成电路学部"
+    },
+    {
+      "id": "math:22582",
+      "source_id": "math",
+      "title": "数学与统计学院2026年硕士研究生招生统计学调剂拟录取名单公示",
+      "url": "https://math.xidian.edu.cn/info/1020/22582.htm",
+      "date": "2026-04-09",
+      "source_name": "数学与统计学院"
     },
     {
       "id": "ste:15056",

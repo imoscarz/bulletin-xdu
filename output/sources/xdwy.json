@@ -3,10 +3,17 @@
     "source_id": "xdwy",
     "name": "网络与继续教育学院",
     "url": "https://xdwy.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-04-09T02:48:13.079805Z",
-    "total_notices": 79
+    "last_scraped": "2026-04-09T07:46:28.074654Z",
+    "total_notices": 80
   },
   "notices": [
+    {
+      "id": "xdwy:10044",
+      "source_id": "xdwy",
+      "title": "关于2026年春季学期高等学历继续教育本科毕业论文（设计）答辩安排的通知",
+      "url": "https://xdwy.xidian.edu.cn/info/1194/10044.htm",
+      "date": "2026-04-09"
+    },
     {
       "id": "xdwy:10024",
       "source_id": "xdwy",
