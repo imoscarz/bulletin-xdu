@@ -3,8 +3,8 @@
     "source_id": "jgrsrc",
     "name": "人才招聘",
     "url": "https://jgrsrc.xidian.edu.cn/index/tzgg.htm",
-    "last_scraped": "2026-04-09T07:46:20.210812Z",
-    "total_notices": 80
+    "last_scraped": "2026-04-09T13:56:04.949495Z",
+    "total_notices": 82
   },
   "notices": [
     {
@@ -69,6 +69,20 @@
       "title": "关于开展2026年国家公派高级研究学者、访问学者项目申报的通知",
       "url": "https://jgrsrc.xidian.edu.cn/info/1067/16958.htm",
       "date": "2026-03-03"
+    },
+    {
+      "id": "jgrsrc:17408",
+      "source_id": "jgrsrc",
+      "title": "关于开展2026年度国家资助博士后研究人员计划B、C档和博士后科研业绩评估考核资助申报工作的通知",
+      "url": "https://jgrsrc.xidian.edu.cn/info/1067/17408.htm",
+      "date": "2026-03-01"
+    },
+    {
+      "id": "jgrsrc:17398",
+      "source_id": "jgrsrc",
+      "title": "关于开展2026年博士后国（境）外交流项目申报工作的通知",
+      "url": "https://jgrsrc.xidian.edu.cn/info/1067/17398.htm",
+      "date": "2026-03-01"
     },
     {
       "id": "jgrsrc:16898",

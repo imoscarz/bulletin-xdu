@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-09T07:46:47.193749+00:00",
-  "total_notices": 2337,
+  "generated_at": "2026-04-09T13:56:51.804520+00:00",
+  "total_notices": 2341,
   "content_limit": 5000,
   "notices": [
     {
@@ -10,6 +10,14 @@
       "url": "https://xdwy.xidian.edu.cn/info/1194/10044.htm",
       "date": "2026-04-09",
       "source_name": "网络与继续教育学院"
+    },
+    {
+      "id": "ste:15086",
+      "source_id": "ste",
+      "title": "科研协作项目公示信息",
+      "url": "https://ste.xidian.edu.cn/info/1338/15086.htm",
+      "date": "2026-04-09",
+      "source_name": "通信工程学院"
     },
     {
       "id": "ste:15076",
@@ -26,6 +34,14 @@
       "url": "https://sme.xidian.edu.cn/html/tzgg/js/2026/0409/3476.html",
       "date": "2026-04-09",
       "source_name": "集成电路学部"
+    },
+    {
+      "id": "sast:18257",
+      "source_id": "sast",
+      "title": "空间科学与技术学院2026年硕士研究生招生  控制科学与工程调剂拟录取名单公示",
+      "url": "https://sast.xidian.edu.cn/info/1014/18257.htm",
+      "date": "2026-04-09",
+      "source_name": "空间科学与技术学院"
     },
     {
       "id": "math:22582",
@@ -2522,6 +2538,22 @@
       "url": "https://bksy.xidian.edu.cn/info/1003/32372.htm",
       "date": "2026-03-02",
       "source_name": "本科生院"
+    },
+    {
+      "id": "jgrsrc:17408",
+      "source_id": "jgrsrc",
+      "title": "关于开展2026年度国家资助博士后研究人员计划B、C档和博士后科研业绩评估考核资助申报工作的通知",
+      "url": "https://jgrsrc.xidian.edu.cn/info/1067/17408.htm",
+      "date": "2026-03-01",
+      "source_name": "人才招聘"
+    },
+    {
+      "id": "jgrsrc:17398",
+      "source_id": "jgrsrc",
+      "title": "关于开展2026年博士后国（境）外交流项目申报工作的通知",
+      "url": "https://jgrsrc.xidian.edu.cn/info/1067/17398.htm",
+      "date": "2026-03-01",
+      "source_name": "人才招聘"
     },
     {
       "id": "xgc:13474",
