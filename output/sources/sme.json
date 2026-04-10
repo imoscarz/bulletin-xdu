@@ -3,10 +3,17 @@
     "source_id": "sme",
     "name": "集成电路学部",
     "url": "https://sme.xidian.edu.cn/plus/list.php?tid=6",
-    "last_scraped": "2026-04-10T07:51:25.981644Z",
-    "total_notices": 105
+    "last_scraped": "2026-04-10T13:24:09.254748Z",
+    "total_notices": 108
   },
   "notices": [
+    {
+      "id": "sme:3480",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/0410/3480.html",
+      "date": "2026-04-10"
+    },
     {
       "id": "sme:3479",
       "source_id": "sme",
@@ -20,6 +27,20 @@
       "title": "关于公布集成电路学部2025年度本科生科研训练资助计划(URTP)项目第一阶段检查结果的通知",
       "url": "https://sme.xidian.edu.cn/html/tzgg/js/2026/0410/3478.html",
       "date": "2026-04-10"
+    },
+    {
+      "id": "sme:3482",
+      "source_id": "sme",
+      "title": "科研协作信息公式",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/0410/3482.html",
+      "date": "2026-04-09"
+    },
+    {
+      "id": "sme:3481",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/0410/3481.html",
+      "date": "2026-04-09"
     },
     {
       "id": "sme:3476",

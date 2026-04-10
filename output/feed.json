@@ -1,8 +1,24 @@
 {
-  "generated_at": "2026-04-10T07:51:25.995992+00:00",
-  "total_notices": 2344,
+  "generated_at": "2026-04-10T13:24:09.269005+00:00",
+  "total_notices": 2356,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "soe:16435",
+      "source_id": "soe",
+      "title": "光电工程学院关于开放2026年硕士研究生招生“少数民族高层次骨干人才”专项计划调剂的通知（二）",
+      "url": "https://soe.xidian.edu.cn/info/1095/16435.htm",
+      "date": "2026-04-10",
+      "source_name": "光电工程学院"
+    },
+    {
+      "id": "sme:3480",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/0410/3480.html",
+      "date": "2026-04-10",
+      "source_name": "集成电路学部"
+    },
     {
       "id": "sme:3479",
       "source_id": "sme",
@@ -20,12 +36,76 @@
       "source_name": "集成电路学部"
     },
     {
+      "id": "sai:18422",
+      "source_id": "sai",
+      "title": "人工智能学院2026年硕士研究生少数民族骨干计划调剂拟录取名单公示",
+      "url": "https://sai.xidian.edu.cn/info/1106/18422.htm",
+      "date": "2026-04-10",
+      "source_name": "人工智能学院"
+    },
+    {
+      "id": "sai:18412",
+      "source_id": "sai",
+      "title": "人工智能学院2026年非全日制硕士研究生调剂拟录取名单公示",
+      "url": "https://sai.xidian.edu.cn/info/1106/18412.htm",
+      "date": "2026-04-10",
+      "source_name": "人工智能学院"
+    },
+    {
+      "id": "imse:5751",
+      "source_id": "imse",
+      "title": "信息力学与感知工程学院关于开放2026年硕士研究生招生“少数民族高层次骨干人才”专项计划调剂的通知（二）",
+      "url": "https://imse.xidian.edu.cn/info/1030/5751.htm",
+      "date": "2026-04-10",
+      "source_name": "信息力学与感知工程学院"
+    },
+    {
+      "id": "gr:19244",
+      "source_id": "gr",
+      "title": "2026年硕士研究生招生“少数民族高层次骨干人才计划”接收调剂的通知",
+      "url": "https://gr.xidian.edu.cn/info/1073/19244.htm",
+      "date": "2026-04-10",
+      "source_name": "研究生院"
+    },
+    {
+      "id": "eme:14786",
+      "source_id": "eme",
+      "title": "科研协作项目公示信息20260410",
+      "url": "https://eme.xidian.edu.cn/info/1012/14786.htm",
+      "date": "2026-04-10",
+      "source_name": "机电工程学院"
+    },
+    {
       "id": "eme:14776",
       "source_id": "eme",
       "title": "机电工程学院2026年非全日制硕士研究生招生调剂工作方案",
       "url": "https://eme.xidian.edu.cn/info/1012/14776.htm",
       "date": "2026-04-10",
       "source_name": "机电工程学院"
+    },
+    {
+      "id": "cs:24344",
+      "source_id": "cs",
+      "title": "计算机科学与技术学院关于2025-2026年度共青团先进集体和先进个人评选结果的公示",
+      "url": "https://cs.xidian.edu.cn/info/1003/24344.htm",
+      "date": "2026-04-10",
+      "source_name": "计算机科学与技术学院"
+    },
+    {
+      "id": "bksy:33012",
+      "source_id": "bksy",
+      "title": "关于第十四届全国大学生光电设计竞赛报名参赛的通知",
+      "url": "https://bksy.xidian.edu.cn/info/1003/33012.htm",
+      "date": "2026-04-10",
+      "source_name": "本科生院"
+    },
+    {
+      "id": "bksy:33002",
+      "source_id": "bksy",
+      "title": "Mini L-CTF 2026 赛事通知",
+      "url": "https://bksy.xidian.edu.cn/info/1003/33002.htm",
+      "date": "2026-04-10",
+      "source_name": "本科生院"
     },
     {
       "id": "xdwy:10044",
@@ -50,6 +130,22 @@
       "url": "https://ste.xidian.edu.cn/info/1336/15076.htm",
       "date": "2026-04-09",
       "source_name": "通信工程学院"
+    },
+    {
+      "id": "sme:3482",
+      "source_id": "sme",
+      "title": "科研协作信息公式",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/0410/3482.html",
+      "date": "2026-04-09",
+      "source_name": "集成电路学部"
+    },
+    {
+      "id": "sme:3481",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/0410/3481.html",
+      "date": "2026-04-09",
+      "source_name": "集成电路学部"
     },
     {
       "id": "sme:3476",

@@ -3,10 +3,17 @@
     "source_id": "soe",
     "name": "光电工程学院",
     "url": "https://soe.xidian.edu.cn/xwtz/tzgg.htm",
-    "last_scraped": "2026-04-10T07:50:28.503880Z",
-    "total_notices": 29
+    "last_scraped": "2026-04-10T13:22:55.795318Z",
+    "total_notices": 30
   },
   "notices": [
+    {
+      "id": "soe:16435",
+      "source_id": "soe",
+      "title": "光电工程学院关于开放2026年硕士研究生招生“少数民族高层次骨干人才”专项计划调剂的通知（二）",
+      "url": "https://soe.xidian.edu.cn/info/1095/16435.htm",
+      "date": "2026-04-10"
+    },
     {
       "id": "soe:16395",
       "source_id": "soe",
