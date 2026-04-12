@@ -3,16 +3,30 @@
     "source_id": "ste",
     "name": "通信工程学院",
     "url": "https://ste.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-04-12T07:23:29.138481Z",
-    "total_notices": 70
+    "last_scraped": "2026-04-12T13:13:25.482779Z",
+    "total_notices": 72
   },
   "notices": [
+    {
+      "id": "ste:15126",
+      "source_id": "ste",
+      "title": "赛事通知 I 第四届全国大学生通信系统设计大赛分区赛安排通知",
+      "url": "https://ste.xidian.edu.cn/info/1336/15126.htm",
+      "date": "2026-04-12"
+    },
     {
       "id": "ste:15096",
       "source_id": "ste",
       "title": "通信工程学院2026年非全日制硕士研究生调剂复试安排",
       "url": "https://ste.xidian.edu.cn/info/1337/15096.htm",
       "date": "2026-04-11"
+    },
+    {
+      "id": "ste:15116",
+      "source_id": "ste",
+      "title": "科研协作项目公示信息",
+      "url": "https://ste.xidian.edu.cn/info/1338/15116.htm",
+      "date": "2026-04-10"
     },
     {
       "id": "ste:15106",

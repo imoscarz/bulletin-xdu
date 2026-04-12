@@ -1,8 +1,16 @@
 {
-  "generated_at": "2026-04-12T07:23:49.766055+00:00",
-  "total_notices": 2360,
+  "generated_at": "2026-04-12T13:13:38.671800+00:00",
+  "total_notices": 2363,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "ste:15126",
+      "source_id": "ste",
+      "title": "赛事通知 I 第四届全国大学生通信系统设计大赛分区赛安排通知",
+      "url": "https://ste.xidian.edu.cn/info/1336/15126.htm",
+      "date": "2026-04-12",
+      "source_name": "通信工程学院"
+    },
     {
       "id": "rwxy:16704",
       "source_id": "rwxy",
@@ -26,6 +34,22 @@
       "url": "https://sast.xidian.edu.cn/info/1014/18357.htm",
       "date": "2026-04-11",
       "source_name": "空间科学与技术学院"
+    },
+    {
+      "id": "phy:10603",
+      "source_id": "phy",
+      "title": "物理学院关于2025-2026年度共青团先进集体和先进个人评选结果的公示",
+      "url": "https://phy.xidian.edu.cn/info/1012/10603.htm",
+      "date": "2026-04-11",
+      "source_name": "物理与光电工程学院"
+    },
+    {
+      "id": "ste:15116",
+      "source_id": "ste",
+      "title": "科研协作项目公示信息",
+      "url": "https://ste.xidian.edu.cn/info/1338/15116.htm",
+      "date": "2026-04-10",
+      "source_name": "通信工程学院"
     },
     {
       "id": "ste:15106",
