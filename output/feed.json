@@ -1,8 +1,16 @@
 {
-  "generated_at": "2026-04-12T03:23:25.999351+00:00",
-  "total_notices": 2358,
+  "generated_at": "2026-04-12T07:23:49.766055+00:00",
+  "total_notices": 2360,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "rwxy:16704",
+      "source_id": "rwxy",
+      "title": "人文学院2026年硕士研究生招生调剂拟录取名单公示",
+      "url": "https://rwxy.xidian.edu.cn/info/1023/16704.htm",
+      "date": "2026-04-12",
+      "source_name": "人文学院"
+    },
     {
       "id": "ste:15096",
       "source_id": "ste",
@@ -18,6 +26,14 @@
       "url": "https://sast.xidian.edu.cn/info/1014/18357.htm",
       "date": "2026-04-11",
       "source_name": "空间科学与技术学院"
+    },
+    {
+      "id": "ste:15106",
+      "source_id": "ste",
+      "title": "科研协作项目公示信息",
+      "url": "https://ste.xidian.edu.cn/info/1338/15106.htm",
+      "date": "2026-04-10",
+      "source_name": "通信工程学院"
     },
     {
       "id": "soe:16435",
