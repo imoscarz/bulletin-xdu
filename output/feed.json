@@ -1,8 +1,24 @@
 {
-  "generated_at": "2026-04-12T18:59:05.325883+00:00",
-  "total_notices": 2363,
+  "generated_at": "2026-04-13T03:29:57.162752+00:00",
+  "total_notices": 2365,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "life:16871",
+      "source_id": "life",
+      "title": "生命科学技术学院2026年硕士研究生招生调剂拟录取名单公示",
+      "url": "https://life.xidian.edu.cn/info/1048/16871.htm",
+      "date": "2026-04-13",
+      "source_name": "生命科学技术学院"
+    },
+    {
+      "id": "imse:5761",
+      "source_id": "imse",
+      "title": "信息力学与感知工程学院2026年硕士研究生招生调剂拟录取名单公示",
+      "url": "https://imse.xidian.edu.cn/info/1030/5761.htm",
+      "date": "2026-04-13",
+      "source_name": "信息力学与感知工程学院"
+    },
     {
       "id": "ste:15126",
       "source_id": "ste",
