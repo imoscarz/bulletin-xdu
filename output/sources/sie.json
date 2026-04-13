@@ -3,10 +3,17 @@
     "source_id": "sie",
     "name": "国际教育学院",
     "url": "https://sie.xidian.edu.cn/sy/tzgg.htm",
-    "last_scraped": "2026-04-13T08:13:06.487400Z",
-    "total_notices": 62
+    "last_scraped": "2026-04-13T13:53:15.178936Z",
+    "total_notices": 64
   },
   "notices": [
+    {
+      "id": "sie:7295",
+      "source_id": "sie",
+      "title": "关于开展西安电子科技大学学生国际交流社会资源库建设的通知",
+      "url": "https://sie.xidian.edu.cn/info/1130/7295.htm",
+      "date": "2026-04-13"
+    },
     {
       "id": "sie:7285",
       "source_id": "sie",
@@ -40,6 +47,13 @@
       "source_id": "sie",
       "title": "西安电子科技大学国际教育学院外聘人员一般岗位招聘公告",
       "url": "https://sie.xidian.edu.cn/info/1130/7125.htm",
+      "date": "2026-03-02"
+    },
+    {
+      "id": "sie:7105",
+      "source_id": "sie",
+      "title": "西安电子科技大学国际教育学院外聘人员一般岗位招聘公告",
+      "url": "https://sie.xidian.edu.cn/info/1130/7105.htm",
       "date": "2026-03-02"
     },
     {

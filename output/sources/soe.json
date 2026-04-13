@@ -3,10 +3,17 @@
     "source_id": "soe",
     "name": "光电工程学院",
     "url": "https://soe.xidian.edu.cn/xwtz/tzgg.htm",
-    "last_scraped": "2026-04-13T08:12:28.008641Z",
-    "total_notices": 30
+    "last_scraped": "2026-04-13T13:52:36.901027Z",
+    "total_notices": 31
   },
   "notices": [
+    {
+      "id": "soe:16485",
+      "source_id": "soe",
+      "title": "光电工程学院关于开展2026年春季光电信息创新班选拔面试的通知",
+      "url": "https://soe.xidian.edu.cn/info/1095/16485.htm",
+      "date": "2026-04-13"
+    },
     {
       "id": "soe:16435",
       "source_id": "soe",

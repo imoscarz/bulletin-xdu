@@ -1,8 +1,40 @@
 {
-  "generated_at": "2026-04-13T08:13:14.638675+00:00",
-  "total_notices": 2370,
+  "generated_at": "2026-04-13T13:53:22.980179+00:00",
+  "total_notices": 2375,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "xdwy:10054",
+      "source_id": "xdwy",
+      "title": "关于西安电子科技大学2026年高等学历继续教育学士学位课程考试安排的通知",
+      "url": "https://xdwy.xidian.edu.cn/info/1194/10054.htm",
+      "date": "2026-04-13",
+      "source_name": "网络与继续教育学院"
+    },
+    {
+      "id": "ste:15156",
+      "source_id": "ste",
+      "title": "科研协作项目公示信息",
+      "url": "https://ste.xidian.edu.cn/info/1338/15156.htm",
+      "date": "2026-04-13",
+      "source_name": "通信工程学院"
+    },
+    {
+      "id": "soe:16485",
+      "source_id": "soe",
+      "title": "光电工程学院关于开展2026年春季光电信息创新班选拔面试的通知",
+      "url": "https://soe.xidian.edu.cn/info/1095/16485.htm",
+      "date": "2026-04-13",
+      "source_name": "光电工程学院"
+    },
+    {
+      "id": "sie:7295",
+      "source_id": "sie",
+      "title": "关于开展西安电子科技大学学生国际交流社会资源库建设的通知",
+      "url": "https://sie.xidian.edu.cn/info/1130/7295.htm",
+      "date": "2026-04-13",
+      "source_name": "国际教育学院"
+    },
     {
       "id": "sast:18377",
       "source_id": "sast",
@@ -2728,6 +2760,14 @@
       "source_id": "sie",
       "title": "西安电子科技大学国际教育学院外聘人员一般岗位招聘公告",
       "url": "https://sie.xidian.edu.cn/info/1130/7125.htm",
+      "date": "2026-03-02",
+      "source_name": "国际教育学院"
+    },
+    {
+      "id": "sie:7105",
+      "source_id": "sie",
+      "title": "西安电子科技大学国际教育学院外聘人员一般岗位招聘公告",
+      "url": "https://sie.xidian.edu.cn/info/1130/7105.htm",
       "date": "2026-03-02",
       "source_name": "国际教育学院"
     },

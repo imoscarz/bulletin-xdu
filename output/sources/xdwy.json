@@ -3,10 +3,17 @@
     "source_id": "xdwy",
     "name": "网络与继续教育学院",
     "url": "https://xdwy.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-04-13T08:12:53.463453Z",
-    "total_notices": 80
+    "last_scraped": "2026-04-13T13:53:04.033532Z",
+    "total_notices": 81
   },
   "notices": [
+    {
+      "id": "xdwy:10054",
+      "source_id": "xdwy",
+      "title": "关于西安电子科技大学2026年高等学历继续教育学士学位课程考试安排的通知",
+      "url": "https://xdwy.xidian.edu.cn/info/1194/10054.htm",
+      "date": "2026-04-13"
+    },
     {
       "id": "xdwy:10044",
       "source_id": "xdwy",
