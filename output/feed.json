@@ -1,8 +1,16 @@
 {
-  "generated_at": "2026-04-13T19:21:52.571239+00:00",
-  "total_notices": 2375,
+  "generated_at": "2026-04-14T03:08:50.553009+00:00",
+  "total_notices": 2377,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "eme:14806",
+      "source_id": "eme",
+      "title": "机电工程学院2026年硕士研究生招生非全日制复试笔试及面试安排",
+      "url": "https://eme.xidian.edu.cn/info/1012/14806.htm",
+      "date": "2026-04-14",
+      "source_name": "机电工程学院"
+    },
     {
       "id": "xdwy:10054",
       "source_id": "xdwy",
@@ -1330,6 +1338,14 @@
       "url": "https://imse.xidian.edu.cn/info/1030/5591.htm",
       "date": "2026-03-31",
       "source_name": "信息力学与感知工程学院"
+    },
+    {
+      "id": "eme:14816",
+      "source_id": "eme",
+      "title": "关于公布机电工程学院2026年硕士研究生复试成绩的通知",
+      "url": "https://eme.xidian.edu.cn/info/1012/14816.htm",
+      "date": "2026-03-31",
+      "source_name": "机电工程学院"
     },
     {
       "id": "eme:14666",
