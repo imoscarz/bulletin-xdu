@@ -3,10 +3,17 @@
     "source_id": "jwc",
     "name": "教务处",
     "url": "https://jwc.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-04-14T03:18:57.150235Z",
-    "total_notices": 70
+    "last_scraped": "2026-04-14T07:55:54.418582Z",
+    "total_notices": 71
   },
   "notices": [
+    {
+      "id": "jwc:22013",
+      "source_id": "jwc",
+      "title": "西安电子科技大学2025-2026学年第二学期微专业招生通知",
+      "url": "https://jwc.xidian.edu.cn/info/1012/22013.htm",
+      "date": "2026-04-14"
+    },
     {
       "id": "jwc:21963",
       "source_id": "jwc",

@@ -1,8 +1,32 @@
 {
-  "generated_at": "2026-04-14T03:19:47.588029+00:00",
-  "total_notices": 2377,
+  "generated_at": "2026-04-14T07:57:03.289955+00:00",
+  "total_notices": 2382,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "ste:15166",
+      "source_id": "ste",
+      "title": "科研协作项目公示信息",
+      "url": "https://ste.xidian.edu.cn/info/1338/15166.htm",
+      "date": "2026-04-14",
+      "source_name": "通信工程学院"
+    },
+    {
+      "id": "sme:3484",
+      "source_id": "sme",
+      "title": "集成电路学部2026年非全日制硕士研究生招生调剂拟录取名单公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/2026/0414/3484.html",
+      "date": "2026-04-14",
+      "source_name": "集成电路学部"
+    },
+    {
+      "id": "jwc:22013",
+      "source_id": "jwc",
+      "title": "西安电子科技大学2025-2026学年第二学期微专业招生通知",
+      "url": "https://jwc.xidian.edu.cn/info/1012/22013.htm",
+      "date": "2026-04-14",
+      "source_name": "教务处"
+    },
     {
       "id": "eme:14806",
       "source_id": "eme",
@@ -10,6 +34,14 @@
       "url": "https://eme.xidian.edu.cn/info/1012/14806.htm",
       "date": "2026-04-14",
       "source_name": "机电工程学院"
+    },
+    {
+      "id": "bksy:33052",
+      "source_id": "bksy",
+      "title": "西安电子科技大学2025-2026学年第二学期微专业招生通...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/33052.htm",
+      "date": "2026-04-14",
+      "source_name": "本科生院"
     },
     {
       "id": "xdwy:10054",
@@ -154,6 +186,14 @@
       "url": "https://soe.xidian.edu.cn/info/1095/16435.htm",
       "date": "2026-04-10",
       "source_name": "光电工程学院"
+    },
+    {
+      "id": "sme:3485",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/2026/0414/3485.html",
+      "date": "2026-04-10",
+      "source_name": "集成电路学部"
     },
     {
       "id": "sme:3480",
