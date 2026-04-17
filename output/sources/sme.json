@@ -3,10 +3,17 @@
     "source_id": "sme",
     "name": "集成电路学部",
     "url": "https://sme.xidian.edu.cn/plus/list.php?tid=6",
-    "last_scraped": "2026-04-17T03:21:11.268745Z",
-    "total_notices": 111
+    "last_scraped": "2026-04-17T07:58:17.467205Z",
+    "total_notices": 112
   },
   "notices": [
+    {
+      "id": "sme:3489",
+      "source_id": "sme",
+      "title": "集成电路学部2026年硕士研究生“少数民族高层次骨干人才“专项计划招生调剂复试通知",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/jl/2026/0417/3489.html",
+      "date": "2026-04-17"
+    },
     {
       "id": "sme:3486",
       "source_id": "sme",

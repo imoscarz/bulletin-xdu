@@ -3,10 +3,17 @@
     "source_id": "cs",
     "name": "计算机科学与技术学院",
     "url": "https://cs.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-04-17T03:20:17.020463Z",
-    "total_notices": 90
+    "last_scraped": "2026-04-17T07:57:21.380743Z",
+    "total_notices": 91
   },
   "notices": [
+    {
+      "id": "cs:24464",
+      "source_id": "cs",
+      "title": "计算机科学与技术学院关于开展研究生学位论文抽查预答辩的通知（2026年6月批次）",
+      "url": "https://cs.xidian.edu.cn/info/1003/24464.htm",
+      "date": "2026-04-17"
+    },
     {
       "id": "cs:24344",
       "source_id": "cs",

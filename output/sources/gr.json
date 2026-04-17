@@ -3,10 +3,17 @@
     "source_id": "gr",
     "name": "研究生院",
     "url": "https://gr.xidian.edu.cn/tzgg1.htm",
-    "last_scraped": "2026-04-17T03:20:37.429846Z",
-    "total_notices": 105
+    "last_scraped": "2026-04-17T07:57:41.947726Z",
+    "total_notices": 106
   },
   "notices": [
+    {
+      "id": "gr:19344",
+      "source_id": "gr",
+      "title": "关于2026年拟录取硕士研究生办理相关事宜的通知",
+      "url": "https://gr.xidian.edu.cn/info/1073/19344.htm",
+      "date": "2026-04-17"
+    },
     {
       "id": "gr:19244",
       "source_id": "gr",

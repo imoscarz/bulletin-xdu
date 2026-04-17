@@ -3,8 +3,8 @@
     "source_id": "hqbzb",
     "name": "后勤保障部",
     "url": "https://hqbzb.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-04-17T03:21:00.873152Z",
-    "total_notices": 76
+    "last_scraped": "2026-04-17T07:58:05.509391Z",
+    "total_notices": 77
   },
   "notices": [
     {
@@ -13,6 +13,13 @@
       "title": "西安电子科技大学校园碳排放核算报告（2024 年度)公示",
       "url": "https://hqbzb.xidian.edu.cn/info/1029/7876.htm",
       "date": "2026-04-15"
+    },
+    {
+      "id": "hqbzb:7896",
+      "source_id": "hqbzb",
+      "title": "临近退休工勤人员考察审核公示",
+      "url": "https://hqbzb.xidian.edu.cn/info/1029/7896.htm",
+      "date": "2026-04-08"
     },
     {
       "id": "hqbzb:7836",
