@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-17T07:58:17.481222+00:00",
-  "total_notices": 2406,
+  "generated_at": "2026-04-17T13:43:53.249188+00:00",
+  "total_notices": 2409,
   "content_limit": 5000,
   "notices": [
     {
@@ -10,6 +10,30 @@
       "url": "https://ste.xidian.edu.cn/info/1337/15216.htm",
       "date": "2026-04-17",
       "source_name": "通信工程学院"
+    },
+    {
+      "id": "sme:3492",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/0417/3492.html",
+      "date": "2026-04-17",
+      "source_name": "集成电路学部"
+    },
+    {
+      "id": "sme:3491",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/0417/3491.html",
+      "date": "2026-04-17",
+      "source_name": "集成电路学部"
+    },
+    {
+      "id": "sme:3490",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/0417/3490.html",
+      "date": "2026-04-17",
+      "source_name": "集成电路学部"
     },
     {
       "id": "sme:3489",
