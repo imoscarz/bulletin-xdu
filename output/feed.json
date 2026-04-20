@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-20T08:19:34.097200+00:00",
-  "total_notices": 2418,
+  "generated_at": "2026-04-20T13:56:16.491350+00:00",
+  "total_notices": 2422,
   "content_limit": 5000,
   "notices": [
     {
@@ -10,6 +10,14 @@
       "url": "https://ste.xidian.edu.cn/info/1337/15246.htm",
       "date": "2026-04-20",
       "source_name": "通信工程学院"
+    },
+    {
+      "id": "sme:183",
+      "source_id": "sme",
+      "title": "集成电路学部2026年硕士研究生招生“少数民族高层次骨干人才”专项计划调剂拟录取名单公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/2016/1228/183.html",
+      "date": "2026-04-20",
+      "source_name": "集成电路学部"
     },
     {
       "id": "sai:18492",
@@ -26,6 +34,14 @@
       "url": "https://phy.xidian.edu.cn/info/1012/10663.htm",
       "date": "2026-04-20",
       "source_name": "物理与光电工程学院"
+    },
+    {
+      "id": "eme:14936",
+      "source_id": "eme",
+      "title": "机电工程学院2026年非全日制硕士研究生调剂拟录取名单公示",
+      "url": "https://eme.xidian.edu.cn/info/1012/14936.htm",
+      "date": "2026-04-20",
+      "source_name": "机电工程学院"
     },
     {
       "id": "eme:14876",
@@ -50,6 +66,22 @@
       "url": "https://cs.xidian.edu.cn/info/1003/24474.htm",
       "date": "2026-04-20",
       "source_name": "计算机科学与技术学院"
+    },
+    {
+      "id": "bksy:33132",
+      "source_id": "bksy",
+      "title": "西安电子科技大学第六届“外教社·词达人杯”全国大学...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/33132.htm",
+      "date": "2026-04-20",
+      "source_name": "本科生院"
+    },
+    {
+      "id": "bksy:33122",
+      "source_id": "bksy",
+      "title": "2026年全国大学英语竞赛（NECCS）初赛成绩查询办法",
+      "url": "https://bksy.xidian.edu.cn/info/1003/33122.htm",
+      "date": "2026-04-20",
+      "source_name": "本科生院"
     },
     {
       "id": "jwc:22053",
