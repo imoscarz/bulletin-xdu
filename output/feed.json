@@ -1,8 +1,32 @@
 {
-  "generated_at": "2026-04-21T08:02:45.079003+00:00",
-  "total_notices": 2423,
+  "generated_at": "2026-04-21T13:57:06.601354+00:00",
+  "total_notices": 2429,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "sme:3494",
+      "source_id": "sme",
+      "title": "集成电路学部关于2024、2025年度本科教育教学改革项目结题验收结果的公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/2026/0421/3494.html",
+      "date": "2026-04-21",
+      "source_name": "集成电路学部"
+    },
+    {
+      "id": "phy:10693",
+      "source_id": "phy",
+      "title": "科研协作项目公示信息20260421-1",
+      "url": "https://phy.xidian.edu.cn/info/1012/10693.htm",
+      "date": "2026-04-21",
+      "source_name": "物理与光电工程学院"
+    },
+    {
+      "id": "phy:10683",
+      "source_id": "phy",
+      "title": "物理学院关于公示2026年春季博士研究生学业奖学金评审结果的通知",
+      "url": "https://phy.xidian.edu.cn/info/1012/10683.htm",
+      "date": "2026-04-21",
+      "source_name": "物理与光电工程学院"
+    },
     {
       "id": "jgrsrc:17488",
       "source_id": "jgrsrc",
@@ -12,12 +36,28 @@
       "source_name": "人才招聘"
     },
     {
+      "id": "xgc:13754",
+      "source_id": "xgc",
+      "title": "关于开展2026届本科毕业生学年总评暨毕业生奖学金评选相关工作的通知",
+      "url": "https://xgc.xidian.edu.cn/info/1033/13754.htm",
+      "date": "2026-04-20",
+      "source_name": "学生工作处"
+    },
+    {
       "id": "ste:15246",
       "source_id": "ste",
       "title": "通信工程学院2026级春季博士新生学业奖学金答辩工作安排",
       "url": "https://ste.xidian.edu.cn/info/1337/15246.htm",
       "date": "2026-04-20",
       "source_name": "通信工程学院"
+    },
+    {
+      "id": "sme:3493",
+      "source_id": "sme",
+      "title": "集成电路学部2026年硕士研究生招生“少数民族高层次骨干人才”专项计划调剂拟录取名单公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/2026/0420/3493.html",
+      "date": "2026-04-20",
+      "source_name": "集成电路学部"
     },
     {
       "id": "sme:183",
@@ -74,6 +114,14 @@
       "url": "https://cs.xidian.edu.cn/info/1003/24474.htm",
       "date": "2026-04-20",
       "source_name": "计算机科学与技术学院"
+    },
+    {
+      "id": "bksy:33142",
+      "source_id": "bksy",
+      "title": "关于开展2026届本科毕业生学年总评暨毕业生奖学金评...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/33142.htm",
+      "date": "2026-04-20",
+      "source_name": "本科生院"
     },
     {
       "id": "bksy:33132",

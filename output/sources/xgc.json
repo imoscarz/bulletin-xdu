@@ -3,10 +3,17 @@
     "source_id": "xgc",
     "name": "学生工作处",
     "url": "https://xgc.xidian.edu.cn/tzgg1.htm",
-    "last_scraped": "2026-04-21T08:02:05.445076Z",
-    "total_notices": 103
+    "last_scraped": "2026-04-21T13:56:23.302848Z",
+    "total_notices": 104
   },
   "notices": [
+    {
+      "id": "xgc:13754",
+      "source_id": "xgc",
+      "title": "关于开展2026届本科毕业生学年总评暨毕业生奖学金评选相关工作的通知",
+      "url": "https://xgc.xidian.edu.cn/info/1033/13754.htm",
+      "date": "2026-04-20"
+    },
     {
       "id": "xgc:13714",
       "source_id": "xgc",
