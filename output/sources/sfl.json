@@ -3,10 +3,17 @@
     "source_id": "sfl",
     "name": "语言智能学部",
     "url": "https://sfl.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-04-21T19:20:44.494121Z",
-    "total_notices": 54
+    "last_scraped": "2026-04-22T03:19:38.502291Z",
+    "total_notices": 55
   },
   "notices": [
+    {
+      "id": "sfl:16748",
+      "source_id": "sfl",
+      "title": "语言智能研究院、区域国别研究院专任教师招聘公告",
+      "url": "https://sfl.xidian.edu.cn/info/1031/16748.htm",
+      "date": "2026-04-22"
+    },
     {
       "id": "sfl:16498",
       "source_id": "sfl",

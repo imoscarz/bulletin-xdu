@@ -1,8 +1,16 @@
 {
-  "generated_at": "2026-04-21T19:21:20.021180+00:00",
-  "total_notices": 2429,
+  "generated_at": "2026-04-22T03:20:18.742980+00:00",
+  "total_notices": 2433,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "sfl:16748",
+      "source_id": "sfl",
+      "title": "语言智能研究院、区域国别研究院专任教师招聘公告",
+      "url": "https://sfl.xidian.edu.cn/info/1031/16748.htm",
+      "date": "2026-04-22",
+      "source_name": "语言智能学部"
+    },
     {
       "id": "sme:3494",
       "source_id": "sme",
@@ -170,6 +178,30 @@
       "url": "https://ste.xidian.edu.cn/info/1337/15216.htm",
       "date": "2026-04-17",
       "source_name": "通信工程学院"
+    },
+    {
+      "id": "sme:3498",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/0422/3498.html",
+      "date": "2026-04-17",
+      "source_name": "集成电路学部"
+    },
+    {
+      "id": "sme:3497",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/0422/3497.html",
+      "date": "2026-04-17",
+      "source_name": "集成电路学部"
+    },
+    {
+      "id": "sme:3496",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/0422/3496.html",
+      "date": "2026-04-17",
+      "source_name": "集成电路学部"
     },
     {
       "id": "sme:3492",

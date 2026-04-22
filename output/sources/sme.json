@@ -3,8 +3,8 @@
     "source_id": "sme",
     "name": "集成电路学部",
     "url": "https://sme.xidian.edu.cn/plus/list.php?tid=6",
-    "last_scraped": "2026-04-21T19:21:20.006326Z",
-    "total_notices": 118
+    "last_scraped": "2026-04-22T03:20:18.728090Z",
+    "total_notices": 121
   },
   "notices": [
     {
@@ -27,6 +27,27 @@
       "title": "集成电路学部2026年硕士研究生招生“少数民族高层次骨干人才”专项计划调剂拟录取名单公示",
       "url": "https://sme.xidian.edu.cn/html/tzgg/2016/1228/183.html",
       "date": "2026-04-20"
+    },
+    {
+      "id": "sme:3498",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/0422/3498.html",
+      "date": "2026-04-17"
+    },
+    {
+      "id": "sme:3497",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/0422/3497.html",
+      "date": "2026-04-17"
+    },
+    {
+      "id": "sme:3496",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/0422/3496.html",
+      "date": "2026-04-17"
     },
     {
       "id": "sme:3492",
