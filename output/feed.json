@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-22T03:20:18.742980+00:00",
-  "total_notices": 2433,
+  "generated_at": "2026-04-22T07:59:14.432833+00:00",
+  "total_notices": 2434,
   "content_limit": 5000,
   "notices": [
     {
@@ -10,6 +10,14 @@
       "url": "https://sfl.xidian.edu.cn/info/1031/16748.htm",
       "date": "2026-04-22",
       "source_name": "语言智能学部"
+    },
+    {
+      "id": "phy:10713",
+      "source_id": "phy",
+      "title": "科研协作项目公示信息20260422-1",
+      "url": "https://phy.xidian.edu.cn/info/1012/10713.htm",
+      "date": "2026-04-22",
+      "source_name": "物理与光电工程学院"
     },
     {
       "id": "sme:3494",
