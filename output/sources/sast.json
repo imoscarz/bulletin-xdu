@@ -3,10 +3,17 @@
     "source_id": "sast",
     "name": "空间科学与技术学院",
     "url": "https://sast.xidian.edu.cn/index/tzgg.htm",
-    "last_scraped": "2026-04-24T08:12:42.363931Z",
-    "total_notices": 91
+    "last_scraped": "2026-04-24T13:49:57.453621Z",
+    "total_notices": 92
   },
   "notices": [
+    {
+      "id": "sast:18687",
+      "source_id": "sast",
+      "title": "关于开展第三届“为民探索奖”评选的通知",
+      "url": "https://sast.xidian.edu.cn/info/1014/18687.htm",
+      "date": "2026-04-24"
+    },
     {
       "id": "sast:18647",
       "source_id": "sast",

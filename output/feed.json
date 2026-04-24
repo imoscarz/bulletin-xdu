@@ -1,8 +1,16 @@
 {
-  "generated_at": "2026-04-24T08:13:11.210555+00:00",
-  "total_notices": 2449,
+  "generated_at": "2026-04-24T13:50:31.223118+00:00",
+  "total_notices": 2451,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "xdwy:10194",
+      "source_id": "xdwy",
+      "title": "西安电子科技大学2026年高等学历继续教育拟申报备案校外教学点公示",
+      "url": "https://xdwy.xidian.edu.cn/info/1194/10194.htm",
+      "date": "2026-04-24",
+      "source_name": "网络与继续教育学院"
+    },
     {
       "id": "soe:16645",
       "source_id": "soe",
@@ -10,6 +18,14 @@
       "url": "https://soe.xidian.edu.cn/info/1095/16645.htm",
       "date": "2026-04-24",
       "source_name": "光电工程学院"
+    },
+    {
+      "id": "sast:18687",
+      "source_id": "sast",
+      "title": "关于开展第三届“为民探索奖”评选的通知",
+      "url": "https://sast.xidian.edu.cn/info/1014/18687.htm",
+      "date": "2026-04-24",
+      "source_name": "空间科学与技术学院"
     },
     {
       "id": "gr:19404",
