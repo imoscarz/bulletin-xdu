@@ -3,10 +3,17 @@
     "source_id": "gr",
     "name": "研究生院",
     "url": "https://gr.xidian.edu.cn/tzgg1.htm",
-    "last_scraped": "2026-04-23T19:20:11.895678Z",
-    "total_notices": 107
+    "last_scraped": "2026-04-24T03:26:11.687248Z",
+    "total_notices": 108
   },
   "notices": [
+    {
+      "id": "gr:19404",
+      "source_id": "gr",
+      "title": "关于申报2026年陕西省学位与研究生教育管理研究专项项目的通知",
+      "url": "https://gr.xidian.edu.cn/info/1073/19404.htm",
+      "date": "2026-04-24"
+    },
     {
       "id": "gr:19394",
       "source_id": "gr",
