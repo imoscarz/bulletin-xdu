@@ -1,8 +1,24 @@
 {
-  "generated_at": "2026-04-27T08:35:37.112450+00:00",
-  "total_notices": 2463,
+  "generated_at": "2026-04-27T14:08:48.983391+00:00",
+  "total_notices": 2467,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "sme:3502",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/0427/3502.html",
+      "date": "2026-04-27",
+      "source_name": "集成电路学部"
+    },
+    {
+      "id": "sme:3501",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/0427/3501.html",
+      "date": "2026-04-27",
+      "source_name": "集成电路学部"
+    },
     {
       "id": "sme:3500",
       "source_id": "sme",
@@ -44,6 +60,14 @@
       "source_name": "人工智能学院"
     },
     {
+      "id": "jwc:22123",
+      "source_id": "jwc",
+      "title": "西安电子科技大学关于2026年春季实验班选拔结果的公示（二）",
+      "url": "https://jwc.xidian.edu.cn/info/1012/22123.htm",
+      "date": "2026-04-27",
+      "source_name": "教务处"
+    },
+    {
       "id": "jwc:22103",
       "source_id": "jwc",
       "title": "关于2026年（2022级）本科生毕业设计（论文）盲审工作安排的通知",
@@ -58,6 +82,14 @@
       "url": "https://jwc.xidian.edu.cn/info/1012/22093.htm",
       "date": "2026-04-27",
       "source_name": "教务处"
+    },
+    {
+      "id": "bksy:33232",
+      "source_id": "bksy",
+      "title": "西安电子科技大学关于2026年春季实验班选拔结果的公...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/33232.htm",
+      "date": "2026-04-27",
+      "source_name": "本科生院"
     },
     {
       "id": "bksy:33222",
