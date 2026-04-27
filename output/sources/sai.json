@@ -3,10 +3,17 @@
     "source_id": "sai",
     "name": "人工智能学院",
     "url": "https://sai.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-04-26T19:03:31.248036Z",
-    "total_notices": 113
+    "last_scraped": "2026-04-27T03:36:26.181944Z",
+    "total_notices": 114
   },
   "notices": [
+    {
+      "id": "sai:18572",
+      "source_id": "sai",
+      "title": "关于2026-2028年度专业技术职务分级（副高及以下人员）申报材料公示的通知",
+      "url": "https://sai.xidian.edu.cn/info/1106/18572.htm",
+      "date": "2026-04-27"
+    },
     {
       "id": "sai:18492",
       "source_id": "sai",

@@ -3,10 +3,17 @@
     "source_id": "sem",
     "name": "经济与管理学院",
     "url": "https://sem.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-04-26T19:03:26.012344Z",
-    "total_notices": 106
+    "last_scraped": "2026-04-27T03:36:19.032055Z",
+    "total_notices": 107
   },
   "notices": [
+    {
+      "id": "sem:13831",
+      "source_id": "sem",
+      "title": "经济与管理学院2026级研究生党/团组织关系转接通知",
+      "url": "https://sem.xidian.edu.cn/info/1536/13831.htm",
+      "date": "2026-04-27"
+    },
     {
       "id": "sem:13781",
       "source_id": "sem",

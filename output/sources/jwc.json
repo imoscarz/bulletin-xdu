@@ -3,10 +3,17 @@
     "source_id": "jwc",
     "name": "教务处",
     "url": "https://jwc.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-04-26T19:03:14.279660Z",
-    "total_notices": 74
+    "last_scraped": "2026-04-27T03:36:08.602998Z",
+    "total_notices": 75
   },
   "notices": [
+    {
+      "id": "jwc:22093",
+      "source_id": "jwc",
+      "title": "关于2026年春季计算机应用 “实验实践能力达标测试（C1-1）”的通知",
+      "url": "https://jwc.xidian.edu.cn/info/1012/22093.htm",
+      "date": "2026-04-27"
+    },
     {
       "id": "jwc:22063",
       "source_id": "jwc",
