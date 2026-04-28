@@ -1,8 +1,32 @@
 {
-  "generated_at": "2026-04-27T19:41:43.289982+00:00",
-  "total_notices": 2467,
+  "generated_at": "2026-04-28T03:42:23.124476+00:00",
+  "total_notices": 2470,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "sme:3504",
+      "source_id": "sme",
+      "title": "集成电路学部关于2026年度本科教育教学改革项目立项结果的公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/js/2026/0428/3504.html",
+      "date": "2026-04-28",
+      "source_name": "集成电路学部"
+    },
+    {
+      "id": "sme:3503",
+      "source_id": "sme",
+      "title": "集成电路学部关于春季博士研究生2026年学业奖学金评审结果的公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/jx/2026/0427/3503.html",
+      "date": "2026-04-28",
+      "source_name": "集成电路学部"
+    },
+    {
+      "id": "bksy:33242",
+      "source_id": "bksy",
+      "title": "关于组织参加2026“外研社·国才杯”“理解当代中国”...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/33242.htm",
+      "date": "2026-04-28",
+      "source_name": "本科生院"
+    },
     {
       "id": "sme:3502",
       "source_id": "sme",

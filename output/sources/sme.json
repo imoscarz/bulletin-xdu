@@ -3,10 +3,24 @@
     "source_id": "sme",
     "name": "集成电路学部",
     "url": "https://sme.xidian.edu.cn/plus/list.php?tid=6",
-    "last_scraped": "2026-04-27T19:41:43.274902Z",
-    "total_notices": 125
+    "last_scraped": "2026-04-28T03:42:23.109440Z",
+    "total_notices": 127
   },
   "notices": [
+    {
+      "id": "sme:3504",
+      "source_id": "sme",
+      "title": "集成电路学部关于2026年度本科教育教学改革项目立项结果的公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/js/2026/0428/3504.html",
+      "date": "2026-04-28"
+    },
+    {
+      "id": "sme:3503",
+      "source_id": "sme",
+      "title": "集成电路学部关于春季博士研究生2026年学业奖学金评审结果的公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/jx/2026/0427/3503.html",
+      "date": "2026-04-28"
+    },
     {
       "id": "sme:3502",
       "source_id": "sme",
