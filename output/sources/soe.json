@@ -3,10 +3,17 @@
     "source_id": "soe",
     "name": "光电工程学院",
     "url": "https://soe.xidian.edu.cn/xwtz/tzgg.htm",
-    "last_scraped": "2026-04-30T03:40:13.033921Z",
-    "total_notices": 38
+    "last_scraped": "2026-04-30T08:29:17.162736Z",
+    "total_notices": 39
   },
   "notices": [
+    {
+      "id": "soe:16675",
+      "source_id": "soe",
+      "title": "光电工程学院2026年劳动节假期值班安排",
+      "url": "https://soe.xidian.edu.cn/info/1095/16675.htm",
+      "date": "2026-04-30"
+    },
     {
       "id": "soe:16665",
       "source_id": "soe",

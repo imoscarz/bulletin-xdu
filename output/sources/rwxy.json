@@ -3,10 +3,24 @@
     "source_id": "rwxy",
     "name": "人文学院",
     "url": "https://rwxy.xidian.edu.cn/index/tzgg.htm",
-    "last_scraped": "2026-04-30T03:40:28.903508Z",
-    "total_notices": 58
+    "last_scraped": "2026-04-30T08:29:42.850365Z",
+    "total_notices": 60
   },
   "notices": [
+    {
+      "id": "rwxy:16914",
+      "source_id": "rwxy",
+      "title": "人文学院2026年劳动节假期值班安排",
+      "url": "https://rwxy.xidian.edu.cn/info/1023/16914.htm",
+      "date": "2026-04-30"
+    },
+    {
+      "id": "rwxy:16904",
+      "source_id": "rwxy",
+      "title": "人文学院工作简讯（2026年第2期）",
+      "url": "https://rwxy.xidian.edu.cn/info/1023/16904.htm",
+      "date": "2026-04-30"
+    },
     {
       "id": "rwxy:16704",
       "source_id": "rwxy",

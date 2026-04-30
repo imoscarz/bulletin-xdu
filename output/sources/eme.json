@@ -3,10 +3,31 @@
     "source_id": "eme",
     "name": "机电工程学院",
     "url": "https://eme.xidian.edu.cn/tz.htm",
-    "last_scraped": "2026-04-30T03:40:26.549506Z",
-    "total_notices": 119
+    "last_scraped": "2026-04-30T08:29:39.648454Z",
+    "total_notices": 122
   },
   "notices": [
+    {
+      "id": "eme:15046",
+      "source_id": "eme",
+      "title": "2026年机电工程学院劳动节假期值班安排",
+      "url": "https://eme.xidian.edu.cn/info/1012/15046.htm",
+      "date": "2026-04-30"
+    },
+    {
+      "id": "eme:15036",
+      "source_id": "eme",
+      "title": "科研协作项目公示信息20260430",
+      "url": "https://eme.xidian.edu.cn/info/1012/15036.htm",
+      "date": "2026-04-30"
+    },
+    {
+      "id": "eme:15006",
+      "source_id": "eme",
+      "title": "机电工程学院关于2026届本科毕业设计院级盲审工作的通知",
+      "url": "https://eme.xidian.edu.cn/info/1012/15006.htm",
+      "date": "2026-04-30"
+    },
     {
       "id": "eme:14996",
       "source_id": "eme",

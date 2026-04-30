@@ -1,8 +1,24 @@
 {
-  "generated_at": "2026-04-30T03:40:50.538181+00:00",
-  "total_notices": 2488,
+  "generated_at": "2026-04-30T08:30:10.575963+00:00",
+  "total_notices": 2510,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "ste:15316",
+      "source_id": "ste",
+      "title": "2026年本科毕业设计论文评审和答辩通知",
+      "url": "https://ste.xidian.edu.cn/info/1336/15316.htm",
+      "date": "2026-04-30",
+      "source_name": "通信工程学院"
+    },
+    {
+      "id": "soe:16675",
+      "source_id": "soe",
+      "title": "光电工程学院2026年劳动节假期值班安排",
+      "url": "https://soe.xidian.edu.cn/info/1095/16675.htm",
+      "date": "2026-04-30",
+      "source_name": "光电工程学院"
+    },
     {
       "id": "soe:16665",
       "source_id": "soe",
@@ -10,6 +26,30 @@
       "url": "https://soe.xidian.edu.cn/info/1095/16665.htm",
       "date": "2026-04-30",
       "source_name": "光电工程学院"
+    },
+    {
+      "id": "sme:3528",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/0430/3528.html",
+      "date": "2026-04-30",
+      "source_name": "集成电路学部"
+    },
+    {
+      "id": "sme:3527",
+      "source_id": "sme",
+      "title": "科研协作信息公示",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/keyangongshi/2026/0430/3527.html",
+      "date": "2026-04-30",
+      "source_name": "集成电路学部"
+    },
+    {
+      "id": "sme:3526",
+      "source_id": "sme",
+      "title": "集成电路学部关于公布2024、2025年度本科教育教学改革研究项目结题验收结果的通知",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/js/2026/0430/3526.html",
+      "date": "2026-04-30",
+      "source_name": "集成电路学部"
     },
     {
       "id": "sme:3509",
@@ -36,6 +76,54 @@
       "source_name": "电子工程学院"
     },
     {
+      "id": "rwxy:16914",
+      "source_id": "rwxy",
+      "title": "人文学院2026年劳动节假期值班安排",
+      "url": "https://rwxy.xidian.edu.cn/info/1023/16914.htm",
+      "date": "2026-04-30",
+      "source_name": "人文学院"
+    },
+    {
+      "id": "rwxy:16904",
+      "source_id": "rwxy",
+      "title": "人文学院工作简讯（2026年第2期）",
+      "url": "https://rwxy.xidian.edu.cn/info/1023/16904.htm",
+      "date": "2026-04-30",
+      "source_name": "人文学院"
+    },
+    {
+      "id": "phy:10843",
+      "source_id": "phy",
+      "title": "科研协作项目公示信息20260430-1",
+      "url": "https://phy.xidian.edu.cn/info/1012/10843.htm",
+      "date": "2026-04-30",
+      "source_name": "物理与光电工程学院"
+    },
+    {
+      "id": "phy:10833",
+      "source_id": "phy",
+      "title": "物理学院2026年劳动节假期值班安排表",
+      "url": "https://phy.xidian.edu.cn/info/1012/10833.htm",
+      "date": "2026-04-30",
+      "source_name": "物理与光电工程学院"
+    },
+    {
+      "id": "life:16941",
+      "source_id": "life",
+      "title": "生命科学技术学院2026年劳动节假期值班安排",
+      "url": "https://life.xidian.edu.cn/info/1048/16941.htm",
+      "date": "2026-04-30",
+      "source_name": "生命科学技术学院"
+    },
+    {
+      "id": "jgrsrc:17628",
+      "source_id": "jgrsrc",
+      "title": "党委教师工作部/人力资源部2026年五一假期值班表",
+      "url": "https://jgrsrc.xidian.edu.cn/info/1067/17628.htm",
+      "date": "2026-04-30",
+      "source_name": "人才招聘"
+    },
+    {
       "id": "jgrsrc:17618",
       "source_id": "jgrsrc",
       "title": "西安电子科技大学关于2026年专业技术职务评审工作安排的通知",
@@ -44,12 +132,100 @@
       "source_name": "人才招聘"
     },
     {
+      "id": "imse:5981",
+      "source_id": "imse",
+      "title": "信息力学与感知工程学院2026年劳动节值班表",
+      "url": "https://imse.xidian.edu.cn/info/1030/5981.htm",
+      "date": "2026-04-30",
+      "source_name": "信息力学与感知工程学院"
+    },
+    {
+      "id": "gr:19454",
+      "source_id": "gr",
+      "title": "研究生院/卓越工程师学院/研工部2026年（五一）值班安排表",
+      "url": "https://gr.xidian.edu.cn/info/1073/19454.htm",
+      "date": "2026-04-30",
+      "source_name": "研究生院"
+    },
+    {
+      "id": "eme:15046",
+      "source_id": "eme",
+      "title": "2026年机电工程学院劳动节假期值班安排",
+      "url": "https://eme.xidian.edu.cn/info/1012/15046.htm",
+      "date": "2026-04-30",
+      "source_name": "机电工程学院"
+    },
+    {
+      "id": "eme:15036",
+      "source_id": "eme",
+      "title": "科研协作项目公示信息20260430",
+      "url": "https://eme.xidian.edu.cn/info/1012/15036.htm",
+      "date": "2026-04-30",
+      "source_name": "机电工程学院"
+    },
+    {
+      "id": "eme:15006",
+      "source_id": "eme",
+      "title": "机电工程学院关于2026届本科毕业设计院级盲审工作的通知",
+      "url": "https://eme.xidian.edu.cn/info/1012/15006.htm",
+      "date": "2026-04-30",
+      "source_name": "机电工程学院"
+    },
+    {
       "id": "eme:14996",
       "source_id": "eme",
       "title": "机电工程学院劳动节假期值班安排",
       "url": "https://eme.xidian.edu.cn/info/1012/14996.htm",
       "date": "2026-04-30",
       "source_name": "机电工程学院"
+    },
+    {
+      "id": "cs:24544",
+      "source_id": "cs",
+      "title": "计算机科学与技术学院2026年劳动节假期值班安排表",
+      "url": "https://cs.xidian.edu.cn/info/1003/24544.htm",
+      "date": "2026-04-30",
+      "source_name": "计算机科学与技术学院"
+    },
+    {
+      "id": "bksy:33312",
+      "source_id": "bksy",
+      "title": "关于组织开展中国国际大学生创新大赛（2026）产业赛...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/33312.htm",
+      "date": "2026-04-30",
+      "source_name": "本科生院"
+    },
+    {
+      "id": "bksy:33302",
+      "source_id": "bksy",
+      "title": "本科生院2026年劳动节值班安排",
+      "url": "https://bksy.xidian.edu.cn/info/1003/33302.htm",
+      "date": "2026-04-30",
+      "source_name": "本科生院"
+    },
+    {
+      "id": "bksy:33292",
+      "source_id": "bksy",
+      "title": "关于举办西安电子科技大学中国国际大学生创新大赛（2...",
+      "url": "https://bksy.xidian.edu.cn/info/1003/33292.htm",
+      "date": "2026-04-30",
+      "source_name": "本科生院"
+    },
+    {
+      "id": "bksy:33282",
+      "source_id": "bksy",
+      "title": "2026年TI杯模拟电子线路设计赛暨电赛校赛赛题",
+      "url": "https://bksy.xidian.edu.cn/info/1003/33282.htm",
+      "date": "2026-04-30",
+      "source_name": "本科生院"
+    },
+    {
+      "id": "bksy:33272",
+      "source_id": "bksy",
+      "title": "2026年TI杯模拟电子线路设计赛暨电赛校赛赛题",
+      "url": "https://bksy.xidian.edu.cn/info/1003/33272.htm",
+      "date": "2026-04-30",
+      "source_name": "本科生院"
     },
     {
       "id": "ste:15296",

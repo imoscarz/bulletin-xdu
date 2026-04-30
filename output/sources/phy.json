@@ -3,10 +3,24 @@
     "source_id": "phy",
     "name": "物理与光电工程学院",
     "url": "https://phy.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-04-30T03:40:11.818041Z",
-    "total_notices": 67
+    "last_scraped": "2026-04-30T08:29:15.206571Z",
+    "total_notices": 69
   },
   "notices": [
+    {
+      "id": "phy:10843",
+      "source_id": "phy",
+      "title": "科研协作项目公示信息20260430-1",
+      "url": "https://phy.xidian.edu.cn/info/1012/10843.htm",
+      "date": "2026-04-30"
+    },
+    {
+      "id": "phy:10833",
+      "source_id": "phy",
+      "title": "物理学院2026年劳动节假期值班安排表",
+      "url": "https://phy.xidian.edu.cn/info/1012/10833.htm",
+      "date": "2026-04-30"
+    },
     {
       "id": "phy:10803",
       "source_id": "phy",

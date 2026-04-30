@@ -3,10 +3,17 @@
     "source_id": "life",
     "name": "生命科学技术学院",
     "url": "https://life.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-04-30T03:40:17.752503Z",
-    "total_notices": 84
+    "last_scraped": "2026-04-30T08:29:24.040973Z",
+    "total_notices": 85
   },
   "notices": [
+    {
+      "id": "life:16941",
+      "source_id": "life",
+      "title": "生命科学技术学院2026年劳动节假期值班安排",
+      "url": "https://life.xidian.edu.cn/info/1048/16941.htm",
+      "date": "2026-04-30"
+    },
     {
       "id": "life:16871",
       "source_id": "life",
