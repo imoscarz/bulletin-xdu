@@ -3,10 +3,17 @@
     "source_id": "eme",
     "name": "机电工程学院",
     "url": "https://eme.xidian.edu.cn/tz.htm",
-    "last_scraped": "2026-04-29T19:44:31.956142Z",
-    "total_notices": 118
+    "last_scraped": "2026-04-30T03:40:26.549506Z",
+    "total_notices": 119
   },
   "notices": [
+    {
+      "id": "eme:14996",
+      "source_id": "eme",
+      "title": "机电工程学院劳动节假期值班安排",
+      "url": "https://eme.xidian.edu.cn/info/1012/14996.htm",
+      "date": "2026-04-30"
+    },
     {
       "id": "eme:14966",
       "source_id": "eme",

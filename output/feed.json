@@ -1,8 +1,56 @@
 {
-  "generated_at": "2026-04-29T19:45:02.523246+00:00",
-  "total_notices": 2482,
+  "generated_at": "2026-04-30T03:40:50.538181+00:00",
+  "total_notices": 2488,
   "content_limit": 5000,
   "notices": [
+    {
+      "id": "soe:16665",
+      "source_id": "soe",
+      "title": "科研协作项目公示-20260430-1",
+      "url": "https://soe.xidian.edu.cn/info/1095/16665.htm",
+      "date": "2026-04-30",
+      "source_name": "光电工程学院"
+    },
+    {
+      "id": "sme:3509",
+      "source_id": "sme",
+      "title": "集成电路学部2026年劳动节假期值班安排",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/2026/0429/3509.html",
+      "date": "2026-04-30",
+      "source_name": "集成电路学部"
+    },
+    {
+      "id": "sem:13851",
+      "source_id": "sem",
+      "title": "经济与管理学院2026年五一假期值班安排表",
+      "url": "https://sem.xidian.edu.cn/info/1536/13851.htm",
+      "date": "2026-04-30",
+      "source_name": "经济与管理学院"
+    },
+    {
+      "id": "see:103551",
+      "source_id": "see",
+      "title": "电子工程学院2026年劳动节假期值班安排",
+      "url": "https://see.xidian.edu.cn/info/1052/103551.htm",
+      "date": "2026-04-30",
+      "source_name": "电子工程学院"
+    },
+    {
+      "id": "jgrsrc:17618",
+      "source_id": "jgrsrc",
+      "title": "西安电子科技大学关于2026年专业技术职务评审工作安排的通知",
+      "url": "https://jgrsrc.xidian.edu.cn/info/1067/17618.htm",
+      "date": "2026-04-30",
+      "source_name": "人才招聘"
+    },
+    {
+      "id": "eme:14996",
+      "source_id": "eme",
+      "title": "机电工程学院劳动节假期值班安排",
+      "url": "https://eme.xidian.edu.cn/info/1012/14996.htm",
+      "date": "2026-04-30",
+      "source_name": "机电工程学院"
+    },
     {
       "id": "ste:15296",
       "source_id": "ste",

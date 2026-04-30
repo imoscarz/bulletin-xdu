@@ -3,10 +3,17 @@
     "source_id": "jgrsrc",
     "name": "人才招聘",
     "url": "https://jgrsrc.xidian.edu.cn/index/tzgg.htm",
-    "last_scraped": "2026-04-29T19:44:30.322739Z",
-    "total_notices": 84
+    "last_scraped": "2026-04-30T03:40:25.409890Z",
+    "total_notices": 85
   },
   "notices": [
+    {
+      "id": "jgrsrc:17618",
+      "source_id": "jgrsrc",
+      "title": "西安电子科技大学关于2026年专业技术职务评审工作安排的通知",
+      "url": "https://jgrsrc.xidian.edu.cn/info/1067/17618.htm",
+      "date": "2026-04-30"
+    },
     {
       "id": "jgrsrc:17518",
       "source_id": "jgrsrc",

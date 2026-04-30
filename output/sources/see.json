@@ -3,10 +3,17 @@
     "source_id": "see",
     "name": "电子工程学院",
     "url": "https://see.xidian.edu.cn/tzgg.htm",
-    "last_scraped": "2026-04-29T19:44:03.680710Z",
-    "total_notices": 252
+    "last_scraped": "2026-04-30T03:40:10.306155Z",
+    "total_notices": 253
   },
   "notices": [
+    {
+      "id": "see:103551",
+      "source_id": "see",
+      "title": "电子工程学院2026年劳动节假期值班安排",
+      "url": "https://see.xidian.edu.cn/info/1052/103551.htm",
+      "date": "2026-04-30"
+    },
     {
       "id": "see:103401",
       "source_id": "see",
